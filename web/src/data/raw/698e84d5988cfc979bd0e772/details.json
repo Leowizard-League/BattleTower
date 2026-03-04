@@ -1,0 +1,24 @@
+{
+  "id": "698e84d5988cfc979bd0e772",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Le Tournois Du DresseurPokeCharbie #100",
+  "date": "2026-02-20T01:00:00.000Z",
+  "players": 46,
+  "organizer": {
+    "id": 1689,
+    "name": "DresseurPokeCharbie"
+  },
+  "platform": "PTCGL",
+  "decklists": false,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    }
+  ]
+}

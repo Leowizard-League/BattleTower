@@ -1,0 +1,24 @@
+{
+  "id": "698803216235e3ab106bdd28",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Defenders Arena #3🏆 ASC BANNED | 100 CODES",
+  "date": "2026-02-15T01:30:00.000Z",
+  "players": 46,
+  "organizer": {
+    "id": 2226,
+    "name": "Vault of Games"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    }
+  ]
+}

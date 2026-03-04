@@ -1,0 +1,24 @@
+{
+  "id": "697e17f9b1294bfab720a635",
+  "game": "OP",
+  "format": null,
+  "name": "ChinoizeCup #21 Wednesday",
+  "date": "2026-02-18T19:00:00.000Z",
+  "players": 64,
+  "organizer": {
+    "id": 2339,
+    "name": "Tcglive"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

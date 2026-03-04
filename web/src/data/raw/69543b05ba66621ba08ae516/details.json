@@ -1,0 +1,30 @@
+{
+  "id": "69543b05ba66621ba08ae516",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "REG.F |👑CROWN FIGHT Bo3 TOUR #58👑",
+  "date": "2026-02-13T17:15:00.000Z",
+  "players": 50,
+  "organizer": {
+    "id": 1723,
+    "name": "Kampfstube"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

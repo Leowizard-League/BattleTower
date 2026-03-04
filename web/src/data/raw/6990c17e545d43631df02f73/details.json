@@ -1,0 +1,30 @@
+{
+  "id": "6990c17e545d43631df02f73",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "T2TCG'S TOURNAMENT OF LOVE 100 codes",
+  "date": "2026-02-14T22:15:00.000Z",
+  "players": 47,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

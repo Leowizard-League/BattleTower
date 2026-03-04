@@ -1,0 +1,30 @@
+{
+  "id": "699a2a703ef65252b0573f05",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "SATURDAY SHOWDOWN! ASC LEGAL! 100 codes!",
+  "date": "2026-02-22T01:30:00.000Z",
+  "players": 35,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

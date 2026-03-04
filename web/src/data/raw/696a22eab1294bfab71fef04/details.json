@@ -1,0 +1,30 @@
+{
+  "id": "696a22eab1294bfab71fef04",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Oceania Open! Season 1 - Week 8",
+  "date": "2026-02-20T08:30:00.000Z",
+  "players": 46,
+  "organizer": {
+    "id": 1659,
+    "name": "TripleBtcg"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

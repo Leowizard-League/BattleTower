@@ -1,0 +1,30 @@
+{
+  "id": "696678e7ba66621ba08bb377",
+  "game": "PTCG",
+  "format": "EX",
+  "name": "The Holon Open - Feburary",
+  "date": "2026-02-22T17:00:00.000Z",
+  "players": 36,
+  "organizer": {
+    "id": 1788,
+    "name": "Holon Research Tower"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "DOUBLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO1"
+    }
+  ]
+}

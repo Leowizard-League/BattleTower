@@ -1,0 +1,665 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "loyer"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "mobiusvgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "brandonmax"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "cj__black98",
+    "player1": "cj__black98",
+    "player2": "art_vandelay"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "bassfes",
+    "player1": "bassfes",
+    "player2": "nic_davi5"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "gagartoo",
+    "player1": "gagartoo",
+    "player2": "stonestormvgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "lovethyenemy",
+    "player1": "madara",
+    "player2": "lovethyenemy"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "jefflin0518",
+    "player1": "jefflin0518",
+    "player2": "maxdeesevgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "flygonkingvgc",
+    "player1": "christian_g6",
+    "player2": "flygonkingvgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "shaikhvgc786",
+    "player1": "holasoy",
+    "player2": "shaikhvgc786"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "om3gavgc",
+    "player1": "die_kampfstube",
+    "player2": "om3gavgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "trainerred",
+    "player1": "trainerred",
+    "player2": "manlycalum"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "mnypatou",
+    "player1": "chill",
+    "player2": "mnypatou"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "averagememer57",
+    "player1": "averagememer57",
+    "player2": "r0gue_vgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": "altkyle",
+    "player1": "altkyle",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "rosiemilo",
+    "player1": "bentors",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "godxany",
+    "player1": "squib",
+    "player2": "godxany"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "shakoshak",
+    "player1": "shakoshak"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "brandonmax"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "loyer"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "gagartoo",
+    "player1": "gagartoo",
+    "player2": "bassfes"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "om3gavgc",
+    "player1": "om3gavgc",
+    "player2": "godxany"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "averagememer57",
+    "player1": "jefflin0518",
+    "player2": "averagememer57"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "altkyle",
+    "player1": "trainerred",
+    "player2": "altkyle"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "cj__black98",
+    "player1": "shaikhvgc786",
+    "player2": "cj__black98"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "shakoshak",
+    "player1": "shakoshak",
+    "player2": "mnypatou"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "flygonkingvgc",
+    "player1": "flygonkingvgc",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "lovethyenemy",
+    "player1": "lovethyenemy",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "madara",
+    "player1": "stonestormvgc",
+    "player2": "madara"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "nic_davi5",
+    "player1": "nic_davi5",
+    "player2": "die_kampfstube"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "r0gue_vgc",
+    "player1": "art_vandelay",
+    "player2": "r0gue_vgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "holasoy",
+    "player1": "holasoy",
+    "player2": "mobiusvgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "maxdeesevgc",
+    "player1": "manlycalum",
+    "player2": "maxdeesevgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "chill",
+    "player1": "chill"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "gagartoo",
+    "player1": "flygonkingvgc",
+    "player2": "gagartoo"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "lovethyenemy",
+    "player1": "cj__black98",
+    "player2": "lovethyenemy"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "altkyle",
+    "player1": "altkyle",
+    "player2": "shakoshak"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "averagememer57",
+    "player1": "averagememer57",
+    "player2": "trainerred"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "rosiemilo",
+    "player1": "maxdeesevgc",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "jefflin0518",
+    "player1": "jefflin0518",
+    "player2": "holasoy"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "godxany",
+    "player1": "godxany",
+    "player2": "bassfes"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "madara",
+    "player1": "mnypatou",
+    "player2": "madara"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "shaikhvgc786",
+    "player1": "shaikhvgc786",
+    "player2": "nic_davi5"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "r0gue_vgc",
+    "player1": "r0gue_vgc",
+    "player2": "chill"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "stonestormvgc",
+    "player1": "stonestormvgc",
+    "player2": "brandonmax"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "bmacbmac",
+    "player1": "manlycalum",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "art_vandelay",
+    "player1": "art_vandelay"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "averagememer57",
+    "player1": "averagememer57",
+    "player2": "altkyle"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "gagartoo",
+    "player1": "gagartoo",
+    "player2": "madara"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "jefflin0518",
+    "player1": "flygonkingvgc",
+    "player2": "jefflin0518"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "rosiemilo",
+    "player1": "cj__black98",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "godxany",
+    "player1": "shakoshak",
+    "player2": "godxany"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "shaikhvgc786",
+    "player1": "shaikhvgc786",
+    "player2": "r0gue_vgc"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "holasoy",
+    "player1": "nic_davi5",
+    "player2": "holasoy"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "mnypatou",
+    "player1": "mnypatou",
+    "player2": "maxdeesevgc"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "trainerred",
+    "player1": "chill",
+    "player2": "trainerred"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "art_vandelay",
+    "player1": "stonestormvgc",
+    "player2": "art_vandelay"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "bmacbmac",
+    "player1": "brandonmax",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "manlycalum",
+    "player1": "manlycalum"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": "averagememer57",
+    "player1": "gagartoo",
+    "player2": "averagememer57"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "jefflin0518",
+    "player1": "jefflin0518",
+    "player2": "godxany"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "rosiemilo",
+    "player1": "shaikhvgc786",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "altkyle",
+    "player1": "altkyle",
+    "player2": "madara"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "r0gue_vgc",
+    "player1": "r0gue_vgc",
+    "player2": "trainerred"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "mnypatou",
+    "player1": "mnypatou",
+    "player2": "holasoy"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "art_vandelay",
+    "player1": "art_vandelay",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "shakoshak",
+    "player1": "cj__black98",
+    "player2": "shakoshak"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "nic_davi5",
+    "player1": "flygonkingvgc",
+    "player2": "nic_davi5"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": "manlycalum",
+    "player1": "manlycalum",
+    "player2": "brandonmax"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 1,
+    "winner": "averagememer57",
+    "player1": "averagememer57",
+    "player2": "rosiemilo"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 2,
+    "winner": "jefflin0518",
+    "player1": "jefflin0518",
+    "player2": "gagartoo"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 3,
+    "winner": "altkyle",
+    "player1": "altkyle",
+    "player2": "art_vandelay"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 4,
+    "winner": "r0gue_vgc",
+    "player1": "shakoshak",
+    "player2": "r0gue_vgc"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 5,
+    "winner": "godxany",
+    "player1": "godxany",
+    "player2": "shaikhvgc786"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 6,
+    "winner": "mnypatou",
+    "player1": "mnypatou",
+    "player2": "manlycalum"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 7,
+    "winner": "bmacbmac",
+    "player1": "holasoy",
+    "player2": "bmacbmac"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 8,
+    "winner": "cj__black98",
+    "player1": "brandonmax",
+    "player2": "cj__black98"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "altkyle",
+    "match": "T2-1",
+    "player1": "mnypatou",
+    "player2": "altkyle"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "mnypatou",
+    "match": "T4-1",
+    "player1": "mnypatou",
+    "player2": "gagartoo"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "altkyle",
+    "match": "T4-2",
+    "player1": "jefflin0518",
+    "player2": "altkyle"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "jefflin0518",
+    "match": "T8-3",
+    "player1": "jefflin0518",
+    "player2": "rosiemilo"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "gagartoo",
+    "match": "T8-2",
+    "player1": "godxany",
+    "player2": "gagartoo"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "mnypatou",
+    "match": "T8-1",
+    "player1": "averagememer57",
+    "player2": "mnypatou"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "altkyle",
+    "match": "T8-4",
+    "player1": "altkyle",
+    "player2": "r0gue_vgc"
+  }
+]

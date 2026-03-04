@@ -1,0 +1,36 @@
+{
+  "id": "697f74d5bd2fb455955585c6",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "($65 prize pool) February N's Vanilluxe Cookoff",
+  "date": "2026-02-21T19:00:00.000Z",
+  "players": 45,
+  "organizer": {
+    "id": 2315,
+    "name": "Chef Husky"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ],
+  "bannedCards": [
+    {
+      "name": "Munkidori",
+      "set": null,
+      "number": null
+    },
+    {
+      "name": "Battle Cage",
+      "set": null,
+      "number": null
+    }
+  ]
+}

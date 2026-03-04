@@ -1,0 +1,30 @@
+{
+  "id": "6998c4fdc9dc8186f7608deb",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Devils Den Tournaments #66",
+  "date": "2026-02-23T22:30:00.000Z",
+  "players": 51,
+  "organizer": {
+    "id": 1393,
+    "name": "Devils Den Tournaments"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

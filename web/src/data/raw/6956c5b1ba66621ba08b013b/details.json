@@ -1,0 +1,30 @@
+{
+  "id": "6956c5b1ba66621ba08b013b",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Pokémon Day x Alpensee Tour (Reg F) #46",
+  "date": "2026-02-25T18:15:00.000Z",
+  "players": 114,
+  "organizer": {
+    "id": 2323,
+    "name": "Alpensee eSports e.V."
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

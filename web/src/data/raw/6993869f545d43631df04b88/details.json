@@ -1,0 +1,24 @@
+{
+  "id": "6993869f545d43631df04b88",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Sunny's Weekly #245 The Space Needle! (ASC Legal)",
+  "date": "2026-02-23T23:05:00.000Z",
+  "players": 176,
+  "organizer": {
+    "id": 145,
+    "name": "Sunny's Weekly"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    }
+  ]
+}

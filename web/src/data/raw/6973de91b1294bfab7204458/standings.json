@@ -1,0 +1,6047 @@
+[
+  {
+    "name": "PollitoA7",
+    "country": "CL",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Trick"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Knock Off",
+          "Breaking Swipe",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Rocky Helmet",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Taunt"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Protect",
+          "Rage Powder",
+          "Sludge Bomb"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 1,
+    "player": "pollitoa7",
+    "record": {
+      "wins": 10,
+      "losses": 0,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "rpjoca",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Thunder Wave",
+          "Icy Wind",
+          "Taunt"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "arcanine-hisui",
+        "name": "Hisuian Arcanine",
+        "item": "Choice Band",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Rock Slide",
+          "Head Smash",
+          "Extreme Speed"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "moltres-galar",
+        "name": "Galarian Moltres",
+        "item": "Choice Specs",
+        "ability": "Berserk",
+        "attacks": [
+          "Fiery Wrath",
+          "Snarl",
+          "Air Slash",
+          "Dark Pulse"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Dragon Pulse",
+          "Thunderbolt",
+          "Thunderclap",
+          "Electroweb"
+        ],
+        "tera": "Electric"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "sneasler",
+        "name": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "attacks": [
+          "Close Combat",
+          "Gunk Shot",
+          "Coaching",
+          "Fake Out"
+        ],
+        "tera": "Dragon"
+      }
+    ],
+    "placing": 2,
+    "player": "rpjoca",
+    "record": {
+      "wins": 8,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "jimmysley28",
+    "country": "CO",
+    "decklist": [
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Headlong Rush",
+          "Earthquake",
+          "Facade",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Rage Powder",
+          "Pollen Puff",
+          "Spore",
+          "Sludge Bomb"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Fake Out",
+          "U-turn",
+          "Knock Off"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Life Orb",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Detect",
+          "Close Combat",
+          "Surging Strikes"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Recover",
+          "Tera Blast",
+          "Trick Room",
+          "Ice Beam"
+        ],
+        "tera": "Flying"
+      }
+    ],
+    "placing": 3,
+    "player": "jimmysley28",
+    "record": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "jameskbostock",
+    "country": "GB",
+    "decklist": [
+      {
+        "id": "hatterene",
+        "name": "Hatterene",
+        "item": "Covert Cloak",
+        "ability": "Magic Bounce",
+        "attacks": [
+          "Expanding Force",
+          "Dazzling Gleam",
+          "Psyshock",
+          "Trick Room"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Mental Herb",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Psyshock",
+          "Follow Me",
+          "Healing Wish",
+          "Trick Room"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Safety Goggles",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psyshock",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "item": "Focus Sash",
+        "ability": "Technician",
+        "attacks": [
+          "Spore",
+          "Follow Me",
+          "Fake Out",
+          "Decorate"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "torkoal",
+        "name": "Torkoal",
+        "item": "Choice Specs",
+        "ability": "Drought",
+        "attacks": [
+          "Eruption",
+          "Heat Wave",
+          "Weather Ball",
+          "Earth Power"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Wicked Blow",
+          "Close Combat",
+          "Iron Head",
+          "Sucker Punch"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 4,
+    "player": "jameskbostock",
+    "record": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Luxerna",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "arcanine-hisui",
+        "name": "Hisuian Arcanine",
+        "item": "Choice Band",
+        "ability": "Intimidate",
+        "attacks": [
+          "Extreme Speed",
+          "Flare Blitz",
+          "Head Smash",
+          "Rock Slide"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Taunt",
+          "Moonblast",
+          "Icy Wind",
+          "Thunder Wave"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Spiky Shield",
+          "Ivy Cudgel",
+          "Follow Me",
+          "Horn Leech"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Protect",
+          "Sandsear Storm",
+          "Sludge Bomb",
+          "Earth Power"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Protect",
+          "Wicked Blow",
+          "Close Combat",
+          "Sucker Punch"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Electroweb",
+          "Dragon Pulse",
+          "Thunderclap",
+          "Thunderbolt"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 5,
+    "player": "luxerna",
+    "record": {
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "AnimeRedneck",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Aqua Jet",
+          "Close Combat",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "archaludon",
+        "name": "Archaludon",
+        "item": "Assault Vest",
+        "ability": "Stamina",
+        "attacks": [
+          "Dragon Pulse",
+          "Snarl",
+          "Electro Shot",
+          "Body Press"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "pelipper",
+        "name": "Pelipper",
+        "item": "Life Orb",
+        "ability": "Drizzle",
+        "attacks": [
+          "Hurricane",
+          "Weather Ball",
+          "Wide Guard",
+          "Tailwind"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Pollen Puff",
+          "Spore",
+          "Rage Powder",
+          "clear smog"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Parting Shot",
+          "Flare Blitz",
+          "Knock Off"
+        ],
+        "tera": "Bug"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Tera Blast",
+          "Trick Room",
+          "Recover",
+          "Ice Beam"
+        ],
+        "tera": "Poison"
+      }
+    ],
+    "placing": 6,
+    "player": "animeredneck",
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Timmytrails",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "okidogi",
+        "name": "Okidogi",
+        "item": "Assault Vest",
+        "ability": "Guard Dog",
+        "attacks": [
+          "Drain Punch",
+          "Iron Head",
+          "Poison Jab",
+          "Upper Hand"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "grimmsnarl",
+        "name": "Grimmsnarl",
+        "item": "Sitrus Berry",
+        "ability": "Prankster",
+        "attacks": [
+          "Reflect",
+          "Spirit Break",
+          "Thunder Wave",
+          "Light Screen"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Knock Off",
+          "Acrobatics",
+          "Protect",
+          "Tailwind"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Spiky Shield",
+          "Taunt"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Coaching",
+          "Detect"
+        ],
+        "tera": "Stellar"
+      }
+    ],
+    "placing": 7,
+    "player": "timmytrails",
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Mentalsyndrome",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "articuno",
+        "name": "Articuno",
+        "item": "Sitrus Berry",
+        "ability": "Snow Cloak",
+        "attacks": [
+          "Freeze-Dry",
+          "Blizzard",
+          "Protect",
+          "Roost"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "ninetales-alola",
+        "name": "Alolan Ninetales",
+        "item": "Light Clay",
+        "ability": "Snow Warning",
+        "attacks": [
+          "Aurora Veil",
+          "Blizzard",
+          "Moonblast",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "dondozo",
+        "name": "Dondozo",
+        "item": "Leftovers",
+        "ability": "Unaware",
+        "attacks": [
+          "Body Press",
+          "Wave Crash",
+          "Protect",
+          "Order Up"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tatsugiri-droopy",
+        "name": "Tatsugiri Droopy Form",
+        "item": "Choice Scarf",
+        "ability": "Commander",
+        "attacks": [
+          "Muddy Water",
+          "Icy Wind",
+          "Draco Meteor",
+          "Sleep Talk"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Snarl",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ogerpon",
+        "name": "Ogerpon",
+        "item": "Life Orb",
+        "ability": "Defiant",
+        "attacks": [
+          "Ivy Cudgel",
+          "Taunt",
+          "Spiky Shield",
+          "Superpower"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 8,
+    "player": "mentalsyndrome",
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Kroporx",
+    "country": "MX",
+    "decklist": [
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Facade",
+          "Earthquake",
+          "Headlong Rush",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Sitrus Berry",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Tera Blast",
+          "Follow Me",
+          "Trick Room",
+          "Helping Hand"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Tera Blast",
+          "Tachyon Cutter",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Rocky Helmet",
+        "ability": "Intimidate",
+        "attacks": [
+          "Taunt",
+          "Parting Shot",
+          "Fake Out",
+          "Knock Off"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Mental Herb",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb",
+          "Pollen Puff"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Surging Strikes",
+          "Close Combat",
+          "Protect"
+        ],
+        "tera": "Stellar"
+      }
+    ],
+    "placing": 9,
+    "player": "kroporx",
+    "record": {
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "shaikhvgc786",
+    "country": "IN",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Protect",
+          "Aqua Jet",
+          "Surging Strikes",
+          "Close Combat"
+        ],
+        "tera": "Stellar"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "U-turn",
+          "Wood Hammer",
+          "Grassy Glide",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Taunt",
+          "Parting Shot",
+          "Fake Out"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Substitute",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Icy Wind",
+          "Thunder Wave",
+          "Moonblast",
+          "Protect"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 10,
+    "player": "shaikhvgc786",
+    "record": {
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "averagememer57",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "whimsicott",
+        "name": "Whimsicott",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Moonblast",
+          "Encore",
+          "Fake Tears"
+        ],
+        "tera": "Electric"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Life Orb",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
+          "Protect"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Clear Amulet",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Icicle Crash",
+          "Sucker Punch",
+          "Sacred Sword",
+          "Protect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "ogerpon-cornerstone",
+        "name": "Cornerstone Mask Ogerpon",
+        "item": "Cornerstone Mask",
+        "ability": "Sturdy",
+        "attacks": [
+          "Ivy Cudgel",
+          "Power Whip",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Rock"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Thunderbolt",
+          "Dragon Pulse",
+          "Electroweb"
+        ],
+        "tera": "Electric"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 11,
+    "player": "averagememer57",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "DJGamer511",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Tachyon Cutter",
+          "Expanding Force",
+          "Tera Blast",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Rocky Helmet",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Follow Me",
+          "Helping Hand",
+          "Imprison",
+          "Trick Room"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Detect",
+          "Aqua Jet"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Shadow Ball",
+          "Power Gem"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Icy Wind"
+        ],
+        "tera": "Steel"
+      }
+    ],
+    "placing": 12,
+    "player": "djgamer511",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Riku",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Tailwind"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Knock Off",
+          "Fake Out",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Sitrus Berry",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "ogerpon",
+        "name": "Ogerpon",
+        "item": "Focus Sash",
+        "ability": "Defiant",
+        "attacks": [
+          "Ivy Cudgel",
+          "Encore",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 13,
+    "player": "riku",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "QueerCrocodile",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Dragon Fang",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "whimsicott",
+        "name": "Whimsicott",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Moonblast",
+          "Encore",
+          "Fake Tears"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Trick",
+          "Dazzling Gleam"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 14,
+    "player": "queercrocodile",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "LiamJVGC",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "item": "Choice Band",
+        "ability": "Inner Focus",
+        "attacks": [
+          "Aerial Ace",
+          "Extreme Speed",
+          "Stomping Tantrum",
+          "Outrage"
+        ],
+        "tera": "Normal"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Ice Spinner",
+          "Protect",
+          "Sucker Punch",
+          "Sacred Sword"
+        ],
+        "tera": "Stellar"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Icy Wind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Choice Specs",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Overheat",
+          "Heat Wave",
+          "Snarl",
+          "Dark Pulse"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "dondozo",
+        "name": "Dondozo",
+        "item": "Leftovers",
+        "ability": "Unaware",
+        "attacks": [
+          "Protect",
+          "Order Up",
+          "Earthquake",
+          "Wave Crash"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tatsugiri",
+        "name": "Tatsugiri",
+        "item": "Choice Scarf",
+        "ability": "Commander",
+        "attacks": [
+          "Muddy Water",
+          "Draco Meteor",
+          "Surf",
+          "Dragon Pulse"
+        ],
+        "tera": "Stellar"
+      }
+    ],
+    "placing": 15,
+    "player": "liamjvgc",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Jakobtc505",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "landorus-therian",
+        "name": "Landorus Therian",
+        "item": "Choice Scarf",
+        "ability": "Intimidate",
+        "attacks": [
+          "Stomping Tantrum",
+          "Rock Slide",
+          "U-turn",
+          "Tera Blast"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "heatran",
+        "name": "Heatran",
+        "item": "Safety Goggles",
+        "ability": "Flash Fire",
+        "attacks": [
+          "Heat Wave",
+          "Earth Power",
+          "Flash Cannon",
+          "Protect"
+        ],
+        "tera": "Bug"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Power Gem"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "araquanid",
+        "name": "Araquanid",
+        "item": "Mystic Water",
+        "ability": "Water Bubble",
+        "attacks": [
+          "Liquidation",
+          "Lunge",
+          "Protect",
+          "Substitute"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Fake Out",
+          "Grassy Glide",
+          "Wood Hammer",
+          "U-turn"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Ice Beam",
+          "Thunderbolt",
+          "Trick Room",
+          "Recover"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 16,
+    "player": "jakobtc505",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "jay49",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Thunderbolt",
+          "Dragon Pulse",
+          "Snarl"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Wicked Blow",
+          "Close Combat",
+          "Sucker Punch",
+          "Poison Jab"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Choice Specs",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Heat Wave",
+          "Dark Pulse",
+          "Snarl",
+          "Overheat"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Sunny Day",
+          "Moonblast",
+          "Icy Wind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "item": "Focus Sash",
+        "ability": "Moody",
+        "attacks": [
+          "Fake Out",
+          "Spore",
+          "Follow Me",
+          "Decorate"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Taunt",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 17,
+    "player": "jay49",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 6
+  },
+  {
+    "name": "0Pt1Pr1M3",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Safety Goggles",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Psychic",
+          "Helping Hand",
+          "Protect",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "kingambit",
+        "name": "Kingambit",
+        "item": "Black Glasses",
+        "ability": "Defiant",
+        "attacks": [
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Protect",
+          "Swords Dance"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Spiky Shield",
+          "Follow Me"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ursaluna-bloodmoon",
+        "name": "Bloodmoon Ursaluna",
+        "item": "Life Orb",
+        "ability": "Mind's Eye",
+        "attacks": [
+          "Hyper Voice",
+          "Earth Power",
+          "Protect",
+          "Blood Moon"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Knock Off",
+          "U-turn",
+          "Flare Blitz"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Protect",
+          "Taunt"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 18,
+    "player": "0pt1pr1m3",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "StoneStormVGC",
+    "country": "CL",
+    "decklist": [
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Taunt",
+          "Thunder Wave"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "landorus-therian",
+        "name": "Landorus Therian",
+        "item": "Choice Scarf",
+        "ability": "Intimidate",
+        "attacks": [
+          "Stomping Tantrum",
+          "U-turn",
+          "Rock Slide",
+          "Tera Blast"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Tera Blast",
+          "Dragon Pulse",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "moltres-galar",
+        "name": "Galarian Moltres",
+        "item": "Sitrus Berry",
+        "ability": "Berserk",
+        "attacks": [
+          "Fiery Wrath",
+          "Air Slash",
+          "Snarl",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "metagross",
+        "name": "Metagross",
+        "item": "Assault Vest",
+        "ability": "Clear Body",
+        "attacks": [
+          "Iron Head",
+          "Psychic Fangs",
+          "Bullet Punch",
+          "Knock Off"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 19,
+    "player": "stonestormvgc",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "MarvVGC",
+    "country": "DE",
+    "decklist": [
+      {
+        "id": "gouging-fire",
+        "name": "Gouging Fire",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Heat Crash",
+          "Breaking Swipe",
+          "Howl",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "ting-lu",
+        "name": "Ting-Lu",
+        "item": "Clear Amulet",
+        "ability": "Vessel of Ruin",
+        "attacks": [
+          "Earthquake",
+          "Throat Chop",
+          "Tera Blast",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "zapdos-galar",
+        "name": "Galarian Zapdos",
+        "item": "Choice Scarf",
+        "ability": "Defiant",
+        "attacks": [
+          "Close Combat",
+          "Brave Bird",
+          "Dual Wingbeat",
+          "Coaching"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "item": "Loaded Dice",
+        "ability": "Multiscale",
+        "attacks": [
+          "Scale Shot",
+          "Iron Head",
+          "Extreme Speed",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Ice Spinner",
+          "Sucker Punch",
+          "Sacred Sword",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "sinistcha",
+        "name": "Sinistcha",
+        "item": "Rocky Helmet",
+        "ability": "Hospitality",
+        "attacks": [
+          "Matcha Gotcha",
+          "Trick Room",
+          "Strength Sap",
+          "Rage Powder"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 20,
+    "player": "marvvgc",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Lev21",
+    "country": "CO",
+    "decklist": [
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Headlong Rush",
+          "Earthquake",
+          "Facade",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Rage Powder",
+          "Pollen Puff",
+          "Spore",
+          "Sludge Bomb"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Fake Out",
+          "U-turn",
+          "Knock Off"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Life Orb",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Detect",
+          "Close Combat",
+          "Surging Strikes"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Recover",
+          "Tera Blast",
+          "Trick Room",
+          "Ice Beam"
+        ],
+        "tera": "Flying"
+      }
+    ],
+    "placing": 21,
+    "player": "lev21",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "NobdyspecialVGC",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Spiky Shield",
+          "Follow Me",
+          "Wood Hammer"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Dragon Fang",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Protect",
+          "Draco Meteor",
+          "Earth Power"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Tera Blast",
+          "Protect",
+          "Tachyon Cutter"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "U-turn",
+          "Surging Strikes",
+          "Close Combat"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Rocky Helmet",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Trick Room",
+          "Follow Me",
+          "Helping Hand",
+          "Dazzling Gleam"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 22,
+    "player": "nobdyspecialvgc",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "gummyworm13",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Taunt",
+          "Thunder Wave"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Wicked Blow",
+          "Close Combat",
+          "Sucker Punch",
+          "Detect"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Draco Meteor",
+          "Thunderbolt",
+          "Thunderclap",
+          "Electroweb"
+        ],
+        "tera": "Electric"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sandsear Storm",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Knock Off"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 23,
+    "player": "gummyworm13",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "TKL",
+    "country": "UA",
+    "decklist": [
+      {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "item": "Focus Sash",
+        "ability": "Moody",
+        "attacks": [
+          "Fake Out",
+          "Spore",
+          "Decorate",
+          "Follow Me"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Aqua Jet",
+          "Close Combat",
+          "Detect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Snarl",
+          "Electroweb",
+          "Thunderclap",
+          "Draco Meteor"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Taunt",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 24,
+    "player": "tkl",
+    "record": {
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 4
+  },
+  {
+    "name": "mugiwaraLux",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Tera Blast",
+          "Recover",
+          "Ice Beam",
+          "Trick Room"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Knock Off",
+          "Fake Out",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Headlong Rush",
+          "Earthquake",
+          "Facade",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Detect",
+          "Close Combat",
+          "Surging Strikes",
+          "Aqua Jet"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Protect",
+          "Sludge Bomb",
+          "Spore",
+          "Rage Powder"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 25,
+    "player": "mugiwaralux",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Wyatt McDonald",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Tera Blast",
+          "Ice Beam",
+          "Recover",
+          "Trick Room"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Knock Off",
+          "U-turn",
+          "Fake Out"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Protect",
+          "Rage Powder",
+          "Sludge Bomb"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Facade",
+          "Headlong Rush",
+          "Earthquake",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Life Orb",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Steel"
+      }
+    ],
+    "placing": 26,
+    "player": "truepaingaming",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "TsareenaFaye",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "zapdos-galar",
+        "name": "Galarian Zapdos",
+        "item": "Grassy Seed",
+        "ability": "Defiant",
+        "attacks": [
+          "Acrobatics",
+          "Tailwind",
+          "Protect",
+          "Thunderous Kick"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Parting Shot",
+          "Knock Off",
+          "Flare Blitz",
+          "Fake Out"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "U-turn",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Leftovers",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Calm Mind",
+          "Protect",
+          "Thunderclap",
+          "Dragon Pulse"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Protect",
+          "Substitute"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Surging Strikes",
+          "Protect",
+          "Close Combat"
+        ],
+        "tera": "Steel"
+      }
+    ],
+    "placing": 27,
+    "player": "tsareenafaye",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "ManlyCalum",
+    "country": "GB",
+    "decklist": [
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Spiky Shield",
+          "Wood Hammer",
+          "Play Rough"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Surging Strikes",
+          "Protect",
+          "Close Combat"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ursaluna-bloodmoon",
+        "name": "Bloodmoon Ursaluna",
+        "item": "Wise Glasses",
+        "ability": "Mind's Eye",
+        "attacks": [
+          "Blood Moon",
+          "Earth Power",
+          "Calm Mind",
+          "Moonlight"
+        ],
+        "tera": "Normal"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Pollen Puff",
+          "Protect",
+          "Rage Powder"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Tera Blast",
+          "Trick Room",
+          "Psychic"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Damp Rock",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Rain Dance",
+          "U-turn",
+          "Hurricane"
+        ],
+        "tera": "Flying"
+      }
+    ],
+    "placing": 28,
+    "player": "manlycalum",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "gmadden99",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Spiky Shield",
+          "Swords Dance",
+          "Grassy Glide",
+          "Ivy Cudgel"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Pain Split",
+          "Taunt"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot",
+          "Fake Out"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Detect",
+          "Aqua Jet",
+          "Close Combat",
+          "Surging Strikes"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Life Orb",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Protect",
+          "Thunderclap",
+          "Draco Meteor",
+          "Thunderbolt"
+        ],
+        "tera": "Bug"
+      }
+    ],
+    "placing": 29,
+    "player": "gmadden99",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Jin-Hao Jiang",
+    "country": "TW",
+    "decklist": [
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Thunder Wave",
+          "Taunt"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "arcanine-hisui",
+        "name": "Hisuian Arcanine",
+        "item": "Choice Band",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Rock Slide",
+          "Extreme Speed",
+          "Head Smash"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Draco Meteor",
+          "Thunderclap",
+          "Electroweb",
+          "Thunderbolt"
+        ],
+        "tera": "Electric"
+      },
+      {
+        "id": "moltres-galar",
+        "name": "Galarian Moltres",
+        "item": "Choice Specs",
+        "ability": "Berserk",
+        "attacks": [
+          "Fiery Wrath",
+          "Air Slash",
+          "Snarl",
+          "Tera Blast"
+        ],
+        "tera": "Steel"
+      }
+    ],
+    "placing": 30,
+    "player": "pp",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "Christian_g6",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Close Combat",
+          "Wicked Blow",
+          "Sucker Punch",
+          "Poison Jab"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "item": "Focus Sash",
+        "ability": "Moody",
+        "attacks": [
+          "Spore",
+          "Fake Out",
+          "Decorate",
+          "Follow Me"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Protect",
+          "Taunt"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Thunderbolt",
+          "Dragon Pulse",
+          "Snarl"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Choice Specs",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Heat Wave",
+          "Snarl",
+          "Dark Pulse",
+          "Overheat"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Protect",
+          "Sludge Bomb",
+          "Sandsear Storm"
+        ],
+        "tera": "Poison"
+      }
+    ],
+    "placing": 31,
+    "player": "christian_g6",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "WestyLiam",
+    "country": "GB",
+    "decklist": [
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Protect",
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "U-turn",
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Detect",
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Tera Blast",
+          "Ice Beam",
+          "Recover",
+          "Trick Room"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Protect",
+          "Moonblast",
+          "Shadow Ball",
+          "Substitute"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Protect",
+          "Facade",
+          "Headlong Rush",
+          "Earthquake"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 32,
+    "player": "westyliam",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "mil0",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "grimmsnarl",
+        "name": "Grimmsnarl",
+        "item": "Light Clay",
+        "ability": "Prankster",
+        "attacks": [
+          "Light Screen",
+          "Reflect",
+          "Thunder Wave",
+          "Spirit Break"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "iron-boulder",
+        "name": "Iron Boulder",
+        "item": "Choice Band",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Mighty Cleave",
+          "Psycho Cut",
+          "Sacred Sword",
+          "Megahorn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Knock Off",
+          "Protect",
+          "Tailwind",
+          "Acrobatics"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Sitrus Berry",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Protect",
+          "Nasty Plot"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "okidogi",
+        "name": "Okidogi",
+        "item": "Assault Vest",
+        "ability": "Guard Dog",
+        "attacks": [
+          "Drain Punch",
+          "Upper Hand",
+          "Gunk Shot",
+          "High Horsepower"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Taunt",
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 33,
+    "player": "mil0",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "mr_h",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Rocky Helmet",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot",
+          "Knock Off"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Trick"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Sludge Bomb",
+          "Rage Powder",
+          "Spore",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Knock Off",
+          "Breaking Swipe",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Poison"
+      }
+    ],
+    "placing": 34,
+    "player": "mr_h",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "GodXany",
+    "country": null,
+    "decklist": [
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Sitrus Berry",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psychic",
+          "Trick Room",
+          "Protect"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Facade",
+          "Headlong Rush",
+          "Earthquake",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "torkoal",
+        "name": "Torkoal",
+        "item": "Charcoal",
+        "ability": "Drought",
+        "attacks": [
+          "Eruption",
+          "Heat Wave",
+          "Helping Hand",
+          "Protect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "ogerpon-cornerstone",
+        "name": "Cornerstone Mask Ogerpon",
+        "item": "Cornerstone Mask",
+        "ability": "Sturdy",
+        "attacks": [
+          "Ivy Cudgel",
+          "Follow Me",
+          "Power Whip",
+          "Spiky Shield"
+        ],
+        "tera": "Rock"
+      }
+    ],
+    "placing": 35,
+    "player": "godxany",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "GunbladeVIII ",
+    "country": "MX",
+    "decklist": [
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Draco Meteor",
+          "Thunderbolt",
+          "Snarl"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Sitrus Berry",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psychic",
+          "Imprison",
+          "Trick Room"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Fairy Feather",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      }
+    ],
+    "placing": 36,
+    "player": "bassfes",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 5
+  },
+  {
+    "name": "bachi bachi",
+    "country": "PH",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Splash Plate",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Aqua Jet",
+          "Close Combat",
+          "Detect",
+          "Surging Strikes"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Ice Spinner",
+          "Protect",
+          "Icy Wind",
+          "Sucker Punch"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Stomping Tantrum",
+          "Spiky Shield",
+          "Focus Energy"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Fake Out",
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Leftovers",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Calm Mind",
+          "Thunderclap",
+          "Dragon Pulse",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 37,
+    "player": "rheiyne",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "PiePirates",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "heatran",
+        "name": "Heatran",
+        "item": "Sitrus Berry",
+        "ability": "Flash Fire",
+        "attacks": [
+          "Heat Wave",
+          "Flash Cannon",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Bug"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Leftovers",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Dragon Pulse",
+          "Calm Mind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "landorus-therian",
+        "name": "Landorus Therian",
+        "item": "Choice Band",
+        "ability": "Intimidate",
+        "attacks": [
+          "Stomping Tantrum",
+          "Tera Blast",
+          "Rock Slide",
+          "U-turn"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Wicked Blow",
+          "Close Combat",
+          "Sucker Punch",
+          "Protect"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Thunder Wave",
+          "Taunt"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 38,
+    "player": "piepirates",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 4
+  },
+  {
+    "name": "Rafaelllllllllllllllll",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "U-turn",
+          "Close Combat",
+          "Aqua Jet"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Fake Out",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "High Horsepower",
+          "Wood Hammer",
+          "Grassy Glide",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "item": "Loaded Dice",
+        "ability": "Multiscale",
+        "attacks": [
+          "Iron Head",
+          "Tailwind",
+          "Protect",
+          "Scale Shot"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Leftovers",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psychic",
+          "Protect",
+          "Trick Room"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 39,
+    "player": "rafaelllllllllllllllll",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Rashito22shito",
+    "country": "ES",
+    "decklist": [
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Grassy Seed",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Dragon Pulse",
+          "Thunderclap",
+          "Calm Mind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sludge Bomb",
+          "Sandsear Storm",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Safety Goggles",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Taunt",
+          "Parting Shot",
+          "Fake Out"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "U-turn",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Rocky Helmet",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Dazzling Gleam",
+          "Psychic Noise",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 40,
+    "player": "rashito22shito",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Andan1015",
+    "country": null,
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Grassy Glide",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Power Gem"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Bleakwind Storm",
+          "Tailwind",
+          "Icy Wind"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 41,
+    "player": "andan1015",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "DhonwolfVGC",
+    "country": null,
+    "decklist": [
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psychic",
+          "Protect",
+          "Trick Room"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "ursaluna-bloodmoon",
+        "name": "Bloodmoon Ursaluna",
+        "item": "Life Orb",
+        "ability": "Mind's Eye",
+        "attacks": [
+          "Hyper Voice",
+          "Blood Moon",
+          "Protect",
+          "Earth Power"
+        ],
+        "tera": "Normal"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Acrobatics",
+          "Knock Off",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Power Gem",
+          "Trick"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Follow Me",
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Parting Shot",
+          "Flare Blitz",
+          "Will-O-Wisp"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 42,
+    "player": "dhonwolfvgc",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Sanjo4423",
+    "country": "ES",
+    "decklist": [
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Ice Spinner",
+          "Sucker Punch",
+          "Sacred Sword",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "gouging-fire",
+        "name": "Gouging Fire",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Breaking Swipe",
+          "Howl",
+          "Heat Crash",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "item": "Loaded Dice",
+        "ability": "Multiscale",
+        "attacks": [
+          "Scale Shot",
+          "Extreme Speed",
+          "Iron Head",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "ting-lu",
+        "name": "Ting-Lu",
+        "item": "Clear Amulet",
+        "ability": "Vessel of Ruin",
+        "attacks": [
+          "Earthquake",
+          "Throat Chop",
+          "Tera Blast",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Safety Goggles",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "thundurus",
+        "name": "Thundurus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Wildbolt Storm",
+          "Thunder Wave",
+          "Taunt",
+          "Eerie Impulse"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 43,
+    "player": "sanjo4423",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Mangel",
+    "country": "ES",
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Grassy Glide",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Trick",
+          "Power Gem"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Bleakwind Storm",
+          "Tailwind",
+          "Icy Wind"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 44,
+    "player": "mangel",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Bckstpz",
+    "country": "DE",
+    "decklist": [
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Icy Wind",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Trick",
+          "Power Gem"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Grassy Glide",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 45,
+    "player": "bckstpz",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 4
+  },
+  {
+    "name": "kevszion2",
+    "country": "MX",
+    "decklist": [
+      {
+        "id": "persian-alola",
+        "name": "Alolan Persian",
+        "item": "Chople Berry",
+        "ability": "Fur Coat",
+        "attacks": [
+          "Snarl",
+          "Taunt",
+          "Fake Out",
+          "Parting Shot"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Sucker Punch",
+          "Sacred Sword",
+          "Ice Spinner",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Spiky Shield",
+          "Horn Leech",
+          "Follow Me"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "okidogi",
+        "name": "Okidogi",
+        "item": "Assault Vest",
+        "ability": "Guard Dog",
+        "attacks": [
+          "Drain Punch",
+          "Poison Jab",
+          "Close Combat",
+          "Upper Hand"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "whimsicott",
+        "name": "Whimsicott",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Moonblast",
+          "Tailwind",
+          "Sunny Day",
+          "Encore"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Power Gem"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 46,
+    "player": "kevszion2",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Razorott0101",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Tachyon Cutter",
+          "Tera Blast",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Rain Dance",
+          "Bleakwind Storm",
+          "Protect"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Psychic Seed",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Follow Me",
+          "Helping Hand",
+          "Psychic",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-cornerstone",
+        "name": "Cornerstone Mask Ogerpon",
+        "item": "Cornerstone Mask",
+        "ability": "Sturdy",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Play Rough",
+          "Spiky Shield"
+        ],
+        "tera": "Rock"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Protect",
+          "Facade",
+          "Earthquake",
+          "Headlong Rush"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 47,
+    "player": "razorott0101",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "joethefenix",
+    "country": null,
+    "decklist": [
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Icy Wind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Choice Specs",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Heat Wave",
+          "Overheat",
+          "Snarl",
+          "Dark Pulse"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Bleakwind Storm",
+          "Sunny Day",
+          "Taunt"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Horn Leech",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "urshifu",
+        "name": "Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Wicked Blow",
+          "Sucker Punch",
+          "Close Combat",
+          "Detect"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Hyper Voice",
+          "Psychic",
+          "Imprison",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 48,
+    "player": "joethefenix",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 4
+  },
+  {
+    "name": "Edgar M",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "dondozo",
+        "name": "Dondozo",
+        "item": "Rocky Helmet",
+        "ability": "Unaware",
+        "attacks": [
+          "Wave Crash",
+          "Order Up",
+          "Earthquake",
+          "Protect"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tatsugiri",
+        "name": "Tatsugiri",
+        "item": "Choice Scarf",
+        "ability": "Commander",
+        "attacks": [
+          "Draco Meteor",
+          "Dragon Pulse",
+          "Muddy Water",
+          "Icy Wind"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Focus Sash",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Overheat",
+          "Heat Wave",
+          "Snarl",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Taunt",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderbolt",
+          "Dragon Pulse",
+          "Thunderclap",
+          "Electroweb"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "glimmora",
+        "name": "Glimmora",
+        "item": "Power Herb",
+        "ability": "Toxic Debris",
+        "attacks": [
+          "Meteor Beam",
+          "Sludge Bomb",
+          "Earth Power",
+          "Spiky Shield"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 49,
+    "player": "swaggervgc",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "qscqscqscqsc",
+    "country": null,
+    "decklist": [
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Bleakwind Storm",
+          "Rain Dance",
+          "Tailwind"
+        ],
+        "tera": "Dark"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Aqua Jet",
+          "Close Combat",
+          "U-turn"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ursaluna-bloodmoon",
+        "name": "Bloodmoon Ursaluna",
+        "item": "Life Orb",
+        "ability": "Mind's Eye",
+        "attacks": [
+          "Protect",
+          "Blood Moon",
+          "Hyper Voice",
+          "Earth Power"
+        ],
+        "tera": "Normal"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Protect",
+          "Trick Room",
+          "Hyper Voice",
+          "Psyshock"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 50,
+    "player": "qscqscqscqsc",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "ABakersDozen",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Tachyon Cutter",
+          "Calm Mind",
+          "Protect"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Rocky Helmet",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Dazzling Gleam",
+          "Follow Me",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "landorus-therian",
+        "name": "Landorus Therian",
+        "item": "Choice Band",
+        "ability": "Intimidate",
+        "attacks": [
+          "Earthquake",
+          "Stomping Tantrum",
+          "Rock Slide",
+          "U-turn"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "U-turn",
+          "Rock Tomb"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 51,
+    "player": "abakersdozen",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "WBbbx",
+    "country": null,
+    "decklist": [
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Sucker Punch",
+          "Ice Spinner",
+          "Sacred Sword",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Sludge Bomb",
+          "Rage Powder",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Dragon Pulse",
+          "Thunderclap",
+          "Electroweb",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "ogerpon-wellspring",
+        "name": "Wellspring Mask Ogerpon",
+        "item": "Wellspring Mask",
+        "ability": "Water Absorb",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "heatran",
+        "name": "Heatran",
+        "item": "Leftovers",
+        "ability": "Flash Fire",
+        "attacks": [
+          "Magma Storm",
+          "Earth Power",
+          "Substitute",
+          "Protect"
+        ],
+        "tera": "Bug"
+      },
+      {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "item": "Choice Band",
+        "ability": "Inner Focus",
+        "attacks": [
+          "Extreme Speed",
+          "Aerial Ace",
+          "Low Kick",
+          "Outrage"
+        ],
+        "tera": "Normal"
+      }
+    ],
+    "placing": 52,
+    "player": "wbbbx",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "viper2181",
+    "country": "GB",
+    "decklist": [
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Leftovers",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Dragon Pulse",
+          "Calm Mind",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Icy Wind",
+          "Thunder Wave",
+          "Protect"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Knock Off",
+          "Taunt",
+          "Parting Shot"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Fake Out",
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Aqua Jet",
+          "Close Combat",
+          "Detect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Grass Knot",
+          "Swords Dance",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 53,
+    "player": "viper2181",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Falcoz52",
+    "country": null,
+    "decklist": [
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "attacks": [
+          "Protect",
+          "Pollen Puff",
+          "Spore",
+          "Rage Powder"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "roaring-moon",
+        "name": "Roaring Moon",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Acrobatics",
+          "Knock Off",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "okidogi",
+        "name": "Okidogi",
+        "item": "Assault Vest",
+        "ability": "Guard Dog",
+        "attacks": [
+          "Gunk Shot",
+          "Drain Punch",
+          "High Horsepower",
+          "Upper Hand"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Metal Coat",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Shadow Ball",
+          "Protect",
+          "Make It Rain",
+          "Nasty Plot"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "entei",
+        "name": "Entei",
+        "item": "Choice Band",
+        "ability": "Inner Focus",
+        "attacks": [
+          "Sacred Fire",
+          "Extreme Speed",
+          "Stone Edge",
+          "Stomping Tantrum"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "sneasler",
+        "name": "Sneasler",
+        "item": "Focus Sash",
+        "ability": "Unburden",
+        "attacks": [
+          "Dire Claw",
+          "Close Combat",
+          "Taunt",
+          "Protect"
+        ],
+        "tera": "Stellar"
+      }
+    ],
+    "placing": 54,
+    "player": "falcoz52",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "GS ⭑ BrunoPCX .",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Headlong Rush",
+          "Earthquake",
+          "Facade",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Protect",
+          "Rain Dance"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Life Orb",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Detect",
+          "Close Combat",
+          "Surging Strikes",
+          "Aqua Jet"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Flare Blitz",
+          "Knock Off",
+          "Fake Out",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Tera Blast",
+          "Ice Beam",
+          "Recover",
+          "Trick Room"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Mental Herb",
+        "ability": "Regenerator",
+        "attacks": [
+          "Pollen Puff",
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 55,
+    "player": "brunopcx",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "lorcylovesyou",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Follow Me",
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "U-turn",
+          "Knock Off",
+          "Flare Blitz"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Sunny Day",
+          "Tailwind",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Headlong Rush",
+          "Earthquake",
+          "Facade",
+          "Protect"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Choice Specs",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Power Gem"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "farigiraf",
+        "name": "Farigiraf",
+        "item": "Throat Spray",
+        "ability": "Armor Tail",
+        "attacks": [
+          "Psychic",
+          "Hyper Voice",
+          "Trick Room",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 56,
+    "player": "lorcylovesyou",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "emanuele12340",
+    "country": "IT",
+    "decklist": [
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Leftovers",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderclap",
+          "Calm Mind",
+          "Dragon Pulse",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Fake Out",
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Grassy Glide",
+          "Swords Dance",
+          "Spiky Shield",
+          "Ivy Cudgel"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Focus Sash",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Booster Energy",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Moonblast",
+          "Protect",
+          "Icy Wind",
+          "Thunder Wave"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Taunt",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 57,
+    "player": "emanuele12340",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "maxdeesevgc",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "typhlosion-hisui",
+        "name": "Hisuian Typhlosion",
+        "item": "Choice Scarf",
+        "ability": "Blaze",
+        "attacks": [
+          "Eruption",
+          "Heat Wave",
+          "Shadow Ball",
+          "Overheat"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "flutter-mane",
+        "name": "Flutter Mane",
+        "item": "Fairy Feather",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Taunt",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "weezing-galar",
+        "name": "Galarian Weezing",
+        "item": "Covert Cloak",
+        "ability": "Neutralizing Gas",
+        "attacks": [
+          "Poison Gas",
+          "Toxic Spikes",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "dondozo",
+        "name": "Dondozo",
+        "item": "Rocky Helmet",
+        "ability": "Oblivious",
+        "attacks": [
+          "Wave Crash",
+          "Order Up",
+          "Earthquake",
+          "Protect"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "tatsugiri",
+        "name": "Tatsugiri",
+        "item": "Focus Sash",
+        "ability": "Commander",
+        "attacks": [
+          "Muddy Water",
+          "Dragon Pulse",
+          "Helping Hand",
+          "Protect"
+        ],
+        "tera": "Stellar"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Ability Shield",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Flare Blitz",
+          "Knock Off",
+          "Parting Shot"
+        ],
+        "tera": "Ghost"
+      }
+    ],
+    "placing": 58,
+    "player": "maxdeesevgc",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "girasolia",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "thundurus",
+        "name": "Thundurus",
+        "item": "Covert Cloak",
+        "ability": "Prankster",
+        "attacks": [
+          "Wildbolt Storm",
+          "Thunder Wave",
+          "Eerie Impulse",
+          "Taunt"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "chien-pao",
+        "name": "Chien-Pao",
+        "item": "Focus Sash",
+        "ability": "Sword of Ruin",
+        "attacks": [
+          "Ice Spinner",
+          "Crunch",
+          "Ice Shard",
+          "Protect"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Sludge Bomb",
+          "Rage Powder",
+          "Spore",
+          "Pollen Puff"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "pelipper",
+        "name": "Pelipper",
+        "item": "Life Orb",
+        "ability": "Drizzle",
+        "attacks": [
+          "Hurricane",
+          "Weather Ball",
+          "Tailwind",
+          "Wide Guard"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "archaludon",
+        "name": "Archaludon",
+        "item": "Assault Vest",
+        "ability": "Stamina",
+        "attacks": [
+          "Flash Cannon",
+          "Electro Shot",
+          "Draco Meteor",
+          "Body Press"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Grass"
+      }
+    ],
+    "placing": 59,
+    "player": "girasolia",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Eduardo_Leite",
+    "country": "BR",
+    "decklist": [
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Safety Goggles",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Follow Me",
+          "Helping Hand",
+          "Psychic",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Protect",
+          "Tachyon Cutter",
+          "Tera Blast"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "landorus-therian",
+        "name": "Landorus Therian",
+        "item": "Choice Scarf",
+        "ability": "Intimidate",
+        "attacks": [
+          "U-turn",
+          "Stomping Tantrum",
+          "Tera Blast",
+          "Rock Slide"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "annihilape",
+        "name": "Annihilape",
+        "item": "Leftovers",
+        "ability": "Defiant",
+        "attacks": [
+          "Bulk Up",
+          "Rage Fist",
+          "Drain Punch",
+          "Protect"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Sitrus Berry",
+        "ability": "Regenerator",
+        "attacks": [
+          "Clear Smog",
+          "Pollen Puff",
+          "Spore",
+          "Rage Powder"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "regieleki",
+        "name": "Regieleki",
+        "item": "Magnet",
+        "ability": "Transistor",
+        "attacks": [
+          "Tera Blast",
+          "Protect",
+          "Electroweb",
+          "Thunderbolt"
+        ],
+        "tera": "Ice"
+      }
+    ],
+    "placing": 60,
+    "player": "eduardo_leite",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Durpachu",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Dragon Fang",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Protect",
+          "Draco Meteor",
+          "Earth Power",
+          "Dragon Energy"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Protect",
+          "Tera Blast",
+          "Tachyon Cutter",
+          "Expanding Force"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Rocky Helmet",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Dazzling Gleam",
+          "Follow Me",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Tailwind",
+          "Rain Dance",
+          "Bleakwind Storm"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "U-turn",
+          "Rock Tomb"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Spiky Shield",
+          "Follow Me",
+          "Wood Hammer",
+          "Ivy Cudgel"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 61,
+    "player": "durpachu",
+    "record": {
+      "wins": 0,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Codymclark",
+    "country": "US",
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Life Orb",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Grassy Glide",
+          "Follow Me",
+          "Spiky Shield"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "gholdengo",
+        "name": "Gholdengo",
+        "item": "Choice Specs",
+        "ability": "Good as Gold",
+        "attacks": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Trick",
+          "Power Gem"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "rillaboom",
+        "name": "Rillaboom",
+        "item": "Assault Vest",
+        "ability": "Grassy Surge",
+        "attacks": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out"
+        ],
+        "tera": "Fire"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Protect",
+          "Bleakwind Storm",
+          "Tailwind",
+          "Icy Wind"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "U-turn"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 62,
+    "player": "codymclark",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Shuza1234",
+    "country": "DE",
+    "decklist": [
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Sharp Beak",
+        "ability": "Prankster",
+        "attacks": [
+          "Tailwind",
+          "Bleakwind Storm",
+          "Taunt",
+          "Protect"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "item": "Focus Sash",
+        "ability": "Moody",
+        "attacks": [
+          "Fake Out",
+          "Spore",
+          "Decorate",
+          "Follow Me"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "raging-bolt",
+        "name": "Raging Bolt",
+        "item": "Assault Vest",
+        "ability": "Protosynthesis",
+        "attacks": [
+          "Thunderbolt",
+          "Electroweb",
+          "Dragon Pulse",
+          "Thunderclap"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "chi-yu",
+        "name": "Chi-Yu",
+        "item": "Choice Specs",
+        "ability": "Beads of Ruin",
+        "attacks": [
+          "Heat Wave",
+          "Dark Pulse",
+          "Snarl",
+          "Overheat"
+        ],
+        "tera": "Ghost"
+      },
+      {
+        "id": "landorus",
+        "name": "Landorus",
+        "item": "Life Orb",
+        "ability": "Sheer Force",
+        "attacks": [
+          "Earth Power",
+          "Sandsear Storm",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Poison"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Mental Herb",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Sludge Bomb",
+          "Rage Powder",
+          "Protect"
+        ],
+        "tera": "Water"
+      }
+    ],
+    "placing": 63,
+    "player": "shuza1234",
+    "record": {
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 6
+  },
+  {
+    "name": "Cris ",
+    "country": "CL",
+    "decklist": [
+      {
+        "id": "regidrago",
+        "name": "Regidrago",
+        "item": "Dragon Fang",
+        "ability": "Dragon's Maw",
+        "attacks": [
+          "Dragon Energy",
+          "Draco Meteor",
+          "Earth Power",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "iron-crown",
+        "name": "Iron Crown",
+        "item": "Booster Energy",
+        "ability": "Quark Drive",
+        "attacks": [
+          "Expanding Force",
+          "Tachyon Cutter",
+          "Tera Blast",
+          "Protect"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "indeedee-f",
+        "name": "Indeedee ♀",
+        "item": "Rocky Helmet",
+        "ability": "Psychic Surge",
+        "attacks": [
+          "Dazzling Gleam",
+          "Follow Me",
+          "Helping Hand",
+          "Trick Room"
+        ],
+        "tera": "Fairy"
+      },
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Focus Sash",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Choice Scarf",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "U-turn",
+          "Rock Tomb"
+        ],
+        "tera": "Water"
+      },
+      {
+        "id": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "item": "Hearthflame Mask",
+        "ability": "Mold Breaker",
+        "attacks": [
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me",
+          "Protect"
+        ],
+        "tera": "Fire"
+      }
+    ],
+    "placing": 64,
+    "player": "agatavgc",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  },
+  {
+    "name": "gazebo",
+    "country": "CA",
+    "decklist": [
+      {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "item": "Rocky Helmet",
+        "ability": "Prankster",
+        "attacks": [
+          "Bleakwind Storm",
+          "Tailwind",
+          "Rain Dance",
+          "Protect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "item": "Mystic Water",
+        "ability": "Unseen Fist",
+        "attacks": [
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet",
+          "Detect"
+        ],
+        "tera": "Steel"
+      },
+      {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "item": "Assault Vest",
+        "ability": "Intimidate",
+        "attacks": [
+          "Fake Out",
+          "Knock Off",
+          "U-turn",
+          "Flare Blitz"
+        ],
+        "tera": "Grass"
+      },
+      {
+        "id": "ursaluna",
+        "name": "Ursaluna",
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "attacks": [
+          "Facade",
+          "Headlong Rush",
+          "Earthquake",
+          "Protect"
+        ],
+        "tera": "Dragon"
+      },
+      {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "item": "Eviolite",
+        "ability": "Download",
+        "attacks": [
+          "Ice Beam",
+          "Tera Blast",
+          "Trick Room",
+          "Recover"
+        ],
+        "tera": "Flying"
+      },
+      {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "item": "Mental Herb",
+        "ability": "Regenerator",
+        "attacks": [
+          "Spore",
+          "Rage Powder",
+          "Sludge Bomb",
+          "Protect"
+        ],
+        "tera": "Fairy"
+      }
+    ],
+    "placing": 65,
+    "player": "gazebo",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 1
+  }
+]

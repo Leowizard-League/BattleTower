@@ -1,0 +1,30 @@
+{
+  "id": "69667914ba66621ba08bb379",
+  "game": "PTCG",
+  "format": "EX",
+  "name": "The Holon Cup #2 @ EUIC",
+  "date": "2026-02-15T09:30:00.000Z",
+  "players": 52,
+  "organizer": {
+    "id": 1788,
+    "name": "Holon Research Tower"
+  },
+  "platform": null,
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": false,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "DOUBLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO1"
+    }
+  ]
+}

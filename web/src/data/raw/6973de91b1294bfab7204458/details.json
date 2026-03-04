@@ -1,0 +1,30 @@
+{
+  "id": "6973de91b1294bfab7204458",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "*Sitrus-Series*|Pokemon Day Week|Reg F",
+  "date": "2026-02-17T23:00:00.000Z",
+  "players": 65,
+  "organizer": {
+    "id": 1468,
+    "name": "HM4coach & The Boys"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

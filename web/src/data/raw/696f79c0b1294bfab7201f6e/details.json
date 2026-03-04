@@ -1,0 +1,30 @@
+{
+  "id": "696f79c0b1294bfab7201f6e",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Pokemon day week X VGC trainer school tour!",
+  "date": "2026-02-15T16:00:00.000Z",
+  "players": 51,
+  "organizer": {
+    "id": 672,
+    "name": "VGC Trainers School"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

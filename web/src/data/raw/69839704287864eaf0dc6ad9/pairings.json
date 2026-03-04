@@ -1,0 +1,660 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "gengarismad"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "johnursaluna"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "katiclus"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "mikew"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "fluffy_m1n",
+    "player1": "fluffy_m1n",
+    "player2": "helhiemfiend"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "die_kampfstube",
+    "player1": "die_kampfstube",
+    "player2": "dot223"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "viper2181",
+    "player1": "nirvana",
+    "player2": "viper2181"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "oatmeal",
+    "player1": "yoshi1267",
+    "player2": "oatmeal"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "legeu347"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "glemopelo",
+    "player1": "mr_h",
+    "player2": "glemopelo"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "doc_mrmega",
+    "player1": "doc_mrmega",
+    "player2": "stonestormvgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "onyvgc_0623",
+    "player1": "onyvgc_0623",
+    "player2": "agn9"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "darksnake09",
+    "player1": "leodomiro",
+    "player2": "darksnake09"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "naist",
+    "player1": "naist",
+    "player2": "slowerpokr"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "pronoiavgc",
+    "player1": "pronoiavgc",
+    "player2": "manu_gl_23"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": "prosecho",
+    "player1": "prosecho",
+    "player2": "manlycalum"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "katabo",
+    "player1": "gundojuan",
+    "player2": "katabo"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "whiskeyscoob",
+    "player1": "whiskeyscoob",
+    "player2": "liosknight84"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "alexshyness",
+    "player1": "alexshyness",
+    "player2": "bckstpz"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 16,
+    "winner": "brunopcx",
+    "player1": "brunopcx",
+    "player2": "soilchemy"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "johnursaluna"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "doc_mrmega",
+    "player1": "doc_mrmega",
+    "player2": "loyer"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "brunopcx",
+    "player1": "darksnake09",
+    "player2": "brunopcx"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "pronoiavgc",
+    "player1": "die_kampfstube",
+    "player2": "pronoiavgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "whiskeyscoob",
+    "player1": "prosecho",
+    "player2": "whiskeyscoob"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "fluffy_m1n",
+    "player1": "naist",
+    "player2": "fluffy_m1n"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "katabo",
+    "player1": "onyvgc_0623",
+    "player2": "katabo"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "viper2181",
+    "player1": "viper2181",
+    "player2": "glemopelo"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "mr_h",
+    "player1": "oatmeal",
+    "player2": "mr_h"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "slowerpokr",
+    "player1": "slowerpokr",
+    "player2": "manu_gl_23"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "leodomiro",
+    "player1": "leodomiro",
+    "player2": "mikew"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "stonestormvgc",
+    "player1": "yoshi1267",
+    "player2": "stonestormvgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "soilchemy",
+    "player1": "manlycalum",
+    "player2": "soilchemy"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "gengarismad",
+    "player1": "gengarismad",
+    "player2": "legeu347"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "katiclus",
+    "player1": "agn9",
+    "player2": "katiclus"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 15,
+    "winner": "gundojuan",
+    "player1": "gundojuan",
+    "player2": "helhiemfiend"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 16,
+    "winner": "nirvana",
+    "player1": "nirvana",
+    "player2": "liosknight84"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "fluffy_m1n",
+    "player1": "fluffy_m1n",
+    "player2": "pronoiavgc"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "doc_mrmega",
+    "player1": "brunopcx",
+    "player2": "doc_mrmega"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "whiskeyscoob",
+    "player1": "viper2181",
+    "player2": "whiskeyscoob"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "katabo",
+    "player1": "katabo",
+    "player2": "prosecho"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "mr_h"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "darksnake09",
+    "player1": "darksnake09",
+    "player2": "onyvgc_0623"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "soilchemy",
+    "player1": "soilchemy",
+    "player2": "stonestormvgc"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "gengarismad",
+    "player1": "gengarismad",
+    "player2": "oatmeal"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "katiclus",
+    "player1": "katiclus",
+    "player2": "die_kampfstube"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "naist",
+    "player1": "naist",
+    "player2": "glemopelo"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "leodomiro",
+    "player1": "nirvana",
+    "player2": "leodomiro"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "slowerpokr",
+    "player1": "gundojuan",
+    "player2": "slowerpokr"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "mikew",
+    "player1": "mikew",
+    "player2": "johnursaluna"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 14,
+    "winner": "legeu347",
+    "player1": "liosknight84",
+    "player2": "legeu347"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 15,
+    "winner": "helhiemfiend",
+    "player1": "manu_gl_23",
+    "player2": "helhiemfiend"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "whiskeyscoob",
+    "player1": "whiskeyscoob",
+    "player2": "katabo"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "fluffy_m1n",
+    "player1": "fluffy_m1n",
+    "player2": "doc_mrmega"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "pronoiavgc",
+    "player1": "leodomiro",
+    "player2": "pronoiavgc"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "brunopcx",
+    "player1": "viper2181",
+    "player2": "brunopcx"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "slowerpokr",
+    "player1": "slowerpokr",
+    "player2": "soilchemy"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "darksnake09"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "katiclus",
+    "player1": "gengarismad",
+    "player2": "katiclus"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "onyvgc_0623",
+    "player1": "naist",
+    "player2": "onyvgc_0623"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "stonestormvgc",
+    "player1": "gundojuan",
+    "player2": "stonestormvgc"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "legeu347",
+    "player1": "mr_h",
+    "player2": "legeu347"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "die_kampfstube",
+    "player1": "oatmeal",
+    "player2": "die_kampfstube"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "helhiemfiend",
+    "player1": "nirvana",
+    "player2": "helhiemfiend"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 13,
+    "winner": "manu_gl_23",
+    "player1": "glemopelo",
+    "player2": "manu_gl_23"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 14,
+    "winner": "liosknight84",
+    "player1": "liosknight84"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": "fluffy_m1n",
+    "player1": "fluffy_m1n",
+    "player2": "whiskeyscoob"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "katabo",
+    "player1": "doc_mrmega",
+    "player2": "katabo"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "katiclus",
+    "player1": "loyer",
+    "player2": "katiclus"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "brunopcx",
+    "player1": "brunopcx",
+    "player2": "pronoiavgc"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "slowerpokr",
+    "player1": "slowerpokr",
+    "player2": "viper2181"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "legeu347",
+    "player1": "legeu347",
+    "player2": "onyvgc_0623"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "soilchemy",
+    "player1": "soilchemy",
+    "player2": "gengarismad"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "darksnake09",
+    "player1": "darksnake09",
+    "player2": "naist"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "stonestormvgc",
+    "player1": "stonestormvgc",
+    "player2": "helhiemfiend"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": "manu_gl_23",
+    "player1": "leodomiro",
+    "player2": "manu_gl_23"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "brunopcx",
+    "match": "T4-2",
+    "player1": "brunopcx",
+    "player2": "slowerpokr"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "brunopcx",
+    "match": "T2-1",
+    "player1": "pronoiavgc",
+    "player2": "brunopcx"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "pronoiavgc",
+    "match": "T4-1",
+    "player1": "pronoiavgc",
+    "player2": "katiclus"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "pronoiavgc",
+    "match": "T8-1",
+    "player1": "fluffy_m1n",
+    "player2": "pronoiavgc"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "katiclus",
+    "match": "T8-2",
+    "player1": "katabo",
+    "player2": "katiclus"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "slowerpokr",
+    "match": "T8-4",
+    "player1": "whiskeyscoob",
+    "player2": "slowerpokr"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "brunopcx",
+    "match": "T8-3",
+    "player1": "brunopcx",
+    "player2": "doc_mrmega"
+  }
+]

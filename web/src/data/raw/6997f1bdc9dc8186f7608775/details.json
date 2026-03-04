@@ -1,0 +1,24 @@
+{
+  "id": "6997f1bdc9dc8186f7608775",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Intercards: Late Night Session #01",
+  "date": "2026-02-23T00:00:00.000Z",
+  "players": 43,
+  "organizer": {
+    "id": 2562,
+    "name": "Inter Cards"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

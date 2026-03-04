@@ -1,0 +1,30 @@
+{
+  "id": "698bbb56988cfc979bd0d46c",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Polskie Nocne Granie #10 Witamy w 2026",
+  "date": "2026-02-21T17:00:00.000Z",
+  "players": 43,
+  "organizer": {
+    "id": 44,
+    "name": "DominikTCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

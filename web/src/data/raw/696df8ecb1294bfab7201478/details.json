@@ -1,0 +1,30 @@
+{
+  "id": "696df8ecb1294bfab7201478",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Tenki x Pokémon Day Week (BO1 Swiss + BO3 Cut)",
+  "date": "2026-02-19T17:10:00.000Z",
+  "players": 56,
+  "organizer": {
+    "id": 1752,
+    "name": "TenkiPK"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "698ce4e9988cfc979bd0de4b",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "LearningtoSam's Weekly PokéLeague",
+  "date": "2026-02-18T19:15:00.000Z",
+  "players": 47,
+  "organizer": {
+    "id": 2549,
+    "name": "Sam’s PokéLeague"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

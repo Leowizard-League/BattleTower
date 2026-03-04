@@ -1,0 +1,30 @@
+{
+  "id": "696d3e9c9c739a2ff7bf2f5f",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Talon's FIGHT CLUB #71 Reg F ($5 to 1st)",
+  "date": "2026-02-13T00:00:00.000Z",
+  "players": 45,
+  "organizer": {
+    "id": 1077,
+    "name": "TalonMasterJ"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

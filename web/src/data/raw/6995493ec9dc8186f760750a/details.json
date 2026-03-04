@@ -1,0 +1,557 @@
+{
+  "id": "6995493ec9dc8186f760750a",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "CHALLENGE OF DOOM! SEATTLE FORMAT!",
+  "date": "2026-02-24T04:35:00.000Z",
+  "players": 104,
+  "organizer": {
+    "id": 349,
+    "name": "Doom's Events and Catering",
+    "logo": "https://limitlesstcg.s3.us-east-2.amazonaws.com/lotp/uploads/profile-pictures/rthil5ms9vwrlwnt"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ],
+  "bannedCards": [
+    {
+      "name": "Erika's Oddish",
+      "set": "ASC",
+      "number": "1"
+    },
+    {
+      "name": "Erika's Gloom",
+      "set": "ASC",
+      "number": "2"
+    },
+    {
+      "name": "Erika's Vileplume ex",
+      "set": "ASC",
+      "number": "3"
+    },
+    {
+      "name": "Erika's Bellsprout",
+      "set": "ASC",
+      "number": "4"
+    },
+    {
+      "name": "Erika's Weepinbell",
+      "set": "ASC",
+      "number": "5"
+    },
+    {
+      "name": "Erika's Victreebel",
+      "set": "ASC",
+      "number": "6"
+    },
+    {
+      "name": "Erika's Tangela",
+      "set": "ASC",
+      "number": "7"
+    },
+    {
+      "name": "Chikorita",
+      "set": "ASC",
+      "number": "8"
+    },
+    {
+      "name": "Bayleef",
+      "set": "ASC",
+      "number": "9"
+    },
+    {
+      "name": "Mega Meganium ex",
+      "set": "ASC",
+      "number": "10"
+    },
+    {
+      "name": "Wurmple",
+      "set": "ASC",
+      "number": "11"
+    },
+    {
+      "name": "Silcoon",
+      "set": "ASC",
+      "number": "12"
+    },
+    {
+      "name": "Beautifly",
+      "set": "ASC",
+      "number": "13"
+    },
+    {
+      "name": "Cascoon",
+      "set": "ASC",
+      "number": "14"
+    },
+    {
+      "name": "Dustox",
+      "set": "ASC",
+      "number": "15"
+    },
+    {
+      "name": "Charmander",
+      "set": "ASC",
+      "number": "20"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "ASC",
+      "number": "21"
+    },
+    {
+      "name": "Mega Charizard Y ex",
+      "set": "ASC",
+      "number": "22"
+    },
+    {
+      "name": "Entei",
+      "set": "ASC",
+      "number": "25"
+    },
+    {
+      "name": "Numel",
+      "set": "ASC",
+      "number": "27"
+    },
+    {
+      "name": "Camerupt",
+      "set": "ASC",
+      "number": "28"
+    },
+    {
+      "name": "Tepig",
+      "set": "ASC",
+      "number": "29"
+    },
+    {
+      "name": "Pignite",
+      "set": "ASC",
+      "number": "30"
+    },
+    {
+      "name": "Mega Emboar ex",
+      "set": "ASC",
+      "number": "41"
+    },
+    {
+      "name": "Totodile",
+      "set": "ASC",
+      "number": "42"
+    },
+    {
+      "name": "Mega Feraligatr ex",
+      "set": "ASC",
+      "number": "43"
+    },
+    {
+      "name": "Snorunt",
+      "set": "ASC",
+      "number": "46"
+    },
+    {
+      "name": "Mega Frosslass ex",
+      "set": "ASC",
+      "number": "47"
+    },
+    {
+      "name": "Regice ex",
+      "set": "ASC",
+      "number": "48"
+    },
+    {
+      "name": "N's Vanillite",
+      "set": "ASC",
+      "number": "49"
+    },
+    {
+      "name": "N's Vanillish",
+      "set": "ASC",
+      "number": "50"
+    },
+    {
+      "name": "N's Vanilluxe",
+      "set": "ASC",
+      "number": "51"
+    },
+    {
+      "name": "Snom",
+      "set": "ASC",
+      "number": "52"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "ASC",
+      "number": "53"
+    },
+    {
+      "name": "Glastrier",
+      "set": "ASC",
+      "number": "54"
+    },
+    {
+      "name": "Pikachu",
+      "set": "ASC",
+      "number": "55"
+    },
+    {
+      "name": "Raichu",
+      "set": "ASC",
+      "number": "56"
+    },
+    {
+      "name": "Voltorb ex",
+      "set": "ASC",
+      "number": "58"
+    },
+    {
+      "name": "Mega Eelektross ex",
+      "set": "ASC",
+      "number": "61"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "ASC",
+      "number": "62"
+    },
+    {
+      "name": "Helioptile",
+      "set": "ASC",
+      "number": "63"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "ASC",
+      "number": "64"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "ASC",
+      "number": "67"
+    },
+    {
+      "name": "Hop's Pincurchin ex",
+      "set": "ASC",
+      "number": "68"
+    },
+    {
+      "name": "Miraidon ex",
+      "set": "ASC",
+      "number": "73"
+    },
+    {
+      "name": "Team Rocket's Exeggcute",
+      "set": "ASC",
+      "number": "77"
+    },
+    {
+      "name": "Team Rocket's Exeggutor",
+      "set": "ASC",
+      "number": "78"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "ASC",
+      "number": "102"
+    },
+    {
+      "name": "Meditite",
+      "set": "ASC",
+      "number": "103"
+    },
+    {
+      "name": "Medicham",
+      "set": "ASC",
+      "number": "104"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "ASC",
+      "number": "107"
+    },
+    {
+      "name": "Groudon",
+      "set": "ASC",
+      "number": "108"
+    },
+    {
+      "name": "Stunfisk ex",
+      "set": "ASC",
+      "number": "114"
+    },
+    {
+      "name": "Pancham",
+      "set": "ASC",
+      "number": "115"
+    },
+    {
+      "name": "Mega Hawlucha ex",
+      "set": "ASC",
+      "number": "116"
+    },
+    {
+      "name": "Carbink",
+      "set": "ASC",
+      "number": "117"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "ASC",
+      "number": "118"
+    },
+    {
+      "name": "Carkol",
+      "set": "ASC",
+      "number": "119"
+    },
+    {
+      "name": "Coalossal",
+      "set": "ASC",
+      "number": "120"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "ASC",
+      "number": "121"
+    },
+    {
+      "name": "Okidogi",
+      "set": "ASC",
+      "number": "122"
+    },
+    {
+      "name": "Team Rocket's Honchkrow",
+      "set": "ASC",
+      "number": "127"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "ASC",
+      "number": "130"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "ASC",
+      "number": "131"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "ASC",
+      "number": "132"
+    },
+    {
+      "name": "Scraggy",
+      "set": "ASC",
+      "number": "134"
+    },
+    {
+      "name": "Mega Scrafty ex",
+      "set": "ASC",
+      "number": "135"
+    },
+    {
+      "name": "Vullaby",
+      "set": "ASC",
+      "number": "138"
+    },
+    {
+      "name": "Mandibuzz ex",
+      "set": "ASC",
+      "number": "139"
+    },
+    {
+      "name": "Pangoro",
+      "set": "ASC",
+      "number": "140"
+    },
+    {
+      "name": "Hoopa",
+      "set": "ASC",
+      "number": "141"
+    },
+    {
+      "name": "Pecharunt",
+      "set": "ASC",
+      "number": "143"
+    },
+    {
+      "name": "Mawille",
+      "set": "ASC",
+      "number": "144"
+    },
+    {
+      "name": "Registeel ex",
+      "set": "ASC",
+      "number": "145"
+    },
+    {
+      "name": "Pawniard",
+      "set": "ASC",
+      "number": "146"
+    },
+    {
+      "name": "Bisharp",
+      "set": "ASC",
+      "number": "147"
+    },
+    {
+      "name": "Kingambit",
+      "set": "ASC",
+      "number": "148"
+    },
+    {
+      "name": "Togedemaru ex",
+      "set": "ASC",
+      "number": "149"
+    },
+    {
+      "name": "Dratini",
+      "set": "ASC",
+      "number": "150"
+    },
+    {
+      "name": "Dragonair",
+      "set": "ASC",
+      "number": "151"
+    },
+    {
+      "name": "Mega Dragonite ex",
+      "set": "ASC",
+      "number": "152"
+    },
+    {
+      "name": "N's Zekrom",
+      "set": "ASC",
+      "number": "155"
+    },
+    {
+      "name": "Noibat",
+      "set": "ASC",
+      "number": "156"
+    },
+    {
+      "name": "Noivern",
+      "set": "ASC",
+      "number": "157"
+    },
+    {
+      "name": "Team Rocket's Kangaskhan ex",
+      "set": "ASC",
+      "number": "162"
+    },
+    {
+      "name": "Larry's Dunsparce",
+      "set": "ASC",
+      "number": "163"
+    },
+    {
+      "name": "Larry's Dudunsparce ex",
+      "set": "ASC",
+      "number": "164"
+    },
+    {
+      "name": "Skitty",
+      "set": "ASC",
+      "number": "165"
+    },
+    {
+      "name": "Delcatty",
+      "set": "ASC",
+      "number": "166"
+    },
+    {
+      "name": "Zangoose ex",
+      "set": "ASC",
+      "number": "167"
+    },
+    {
+      "name": "Larry's Starly",
+      "set": "ASC",
+      "number": "169"
+    },
+    {
+      "name": "Larry's Staraptor",
+      "set": "ASC",
+      "number": "170"
+    },
+    {
+      "name": "Mega Audino ex",
+      "set": "ASC",
+      "number": "172"
+    },
+    {
+      "name": "Larry's Rufflet",
+      "set": "ASC",
+      "number": "173"
+    },
+    {
+      "name": "Larry's Braviary",
+      "set": "ASC",
+      "number": "174"
+    },
+    {
+      "name": "Larry's Komala",
+      "set": "ASC",
+      "number": "175"
+    },
+    {
+      "name": "Drampa",
+      "set": "ASC",
+      "number": "176"
+    },
+    {
+      "name": "Anthea & Concordia",
+      "set": "ASC",
+      "number": "182"
+    },
+    {
+      "name": "Canari",
+      "set": "ASC",
+      "number": "185"
+    },
+    {
+      "name": "Light Ball",
+      "set": "ASC",
+      "number": "191"
+    },
+    {
+      "name": "Nighttime Mine",
+      "set": "ASC",
+      "number": "197"
+    },
+    {
+      "name": "Poké Pad",
+      "set": "ASC",
+      "number": "198"
+    },
+    {
+      "name": "Team Rocket's Hypnotizer",
+      "set": "ASC",
+      "number": "206"
+    },
+    {
+      "name": "Thick Scale",
+      "set": "ASC",
+      "number": "211"
+    },
+    {
+      "name": "Urbain",
+      "set": "ASC",
+      "number": "214"
+    },
+    {
+      "name": "Waitress",
+      "set": "ASC",
+      "number": "215"
+    }
+  ]
+}

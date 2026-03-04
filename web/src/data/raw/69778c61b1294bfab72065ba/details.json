@@ -1,0 +1,36 @@
+{
+  "id": "69778c61b1294bfab72065ba",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Redacted Heroes #3 (100 Codes)",
+  "date": "2026-02-14T23:05:00.000Z",
+  "players": 128,
+  "organizer": {
+    "id": 222,
+    "name": "Redacted Gaming"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SWISS",
+      "rounds": 3,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}
