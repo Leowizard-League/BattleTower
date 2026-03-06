@@ -16,15 +16,67 @@
           </tr>
         </thead>
         <tbody>
-          <tr v-for="(r, i) in rows" :key="r.player">
+          <!-- <tr v-for="(r, i) in rows" :key="r.player">
             <td class="muted">{{ i + 1 }}</td>
             <td>{{ r.player }}</td>
             <td class="num mono">{{ r.points }}</td>
+          </tr> -->
+          <!-- 显示当前页的数据 -->
+          <tr v-for="(r, i) in currentPageRows" :key="r.player">
+            <td class="muted">{{ (currentPage - 1) * pageSize + i + 1 }}</td>
+            <td>{{ r.player }}</td>
+            <td class="num mono">{{ r.points }}</td>
+          </tr>
+          <!-- 空数据提示 -->
+          <tr v-if="!currentPageRows.length">
+            <td colspan="3" style="text-align: center; padding: 20px;">
+              {{ isZh ? '暂无数据' : 'No data' }}
+            </td>
           </tr>
         </tbody>
       </table>
     </div>
-  </div>
+
+    <!-- 分页控件 -->
+    <div class="pagination" v-if="totalPages > 1">
+      <button 
+        class="page-btn" 
+        :disabled="currentPage === 1"
+        @click="currentPage -= 1"
+      >
+        {{ isZh ? '上一页' : 'Previous' }}
+      </button>
+      
+      <span class="page-info">
+        {{ isZh ? `第 ${currentPage} 页 / 共 ${totalPages} 页` : `Page ${currentPage} / ${totalPages}` }}
+      </span>
+      
+      <button 
+        class="page-btn" 
+        :disabled="currentPage === totalPages"
+        @click="currentPage += 1"
+      >
+        {{ isZh ? '下一页' : 'Next' }}
+      </button>
+
+      <!-- 可选：快速跳页控件 -->
+      <div class="page-jump" v-if="totalPages > 5">
+        <input 
+          type="number" 
+          v-model.number="jumpPage" 
+          :min="1" 
+          :max="totalPages"
+          class="page-input"
+        >
+        <button 
+          class="page-btn jump-btn"
+          @click="jumpToPage"
+        >
+          {{ isZh ? '跳转' : 'Go' }}
+        </button>
+      </div>
+    </div>
+  </div>  
 </template>
 
 <script setup lang="ts">
@@ -59,6 +111,43 @@ const ui = computed(() => {
 });
 
 const rows = computed(() => Data.players)
+
+// 分页配置
+const pageSize = ref(15); // 每页显示10条
+const currentPage = ref(1); // 当前页码
+const jumpPage = ref(1); // 跳转页码
+
+// 所有玩家数据
+const allPlayers = computed(() => Data.players || []);
+
+// 总页数
+const totalPages = computed(() => {
+  return Math.ceil(allPlayers.value.length / pageSize.value);
+});
+
+// 当前页显示的数据
+const currentPageRows = computed(() => {
+  const start = (currentPage.value - 1) * pageSize.value;
+  const end = start + pageSize.value;
+  return allPlayers.value.slice(start, end);
+});
+
+// 跳转页面方法
+const jumpToPage = () => {
+  if (jumpPage.value < 1) {
+    jumpPage.value = 1;
+  } else if (jumpPage.value > totalPages.value) {
+    jumpPage.value = totalPages.value;
+  }
+  currentPage.value = jumpPage.value;
+};
+
+// 监听总页数变化，防止页码超出范围
+watch(totalPages, () => {
+  if (currentPage.value > totalPages.value) {
+    currentPage.value = totalPages.value || 1;
+  }
+});
 </script>
 
 <style scoped>
@@ -74,4 +163,66 @@ th { font-size: 12px; color: rgba(226,232,240,.75); font-weight: 700; }
 td { font-size: 13px; color: rgba(255,255,255,0.9); }
 .num { text-align: right; }
 .muted { color: rgba(226,232,240,.55); }
+
+/* 分页样式 */
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 16px;
+  color: rgba(255,255,255,0.9);
+  font-size: 13px;
+}
+
+.page-btn {
+  padding: 6px 12px;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  background: rgba(15,23,42,0.5);
+  color: rgba(255,255,255,0.9);
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.page-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.page-btn:not(:disabled):hover {
+  background: rgba(15,23,42,0.8);
+  border-color: rgba(255,255,255,0.25);
+}
+
+.page-info {
+  color: rgba(226,232,240,.75);
+  font-size: 12px;
+}
+
+.page-jump {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+
+.page-input {
+  width: 60px;
+  padding: 6px 8px;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+  background: rgba(15,23,42,0.5);
+  color: rgba(255,255,255,0.9);
+  font-size: 12px;
+  outline: none;
+}
+
+.page-input:focus {
+  border-color: rgba(255,255,255,0.25);
+}
+
+.jump-btn {
+  padding: 6px 10px;
+}
 </style>
