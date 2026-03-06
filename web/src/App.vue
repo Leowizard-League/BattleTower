@@ -73,7 +73,7 @@ const dict = {
     topDecks: '最強牌組',
     topCards: '泛用卡片',
     playerRanking: '玩家排名',
-    countryRanking: '國家排名',
+    countryRanking: '地区排名',
   },
   en: {
     tierList: 'Tier List',

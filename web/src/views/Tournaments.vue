@@ -211,7 +211,9 @@
           <tr v-if="filtered.length === 0">
             <td class="muted" colspan="5" style="padding: 16px;">
               {{ ui.emptyText }}
-              <span class="mono">web/src/data/raw/*</span>
+              <span class="mono">
+                <!-- web/src/data/raw/* -->
+              </span>
             </td>
           </tr>
         </tbody>

@@ -12,21 +12,25 @@
       <table class="tbl">
         <thead>
           <tr>
-            <th class="num">
+            <th class="num" rowspan="2">
               {{ ui.rank }}
             </th>
-            <th class="num">
+            <th class="num" rowspan="2">
               {{ ui.country }}
             </th>
-            <th class="num">
+            <th class="num" rowspan="2">
               {{ ui.totalcountryplayers }}
             </th>
-            <th class="num">
+            <th class="num" rowspan="2">
               {{ ui.totalplayers }}
             </th>
-            <th class="num">
+            <!-- <th class="num">
               {{ ui.totalappearances }}
-            </th>
+            </th> -->
+            <th colspan="4" style="text-align: center;">{{ ui.bestplayer }}</th>
+          </tr>
+          <tr>
+            <!-- <td colspan="4"></td> -->
             <th class="num">
               {{ ui.first }}
             </th>
@@ -47,7 +51,7 @@
             <td class="num muted">japan</td>
             <td class="num muted">1000</td>
             <td class="num muted">5000</td>
-            <td class="num muted">20000</td>
+            <!-- <td class="num muted">20000</td> -->
             <td class="num muted">10</td>
             <td class="num muted">5</td>
             <td class="num muted">2</td>
@@ -58,7 +62,7 @@
             <td class="num muted">usa</td>
             <td class="num muted">800</td>
             <td class="num muted">4000</td>
-            <td class="num muted">15000</td>
+            <!-- <td class="num muted">15000</td> -->
             <td class="num muted">8</td>
             <td class="num muted">3</td>
             <td class="num muted">1</td>
@@ -90,9 +94,9 @@ const ui = computed(() => {
       standingsTitle: "赛事",
       rank: "排名",
       country: "国家/地区",
-      totalcountryplayers: "国家/地区玩家总数",
+      totalcountryplayers: "国家/地区玩家总分数",
       totalplayers: "合计玩家总数",
-      totalappearances: "合计参赛次数",
+      bestplayer: "最佳玩家",
       first: "第一",
       second: "第二",
       third: "第三",
@@ -105,9 +109,9 @@ const ui = computed(() => {
     standingsTitle: "Season",
     rank: "Rank",
     country: "Country/Region",
-    totalcountryplayers: "Total Players in Country/Region",
+    totalcountryplayers: "Total Points in Country/Region",
     totalplayers: "Total Players",
-    totalappearances: "Total Appearances",
+    bestplayer: "Best Player in Country/Region",
     first: "1st",
     second: "2nd",
     third: "3rd",
