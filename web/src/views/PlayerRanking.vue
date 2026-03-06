@@ -1,9 +1,9 @@
 <template>
-  <div>
-    <h1 class="pageTitle">Player Ranking</h1>
+  <div class="page">
+    <h1 class="pageTitle">{{ ui.title }}</h1>
 
     <div class="meta">
-      <div>Points rule = your placing weights (1st 10, 2nd 8, 3-4 6, 5-8 4, 9-16 2, 17-32 1)</div>
+      <div>{{ ui.rule }}</div>
     </div>
 
     <div class="tableWrap">
@@ -11,8 +11,8 @@
         <thead>
           <tr>
             <th>#</th>
-            <th>Player</th>
-            <th class="num">Points</th>
+            <th>{{ ui.player }}</th>
+            <th class="num">{{ ui.points }}</th>
           </tr>
         </thead>
         <tbody>
@@ -28,13 +28,41 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
 import { Data } from '../lib/data'
+import { useRoute } from "vue-router";
+import { computed, reactive, ref, watch } from "vue";
+
+const route = useRoute();
+
+const lang = computed<"zh" | "en">(() => {
+  const seg = String(route.path).split("/")[1];
+  return seg === "en" ? "en" : "zh";
+});
+
+const isZh = computed(() => lang.value === "zh");
+
+const ui = computed(() => {
+  if (isZh.value) {
+    return {
+      title: "玩家排行榜",
+      rule: "积分规则 = 你在每场比赛中的排名权重（第1名 10分，第2名 8分，第3-4名 6分，第5-8名 4分，第9-16名 2分，第17-32名 1分）",
+      player: "玩家",
+      points: "积分",
+    };
+  }
+  return {
+    title: "Player Ranking",
+    rule: "Points rule = your placing weights (1st 10, 2nd 8, 3-4 6, 5-8 4, 9-16 2, 17-32 1)",
+    player: "Player",
+    points: "Points",
+  };
+});
 
 const rows = computed(() => Data.players)
 </script>
 
 <style scoped>
+.page{ width: 1100px; }
 .pageTitle { margin: 0 0 12px; color: rgba(255,255,255,0.92); font-size: 18px; font-weight: 800; }
 .meta { margin-bottom: 12px; color: rgba(226,232,240,.75); font-size: 12px; line-height: 1.5; }
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }

@@ -93,7 +93,7 @@ function label(key: keyof typeof dict.zh) {
 <style scoped>
 /* 原本 App.vue 的版型保留，並融合 Layout.vue 的 topbar/nav 樣式 */
 .app { min-height: 100vh; display: flex; flex-direction: column; }
-.container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 20px; flex: 1; }
+.container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 20px; flex: 1; }
 
 .topbar {
   position: sticky;

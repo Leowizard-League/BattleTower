@@ -13,13 +13,8 @@
     <div class="filters">
       <div class="f">
         <label>{{ isZh ? "玩家數" : "Players " }}</label>
-        <input
-          v-model.number="filters.minPlayers"
-          type="number"
-          inputmode="numeric"
-          min="0"
-          :placeholder="isZh ? '例如 32' : 'e.g： 32'"
-        />
+        <input v-model.number="filters.minPlayers" type="number" inputmode="numeric" min="0"
+          :placeholder="isZh ? '例如 32' : 'e.g： 32'" />
         <div class="hint">{{ isZh ? "多於或等於（>=）" : "More than or equal to (>=)" }}</div>
       </div>
 
@@ -41,9 +36,9 @@
         <label>{{ isZh ? "版本" : "Set" }}</label>
         <select v-model="filters.set">
           <option value="">{{ isZh ? "全部" : "All" }}</option>
-<option v-for="s in setOptions" :key="s" :value="s">
-  {{ versionLabel(s) }}
-</option>
+          <option v-for="s in setOptions" :key="s" :value="s">
+            {{ versionLabel(s) }}
+          </option>
         </select>
         <div class="hint">{{ isZh ? " " : " " }}</div>
       </div>
@@ -72,49 +67,44 @@
     </div>
 
     <!-- Pager -->
-<div class="pager">
-  <div class="pager__left">
-    <div class="pager__label">{{ isZh ? "每頁顯示" : "Per page" }}</div>
+    <div class="pager">
+      <div class="pager__left">
+        <div class="pager__label">{{ isZh ? "每頁顯示" : "Per page" }}</div>
 
-    <div class="pager__sizes" role="group" :aria-label="isZh ? '每頁筆數' : 'Rows per page'">
-      <button
+        <div class="pager__sizes" role="group" :aria-label="isZh ? '每頁筆數' : 'Rows per page'">
+          <button v-for="n in PAGE_SIZES" :key="n" type="button"
+            :class="['pagerBtn', pageSize === n ? 'is-active' : '']" :aria-pressed="pageSize === n"
+            @click="setPageSize(n)">
+            {{ n }}
 
-        v-for="n in PAGE_SIZES"
-        :key="n"
-        type="button"
-        :class="['pagerBtn', pageSize === n ? 'is-active' : '']"
-        :aria-pressed="pageSize === n"
-        @click="setPageSize(n)"
-      >
-        {{ n }}
+          </button>
+        </div>
 
-      </button>
+        <div class="pager__summary mono muted">
+          <template v-if="total > 0">
+            {{ isZh ? `顯示第 ${rangeStart}–${rangeEnd} 筆 / 共 ${total} 筆` : `Showing ${rangeStart}–${rangeEnd} of ${total}`
+            }}
+          </template>
+          <template v-else>
+            {{ isZh ? "共 0 筆" : "0 results" }}
+          </template>
+        </div>
+      </div>
+
+      <div class="pager__right">
+        <button class="pagerNav" type="button" @click="prevPage" :disabled="page <= 1">
+          {{ isZh ? "上一頁" : "Prev" }}
+        </button>
+
+        <div class="pager__page mono">
+          {{ isZh ? `第 ${page} / ${pageCount} 頁` : `Page ${page} / ${pageCount}` }}
+        </div>
+
+        <button class="pagerNav" type="button" @click="nextPage" :disabled="page >= pageCount">
+          {{ isZh ? "下一頁" : "Next" }}
+        </button>
+      </div>
     </div>
-
-    <div class="pager__summary mono muted">
-      <template v-if="total > 0">
-        {{ isZh ? `顯示第 ${rangeStart}–${rangeEnd} 筆 / 共 ${total} 筆` : `Showing ${rangeStart}–${rangeEnd} of ${total}` }}
-      </template>
-      <template v-else>
-        {{ isZh ? "共 0 筆" : "0 results" }}
-      </template>
-    </div>
-  </div>
-
-  <div class="pager__right">
-    <button class="pagerNav" type="button" @click="prevPage" :disabled="page <= 1">
-      {{ isZh ? "上一頁" : "Prev" }}
-    </button>
-
-    <div class="pager__page mono">
-      {{ isZh ? `第 ${page} / ${pageCount} 頁` : `Page ${page} / ${pageCount}` }}
-    </div>
-
-    <button class="pagerNav" type="button" @click="nextPage" :disabled="page >= pageCount">
-      {{ isZh ? "下一頁" : "Next" }}
-    </button>
-  </div>
-</div>
 
     <!-- Table -->
     <div class="tableWrap">
@@ -156,36 +146,24 @@
               <div class="nameCell">
                 <div class="nameMain">{{ t.name }}</div>
                 <div class="nameMeta muted">
-                  <button
-                    v-if="t.set"
-                    type="button"
+                  <button v-if="t.set" type="button"
                     :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
-                    :aria-pressed="filters.set === t.set"
-                    @click="toggleSet(t.set)"
-                    :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'"
-                  >
+                    :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
+                    :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
                     {{ versionLabel(t.set) }}
                   </button>
 
-                  <button
-                    v-if="t.format"
-                    type="button"
+                  <button v-if="t.format" type="button"
                     :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
-                    :aria-pressed="filters.format === t.format"
-                    @click="toggleFormat(t.format)"
-                    :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'"
-                  >
+                    :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
+                    :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
                     {{ formatLabelForUi(t.format) }}
                   </button>
 
-                  <button
-                    v-if="t.swiss"
-                    type="button"
+                  <button v-if="t.swiss" type="button"
                     :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
-                    :aria-pressed="filters.swiss === t.swiss"
-                    @click="toggleSwiss(t.swiss)"
-                    :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'"
-                  >
+                    :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
+                    :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
                     {{ t.swiss }}
                   </button>
                 </div>
@@ -196,44 +174,25 @@
 
             <td>
               <div v-if="t.topDecks.length" class="topDecksGrid" :aria-label="ui.top4AriaLabel">
-                <div
-                  v-for="(d, i) in t.topDecks"
-                  :key="i"
-                  class="deckPair"
-                  :title="deckPairTitle(d, i + 1)"
-                >
-<div class="deckIconsWrap">
-  <div class="deckIconsRow">
-    <template v-for="slot in 2" :key="slot">
-      <img
-        v-if="d.iconUrls[slot - 1]"
-        :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
-        :src="d.iconUrls[slot - 1]!"
-        :alt="deckAlt(i + 1, slot)"
-        loading="lazy"
-        decoding="async"
-        draggable="false"
-      />
+                <div v-for="(d, i) in t.topDecks" :key="i" class="deckPair" :title="deckPairTitle(d, i + 1)">
+                  <div class="deckIconsWrap">
+                    <div class="deckIconsRow">
+                      <template v-for="slot in 2" :key="slot">
+                        <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
+                          :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
+                          draggable="false" />
 
-      <span
-        v-else-if="d.iconKeys[slot - 1]"
-        :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']"
-        aria-hidden="true"
-        :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"
-      ></span>
+                        <span v-else-if="d.iconKeys[slot - 1]"
+                          :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
+                          :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
 
-      <template v-else></template>
-    </template>
-  </div>
+                        <template v-else></template>
+                      </template>
+                    </div>
 
-  <img
-    class="deckDisk"
-    :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))"
-    alt=""
-    aria-hidden="true"
-    draggable="false"
-  />
-</div>
+                    <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
+                      draggable="false" />
+                  </div>
 
 
                 </div>
@@ -242,14 +201,8 @@
             </td>
 
             <td class="link">
-              <a
-                class="linkDot"
-                :href="t.standingsUrl"
-                target="_blank"
-                rel="noreferrer"
-                :title="ui.standingsTitle"
-                :aria-label="ui.standingsTitle"
-              >
+              <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
+                :aria-label="ui.standingsTitle">
                 ↗
               </a>
             </td>
@@ -432,7 +385,7 @@ const ui = computed(() => {
   if (isZh.value) {
     return {
       title: "賽事",
-      subtitle: (n: number) => `共 ${n} 場（資料源：web/src/data/raw/*）`,
+      subtitle: (n: number) => `共 ${n} 場`,
       standingsTitle: "查看 standings",
       emptyText: "沒有符合條件的賽事。請調整 filters，或確認 raw 資料是否存在於 ",
       footText:
@@ -442,7 +395,7 @@ const ui = computed(() => {
   }
   return {
     title: "Tournaments",
-    subtitle: (n: number) => `Total ${n} tournaments (source: web/src/data/raw/*)`,
+    subtitle: (n: number) => `Total ${n} tournaments`,
     standingsTitle: "Open standings",
     emptyText:
       "No tournaments match your filters. Adjust filters or make sure raw data exists in ",
@@ -471,21 +424,21 @@ type GameVersion = {
 };
 
 const GAME_VERSIONS = [
-  { code: "A1",  nameZh: "最強的基因",   nameEn: "Genetic Apex",           releaseUtcIso: "2024-10-30T01:00:00Z", releaseMs: Date.parse("2024-10-30T01:00:00Z") },
-  { code: "A1a", nameZh: "幻遊島",       nameEn: "Mythical Island",        releaseUtcIso: "2024-12-17T06:00:00Z", releaseMs: Date.parse("2024-12-17T06:00:00Z") },
-  { code: "A2",  nameZh: "時空激鬥",     nameEn: "Space-Time Smackdown",   releaseUtcIso: "2025-01-30T06:00:00Z", releaseMs: Date.parse("2025-01-30T06:00:00Z") },
-  { code: "A2a", nameZh: "超克之光",     nameEn: "Triumphant Light",       releaseUtcIso: "2025-02-28T06:00:00Z", releaseMs: Date.parse("2025-02-28T06:00:00Z") },
-  { code: "A2b", nameZh: "嗨放異彩",     nameEn: "Shining Revelry",        releaseUtcIso: "2025-03-27T06:00:00Z", releaseMs: Date.parse("2025-03-27T06:00:00Z") },
-  { code: "A3",  nameZh: "雙天之守護者", nameEn: "Celestial Guardians",    releaseUtcIso: "2025-04-30T06:00:00Z", releaseMs: Date.parse("2025-04-30T06:00:00Z") },
-  { code: "A3a", nameZh: "異次元危機",   nameEn: "Extradimensional Crisis",releaseUtcIso: "2025-05-29T06:00:00Z", releaseMs: Date.parse("2025-05-29T06:00:00Z") },
-  { code: "A3b", nameZh: "伊布花園",     nameEn: "Eevee Grove",            releaseUtcIso: "2025-06-26T06:00:00Z", releaseMs: Date.parse("2025-06-26T06:00:00Z") },
-  { code: "A4",  nameZh: "天與海的指引", nameEn: "Wisdom of Sea and Sky",  releaseUtcIso: "2025-07-30T06:00:00Z", releaseMs: Date.parse("2025-07-30T06:00:00Z") },
-  { code: "A4a", nameZh: "未知水域",     nameEn: "Secluded Springs",       releaseUtcIso: "2025-08-28T06:00:00Z", releaseMs: Date.parse("2025-08-28T06:00:00Z") },
-  { code: "A4b", nameZh: "高級擴充包ex", nameEn: "Deluxe Pack: ex",        releaseUtcIso: "2025-09-30T06:00:00Z", releaseMs: Date.parse("2025-09-30T06:00:00Z") },
-  { code: "B1",  nameZh: "超級崛起",     nameEn: "Mega Rising",            releaseUtcIso: "2025-10-30T06:00:00Z", releaseMs: Date.parse("2025-10-30T06:00:00Z") },
-  { code: "B1a", nameZh: "紅蓮烈焰",     nameEn: "Crimson Blaze",          releaseUtcIso: "2025-12-17T06:00:00Z", releaseMs: Date.parse("2025-12-17T06:00:00Z") },
-  { code: "B2",  nameZh: "幻夢遊行",     nameEn: "Fantastical Parade",     releaseUtcIso: "2026-01-29T01:00:00Z", releaseMs: Date.parse("2026-01-29T01:00:00Z") },
-  { code: "B2a", nameZh: "帕底亞驚奇",   nameEn: "Paldean Wonders",        releaseUtcIso: "2026-02-26T01:00:00Z", releaseMs: Date.parse("2026-02-26T01:00:00Z") },
+  { code: "A1", nameZh: "最強的基因", nameEn: "Genetic Apex", releaseUtcIso: "2024-10-30T01:00:00Z", releaseMs: Date.parse("2024-10-30T01:00:00Z") },
+  { code: "A1a", nameZh: "幻遊島", nameEn: "Mythical Island", releaseUtcIso: "2024-12-17T06:00:00Z", releaseMs: Date.parse("2024-12-17T06:00:00Z") },
+  { code: "A2", nameZh: "時空激鬥", nameEn: "Space-Time Smackdown", releaseUtcIso: "2025-01-30T06:00:00Z", releaseMs: Date.parse("2025-01-30T06:00:00Z") },
+  { code: "A2a", nameZh: "超克之光", nameEn: "Triumphant Light", releaseUtcIso: "2025-02-28T06:00:00Z", releaseMs: Date.parse("2025-02-28T06:00:00Z") },
+  { code: "A2b", nameZh: "嗨放異彩", nameEn: "Shining Revelry", releaseUtcIso: "2025-03-27T06:00:00Z", releaseMs: Date.parse("2025-03-27T06:00:00Z") },
+  { code: "A3", nameZh: "雙天之守護者", nameEn: "Celestial Guardians", releaseUtcIso: "2025-04-30T06:00:00Z", releaseMs: Date.parse("2025-04-30T06:00:00Z") },
+  { code: "A3a", nameZh: "異次元危機", nameEn: "Extradimensional Crisis", releaseUtcIso: "2025-05-29T06:00:00Z", releaseMs: Date.parse("2025-05-29T06:00:00Z") },
+  { code: "A3b", nameZh: "伊布花園", nameEn: "Eevee Grove", releaseUtcIso: "2025-06-26T06:00:00Z", releaseMs: Date.parse("2025-06-26T06:00:00Z") },
+  { code: "A4", nameZh: "天與海的指引", nameEn: "Wisdom of Sea and Sky", releaseUtcIso: "2025-07-30T06:00:00Z", releaseMs: Date.parse("2025-07-30T06:00:00Z") },
+  { code: "A4a", nameZh: "未知水域", nameEn: "Secluded Springs", releaseUtcIso: "2025-08-28T06:00:00Z", releaseMs: Date.parse("2025-08-28T06:00:00Z") },
+  { code: "A4b", nameZh: "高級擴充包ex", nameEn: "Deluxe Pack: ex", releaseUtcIso: "2025-09-30T06:00:00Z", releaseMs: Date.parse("2025-09-30T06:00:00Z") },
+  { code: "B1", nameZh: "超級崛起", nameEn: "Mega Rising", releaseUtcIso: "2025-10-30T06:00:00Z", releaseMs: Date.parse("2025-10-30T06:00:00Z") },
+  { code: "B1a", nameZh: "紅蓮烈焰", nameEn: "Crimson Blaze", releaseUtcIso: "2025-12-17T06:00:00Z", releaseMs: Date.parse("2025-12-17T06:00:00Z") },
+  { code: "B2", nameZh: "幻夢遊行", nameEn: "Fantastical Parade", releaseUtcIso: "2026-01-29T01:00:00Z", releaseMs: Date.parse("2026-01-29T01:00:00Z") },
+  { code: "B2a", nameZh: "帕底亞驚奇", nameEn: "Paldean Wonders", releaseUtcIso: "2026-02-26T01:00:00Z", releaseMs: Date.parse("2026-02-26T01:00:00Z") },
 ].sort((a, b) => a.releaseMs - b.releaseMs) as GameVersion[];
 
 const VERSION_BY_CODE: Record<string, GameVersion> = Object.fromEntries(
@@ -549,23 +502,23 @@ function formatUtcYmd(ms?: number) {
   return `${y}-${m}-${day}`;
 }
 
-function normalizeSwiss(details: any): SwissLabel | undefined {
-  const bestOf =
-    details?.bestOf ??
-    details?.swiss?.bestOf ??
-    details?.swissBestOf ??
-    details?.bo ??
-    details?.matchBestOf;
+// function normalizeSwiss(details: any): SwissLabel | undefined {
+//   const bestOf =
+//     details?.bestOf ??
+//     details?.swiss?.bestOf ??
+//     details?.swissBestOf ??
+//     details?.bo ??
+//     details?.matchBestOf;
 
-  if (bestOf === 1 || String(bestOf).toLowerCase() === "bo1") return "BO1";
-  if (bestOf === 3 || String(bestOf).toLowerCase() === "bo3") return "BO3";
+//   if (bestOf === 1 || String(bestOf).toLowerCase() === "bo1") return "BO1";
+//   if (bestOf === 3 || String(bestOf).toLowerCase() === "bo3") return "BO3";
 
-  const text = String(details?.swiss ?? details?.rounds ?? details?.rules ?? "").toLowerCase();
-  if (text.includes("bo1")) return "BO1";
-  if (text.includes("bo3")) return "BO3";
+//   const text = String(details?.swiss ?? details?.rounds ?? details?.rules ?? "").toLowerCase();
+//   if (text.includes("bo1")) return "BO1";
+//   if (text.includes("bo3")) return "BO3";
 
-  return bestOf != null ? "Other" : undefined;
-}
+//   return bestOf != null ? "Other" : undefined;
+// }
 
 // -------- icon resolving (more robust) --------
 function normalizeKeyForMatch(k: string) {
@@ -730,21 +683,21 @@ function pickTopN(standings: any[], n: number): any[] {
 }
 
 // ---- medals ----
-function medalClass(rank: number) {
-  if (rank === 1) return "medal--gold";
-  if (rank === 2) return "medal--silver";
-  return "medal--platinum"; // 3rd & 4th
-}
-function medalTitle(rank: number) {
-  if (isZh.value) {
-    if (rank === 1) return "冠軍（金）";
-    if (rank === 2) return "亞軍（銀）";
-    return "季軍/殿軍（鉑）";
-  }
-  if (rank === 1) return "Champion (Gold)";
-  if (rank === 2) return "Runner-up (Silver)";
-  return "Top 4 (Platinum)";
-}
+// function medalClass(rank: number) {
+//   if (rank === 1) return "medal--gold";
+//   if (rank === 2) return "medal--silver";
+//   return "medal--platinum"; // 3rd & 4th
+// }
+// function medalTitle(rank: number) {
+//   if (isZh.value) {
+//     if (rank === 1) return "冠軍（金）";
+//     if (rank === 2) return "亞軍（銀）";
+//     return "季軍/殿軍（鉑）";
+//   }
+//   if (rank === 1) return "Champion (Gold)";
+//   if (rank === 2) return "Runner-up (Silver)";
+//   return "Top 4 (Platinum)";
+// }
 
 function missingIconTitle(key: string | undefined, rank: number, slot: number) {
   const k = key ? `key=${key}` : "key=undefined";
@@ -804,10 +757,10 @@ const tournaments = computed<TournamentRow[]>(() => {
 
 
 
-    
-const g = String(details?.game ?? "").toUpperCase();
-  if (g && g !== "POCKET") continue;
-    
+
+    const g = String(details?.game ?? "").toUpperCase();
+    if (g && g !== "POCKET") continue;
+
     const set = inferVersionByStartMs(dateMs)?.code;
 
     const swiss = swissLabelFromDetails(details);
@@ -958,13 +911,34 @@ watch([total, pageSize], () => {
 </script>
 
 <style scoped>
-.page { padding: 12px 14px; }
-.header { display: flex; justify-content: space-between; gap: 12px; align-items: flex-end; margin-bottom: 12px; }
-.title { font-size: 20px; font-weight: 900; color: rgba(255,255,255,0.92); }
-.sub { margin-top: 4px; font-size: 12px; color: rgba(226,232,240,0.75); }
+/* padding: 12px 14px;  */
+.page {
+  width: 1100px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-end;
+  margin-bottom: 12px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 900;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.sub {
+  margin-top: 4px;
+  font-size: 12px;
+  color: rgba(226, 232, 240, 0.75);
+}
 
 .deckIcon--second {
-  margin-left: -3px; /* 更貼：-4；稍開：-2 */
+  margin-left: -3px;
+  /* 更貼：-4；稍開：-2 */
 }
 
 .filters {
@@ -973,84 +947,158 @@ watch([total, pageSize], () => {
   gap: 10px;
   margin: 10px 0 12px;
 }
+
 @media (max-width: 980px) {
-  .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
+
 .f {
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
-  background: rgba(15,23,42,0.35);
+  background: rgba(15, 23, 42, 0.35);
   padding: 10px;
 }
-.f label { display: block; font-size: 12px; font-weight: 800; color: rgba(255,255,255,0.85); margin-bottom: 6px; }
-.f input, .f select {
+
+.f label {
+  display: block;
+  font-size: 12px;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.85);
+  margin-bottom: 6px;
+}
+
+.f input,
+.f select {
   width: 100%;
   border-radius: 10px;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(2,6,23,0.35);
-  color: rgba(255,255,255,0.92);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  background: rgba(2, 6, 23, 0.35);
+  color: rgba(255, 255, 255, 0.92);
   padding: 8px 10px;
   outline: none;
 }
-.hint { margin-top: 6px; font-size: 11px; color: rgba(226,232,240,0.65); }
+
+.hint {
+  margin-top: 6px;
+  font-size: 11px;
+  color: rgba(226, 232, 240, 0.65);
+}
 
 .tableWrap {
   overflow: auto;
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
-  background: rgba(15,23,42,0.35);
+  background: rgba(15, 23, 42, 0.35);
 }
-.tbl { width: 100%; border-collapse: collapse; min-width: 940px; }
-th, td {
+
+.tbl {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 940px;
+}
+
+th,
+td {
   padding: 10px 12px;
-  border-bottom: 1px solid rgba(255,255,255,0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
   text-align: left;
   vertical-align: middle;
 }
-th { color: rgba(226,232,240,0.78); font-size: 12px; font-weight: 900; }
-td { color: rgba(255,255,255,0.90); font-size: 13px; }
-.muted { color: rgba(226,232,240,0.70); }
-.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-.num { text-align: right; }
-.date { width: 118px; }
-.top4 { width: 260px; }
-.link { width: 64px; text-align: center; }
-a { color: rgba(147,197,253,0.95); text-decoration: none; font-weight: 800; }
-a:hover { text-decoration: underline; }
 
-.nameCell { display: flex; flex-direction: column; gap: 4px; }
-.nameMain { font-weight: 900; }
-.nameMeta { display: flex; gap: 6px; flex-wrap: wrap; }
+th {
+  color: rgba(226, 232, 240, 0.78);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+td {
+  color: rgba(255, 255, 255, 0.90);
+  font-size: 13px;
+}
+
+.muted {
+  color: rgba(226, 232, 240, 0.70);
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.num {
+  text-align: right;
+}
+
+.date {
+  width: 118px;
+}
+
+.top4 {
+  width: 260px;
+}
+
+.link {
+  width: 64px;
+  text-align: center;
+}
+
+a {
+  color: rgba(147, 197, 253, 0.95);
+  text-decoration: none;
+  font-weight: 800;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.nameCell {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.nameMain {
+  font-weight: 900;
+}
+
+.nameMeta {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
 .pill {
   font-size: 11px;
   padding: 2px 8px;
   border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(2,6,23,0.25);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  background: rgba(2, 6, 23, 0.25);
 }
 
 .pill--btn {
   cursor: pointer;
   appearance: none;
-  border: 1px solid rgba(255,255,255,0.10);
-  background: rgba(2,6,23,0.25);
-  color: rgba(226,232,240,0.90);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  background: rgba(2, 6, 23, 0.25);
+  color: rgba(226, 232, 240, 0.90);
 }
 
 .pill--btn:hover {
-  border-color: rgba(255,255,255,0.22);
-  background: rgba(2,6,23,0.35);
+  border-color: rgba(255, 255, 255, 0.22);
+  background: rgba(2, 6, 23, 0.35);
 }
 
 .pill--active {
-  border-color: rgba(147,197,253,0.55);
-  background: rgba(30,41,59,0.35);
-  color: rgba(255,255,255,0.95);
+  border-color: rgba(147, 197, 253, 0.55);
+  background: rgba(30, 41, 59, 0.35);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 /* button 預設會有 focus ring，你可以保留或自訂 */
 .pill--btn:focus-visible {
-  outline: 2px solid rgba(147,197,253,0.55);
+  outline: 2px solid rgba(147, 197, 253, 0.55);
   outline-offset: 2px;
 }
 
@@ -1062,12 +1110,14 @@ a:hover { text-decoration: underline; }
   row-gap: 8px;
   align-items: start;
 }
+
 .deckPair {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 6px;
 }
+
 .deckIconsRow {
   display: inline-flex;
   gap: 6px;
@@ -1093,7 +1143,7 @@ a:hover { text-decoration: underline; }
   outline: none;
 
   display: block;
-  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.55));
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.55));
   z-index: 2;
 }
 
@@ -1104,7 +1154,7 @@ a:hover { text-decoration: underline; }
 
   border: 0;
   border-radius: 0;
-  background: rgba(255,255,255,0.06);
+  background: rgba(255, 255, 255, 0.06);
 }
 
 .deckDisk {
@@ -1113,8 +1163,8 @@ a:hover { text-decoration: underline; }
   margin-top: -43px;
   opacity: 0.95;
   display: block;
-  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6));
-  z-index:1;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.6));
+  z-index: 1;
 }
 
 /* medal discs */
@@ -1122,17 +1172,20 @@ a:hover { text-decoration: underline; }
   width: 14px;
   height: 14px;
   border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.18);
+  border: 1px solid rgba(255, 255, 255, 0.18);
   box-shadow:
-    0 0 0 1px rgba(0,0,0,0.25) inset,
-    0 1px 6px rgba(0,0,0,0.35);
+    0 0 0 1px rgba(0, 0, 0, 0.25) inset,
+    0 1px 6px rgba(0, 0, 0, 0.35);
 }
+
 .medal--gold {
   background: radial-gradient(circle at 30% 30%, #fff3c4 0%, #f6c84b 35%, #b7791f 100%);
 }
+
 .medal--silver {
   background: radial-gradient(circle at 30% 30%, #ffffff 0%, #cbd5e1 40%, #64748b 100%);
 }
+
 .medal--platinum {
   background: radial-gradient(circle at 30% 30%, #ffffff 0%, #e5e4e2 40%, #8b8b8b 100%);
 }
@@ -1145,27 +1198,31 @@ a:hover { text-decoration: underline; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid rgba(255,255,255,0.14);
-  background: rgba(2,6,23,0.25);
-  color: rgba(147,197,253,0.95);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(2, 6, 23, 0.25);
+  color: rgba(147, 197, 253, 0.95);
   font-weight: 900;
   text-decoration: none;
   user-select: none;
 }
+
 .linkDot:hover {
   text-decoration: none;
-  border-color: rgba(147,197,253,0.55);
-  background: rgba(30,41,59,0.35);
+  border-color: rgba(147, 197, 253, 0.55);
+  background: rgba(30, 41, 59, 0.35);
 }
 
-.foot { margin-top: 10px; font-size: 12px; }
+.foot {
+  margin-top: 10px;
+  font-size: 12px;
+}
 
-.pager{
+.pager {
   margin: 10px 0 12px;
   padding: 10px 12px;
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
-  background: rgba(15,23,42,0.35);
+  background: rgba(15, 23, 42, 0.35);
 
   display: flex;
   justify-content: space-between;
@@ -1174,82 +1231,82 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
 }
 
-.pager__left{
+.pager__left {
   display: flex;
   align-items: center;
   gap: 12px;
   flex-wrap: wrap;
 }
 
-.pager__label{
+.pager__label {
   font-size: 12px;
   font-weight: 900;
-  color: rgba(226,232,240,0.85);
+  color: rgba(226, 232, 240, 0.85);
 }
 
-.pager__sizes{
+.pager__sizes {
   display: inline-flex;
   gap: 8px;
 }
 
-.pagerBtn{
+.pagerBtn {
   padding: 6px 10px;
   border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.12);
-  background: rgba(2,6,23,0.25);
-  color: rgba(226,232,240,0.85);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(2, 6, 23, 0.25);
+  color: rgba(226, 232, 240, 0.85);
   cursor: pointer;
   font-weight: 800;
   font-size: 12px;
 }
 
-.pagerBtn:hover{
-  border-color: rgba(255,255,255,0.22);
-  background: rgba(2,6,23,0.35);
+.pagerBtn:hover {
+  border-color: rgba(255, 255, 255, 0.22);
+  background: rgba(2, 6, 23, 0.35);
 }
 
-.pagerBtn.is-active{
-  border-color: rgba(147,197,253,0.55);
-  background: rgba(30,41,59,0.35);
-  color: rgba(255,255,255,0.95);
+.pagerBtn.is-active {
+  border-color: rgba(147, 197, 253, 0.55);
+  background: rgba(30, 41, 59, 0.35);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 .nameLink {
   color: rgba(255, 255, 255, 0.92);
 }
+
 .nameLink:hover {
   text-decoration: underline;
 }
 
-.pager__summary{
+.pager__summary {
   font-size: 12px;
 }
 
-.pager__right{
+.pager__right {
   display: inline-flex;
   align-items: center;
   gap: 10px;
 }
 
-.pagerNav{
+.pagerNav {
   padding: 6px 10px;
   border-radius: 10px;
-  border: 1px solid rgba(255,255,255,0.14);
-  background: rgba(2,6,23,0.25);
-  color: rgba(226,232,240,0.9);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(2, 6, 23, 0.25);
+  color: rgba(226, 232, 240, 0.9);
   cursor: pointer;
   font-weight: 900;
   font-size: 12px;
 }
 
-.pagerNav:disabled{
+.pagerNav:disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
 
-.pager__page{
-  color: rgba(226,232,240,0.9);
+.pager__page {
+  color: rgba(226, 232, 240, 0.9);
   font-size: 12px;
 }
-
 </style>

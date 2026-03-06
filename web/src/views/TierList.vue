@@ -1,14 +1,15 @@
 <template>
-  <div>
-    <h1 class="pageTitle">Tier List</h1>
+  <div class="page">
+    <h1 class="pageTitle">{{ ui.title }}</h1>
 
     <div class="meta">
-      <div>Generated at: <span class="mono">{{ Data.meta.generated_at }}</span></div>
+      <div>{{ ui.time }}: <span class="mono">{{ Data.meta.generated_at }}</span></div>
       <div>
-        Window: last {{ Data.meta.days_back }} days ·
+        <!-- Window: last {{ Data.meta.days_back }} days ·
         Min players: {{ Data.meta.min_players }} ·
         Usage ≥ {{ (Data.meta.usage_threshold * 100).toFixed(0) }}% ·
-        Events: {{ Data.meta.tournaments_count }}
+        Events: {{ Data.meta.tournaments_count }} -->
+        {{ ui.window }}
       </div>
     </div>
 
@@ -17,14 +18,14 @@
         <thead>
           <tr>
             <th>#</th>
-            <th>Deck</th>
-            <th>Tier</th>
-            <th class="num">Score</th>
-            <th class="num">Usage</th>
-            <th class="num">Samples</th>
-            <th class="num">Top32</th>
-            <th class="num">Points</th>
-            <th class="num">Top32%</th>
+            <th>{{ ui.deck }}</th>
+            <th>{{ ui.tier }}</th>
+            <th class="num">{{ ui.score }}</th>
+            <th class="num">{{ ui.usage }}</th>
+            <th class="num">{{ ui.samples }}</th>
+            <th class="num">{{ ui.top32 }}</th>
+            <th class="num">{{ ui.points }}</th>
+            <th class="num">{{ ui.top32pct }}</th>
           </tr>
         </thead>
         <tbody>
@@ -47,12 +48,53 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
+import { useRoute } from "vue-router";
 import { Data } from '../lib/data'
 
 const rows = computed(() => Data.tier)
+
+const route = useRoute();
+const lang = computed<"zh" | "en">(() => {
+    const seg = String(route.path).split("/")[1];
+    return seg === "en" ? "en" : "zh";
+  });
+
+  const isZh = computed(() => lang.value === "zh");
+
+  const ui = computed(() => {
+    if (isZh.value) {
+      return {
+        title: "梯队排行",
+        time:"发布于",
+        window: "统计范围：最近 "+Data.meta.days_back+" 天 · 最小参赛人数 "+Data.meta.min_players+" · 使用率 ≥ "+(Data.meta.usage_threshold * 100).toFixed(0)+"% · 赛事数量 "+Data.meta.tournaments_count,
+        deck: "牌组",
+        tier: "梯队",
+        score: "评分",
+        usage: "使用率",
+        samples: "样本数",
+        top32: "Top32",
+        points: "积分",
+        top32pct: "Top32%"
+      };
+    }
+    return {
+      title: "Tier List",
+      time: "Generated at",
+      window: "Window: last " + Data.meta.days_back + " days · Min players: " + Data.meta.min_players + " · Usage ≥ " + (Data.meta.usage_threshold * 100).toFixed(0) + "% · Events: " + Data.meta.tournaments_count,
+      deck: "Deck",
+      tier: "Tier",
+      score: "Score",
+      usage: "Usage",
+      samples: "Samples",
+      top32: "Top32",
+      points: "Points",
+      top32pct: "Top32%"
+    };
+  });
 </script>
 
 <style scoped>
+.page{width: 1100px;}
 .pageTitle { margin: 0 0 12px; color: rgba(255,255,255,0.92); font-size: 18px; font-weight: 800; }
 .meta { margin-bottom: 12px; color: rgba(226,232,240,.75); font-size: 12px; line-height: 1.5; }
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
