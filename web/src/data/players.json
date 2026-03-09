@@ -5,9 +5,34 @@
     "country": "JP"
   },
   {
+    "player": "hosi",
+    "points": 38,
+    "country": "JP"
+  },
+  {
     "player": "normo360",
     "points": 37,
     "country": "US"
+  },
+  {
+    "player": "koko_pokepoke",
+    "points": 33,
+    "country": "JP"
+  },
+  {
+    "player": "kabesu",
+    "points": 32,
+    "country": "JP"
+  },
+  {
+    "player": "konono",
+    "points": 32,
+    "country": "JP"
+  },
+  {
+    "player": "naj2g",
+    "points": 32,
+    "country": "CA"
   },
   {
     "player": "sylar33",
@@ -20,34 +45,9 @@
     "country": "US"
   },
   {
-    "player": "koko_pokepoke",
-    "points": 31,
-    "country": "JP"
-  },
-  {
-    "player": "naj2g",
-    "points": 31,
-    "country": "CA"
-  },
-  {
-    "player": "konono",
-    "points": 30,
-    "country": "JP"
-  },
-  {
-    "player": "kabesu",
-    "points": 30,
-    "country": "JP"
-  },
-  {
     "player": "jonnycat",
     "points": 29,
     "country": "US"
-  },
-  {
-    "player": "hosi",
-    "points": 28,
-    "country": "JP"
   },
   {
     "player": "s1gun",
@@ -58,6 +58,11 @@
     "player": "zeekholz",
     "points": 28,
     "country": "US"
+  },
+  {
+    "player": "s4t0sh1",
+    "points": 27,
+    "country": "PR"
   },
   {
     "player": "val22",
@@ -80,9 +85,24 @@
     "country": "JP"
   },
   {
-    "player": "s4t0sh1",
+    "player": "luxmea",
     "points": 24,
-    "country": "PR"
+    "country": "ID"
+  },
+  {
+    "player": "aggerlenny",
+    "points": 24,
+    "country": "BR"
+  },
+  {
+    "player": "sana_37",
+    "points": 24,
+    "country": "JP"
+  },
+  {
+    "player": "shubham",
+    "points": 23,
+    "country": "IN"
   },
   {
     "player": "einstun",
@@ -100,14 +120,14 @@
     "country": "GB"
   },
   {
-    "player": "sana_37",
-    "points": 23,
-    "country": "JP"
+    "player": "fedex2729",
+    "points": 22,
+    "country": null
   },
   {
-    "player": "shubham",
+    "player": "dariuspopek",
     "points": 22,
-    "country": "IN"
+    "country": "PL"
   },
   {
     "player": "ppitopin8",
@@ -120,9 +140,14 @@
     "country": "ID"
   },
   {
-    "player": "luxmea",
-    "points": 22,
-    "country": "ID"
+    "player": "n3wa",
+    "points": 21,
+    "country": "PT"
+  },
+  {
+    "player": "nakopol91",
+    "points": 21,
+    "country": "GR"
   },
   {
     "player": "bixie",
@@ -145,14 +170,29 @@
     "country": "ES"
   },
   {
+    "player": "alana",
+    "points": 21,
+    "country": "ID"
+  },
+  {
+    "player": "golfermt",
+    "points": 21,
+    "country": "US"
+  },
+  {
     "player": "ktech3224",
     "points": 21,
     "country": "CA"
   },
   {
-    "player": "aggerlenny",
+    "player": "iduh",
     "points": 20,
-    "country": "BR"
+    "country": "ID"
+  },
+  {
+    "player": "ttv_jmpm9",
+    "points": 20,
+    "country": "ES"
   },
   {
     "player": "itati",
@@ -170,16 +210,6 @@
     "country": "FR"
   },
   {
-    "player": "alana",
-    "points": 20,
-    "country": "ID"
-  },
-  {
-    "player": "golfermt",
-    "points": 20,
-    "country": "US"
-  },
-  {
     "player": "nemu",
     "points": 20,
     "country": "JP"
@@ -187,6 +217,11 @@
   {
     "player": "puremi",
     "points": 20,
+    "country": null
+  },
+  {
+    "player": "pokemon_pocket",
+    "points": 19,
     "country": null
   },
   {
@@ -200,9 +235,9 @@
     "country": "FR"
   },
   {
-    "player": "nakopol91",
+    "player": "kevnoh",
     "points": 19,
-    "country": "GR"
+    "country": "MX"
   },
   {
     "player": "nettomanda4",
@@ -215,6 +250,11 @@
     "country": "ES"
   },
   {
+    "player": "griffsama",
+    "points": 18,
+    "country": "GB"
+  },
+  {
     "player": "sparadrap",
     "points": 18,
     "country": "FR"
@@ -225,11 +265,6 @@
     "country": null
   },
   {
-    "player": "kevnoh",
-    "points": 18,
-    "country": "MX"
-  },
-  {
     "player": "siro",
     "points": 18,
     "country": "JP"
@@ -238,11 +273,6 @@
     "player": "ddaviss",
     "points": 18,
     "country": "ES"
-  },
-  {
-    "player": "fedex2729",
-    "points": 18,
-    "country": null
   },
   {
     "player": "gogetta",
@@ -270,6 +300,21 @@
     "country": "ES"
   },
   {
+    "player": "ted0918",
+    "points": 16,
+    "country": "TW"
+  },
+  {
+    "player": "shohei02",
+    "points": 16,
+    "country": "JP"
+  },
+  {
+    "player": "m4kia_t",
+    "points": 16,
+    "country": "JP"
+  },
+  {
     "player": "noobslybot_01",
     "points": 16,
     "country": "US"
@@ -290,11 +335,6 @@
     "country": "JP"
   },
   {
-    "player": "dariuspopek",
-    "points": 16,
-    "country": "PL"
-  },
-  {
     "player": "luci",
     "points": 16,
     "country": "JP"
@@ -310,19 +350,19 @@
     "country": "CH"
   },
   {
-    "player": "piutonium",
+    "player": "shinra67",
     "points": 15,
     "country": "US"
   },
   {
-    "player": "m4kia_t",
+    "player": "joshuasutherland21",
     "points": 15,
-    "country": "JP"
+    "country": "US"
   },
   {
-    "player": "n3wa",
+    "player": "piutonium",
     "points": 15,
-    "country": "PT"
+    "country": "US"
   },
   {
     "player": "falmn",
@@ -350,11 +390,6 @@
     "country": "DE"
   },
   {
-    "player": "griffsama",
-    "points": 15,
-    "country": "GB"
-  },
-  {
     "player": "kodai",
     "points": 15,
     "country": "JP"
@@ -363,26 +398,6 @@
     "player": "mousel96",
     "points": 15,
     "country": "NL"
-  },
-  {
-    "player": "joshuasutherland21",
-    "points": 14,
-    "country": "US"
-  },
-  {
-    "player": "ttv_jmpm9",
-    "points": 14,
-    "country": "ES"
-  },
-  {
-    "player": "shinra67",
-    "points": 14,
-    "country": "US"
-  },
-  {
-    "player": "pokemon_pocket",
-    "points": 14,
-    "country": null
   },
   {
     "player": "tox1c",
@@ -400,6 +415,11 @@
     "country": "AT"
   },
   {
+    "player": "turbone101",
+    "points": 14,
+    "country": "ZA"
+  },
+  {
     "player": "raiderboy181",
     "points": 14,
     "country": "CA"
@@ -412,6 +432,21 @@
   {
     "player": "4th_d",
     "points": 14,
+    "country": "ID"
+  },
+  {
+    "player": "flipand11",
+    "points": 13,
+    "country": "CL"
+  },
+  {
+    "player": "essey",
+    "points": 13,
+    "country": "US"
+  },
+  {
+    "player": "spinvy",
+    "points": 13,
     "country": "ID"
   },
   {
@@ -455,9 +490,29 @@
     "country": "PT"
   },
   {
+    "player": "skl_yizzy",
+    "points": 12,
+    "country": "GB"
+  },
+  {
+    "player": "mo0nwa1k3r",
+    "points": 12,
+    "country": "US"
+  },
+  {
+    "player": "darkus96",
+    "points": 12,
+    "country": "ES"
+  },
+  {
     "player": "my",
     "points": 12,
     "country": "JP"
+  },
+  {
+    "player": "russ_ii",
+    "points": 12,
+    "country": "US"
   },
   {
     "player": "markoh",
@@ -480,16 +535,6 @@
     "country": "JP"
   },
   {
-    "player": "spinvy",
-    "points": 12,
-    "country": "ID"
-  },
-  {
-    "player": "iduh",
-    "points": 12,
-    "country": "ID"
-  },
-  {
     "player": "grmn1993",
     "points": 12,
     "country": "PT"
@@ -510,19 +555,9 @@
     "country": "AU"
   },
   {
-    "player": "turbone101",
-    "points": 12,
-    "country": "ZA"
-  },
-  {
     "player": "altkyle",
     "points": 12,
     "country": "GB"
-  },
-  {
-    "player": "flipand11",
-    "points": 12,
-    "country": "CL"
   },
   {
     "player": "kaitona0621",
@@ -533,6 +568,11 @@
     "player": "peeg",
     "points": 12,
     "country": "US"
+  },
+  {
+    "player": "raydorm",
+    "points": 12,
+    "country": "ES"
   },
   {
     "player": "zfeeney",
@@ -565,11 +605,6 @@
     "country": "JP"
   },
   {
-    "player": "essey",
-    "points": 11,
-    "country": "US"
-  },
-  {
     "player": "troopscoop",
     "points": 11,
     "country": "US"
@@ -590,6 +625,11 @@
     "country": "ES"
   },
   {
+    "player": "bigslowpokefan",
+    "points": 11,
+    "country": null
+  },
+  {
     "player": "okauki1",
     "points": 11,
     "country": "JP"
@@ -605,9 +645,14 @@
     "country": "US"
   },
   {
-    "player": "darkus96",
+    "player": "zagazaga",
     "points": 10,
-    "country": "ES"
+    "country": "IT"
+  },
+  {
+    "player": "danico",
+    "points": 10,
+    "country": "JP"
   },
   {
     "player": "r2rjp1",
@@ -665,14 +710,19 @@
     "country": "MX"
   },
   {
+    "player": "sukuna123",
+    "points": 10,
+    "country": "ES"
+  },
+  {
     "player": "ventrixd",
     "points": 10,
     "country": "FR"
   },
   {
-    "player": "bigslowpokefan",
+    "player": "seraru",
     "points": 10,
-    "country": null
+    "country": "JP"
   },
   {
     "player": "elluquitas96",
@@ -685,11 +735,6 @@
     "country": "US"
   },
   {
-    "player": "raydorm",
-    "points": 10,
-    "country": "ES"
-  },
-  {
     "player": "adjektive",
     "points": 10,
     "country": "DE"
@@ -698,6 +743,16 @@
     "player": "saripac",
     "points": 10,
     "country": "MY"
+  },
+  {
+    "player": "reiz",
+    "points": 9,
+    "country": "MY"
+  },
+  {
+    "player": "nevaluze",
+    "points": 9,
+    "country": null
   },
   {
     "player": "cyrunix",
@@ -765,6 +820,11 @@
     "country": "US"
   },
   {
+    "player": "isez",
+    "points": 9,
+    "country": "JP"
+  },
+  {
     "player": "nb2088",
     "points": 9,
     "country": null
@@ -775,24 +835,14 @@
     "country": null
   },
   {
-    "player": "russ_ii",
+    "player": "fey",
     "points": 8,
-    "country": "US"
-  },
-  {
-    "player": "skl_yizzy",
-    "points": 8,
-    "country": "GB"
+    "country": "BR"
   },
   {
     "player": "akaseahri",
     "points": 8,
     "country": "AR"
-  },
-  {
-    "player": "shohei02",
-    "points": 8,
-    "country": "JP"
   },
   {
     "player": "official91",
@@ -840,9 +890,9 @@
     "country": "FR"
   },
   {
-    "player": "sukuna123",
+    "player": "moky2510",
     "points": 8,
-    "country": "ES"
+    "country": "GB"
   },
   {
     "player": "pkmnchamp9",
@@ -855,14 +905,14 @@
     "country": "US"
   },
   {
-    "player": "reiz",
+    "player": "tomrrr",
     "points": 8,
-    "country": "MY"
+    "country": "PL"
   },
   {
-    "player": "nevaluze",
+    "player": "zholit",
     "points": 8,
-    "country": null
+    "country": "FR"
   },
   {
     "player": "wawan",
@@ -873,16 +923,6 @@
     "player": "icrups",
     "points": 8,
     "country": "FR"
-  },
-  {
-    "player": "danico",
-    "points": 8,
-    "country": "JP"
-  },
-  {
-    "player": "isez",
-    "points": 8,
-    "country": "JP"
   },
   {
     "player": "jacobjayyy",
@@ -930,6 +970,16 @@
     "country": null
   },
   {
+    "player": "zsensi_ppsd",
+    "points": 7,
+    "country": "JP"
+  },
+  {
+    "player": "dreamsky94",
+    "points": 7,
+    "country": null
+  },
+  {
     "player": "taroo",
     "points": 7,
     "country": "TW"
@@ -943,6 +993,11 @@
     "player": "pikaicetea",
     "points": 7,
     "country": "FR"
+  },
+  {
+    "player": "zerox_9",
+    "points": 7,
+    "country": "PE"
   },
   {
     "player": "na0000000008",
@@ -978,11 +1033,6 @@
     "player": "yuta0113",
     "points": 7,
     "country": "JP"
-  },
-  {
-    "player": "fey",
-    "points": 7,
-    "country": "BR"
   },
   {
     "player": "endg3gner",
@@ -1050,6 +1100,31 @@
     "country": "FR"
   },
   {
+    "player": "jeyksu",
+    "points": 6,
+    "country": "PH"
+  },
+  {
+    "player": "zeublai",
+    "points": 6,
+    "country": "FR"
+  },
+  {
+    "player": "landon10",
+    "points": 6,
+    "country": "IT"
+  },
+  {
+    "player": "flipinton",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "virture_k",
+    "points": 6,
+    "country": "TW"
+  },
+  {
     "player": "proskiftw",
     "points": 6,
     "country": "CA"
@@ -1063,11 +1138,6 @@
     "player": "tobias_oak",
     "points": 6,
     "country": "TT"
-  },
-  {
-    "player": "mo0nwa1k3r",
-    "points": 6,
-    "country": "US"
   },
   {
     "player": "thegeneralal",
@@ -1135,11 +1205,6 @@
     "country": "BR"
   },
   {
-    "player": "moky2510",
-    "points": 6,
-    "country": "GB"
-  },
-  {
     "player": "anhz",
     "points": 6,
     "country": "JP"
@@ -1148,11 +1213,6 @@
     "player": "szy",
     "points": 6,
     "country": "DE"
-  },
-  {
-    "player": "ted0918",
-    "points": 6,
-    "country": "TW"
   },
   {
     "player": "miwa3",
@@ -1178,11 +1238,6 @@
     "player": "antony",
     "points": 6,
     "country": "FR"
-  },
-  {
-    "player": "dreamsky94",
-    "points": 6,
-    "country": null
   },
   {
     "player": "leolg21",
@@ -1310,6 +1365,16 @@
     "country": "ES"
   },
   {
+    "player": "sakuragihanamichi",
+    "points": 5,
+    "country": "DO"
+  },
+  {
+    "player": "bobby02",
+    "points": 5,
+    "country": "IT"
+  },
+  {
     "player": "disposablehero",
     "points": 5,
     "country": "US"
@@ -1335,11 +1400,6 @@
     "country": null
   },
   {
-    "player": "flipinton",
-    "points": 5,
-    "country": "US"
-  },
-  {
     "player": "gordoom",
     "points": 5,
     "country": "BR"
@@ -1358,6 +1418,11 @@
     "player": "dragonkni8",
     "points": 5,
     "country": "IN"
+  },
+  {
+    "player": "okarun",
+    "points": 5,
+    "country": "CO"
   },
   {
     "player": "theviice",
@@ -1430,8 +1495,8 @@
     "country": "US"
   },
   {
-    "player": "landon10",
-    "points": 5,
+    "player": "kongkingreal",
+    "points": 4,
     "country": "IT"
   },
   {
@@ -1473,11 +1538,6 @@
     "player": "gimlet1991",
     "points": 4,
     "country": "US"
-  },
-  {
-    "player": "zeublai",
-    "points": 4,
-    "country": "FR"
   },
   {
     "player": "elmarcoo",
@@ -1525,6 +1585,11 @@
     "country": "KR"
   },
   {
+    "player": "pepe11714",
+    "points": 4,
+    "country": null
+  },
+  {
     "player": "evand",
     "points": 4,
     "country": "MX"
@@ -1535,14 +1600,14 @@
     "country": "ID"
   },
   {
+    "player": "nandosgude",
+    "points": 4,
+    "country": "ES"
+  },
+  {
     "player": "outlxw",
     "points": 4,
     "country": "DE"
-  },
-  {
-    "player": "jeyksu",
-    "points": 4,
-    "country": "PH"
   },
   {
     "player": "mythrilraven",
@@ -1600,6 +1665,11 @@
     "country": "US"
   },
   {
+    "player": "hanaex",
+    "points": 4,
+    "country": "JP"
+  },
+  {
     "player": "matcha17",
     "points": 4,
     "country": null
@@ -1633,11 +1703,6 @@
     "player": "danimal",
     "points": 4,
     "country": "US"
-  },
-  {
-    "player": "zholit",
-    "points": 4,
-    "country": "FR"
   },
   {
     "player": "wataru0901",
@@ -1790,6 +1855,26 @@
     "country": "MY"
   },
   {
+    "player": "doudou33",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "bredle",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "kurage",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "themagikarp",
+    "points": 3,
+    "country": "CA"
+  },
+  {
     "player": "r0zey",
     "points": 3,
     "country": "US"
@@ -1825,14 +1910,14 @@
     "country": "DE"
   },
   {
+    "player": "yuyoyuyo",
+    "points": 3,
+    "country": "JP"
+  },
+  {
     "player": "rahwakeup",
     "points": 3,
     "country": "US"
-  },
-  {
-    "player": "zsensi_ppsd",
-    "points": 3,
-    "country": "JP"
   },
   {
     "player": "cheerydog",
@@ -1865,24 +1950,9 @@
     "country": null
   },
   {
-    "player": "okarun",
-    "points": 3,
-    "country": "CO"
-  },
-  {
     "player": "bigchen",
     "points": 3,
     "country": "AU"
-  },
-  {
-    "player": "pepe11714",
-    "points": 3,
-    "country": null
-  },
-  {
-    "player": "nandosgude",
-    "points": 3,
-    "country": "ES"
   },
   {
     "player": "dashmd",
@@ -1975,6 +2045,16 @@
     "country": "US"
   },
   {
+    "player": "alecorna",
+    "points": 3,
+    "country": "IT"
+  },
+  {
+    "player": "iluchien",
+    "points": 3,
+    "country": "US"
+  },
+  {
     "player": "aito",
     "points": 3,
     "country": null
@@ -2055,14 +2135,34 @@
     "country": "US"
   },
   {
+    "player": "archiepocket",
+    "points": 2,
+    "country": "PT"
+  },
+  {
+    "player": "kiddangel",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "teehl512",
+    "points": 2,
+    "country": "MY"
+  },
+  {
+    "player": "yosh",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "freesky0519",
+    "points": 2,
+    "country": "HK"
+  },
+  {
     "player": "ruzlv",
     "points": 2,
     "country": "JP"
-  },
-  {
-    "player": "themagikarp",
-    "points": 2,
-    "country": "CA"
   },
   {
     "player": "killbo",
@@ -2170,11 +2270,6 @@
     "country": "MX"
   },
   {
-    "player": "yuyoyuyo",
-    "points": 2,
-    "country": "JP"
-  },
-  {
     "player": "jimbomancer",
     "points": 2,
     "country": "US"
@@ -2223,11 +2318,6 @@
     "player": "raigun",
     "points": 2,
     "country": "PH"
-  },
-  {
-    "player": "doudou33",
-    "points": 2,
-    "country": null
   },
   {
     "player": "danimaton",
@@ -2315,6 +2405,11 @@
     "country": null
   },
   {
+    "player": "su1_3o",
+    "points": 2,
+    "country": "JP"
+  },
+  {
     "player": "8digger2",
     "points": 2,
     "country": "US"
@@ -2348,6 +2443,11 @@
     "player": "maims123",
     "points": 2,
     "country": "US"
+  },
+  {
+    "player": "fbyixu",
+    "points": 2,
+    "country": "JP"
   },
   {
     "player": "bard0",
@@ -2425,6 +2525,16 @@
     "country": "VE"
   },
   {
+    "player": "frespyy",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "feherlac",
+    "points": 2,
+    "country": "HU"
+  },
+  {
     "player": "lentis",
     "points": 2,
     "country": "JP"
@@ -2433,11 +2543,6 @@
     "player": "jervis382000",
     "points": 2,
     "country": "SG"
-  },
-  {
-    "player": "virture_k",
-    "points": 2,
-    "country": "TW"
   },
   {
     "player": "jaimelesbonbec",
@@ -2710,11 +2815,6 @@
     "country": "AU"
   },
   {
-    "player": "iluchien",
-    "points": 2,
-    "country": "US"
-  },
-  {
     "player": "kykicks",
     "points": 2,
     "country": "US"
@@ -2765,16 +2865,6 @@
     "country": "US"
   },
   {
-    "player": "hanaex",
-    "points": 2,
-    "country": "JP"
-  },
-  {
-    "player": "bredle",
-    "points": 2,
-    "country": null
-  },
-  {
     "player": "principecaido95",
     "points": 2,
     "country": "AR"
@@ -2808,6 +2898,56 @@
     "player": "8duke8",
     "points": 2,
     "country": "DE"
+  },
+  {
+    "player": "wheelchairkev13",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "troyy",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "doomstopper",
+    "points": 1,
+    "country": "AU"
+  },
+  {
+    "player": "luffyhouz",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "oroborus",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "rexroxx",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "linrainchen",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "ogawa_luo",
+    "points": 1,
+    "country": "TW"
+  },
+  {
+    "player": "evadexo",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "nicoz",
+    "points": 1,
+    "country": "CO"
   },
   {
     "player": "jrab",
@@ -2865,11 +3005,6 @@
     "country": "CL"
   },
   {
-    "player": "zerox_9",
-    "points": 1,
-    "country": "PE"
-  },
-  {
     "player": "elnari",
     "points": 1,
     "country": "AR"
@@ -2923,11 +3058,6 @@
     "player": "jphenomenal",
     "points": 1,
     "country": "PL"
-  },
-  {
-    "player": "freesky0519",
-    "points": 1,
-    "country": "HK"
   },
   {
     "player": "mrcin0091",
@@ -3130,19 +3260,9 @@
     "country": "CL"
   },
   {
-    "player": "su1_3o",
-    "points": 1,
-    "country": "JP"
-  },
-  {
     "player": "faded7",
     "points": 1,
     "country": "MX"
-  },
-  {
-    "player": "kurage",
-    "points": 1,
-    "country": "JP"
   },
   {
     "player": "makinu",
@@ -3193,11 +3313,6 @@
     "player": "newfirsniper",
     "points": 1,
     "country": "CA"
-  },
-  {
-    "player": "fbyixu",
-    "points": 1,
-    "country": "JP"
   },
   {
     "player": "facechan",
@@ -3335,6 +3450,16 @@
     "country": "AR"
   },
   {
+    "player": "hinmyt",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "lilyswxn",
+    "points": 1,
+    "country": "US"
+  },
+  {
     "player": "mattelab",
     "points": 1,
     "country": "SG"
@@ -3388,11 +3513,6 @@
     "player": "trainerbt",
     "points": 1,
     "country": "CA"
-  },
-  {
-    "player": "feherlac",
-    "points": 1,
-    "country": "HU"
   },
   {
     "player": "ryutcg",
@@ -3935,11 +4055,6 @@
     "country": "US"
   },
   {
-    "player": "sakuragihanamichi",
-    "points": 1,
-    "country": "DO"
-  },
-  {
     "player": "hardbanger",
     "points": 1,
     "country": "DE"
@@ -3963,10 +4078,5 @@
     "player": "mrrandom369",
     "points": 1,
     "country": "US"
-  },
-  {
-    "player": "alecorna",
-    "points": 1,
-    "country": "IT"
   }
 ]

@@ -26,12 +26,5 @@
       "rounds": 1,
       "mode": "BO3"
     }
-  ],
-  "bannedCards": [
-    {
-      "name": "Lucky Ice Pop",
-      "set": "B2",
-      "number": "145"
-    }
   ]
 }
