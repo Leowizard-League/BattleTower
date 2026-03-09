@@ -157,6 +157,7 @@ def main():
 
     # --- 玩家排名（我用同一套名次給分）---
     player_points = {}         # player -> points
+	player_country = {}  
 
     # --- 勝率矩陣 ---
     matchup = {}               # (deckA, deckB) -> (winsA, total)
@@ -212,6 +213,9 @@ def main():
             # 玩家排名：同套給分
             player = s["player"]
             player_points[player] = player_points.get(player, 0) + pts
+			
+			# 保存国家信息
+			player_country[player] = s.get("country", "")
 
         # 勝率矩陣：用 pairings winner + 玩家 deck
         for m in pairings:
@@ -302,7 +306,7 @@ def main():
     tier_rows.sort(key=lambda x: x["score"], reverse=True)
 
     # 玩家排名
-    players = [{"player": p, "points": pts} for p, pts in player_points.items()]
+    players = [{"player": p, "points": pts,"country": player_country.get(p, "") } for p, pts in player_points.items()]
     players.sort(key=lambda x: x["points"], reverse=True)
 
     # 勝率矩陣輸出
