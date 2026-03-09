@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-09T08:29:31.479689Z",
+  "generated_at": "2026-03-09T10:16:37.142211Z",
   "days_back": 14,
   "min_players": 32,
   "usage_threshold": 0.01,
   "top_cut_n": 32,
   "tournaments_count": 59,
-  "total_entries_all": 0,
-  "top32_total_slots": 0,
+  "total_entries_all": 7640,
+  "top32_total_slots": 1782,
   "weights": {
     "data1": 0.4,
     "data2": 0.5,

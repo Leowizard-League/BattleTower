@@ -1,1 +1,4002 @@
-[]
+[
+  {
+    "player": "nagetto_zuki",
+    "points": 40,
+    "country": "JP"
+  },
+  {
+    "player": "normo360",
+    "points": 37,
+    "country": "US"
+  },
+  {
+    "player": "sylar33",
+    "points": 32,
+    "country": "HR"
+  },
+  {
+    "player": "hosi",
+    "points": 32,
+    "country": "JP"
+  },
+  {
+    "player": "iplaypokemans",
+    "points": 32,
+    "country": "US"
+  },
+  {
+    "player": "koko_pokepoke",
+    "points": 31,
+    "country": "JP"
+  },
+  {
+    "player": "naj2g",
+    "points": 31,
+    "country": "CA"
+  },
+  {
+    "player": "konono",
+    "points": 30,
+    "country": "JP"
+  },
+  {
+    "player": "kabesu",
+    "points": 30,
+    "country": "JP"
+  },
+  {
+    "player": "jonnycat",
+    "points": 29,
+    "country": "US"
+  },
+  {
+    "player": "s1gun",
+    "points": 28,
+    "country": "JP"
+  },
+  {
+    "player": "zeekholz",
+    "points": 28,
+    "country": "US"
+  },
+  {
+    "player": "val22",
+    "points": 27,
+    "country": "ID"
+  },
+  {
+    "player": "leaffff",
+    "points": 26,
+    "country": "JP"
+  },
+  {
+    "player": "wall456",
+    "points": 26,
+    "country": "US"
+  },
+  {
+    "player": "s4t0sh1",
+    "points": 25,
+    "country": "PR"
+  },
+  {
+    "player": "chiha_rotsure",
+    "points": 25,
+    "country": "JP"
+  },
+  {
+    "player": "einstun",
+    "points": 23,
+    "country": "ID"
+  },
+  {
+    "player": "goblinsama",
+    "points": 23,
+    "country": null
+  },
+  {
+    "player": "iisalad",
+    "points": 23,
+    "country": "GB"
+  },
+  {
+    "player": "sana_37",
+    "points": 23,
+    "country": "JP"
+  },
+  {
+    "player": "shubham",
+    "points": 22,
+    "country": "IN"
+  },
+  {
+    "player": "dariuspopek",
+    "points": 22,
+    "country": "PL"
+  },
+  {
+    "player": "ppitopin8",
+    "points": 22,
+    "country": "ES"
+  },
+  {
+    "player": "syr",
+    "points": 22,
+    "country": "ID"
+  },
+  {
+    "player": "luxmea",
+    "points": 22,
+    "country": "ID"
+  },
+  {
+    "player": "bixie",
+    "points": 21,
+    "country": "SG"
+  },
+  {
+    "player": "koehearts",
+    "points": 21,
+    "country": "US"
+  },
+  {
+    "player": "esdeath",
+    "points": 21,
+    "country": "AU"
+  },
+  {
+    "player": "hectordf",
+    "points": 21,
+    "country": "ES"
+  },
+  {
+    "player": "alana",
+    "points": 21,
+    "country": "ID"
+  },
+  {
+    "player": "golfermt",
+    "points": 21,
+    "country": "US"
+  },
+  {
+    "player": "ktech3224",
+    "points": 21,
+    "country": "CA"
+  },
+  {
+    "player": "aggerlenny",
+    "points": 20,
+    "country": "BR"
+  },
+  {
+    "player": "itati",
+    "points": 20,
+    "country": "JP"
+  },
+  {
+    "player": "tortellino69",
+    "points": 20,
+    "country": "IT"
+  },
+  {
+    "player": "n00bskiller",
+    "points": 20,
+    "country": "FR"
+  },
+  {
+    "player": "nemu",
+    "points": 20,
+    "country": "JP"
+  },
+  {
+    "player": "puremi",
+    "points": 20,
+    "country": null
+  },
+  {
+    "player": "njjord7",
+    "points": 19,
+    "country": "FR"
+  },
+  {
+    "player": "tosmadoublea",
+    "points": 19,
+    "country": "FR"
+  },
+  {
+    "player": "nakopol91",
+    "points": 19,
+    "country": "GR"
+  },
+  {
+    "player": "kevnoh",
+    "points": 19,
+    "country": "MX"
+  },
+  {
+    "player": "nettomanda4",
+    "points": 19,
+    "country": "JP"
+  },
+  {
+    "player": "vgckomalika",
+    "points": 19,
+    "country": "ES"
+  },
+  {
+    "player": "sparadrap",
+    "points": 18,
+    "country": "FR"
+  },
+  {
+    "player": "frostyicelad",
+    "points": 18,
+    "country": null
+  },
+  {
+    "player": "siro",
+    "points": 18,
+    "country": "JP"
+  },
+  {
+    "player": "ddaviss",
+    "points": 18,
+    "country": "ES"
+  },
+  {
+    "player": "fedex2729",
+    "points": 18,
+    "country": null
+  },
+  {
+    "player": "gogetta",
+    "points": 18,
+    "country": "CA"
+  },
+  {
+    "player": "javiee333",
+    "points": 17,
+    "country": "US"
+  },
+  {
+    "player": "corndog_xx",
+    "points": 17,
+    "country": "AU"
+  },
+  {
+    "player": "jjet",
+    "points": 17,
+    "country": "US"
+  },
+  {
+    "player": "kaonashi",
+    "points": 17,
+    "country": "ES"
+  },
+  {
+    "player": "noobslybot_01",
+    "points": 16,
+    "country": "US"
+  },
+  {
+    "player": "zegger",
+    "points": 16,
+    "country": "ID"
+  },
+  {
+    "player": "yoppe06",
+    "points": 16,
+    "country": "JP"
+  },
+  {
+    "player": "fuu_pcg",
+    "points": 16,
+    "country": "JP"
+  },
+  {
+    "player": "luci",
+    "points": 16,
+    "country": "JP"
+  },
+  {
+    "player": "griffsama",
+    "points": 16,
+    "country": "GB"
+  },
+  {
+    "player": "soheilovic",
+    "points": 16,
+    "country": null
+  },
+  {
+    "player": "popay",
+    "points": 16,
+    "country": "CH"
+  },
+  {
+    "player": "piutonium",
+    "points": 15,
+    "country": "US"
+  },
+  {
+    "player": "m4kia_t",
+    "points": 15,
+    "country": "JP"
+  },
+  {
+    "player": "n3wa",
+    "points": 15,
+    "country": "PT"
+  },
+  {
+    "player": "falmn",
+    "points": 15,
+    "country": "FR"
+  },
+  {
+    "player": "adi1906",
+    "points": 15,
+    "country": "IN"
+  },
+  {
+    "player": "elmatadorperu",
+    "points": 15,
+    "country": "PE"
+  },
+  {
+    "player": "nunogdm",
+    "points": 15,
+    "country": "PT"
+  },
+  {
+    "player": "preluxe",
+    "points": 15,
+    "country": "DE"
+  },
+  {
+    "player": "kodai",
+    "points": 15,
+    "country": "JP"
+  },
+  {
+    "player": "mousel96",
+    "points": 15,
+    "country": "NL"
+  },
+  {
+    "player": "joshuasutherland21",
+    "points": 14,
+    "country": "US"
+  },
+  {
+    "player": "ttv_jmpm9",
+    "points": 14,
+    "country": "ES"
+  },
+  {
+    "player": "shinra67",
+    "points": 14,
+    "country": "US"
+  },
+  {
+    "player": "pokemon_pocket",
+    "points": 14,
+    "country": null
+  },
+  {
+    "player": "tox1c",
+    "points": 14,
+    "country": "US"
+  },
+  {
+    "player": "neuro",
+    "points": 14,
+    "country": "TW"
+  },
+  {
+    "player": "mashu_tcg",
+    "points": 14,
+    "country": "AT"
+  },
+  {
+    "player": "turbone101",
+    "points": 14,
+    "country": "ZA"
+  },
+  {
+    "player": "raiderboy181",
+    "points": 14,
+    "country": "CA"
+  },
+  {
+    "player": "james_w",
+    "points": 14,
+    "country": "CN"
+  },
+  {
+    "player": "4th_d",
+    "points": 14,
+    "country": "ID"
+  },
+  {
+    "player": "mspinguino",
+    "points": 13,
+    "country": "AR"
+  },
+  {
+    "player": "strawberrycrepecookie",
+    "points": 13,
+    "country": "CA"
+  },
+  {
+    "player": "supreme13",
+    "points": 13,
+    "country": "US"
+  },
+  {
+    "player": "gato_333",
+    "points": 13,
+    "country": "CL"
+  },
+  {
+    "player": "erikitoh",
+    "points": 13,
+    "country": "ES"
+  },
+  {
+    "player": "dr_in_d_go",
+    "points": 13,
+    "country": "JP"
+  },
+  {
+    "player": "meendes",
+    "points": 13,
+    "country": "BR"
+  },
+  {
+    "player": "netcabo",
+    "points": 13,
+    "country": "PT"
+  },
+  {
+    "player": "my",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "russ_ii",
+    "points": 12,
+    "country": "US"
+  },
+  {
+    "player": "markoh",
+    "points": 12,
+    "country": "CL"
+  },
+  {
+    "player": "shreyasplays",
+    "points": 12,
+    "country": "IN"
+  },
+  {
+    "player": "lv80mewtwo",
+    "points": 12,
+    "country": "US"
+  },
+  {
+    "player": "soraku",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "spinvy",
+    "points": 12,
+    "country": "ID"
+  },
+  {
+    "player": "iduh",
+    "points": 12,
+    "country": "ID"
+  },
+  {
+    "player": "grmn1993",
+    "points": 12,
+    "country": "PT"
+  },
+  {
+    "player": "run090723",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "kspoke",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "sheedy",
+    "points": 12,
+    "country": "AU"
+  },
+  {
+    "player": "altkyle",
+    "points": 12,
+    "country": "GB"
+  },
+  {
+    "player": "flipand11",
+    "points": 12,
+    "country": "CL"
+  },
+  {
+    "player": "kaitona0621",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "peeg",
+    "points": 12,
+    "country": "US"
+  },
+  {
+    "player": "raydorm",
+    "points": 12,
+    "country": "ES"
+  },
+  {
+    "player": "zfeeney",
+    "points": 12,
+    "country": "US"
+  },
+  {
+    "player": "tarutaru",
+    "points": 12,
+    "country": "JP"
+  },
+  {
+    "player": "deezzznutzzz549",
+    "points": 11,
+    "country": "AU"
+  },
+  {
+    "player": "haruhi_1350",
+    "points": 11,
+    "country": "JP"
+  },
+  {
+    "player": "wxchan",
+    "points": 11,
+    "country": "MY"
+  },
+  {
+    "player": "kiiiichi08",
+    "points": 11,
+    "country": "JP"
+  },
+  {
+    "player": "essey",
+    "points": 11,
+    "country": "US"
+  },
+  {
+    "player": "troopscoop",
+    "points": 11,
+    "country": "US"
+  },
+  {
+    "player": "konapunpun",
+    "points": 11,
+    "country": null
+  },
+  {
+    "player": "ygh",
+    "points": 11,
+    "country": "KR"
+  },
+  {
+    "player": "david947",
+    "points": 11,
+    "country": "ES"
+  },
+  {
+    "player": "bigslowpokefan",
+    "points": 11,
+    "country": null
+  },
+  {
+    "player": "okauki1",
+    "points": 11,
+    "country": "JP"
+  },
+  {
+    "player": "shankar",
+    "points": 11,
+    "country": "IN"
+  },
+  {
+    "player": "b1urantics",
+    "points": 11,
+    "country": "US"
+  },
+  {
+    "player": "darkus96",
+    "points": 10,
+    "country": "ES"
+  },
+  {
+    "player": "r2rjp1",
+    "points": 10,
+    "country": "JP"
+  },
+  {
+    "player": "gabykem",
+    "points": 10,
+    "country": "AR"
+  },
+  {
+    "player": "estehlegitea",
+    "points": 10,
+    "country": "ID"
+  },
+  {
+    "player": "pokebom",
+    "points": 10,
+    "country": "GR"
+  },
+  {
+    "player": "sergyo91",
+    "points": 10,
+    "country": "CA"
+  },
+  {
+    "player": "seiren",
+    "points": 10,
+    "country": "KR"
+  },
+  {
+    "player": "tavi2k",
+    "points": 10,
+    "country": "US"
+  },
+  {
+    "player": "rua0715",
+    "points": 10,
+    "country": "JP"
+  },
+  {
+    "player": "amoose",
+    "points": 10,
+    "country": "SG"
+  },
+  {
+    "player": "moodie",
+    "points": 10,
+    "country": "IT"
+  },
+  {
+    "player": "skualo13",
+    "points": 10,
+    "country": "MX"
+  },
+  {
+    "player": "sukuna123",
+    "points": 10,
+    "country": "ES"
+  },
+  {
+    "player": "ventrixd",
+    "points": 10,
+    "country": "FR"
+  },
+  {
+    "player": "seraru",
+    "points": 10,
+    "country": "JP"
+  },
+  {
+    "player": "elluquitas96",
+    "points": 10,
+    "country": "PE"
+  },
+  {
+    "player": "porygon3",
+    "points": 10,
+    "country": "US"
+  },
+  {
+    "player": "adjektive",
+    "points": 10,
+    "country": "DE"
+  },
+  {
+    "player": "saripac",
+    "points": 10,
+    "country": "MY"
+  },
+  {
+    "player": "cyrunix",
+    "points": 9,
+    "country": null
+  },
+  {
+    "player": "jhove",
+    "points": 9,
+    "country": "US"
+  },
+  {
+    "player": "utirok",
+    "points": 9,
+    "country": null
+  },
+  {
+    "player": "chocolate",
+    "points": 9,
+    "country": "VE"
+  },
+  {
+    "player": "benjamink3",
+    "points": 9,
+    "country": "JP"
+  },
+  {
+    "player": "frappesdrinker",
+    "points": 9,
+    "country": "CH"
+  },
+  {
+    "player": "bigmanblastoise69",
+    "points": 9,
+    "country": null
+  },
+  {
+    "player": "yaboipride",
+    "points": 9,
+    "country": "GB"
+  },
+  {
+    "player": "1101yuto",
+    "points": 9,
+    "country": "JP"
+  },
+  {
+    "player": "bigdev",
+    "points": 9,
+    "country": "US"
+  },
+  {
+    "player": "chrispyptcgp",
+    "points": 9,
+    "country": "PH"
+  },
+  {
+    "player": "jearbear",
+    "points": 9,
+    "country": "US"
+  },
+  {
+    "player": "thugsbunny",
+    "points": 9,
+    "country": "US"
+  },
+  {
+    "player": "isez",
+    "points": 9,
+    "country": "JP"
+  },
+  {
+    "player": "nb2088",
+    "points": 9,
+    "country": null
+  },
+  {
+    "player": "888",
+    "points": 9,
+    "country": null
+  },
+  {
+    "player": "skl_yizzy",
+    "points": 8,
+    "country": "GB"
+  },
+  {
+    "player": "akaseahri",
+    "points": 8,
+    "country": "AR"
+  },
+  {
+    "player": "shohei02",
+    "points": 8,
+    "country": "JP"
+  },
+  {
+    "player": "official91",
+    "points": 8,
+    "country": "IT"
+  },
+  {
+    "player": "victorssito",
+    "points": 8,
+    "country": "ES"
+  },
+  {
+    "player": "cura222222",
+    "points": 8,
+    "country": "JP"
+  },
+  {
+    "player": "shifuz",
+    "points": 8,
+    "country": "GB"
+  },
+  {
+    "player": "creamylotion",
+    "points": 8,
+    "country": "US"
+  },
+  {
+    "player": "azelma",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "bingka",
+    "points": 8,
+    "country": "ID"
+  },
+  {
+    "player": "rie_shibata",
+    "points": 8,
+    "country": "JP"
+  },
+  {
+    "player": "vegegras",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "moky2510",
+    "points": 8,
+    "country": "GB"
+  },
+  {
+    "player": "pkmnchamp9",
+    "points": 8,
+    "country": "US"
+  },
+  {
+    "player": "konord",
+    "points": 8,
+    "country": "US"
+  },
+  {
+    "player": "reiz",
+    "points": 8,
+    "country": "MY"
+  },
+  {
+    "player": "nevaluze",
+    "points": 8,
+    "country": null
+  },
+  {
+    "player": "tomrrr",
+    "points": 8,
+    "country": "PL"
+  },
+  {
+    "player": "zholit",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "wawan",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "icrups",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "danico",
+    "points": 8,
+    "country": "JP"
+  },
+  {
+    "player": "jacobjayyy",
+    "points": 8,
+    "country": "US"
+  },
+  {
+    "player": "axelniraj",
+    "points": 8,
+    "country": "IN"
+  },
+  {
+    "player": "crazynice",
+    "points": 8,
+    "country": "HK"
+  },
+  {
+    "player": "yesterryyes971",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "momonagi",
+    "points": 8,
+    "country": "FR"
+  },
+  {
+    "player": "proto1994",
+    "points": 8,
+    "country": "US"
+  },
+  {
+    "player": "shu0802",
+    "points": 8,
+    "country": "JP"
+  },
+  {
+    "player": "masterbenji",
+    "points": 8,
+    "country": "GB"
+  },
+  {
+    "player": "sonicr91",
+    "points": 8,
+    "country": null
+  },
+  {
+    "player": "taroo",
+    "points": 7,
+    "country": "TW"
+  },
+  {
+    "player": "ilikecheese216",
+    "points": 7,
+    "country": "US"
+  },
+  {
+    "player": "pikaicetea",
+    "points": 7,
+    "country": "FR"
+  },
+  {
+    "player": "zerox_9",
+    "points": 7,
+    "country": "PE"
+  },
+  {
+    "player": "na0000000008",
+    "points": 7,
+    "country": "JP"
+  },
+  {
+    "player": "harian",
+    "points": 7,
+    "country": "IT"
+  },
+  {
+    "player": "ezreal",
+    "points": 7,
+    "country": "IN"
+  },
+  {
+    "player": "ezz67",
+    "points": 7,
+    "country": "DE"
+  },
+  {
+    "player": "atomiix",
+    "points": 7,
+    "country": "FR"
+  },
+  {
+    "player": "bicheins",
+    "points": 7,
+    "country": "AR"
+  },
+  {
+    "player": "yuta0113",
+    "points": 7,
+    "country": "JP"
+  },
+  {
+    "player": "fey",
+    "points": 7,
+    "country": "BR"
+  },
+  {
+    "player": "endg3gner",
+    "points": 7,
+    "country": "DE"
+  },
+  {
+    "player": "onlyx07",
+    "points": 7,
+    "country": "JP"
+  },
+  {
+    "player": "dab1d",
+    "points": 7,
+    "country": null
+  },
+  {
+    "player": "semant1c",
+    "points": 7,
+    "country": "DO"
+  },
+  {
+    "player": "birikinn",
+    "points": 7,
+    "country": "BR"
+  },
+  {
+    "player": "farfa3s",
+    "points": 7,
+    "country": "US"
+  },
+  {
+    "player": "jokrazie",
+    "points": 7,
+    "country": "US"
+  },
+  {
+    "player": "elsa",
+    "points": 7,
+    "country": "CN"
+  },
+  {
+    "player": "warpis",
+    "points": 7,
+    "country": "ID"
+  },
+  {
+    "player": "srafaelitocs",
+    "points": 7,
+    "country": "VE"
+  },
+  {
+    "player": "grandeevasore",
+    "points": 7,
+    "country": "IT"
+  },
+  {
+    "player": "kayyyy",
+    "points": 7,
+    "country": "US"
+  },
+  {
+    "player": "pryerlord",
+    "points": 7,
+    "country": "FR"
+  },
+  {
+    "player": "proskiftw",
+    "points": 6,
+    "country": "CA"
+  },
+  {
+    "player": "rno",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "tobias_oak",
+    "points": 6,
+    "country": "TT"
+  },
+  {
+    "player": "mo0nwa1k3r",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "thegeneralal",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "valekemp",
+    "points": 6,
+    "country": "IT"
+  },
+  {
+    "player": "hiiran",
+    "points": 6,
+    "country": "JP"
+  },
+  {
+    "player": "pl1222",
+    "points": 6,
+    "country": "FR"
+  },
+  {
+    "player": "giga",
+    "points": 6,
+    "country": "JP"
+  },
+  {
+    "player": "sbug",
+    "points": 6,
+    "country": "FR"
+  },
+  {
+    "player": "arronp",
+    "points": 6,
+    "country": "GB"
+  },
+  {
+    "player": "luckypoke",
+    "points": 6,
+    "country": "GB"
+  },
+  {
+    "player": "redvelvetash",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "portlandpoliwags",
+    "points": 6,
+    "country": "SI"
+  },
+  {
+    "player": "nr5qf",
+    "points": 6,
+    "country": "JP"
+  },
+  {
+    "player": "ne",
+    "points": 6,
+    "country": "CH"
+  },
+  {
+    "player": "omarkztv",
+    "points": 6,
+    "country": "BR"
+  },
+  {
+    "player": "anhz",
+    "points": 6,
+    "country": "JP"
+  },
+  {
+    "player": "szy",
+    "points": 6,
+    "country": "DE"
+  },
+  {
+    "player": "ted0918",
+    "points": 6,
+    "country": "TW"
+  },
+  {
+    "player": "miwa3",
+    "points": 6,
+    "country": "JP"
+  },
+  {
+    "player": "7earless",
+    "points": 6,
+    "country": "CA"
+  },
+  {
+    "player": "legoshi",
+    "points": 6,
+    "country": "GB"
+  },
+  {
+    "player": "brendon68",
+    "points": 6,
+    "country": "FR"
+  },
+  {
+    "player": "antony",
+    "points": 6,
+    "country": "FR"
+  },
+  {
+    "player": "dreamsky94",
+    "points": 6,
+    "country": null
+  },
+  {
+    "player": "leolg21",
+    "points": 6,
+    "country": "MX"
+  },
+  {
+    "player": "jjghost2k",
+    "points": 6,
+    "country": "TW"
+  },
+  {
+    "player": "dakka_1988",
+    "points": 6,
+    "country": "IT"
+  },
+  {
+    "player": "soflo305x",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "godi",
+    "points": 6,
+    "country": "ID"
+  },
+  {
+    "player": "braver_hwang",
+    "points": 6,
+    "country": "KR"
+  },
+  {
+    "player": "frogger",
+    "points": 6,
+    "country": "PT"
+  },
+  {
+    "player": "fudifudi",
+    "points": 6,
+    "country": "IN"
+  },
+  {
+    "player": "justgab",
+    "points": 6,
+    "country": "IT"
+  },
+  {
+    "player": "immolate",
+    "points": 6,
+    "country": "PH"
+  },
+  {
+    "player": "whatthesigma",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "1coolbro",
+    "points": 6,
+    "country": "IN"
+  },
+  {
+    "player": "lun55555",
+    "points": 6,
+    "country": "TW"
+  },
+  {
+    "player": "mamas",
+    "points": 6,
+    "country": null
+  },
+  {
+    "player": "bloo",
+    "points": 6,
+    "country": "MY"
+  },
+  {
+    "player": "sugaru",
+    "points": 6,
+    "country": "DO"
+  },
+  {
+    "player": "scrat6962",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "golfermt10",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "setoni10",
+    "points": 6,
+    "country": "ES"
+  },
+  {
+    "player": "tyvix",
+    "points": 6,
+    "country": null
+  },
+  {
+    "player": "yuuichi",
+    "points": 6,
+    "country": "IT"
+  },
+  {
+    "player": "icymando",
+    "points": 6,
+    "country": "US"
+  },
+  {
+    "player": "technogod",
+    "points": 6,
+    "country": null
+  },
+  {
+    "player": "thiagoxy",
+    "points": 6,
+    "country": "AR"
+  },
+  {
+    "player": "gaizkita",
+    "points": 6,
+    "country": "ES"
+  },
+  {
+    "player": "disposablehero",
+    "points": 5,
+    "country": "US"
+  },
+  {
+    "player": "p11_reiken",
+    "points": 5,
+    "country": "ES"
+  },
+  {
+    "player": "jonass11",
+    "points": 5,
+    "country": "ES"
+  },
+  {
+    "player": "bonn",
+    "points": 5,
+    "country": "JP"
+  },
+  {
+    "player": "rett",
+    "points": 5,
+    "country": null
+  },
+  {
+    "player": "flipinton",
+    "points": 5,
+    "country": "US"
+  },
+  {
+    "player": "gordoom",
+    "points": 5,
+    "country": "BR"
+  },
+  {
+    "player": "dougz92",
+    "points": 5,
+    "country": "BR"
+  },
+  {
+    "player": "maus10",
+    "points": 5,
+    "country": "IT"
+  },
+  {
+    "player": "dragonkni8",
+    "points": 5,
+    "country": "IN"
+  },
+  {
+    "player": "okarun",
+    "points": 5,
+    "country": "CO"
+  },
+  {
+    "player": "theviice",
+    "points": 5,
+    "country": "DE"
+  },
+  {
+    "player": "karebovippass",
+    "points": 5,
+    "country": "JP"
+  },
+  {
+    "player": "h1kakinnn",
+    "points": 5,
+    "country": "JP"
+  },
+  {
+    "player": "gunnmgirl",
+    "points": 5,
+    "country": "CA"
+  },
+  {
+    "player": "fazeuwu",
+    "points": 5,
+    "country": null
+  },
+  {
+    "player": "sevensky",
+    "points": 5,
+    "country": "TW"
+  },
+  {
+    "player": "ohoo",
+    "points": 5,
+    "country": "BR"
+  },
+  {
+    "player": "cloudchasing",
+    "points": 5,
+    "country": "US"
+  },
+  {
+    "player": "fiesco18",
+    "points": 5,
+    "country": "MX"
+  },
+  {
+    "player": "sinorci200",
+    "points": 5,
+    "country": "IT"
+  },
+  {
+    "player": "random",
+    "points": 5,
+    "country": "DE"
+  },
+  {
+    "player": "giaacomoo",
+    "points": 5,
+    "country": "IT"
+  },
+  {
+    "player": "shesa",
+    "points": 5,
+    "country": "ID"
+  },
+  {
+    "player": "wetwitch",
+    "points": 5,
+    "country": "US"
+  },
+  {
+    "player": "landon10",
+    "points": 5,
+    "country": "IT"
+  },
+  {
+    "player": "2sick",
+    "points": 4,
+    "country": "GB"
+  },
+  {
+    "player": "kraby29",
+    "points": 4,
+    "country": "AR"
+  },
+  {
+    "player": "mrd",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "devastazioneh88",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "mcdonuts",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "fitypaldis",
+    "points": 4,
+    "country": "CL"
+  },
+  {
+    "player": "nayarapoke",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "gimlet1991",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "zeublai",
+    "points": 4,
+    "country": "FR"
+  },
+  {
+    "player": "elmarcoo",
+    "points": 4,
+    "country": "MX"
+  },
+  {
+    "player": "ixerox",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "hamuou",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "nuggie_d",
+    "points": 4,
+    "country": "AU"
+  },
+  {
+    "player": "jayswan",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "caniuz",
+    "points": 4,
+    "country": "IT"
+  },
+  {
+    "player": "draav3n",
+    "points": 4,
+    "country": "AR"
+  },
+  {
+    "player": "amg7",
+    "points": 4,
+    "country": "MX"
+  },
+  {
+    "player": "bfootball0525",
+    "points": 4,
+    "country": "KR"
+  },
+  {
+    "player": "pepe11714",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "evand",
+    "points": 4,
+    "country": "MX"
+  },
+  {
+    "player": "7l",
+    "points": 4,
+    "country": "ID"
+  },
+  {
+    "player": "nandosgude",
+    "points": 4,
+    "country": "ES"
+  },
+  {
+    "player": "outlxw",
+    "points": 4,
+    "country": "DE"
+  },
+  {
+    "player": "jeyksu",
+    "points": 4,
+    "country": "PH"
+  },
+  {
+    "player": "mythrilraven",
+    "points": 4,
+    "country": "AU"
+  },
+  {
+    "player": "ogprof151",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "cjplayspokemon",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "timothylie",
+    "points": 4,
+    "country": "NL"
+  },
+  {
+    "player": "mbaseggio",
+    "points": 4,
+    "country": "GB"
+  },
+  {
+    "player": "oscarparra",
+    "points": 4,
+    "country": "CL"
+  },
+  {
+    "player": "xanypopper",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "im_black",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "vlatoshi",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "dovelion",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "sup3r27ttv",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "bobby02",
+    "points": 4,
+    "country": "IT"
+  },
+  {
+    "player": "hanaex",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "matcha17",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "seabass8",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "jariddle",
+    "points": 4,
+    "country": "MX"
+  },
+  {
+    "player": "menaofsteel",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "tunanigiri",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "marckedcards",
+    "points": 4,
+    "country": "PH"
+  },
+  {
+    "player": "danimal",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "wataru0901",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "redmaicon",
+    "points": 4,
+    "country": "BR"
+  },
+  {
+    "player": "skies",
+    "points": 4,
+    "country": "GB"
+  },
+  {
+    "player": "boat_hyperion",
+    "points": 4,
+    "country": "FI"
+  },
+  {
+    "player": "ivanchu",
+    "points": 4,
+    "country": "ES"
+  },
+  {
+    "player": "coldplay",
+    "points": 4,
+    "country": "PE"
+  },
+  {
+    "player": "ranko",
+    "points": 4,
+    "country": "MX"
+  },
+  {
+    "player": "nelly",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "zyzz3",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "el_pesca",
+    "points": 4,
+    "country": "ES"
+  },
+  {
+    "player": "light_dn",
+    "points": 4,
+    "country": null
+  },
+  {
+    "player": "robs",
+    "points": 4,
+    "country": "BR"
+  },
+  {
+    "player": "hamza007",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "kenson",
+    "points": 4,
+    "country": "HK"
+  },
+  {
+    "player": "agangofhippies",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "grandeaj",
+    "points": 4,
+    "country": "BR"
+  },
+  {
+    "player": "axows",
+    "points": 4,
+    "country": "CO"
+  },
+  {
+    "player": "shikamaru_br",
+    "points": 4,
+    "country": "BR"
+  },
+  {
+    "player": "daicavallo00",
+    "points": 4,
+    "country": "IT"
+  },
+  {
+    "player": "jahknee",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "ev_arima",
+    "points": 4,
+    "country": "KR"
+  },
+  {
+    "player": "nabugu",
+    "points": 4,
+    "country": "UA"
+  },
+  {
+    "player": "eliteslayer_11",
+    "points": 4,
+    "country": "ZA"
+  },
+  {
+    "player": "amilaz",
+    "points": 4,
+    "country": "TR"
+  },
+  {
+    "player": "akamelml",
+    "points": 4,
+    "country": "PE"
+  },
+  {
+    "player": "thomasxavier21",
+    "points": 4,
+    "country": "CL"
+  },
+  {
+    "player": "beekaytriestcg",
+    "points": 4,
+    "country": "US"
+  },
+  {
+    "player": "lotso27",
+    "points": 4,
+    "country": "JP"
+  },
+  {
+    "player": "typhoon16",
+    "points": 4,
+    "country": "PT"
+  },
+  {
+    "player": "garbohanzo",
+    "points": 4,
+    "country": "MY"
+  },
+  {
+    "player": "r0zey",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "khronistr",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "frost22",
+    "points": 3,
+    "country": "IN"
+  },
+  {
+    "player": "khaeruibnum",
+    "points": 3,
+    "country": "ID"
+  },
+  {
+    "player": "dracoz",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "crieghz",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "super_peace",
+    "points": 3,
+    "country": "DE"
+  },
+  {
+    "player": "yuyoyuyo",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "rahwakeup",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "zsensi_ppsd",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "cheerydog",
+    "points": 3,
+    "country": "AU"
+  },
+  {
+    "player": "idizmeee",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "topo_owo",
+    "points": 3,
+    "country": "CO"
+  },
+  {
+    "player": "deangelis99",
+    "points": 3,
+    "country": "IT"
+  },
+  {
+    "player": "flipsicle",
+    "points": 3,
+    "country": "IN"
+  },
+  {
+    "player": "sas",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "bigchen",
+    "points": 3,
+    "country": "AU"
+  },
+  {
+    "player": "dashmd",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "moonlightmx",
+    "points": 3,
+    "country": "MX"
+  },
+  {
+    "player": "hofuruhoshi",
+    "points": 3,
+    "country": "FR"
+  },
+  {
+    "player": "racso1",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "whoisfabela",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "gengargabe",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "shardfly",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "mefig",
+    "points": 3,
+    "country": "VE"
+  },
+  {
+    "player": "kana41",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "gratoss65",
+    "points": 3,
+    "country": "FR"
+  },
+  {
+    "player": "fall88",
+    "points": 3,
+    "country": "TW"
+  },
+  {
+    "player": "luisw",
+    "points": 3,
+    "country": "BR"
+  },
+  {
+    "player": "soshirokaiju",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "tylyn",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "cloud77",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "ynovator",
+    "points": 3,
+    "country": "PH"
+  },
+  {
+    "player": "darffan",
+    "points": 3,
+    "country": "BR"
+  },
+  {
+    "player": "rekkatherapy",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "alecorna",
+    "points": 3,
+    "country": "IT"
+  },
+  {
+    "player": "iluchien",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "aito",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "sho_sho",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "caminknight",
+    "points": 3,
+    "country": "PE"
+  },
+  {
+    "player": "graywheel6210",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "pattyd",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "corcho5",
+    "points": 3,
+    "country": "AR"
+  },
+  {
+    "player": "gosuuu",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "malacath",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "rfrey",
+    "points": 3,
+    "country": "JP"
+  },
+  {
+    "player": "dj_marnel",
+    "points": 3,
+    "country": "IT"
+  },
+  {
+    "player": "capcaps",
+    "points": 3,
+    "country": "DE"
+  },
+  {
+    "player": "victorardiles",
+    "points": 3,
+    "country": "BR"
+  },
+  {
+    "player": "oohchalk",
+    "points": 3,
+    "country": null
+  },
+  {
+    "player": "cicciomelo",
+    "points": 3,
+    "country": "IT"
+  },
+  {
+    "player": "itspaydro18",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "xctloya26",
+    "points": 3,
+    "country": "US"
+  },
+  {
+    "player": "ruzlv",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "themagikarp",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "killbo",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "turtlegeek",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "chiefton007",
+    "points": 2,
+    "country": "TT"
+  },
+  {
+    "player": "hanalana",
+    "points": 2,
+    "country": "ID"
+  },
+  {
+    "player": "liamkrew",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "timo",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "fluffy_panda1995",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "nielreynan",
+    "points": 2,
+    "country": "PH"
+  },
+  {
+    "player": "breaking2mirror",
+    "points": 2,
+    "country": "DO"
+  },
+  {
+    "player": "mahorn0330",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "fatestar",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "reziah",
+    "points": 2,
+    "country": "PR"
+  },
+  {
+    "player": "ghost_319",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "eilix524",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "shinyyshinyy",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "thii8",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "daikii",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "zilla91",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "architect",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "schlingel",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "rmgzane",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "jimbomancer",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "prisme",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "frozzinnz",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "michealmayer",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "ao1610",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "elnico6754",
+    "points": 2,
+    "country": "CO"
+  },
+  {
+    "player": "toxology",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "estxkilla",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "rubiq",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "raigun",
+    "points": 2,
+    "country": "PH"
+  },
+  {
+    "player": "doudou33",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "danimaton",
+    "points": 2,
+    "country": "ES"
+  },
+  {
+    "player": "ouaispasmal",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "l_xoz",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "soshi",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "sodesia",
+    "points": 2,
+    "country": "AE"
+  },
+  {
+    "player": "highlight",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "guiggs",
+    "points": 2,
+    "country": "PT"
+  },
+  {
+    "player": "zorrino",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "fuleirzys09",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "masterlando_420",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "etn",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "andrewbreaker",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "trainer4572",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "szerolotus",
+    "points": 2,
+    "country": "SG"
+  },
+  {
+    "player": "sophiadeclare",
+    "points": 2,
+    "country": "VN"
+  },
+  {
+    "player": "canelont",
+    "points": 2,
+    "country": "AR"
+  },
+  {
+    "player": "trainerlight29",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "su1_3o",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "8digger2",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "adriman22",
+    "points": 2,
+    "country": "ES"
+  },
+  {
+    "player": "conquestcqn",
+    "points": 2,
+    "country": "PL"
+  },
+  {
+    "player": "juninion",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "fury64140",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "rdstarlight",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "maims123",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "fbyixu",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "bard0",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "joystick",
+    "points": 2,
+    "country": "PH"
+  },
+  {
+    "player": "hansuwe",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "misterburp",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "xhunquitooax",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "nid",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "dodorimo",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "mitsuru_kajiwara",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "flash07",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "makimon",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "exodia_1",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "cavvyr",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "crixuz",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "belceboss",
+    "points": 2,
+    "country": "VE"
+  },
+  {
+    "player": "glare",
+    "points": 2,
+    "country": "VE"
+  },
+  {
+    "player": "frespyy",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "feherlac",
+    "points": 2,
+    "country": "HU"
+  },
+  {
+    "player": "lentis",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "jervis382000",
+    "points": 2,
+    "country": "SG"
+  },
+  {
+    "player": "virture_k",
+    "points": 2,
+    "country": "TW"
+  },
+  {
+    "player": "jaimelesbonbec",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "conclusive",
+    "points": 2,
+    "country": "PR"
+  },
+  {
+    "player": "hekamashi",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "abe",
+    "points": 2,
+    "country": "ES"
+  },
+  {
+    "player": "snorlaxstew",
+    "points": 2,
+    "country": "AU"
+  },
+  {
+    "player": "n3mu",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "louie_no1",
+    "points": 2,
+    "country": "KR"
+  },
+  {
+    "player": "johtojero",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "citric",
+    "points": 2,
+    "country": "VE"
+  },
+  {
+    "player": "xuxsoul",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "wornz",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "jpgaro",
+    "points": 2,
+    "country": "PE"
+  },
+  {
+    "player": "sphinxzoro1",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "diana_chan",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "edwinborbon000",
+    "points": 2,
+    "country": "DO"
+  },
+  {
+    "player": "kaizo",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "d_mon",
+    "points": 2,
+    "country": "MX"
+  },
+  {
+    "player": "braynomaden",
+    "points": 2,
+    "country": "ID"
+  },
+  {
+    "player": "aoisora",
+    "points": 2,
+    "country": "ID"
+  },
+  {
+    "player": "rzlby",
+    "points": 2,
+    "country": "ID"
+  },
+  {
+    "player": "aetherbenny",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "eri_myname",
+    "points": 2,
+    "country": "TW"
+  },
+  {
+    "player": "aleqw",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "stormstar",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "shadowkn24",
+    "points": 2,
+    "country": "IN"
+  },
+  {
+    "player": "epicwasta",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "oddy",
+    "points": 2,
+    "country": "ID"
+  },
+  {
+    "player": "xari",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "im_notryan",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "alhag114",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "xdesti",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "suugarwater",
+    "points": 2,
+    "country": "KR"
+  },
+  {
+    "player": "fabiowastaken",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "hao0o",
+    "points": 2,
+    "country": "SG"
+  },
+  {
+    "player": "lt0913",
+    "points": 2,
+    "country": "HK"
+  },
+  {
+    "player": "qqoo",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "diego093",
+    "points": 2,
+    "country": "CO"
+  },
+  {
+    "player": "sseisen",
+    "points": 2,
+    "country": "PT"
+  },
+  {
+    "player": "kikoxhunter",
+    "points": 2,
+    "country": "CA"
+  },
+  {
+    "player": "cookie630",
+    "points": 2,
+    "country": "SG"
+  },
+  {
+    "player": "javiercazorla",
+    "points": 2,
+    "country": "AR"
+  },
+  {
+    "player": "dazbazgaming",
+    "points": 2,
+    "country": "GB"
+  },
+  {
+    "player": "yaboishaad",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "jaydankest",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "muswa",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "hanzee",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "bigred12121",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "onlyjungsi",
+    "points": 2,
+    "country": "KR"
+  },
+  {
+    "player": "eddiespfc",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "pluto12",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "johtopack",
+    "points": 2,
+    "country": "CL"
+  },
+  {
+    "player": "sl4ps",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "xopogs",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "opticsauna",
+    "points": 2,
+    "country": "AU"
+  },
+  {
+    "player": "kykicks",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "amigo2222",
+    "points": 2,
+    "country": "ES"
+  },
+  {
+    "player": "owen_aw",
+    "points": 2,
+    "country": "MY"
+  },
+  {
+    "player": "varma",
+    "points": 2,
+    "country": "IN"
+  },
+  {
+    "player": "drloic",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "robin0936",
+    "points": 2,
+    "country": "CO"
+  },
+  {
+    "player": "skibididopdop",
+    "points": 2,
+    "country": "ES"
+  },
+  {
+    "player": "hdanial",
+    "points": 2,
+    "country": "MY"
+  },
+  {
+    "player": "alexsworth",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "slinnerd101",
+    "points": 2,
+    "country": "US"
+  },
+  {
+    "player": "bredle",
+    "points": 2,
+    "country": null
+  },
+  {
+    "player": "principecaido95",
+    "points": 2,
+    "country": "AR"
+  },
+  {
+    "player": "pyrodachef",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "rafaellouz",
+    "points": 2,
+    "country": "BR"
+  },
+  {
+    "player": "ninoleo",
+    "points": 2,
+    "country": "IT"
+  },
+  {
+    "player": "fedped",
+    "points": 2,
+    "country": "JP"
+  },
+  {
+    "player": "almezda",
+    "points": 2,
+    "country": "FR"
+  },
+  {
+    "player": "8duke8",
+    "points": 2,
+    "country": "DE"
+  },
+  {
+    "player": "jrab",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "akfirestorm",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "ansito",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "awbscene",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "tommyhp",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "acebakun",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "manutan",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "rossytribiani",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "magrones",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "necroblaze",
+    "points": 1,
+    "country": "GB"
+  },
+  {
+    "player": "gosulek",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "elnari",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "kikokwikwak",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "ycha_00",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "cacney21",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "kylorde",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "snowpoints",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "foxy",
+    "points": 1,
+    "country": "SI"
+  },
+  {
+    "player": "fatsillygoose",
+    "points": 1,
+    "country": "AU"
+  },
+  {
+    "player": "keio_zamazenta",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "adporkupine",
+    "points": 1,
+    "country": "HK"
+  },
+  {
+    "player": "jphenomenal",
+    "points": 1,
+    "country": "PL"
+  },
+  {
+    "player": "freesky0519",
+    "points": 1,
+    "country": "HK"
+  },
+  {
+    "player": "mrcin0091",
+    "points": 1,
+    "country": "PL"
+  },
+  {
+    "player": "pokeke",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "gigagoat",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "doodat",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "bestiari",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "xhinoman",
+    "points": 1,
+    "country": "EC"
+  },
+  {
+    "player": "lightxz",
+    "points": 1,
+    "country": "SG"
+  },
+  {
+    "player": "suguru1999",
+    "points": 1,
+    "country": "MY"
+  },
+  {
+    "player": "sekkarou",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "tomita45454545",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "paolettijr",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "regenzzzeit",
+    "points": 1,
+    "country": "IM"
+  },
+  {
+    "player": "chocooo",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "rakgnarvaliant",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "lionking",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "keitzu",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "soundofchaos",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "aiueoniisan",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "lauderdee",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "silencejoker",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "zephyr400",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "redspoon",
+    "points": 1,
+    "country": "RO"
+  },
+  {
+    "player": "sleepy512pete",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "teedotowe",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "ziquan2",
+    "points": 1,
+    "country": "MY"
+  },
+  {
+    "player": "caspel09",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "stormxtr",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "akezaki",
+    "points": 1,
+    "country": "PE"
+  },
+  {
+    "player": "mmsb",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "snipercrowbar",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "numatinale",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "basics_susu",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "dbey4010314_0508",
+    "points": 1,
+    "country": "TW"
+  },
+  {
+    "player": "elliedark",
+    "points": 1,
+    "country": "GB"
+  },
+  {
+    "player": "snail__05",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "eku",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "sagekcd",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "strangecoyote",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "tmcoy97",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "juanpcv4540",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "faded7",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "kurage",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "makinu",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "koishikomeijiex",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "tekkenvera",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "faficha",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "mysticagleon",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "flyingfrank",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "itz_guri",
+    "points": 1,
+    "country": "AT"
+  },
+  {
+    "player": "guildlen",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "abscissa",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "newfirsniper",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "facechan",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "carver",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "pepin_mx",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "avalan",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "thay195",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "mart95nlc",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "larvaro",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "destyder",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "theg35",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "mfa",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "arackz85",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "croco15",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "schmosbydlx",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "realrtr",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "sirvival",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "pamnardo_s2",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "manchonito",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "topvianna040423",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "angelst",
+    "points": 1,
+    "country": "GR"
+  },
+  {
+    "player": "kiddoz",
+    "points": 1,
+    "country": "ID"
+  },
+  {
+    "player": "rkelle19",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "drunkbuthappy",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "power_cosmuk",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "cavallovlanco",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "yukapower35",
+    "points": 1,
+    "country": "PR"
+  },
+  {
+    "player": "dirtychks",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "bb4peach",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "hinmyt",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "lilyswxn",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "mattelab",
+    "points": 1,
+    "country": "SG"
+  },
+  {
+    "player": "rubenoultime",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "greenfra",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "hima_suika",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "curryudon1107",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "lennydeski",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "chrischang032",
+    "points": 1,
+    "country": "KR"
+  },
+  {
+    "player": "crackportero",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "hasalf",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "birdrsarefriends",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "trainerbt",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "ryutcg",
+    "points": 1,
+    "country": "ID"
+  },
+  {
+    "player": "chv3173",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "kinitzu",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "jdondog",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "mckey66",
+    "points": 1,
+    "country": "AU"
+  },
+  {
+    "player": "jhonseb0",
+    "points": 1,
+    "country": "CO"
+  },
+  {
+    "player": "mrxtrem26",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "fleepter",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "scorpion527",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "naoki",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "wuggzy1",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "barba28",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "meymuus",
+    "points": 1,
+    "country": "CH"
+  },
+  {
+    "player": "brayusqui",
+    "points": 1,
+    "country": "BO"
+  },
+  {
+    "player": "bu3nardo",
+    "points": 1,
+    "country": "VE"
+  },
+  {
+    "player": "castro37",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "kanjas",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "danthomson",
+    "points": 1,
+    "country": "GB"
+  },
+  {
+    "player": "tux",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "uitravegito",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "ahmed9",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "x_anax",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "elbert",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "richardmarighetti",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "pokemtro_aleja",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "snub",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "bengganator",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "papotepaleta",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "raindrop2cool",
+    "points": 1,
+    "country": "CH"
+  },
+  {
+    "player": "raulf",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "soqquadro",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "adk",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "raposacabulosa1",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "elatomico",
+    "points": 1,
+    "country": "CO"
+  },
+  {
+    "player": "garchomplucario123",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "drxco2sosa",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "csmati",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "evan34",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "gg5192688",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "urcookedlilbro",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "firebana",
+    "points": 1,
+    "country": "TW"
+  },
+  {
+    "player": "lovetheworldwithbenefit",
+    "points": 1,
+    "country": "HK"
+  },
+  {
+    "player": "bbchillen",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "frozen",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "juggynaut14",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "ferri54",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "dat",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "spicy9999",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "beduinzpouste",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "mydiamonds1000",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "mansiri151",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "specs",
+    "points": 1,
+    "country": "GB"
+  },
+  {
+    "player": "pauk55",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "blastplase11",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "gukgaeron1",
+    "points": 1,
+    "country": "KR"
+  },
+  {
+    "player": "magikarpfish",
+    "points": 1,
+    "country": "IN"
+  },
+  {
+    "player": "dar",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "fiumba",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "partialfractiondecompo",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "prometheusiiii",
+    "points": 1,
+    "country": "GB"
+  },
+  {
+    "player": "rogervilarmau",
+    "points": 1,
+    "country": "ES"
+  },
+  {
+    "player": "ken458962",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "weez",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "pette9550",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "avuuado",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "six420",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "kaoxt",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "acemushroom",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "tman2891",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "schlepp02",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "rare",
+    "points": 1,
+    "country": null
+  },
+  {
+    "player": "cjxskull",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "pokefan9122",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "tawsik",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "swkillua",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "fucuro",
+    "points": 1,
+    "country": "AT"
+  },
+  {
+    "player": "saucebauce96",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "junioom",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "toddyfox",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "maykon123",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "horipoke",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "mcleoid",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "isanpum",
+    "points": 1,
+    "country": "PY"
+  },
+  {
+    "player": "tapatio94",
+    "points": 1,
+    "country": "MX"
+  },
+  {
+    "player": "soadmon",
+    "points": 1,
+    "country": "EC"
+  },
+  {
+    "player": "azue",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "dekisokonai",
+    "points": 1,
+    "country": "JP"
+  },
+  {
+    "player": "wick101",
+    "points": 1,
+    "country": "PE"
+  },
+  {
+    "player": "fangsnothere",
+    "points": 1,
+    "country": "IN"
+  },
+  {
+    "player": "mimu20",
+    "points": 1,
+    "country": "ID"
+  },
+  {
+    "player": "dragonpini",
+    "points": 1,
+    "country": "AR"
+  },
+  {
+    "player": "god8lucifer",
+    "points": 1,
+    "country": "IN"
+  },
+  {
+    "player": "stracchino22",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "tsukistarx",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "fogelpfau",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "petchou",
+    "points": 1,
+    "country": "BR"
+  },
+  {
+    "player": "xastur",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "hyokami",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "lanfro17",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "ohmydaddy",
+    "points": 1,
+    "country": "PH"
+  },
+  {
+    "player": "eternal_tcg",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "fredward",
+    "points": 1,
+    "country": "CL"
+  },
+  {
+    "player": "allezlesbleus",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "mikidl94",
+    "points": 1,
+    "country": "IT"
+  },
+  {
+    "player": "waterbetter",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "ericko",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "polodulaus",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "donsio",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "sakuragihanamichi",
+    "points": 1,
+    "country": "DO"
+  },
+  {
+    "player": "hardbanger",
+    "points": 1,
+    "country": "DE"
+  },
+  {
+    "player": "ziggo",
+    "points": 1,
+    "country": "CA"
+  },
+  {
+    "player": "thischase",
+    "points": 1,
+    "country": "US"
+  },
+  {
+    "player": "narumi",
+    "points": 1,
+    "country": "FR"
+  },
+  {
+    "player": "mrrandom369",
+    "points": 1,
+    "country": "US"
+  }
+]
