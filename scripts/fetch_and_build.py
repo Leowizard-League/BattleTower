@@ -157,7 +157,7 @@ def main():
 
     # --- 玩家排名（我用同一套名次給分）---
     player_points = {}         # player -> points
-	player_country = {}  
+    player_country = {}  
 
     # --- 勝率矩陣 ---
     matchup = {}               # (deckA, deckB) -> (winsA, total)
@@ -170,7 +170,7 @@ def main():
         game = str(details.get("game", "")).upper()
         if game != "POCKET":
             print(f"[skip] tid={tid} details.game={details.get('game')}")
-        continue
+            continue
 
         # 存 raw（方便你除錯）
         write_json(f"web/src/data/raw/{tid}/details.json", details)
@@ -215,7 +215,7 @@ def main():
             player_points[player] = player_points.get(player, 0) + pts
 			
 			# 保存国家信息
-			player_country[player] = s.get("country", "")
+            player_country[player] = s.get("country", "")
 
         # 勝率矩陣：用 pairings winner + 玩家 deck
         for m in pairings:
