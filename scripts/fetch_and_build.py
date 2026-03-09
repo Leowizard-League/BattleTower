@@ -318,7 +318,7 @@ def main():
 
     # 輸出一些全域資訊（可用來顯示「本期統計了幾場、多少Top32樣本」）
     meta = {
-        "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
+        "generated_at": datetime.datetime.now(datetime.UTC).isoformat().replace("+00:00", "Z"),
         "days_back": DAYS_BACK,
         "min_players": MIN_PLAYERS,
         "usage_threshold": USAGE_THRESHOLD,
