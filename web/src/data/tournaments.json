@@ -1,12 +1,93 @@
 [
   {
     "game": "OP",
+    "name": "ChinoizeCup #30 Wednesday",
+    "date": "2026-03-11T19:00:00.000Z",
+    "format": null,
+    "id": "69a594e5a0282967a7310216",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "VGC",
+    "name": "Alpensee Tour (Reg F) #48 - Pokopia 1st place!!",
+    "date": "2026-03-11T18:00:00.000Z",
+    "format": "SVF",
+    "id": "69892388988cfc979bd0b85f",
+    "players": 128,
+    "organizerId": 2323
+  },
+  {
+    "game": "POCKET",
+    "name": "Weekly#2-10｜$100 forSeries｜Noex/Monotype/Singleton",
+    "date": "2026-03-11T12:00:00.000Z",
+    "format": "NOEX",
+    "id": "69a40510d92ee137f4d1d397",
+    "players": 45,
+    "organizerId": 2391
+  },
+  {
+    "game": "POCKET",
+    "name": "Lagoon Serenity Format OAK FA + 20 USD",
+    "date": "2026-03-11T02:00:00.000Z",
+    "format": null,
+    "id": "69adeb23f39e6e70969ff6c7",
+    "players": 120,
+    "organizerId": 2429
+  },
+  {
+    "game": "PTCG",
+    "name": "T2TCG TUESDAY! 100 codes! asc format",
+    "date": "2026-03-11T00:30:00.000Z",
+    "format": "STANDARD",
+    "id": "69b099516a05f00a8c4a993f",
+    "players": 57,
+    "organizerId": 445
+  },
+  {
+    "game": "PTCG",
+    "name": "Torneo Gratuito 10 Marzo",
+    "date": "2026-03-10T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69ae0156f39e6e70969ff744",
+    "players": 49,
+    "organizerId": 2306
+  },
+  {
+    "game": "PTCG",
+    "name": "Last Prize Season 2 Post PR SPE",
+    "date": "2026-03-10T22:05:00.000Z",
+    "format": "STANDARD",
+    "id": "69a9eb746a05f00a8c4a4f5e",
+    "players": 137,
+    "organizerId": 2227
+  },
+  {
+    "game": "OP",
     "name": "ChinoizeCup #29 Tuesday",
     "date": "2026-03-10T19:00:00.000Z",
     "format": null,
     "id": "69a593f8a0282967a7310212",
     "players": 63,
     "organizerId": 2339
+  },
+  {
+    "game": "VGC",
+    "name": "TARTAN TAKEDOWN #24 - [REG F]",
+    "date": "2026-03-10T18:30:00.000Z",
+    "format": "SVF",
+    "id": "69ac2f4c6a05f00a8c4a669d",
+    "players": 42,
+    "organizerId": 2398
+  },
+  {
+    "game": "POCKET",
+    "name": "Umbreon99's Tuesday Showdown #4 ($10 USD) + Oak",
+    "date": "2026-03-10T17:00:00.000Z",
+    "format": null,
+    "id": "69a05e373ef65252b057688f",
+    "players": 273,
+    "organizerId": 2451
   },
   {
     "game": "PTCG",
@@ -25,6 +106,15 @@
     "id": "69a847b2f39e6e70969fba27",
     "players": 179,
     "organizerId": 1975
+  },
+  {
+    "game": "POCKET",
+    "name": "🎴Nuggie's POG Tournament #3🎴 FA CYRUS for 1st",
+    "date": "2026-03-10T09:05:00.000Z",
+    "format": null,
+    "id": "69aac8456a05f00a8c4a56fa",
+    "players": 123,
+    "organizerId": 1913
   },
   {
     "game": "PTCG",
@@ -135,15 +225,6 @@
     "organizerId": 2461
   },
   {
-    "game": "PTCG",
-    "name": "Sunday Funday T2TCG! 100 codes! ASC Format.",
-    "date": "2026-03-09T01:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69add9166a05f00a8c4a7f9f",
-    "players": 64,
-    "organizerId": 445
-  },
-  {
     "game": "VGC",
     "name": "Sketch Academy Sunday Regulation F Tournament",
     "date": "2026-03-09T01:00:00.000Z",
@@ -151,6 +232,15 @@
     "id": "699c04813ef65252b0574feb",
     "players": 33,
     "organizerId": 1651
+  },
+  {
+    "game": "PTCG",
+    "name": "Sunday Funday T2TCG! 100 codes! ASC Format.",
+    "date": "2026-03-09T01:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69add9166a05f00a8c4a7f9f",
+    "players": 64,
+    "organizerId": 445
   },
   {
     "game": "POCKET",
@@ -163,21 +253,21 @@
   },
   {
     "game": "PTCG",
-    "name": "Rare Candy Club Showdown #12 (100 CODES)",
-    "date": "2026-03-09T00:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69acc5bc6a05f00a8c4a770f",
-    "players": 137,
-    "organizerId": 2518
-  },
-  {
-    "game": "PTCG",
     "name": "Intercards: Late Night Session #03",
     "date": "2026-03-09T00:00:00.000Z",
     "format": "STANDARD",
     "id": "69a5d1ab265a204acd585820",
     "players": 52,
     "organizerId": 2562
+  },
+  {
+    "game": "PTCG",
+    "name": "Rare Candy Club Showdown #12 (100 CODES)",
+    "date": "2026-03-09T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69acc5bc6a05f00a8c4a770f",
+    "players": 137,
+    "organizerId": 2518
   },
   {
     "game": "POCKET",
@@ -198,15 +288,6 @@
     "organizerId": 623
   },
   {
-    "game": "PTCG",
-    "name": "Circuito TCG #1 | Z2 Gaming",
-    "date": "2026-03-08T16:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69a9d6696a05f00a8c4a4d55",
-    "players": 53,
-    "organizerId": 2585
-  },
-  {
     "game": "POCKET",
     "name": "Highlight’s🔥Blazing Inferno🔥#9|ANY FA + $$",
     "date": "2026-03-08T16:00:00.000Z",
@@ -214,6 +295,15 @@
     "id": "69a88707f39e6e70969fbd82",
     "players": 202,
     "organizerId": 2362
+  },
+  {
+    "game": "PTCG",
+    "name": "Circuito TCG #1 | Z2 Gaming",
+    "date": "2026-03-08T16:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a9d6696a05f00a8c4a4d55",
+    "players": 53,
+    "organizerId": 2585
   },
   {
     "game": "PTCG",
@@ -324,15 +414,6 @@
     "organizerId": 281
   },
   {
-    "game": "VGC",
-    "name": "WONDERWORLD COMPENSATION TOUR (CUT 15:00 GMT)",
-    "date": "2026-03-07T15:00:00.000Z",
-    "format": "SVF",
-    "id": "69a848ed6a05f00a8c4a3ed5",
-    "players": 151,
-    "organizerId": 829
-  },
-  {
     "game": "POCKET",
     "name": "PGL 30th Anniversary (1500 USD +30 Oak FA)",
     "date": "2026-03-07T15:00:00.000Z",
@@ -340,6 +421,15 @@
     "id": "69a07bdbc9dc8186f760c7ac",
     "players": 1172,
     "organizerId": 2057
+  },
+  {
+    "game": "VGC",
+    "name": "WONDERWORLD COMPENSATION TOUR (CUT 15:00 GMT)",
+    "date": "2026-03-07T15:00:00.000Z",
+    "format": "SVF",
+    "id": "69a848ed6a05f00a8c4a3ed5",
+    "players": 151,
+    "organizerId": 829
   },
   {
     "game": "POCKET",
@@ -487,6 +577,15 @@
   },
   {
     "game": "PTCG",
+    "name": "💥​Plantel Battle #19 ASC💥​100 CODES ✔️​ TOP 8",
+    "date": "2026-03-05T23:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a5cbb9265a204acd585747",
+    "players": 72,
+    "organizerId": 1727
+  },
+  {
+    "game": "PTCG",
     "name": "🏆 Torneo Clasificatorio Jueves 5 Marzo",
     "date": "2026-03-05T23:00:00.000Z",
     "format": "STANDARD",
@@ -502,15 +601,6 @@
     "id": "69a62121818e5fde7d817cf5",
     "players": 268,
     "organizerId": 1864
-  },
-  {
-    "game": "PTCG",
-    "name": "💥​Plantel Battle #19 ASC💥​100 CODES ✔️​ TOP 8",
-    "date": "2026-03-05T23:00:00.000Z",
-    "format": "STANDARD",
-    "id": "69a5cbb9265a204acd585747",
-    "players": 72,
-    "organizerId": 1727
   },
   {
     "game": "PTCG",
@@ -792,15 +882,6 @@
     "organizerId": 2339
   },
   {
-    "game": "OP",
-    "name": "ChinoizeCup #25 Monday",
-    "date": "2026-03-02T19:00:00.000Z",
-    "format": null,
-    "id": "699a20af3ef65252b0573e5e",
-    "players": 64,
-    "organizerId": 2339
-  },
-  {
     "game": "PTCG",
     "name": "Pumpkaweekly",
     "date": "2026-03-02T19:00:00.000Z",
@@ -1062,15 +1143,6 @@
     "organizerId": 2546
   },
   {
-    "game": "VGC",
-    "name": "30th Anniversary Celebration Tour ($300 Pool)",
-    "date": "2026-02-28T02:00:00.000Z",
-    "format": "SVF",
-    "id": "698637016235e3ab106bbb30",
-    "players": 96,
-    "organizerId": 829
-  },
-  {
     "game": "PTCG",
     "name": "TurboBlaze Trials GLC Series - Season 1 Week 27",
     "date": "2026-02-28T02:00:00.000Z",
@@ -1078,6 +1150,15 @@
     "id": "699bebe43ef65252b0574fd9",
     "players": 33,
     "organizerId": 1218
+  },
+  {
+    "game": "VGC",
+    "name": "30th Anniversary Celebration Tour ($300 Pool)",
+    "date": "2026-02-28T02:00:00.000Z",
+    "format": "SVF",
+    "id": "698637016235e3ab106bbb30",
+    "players": 96,
+    "organizerId": 829
   },
   {
     "game": "POCKET",
@@ -1105,6 +1186,15 @@
     "id": "696e37fa9c739a2ff7bf35e4",
     "players": 34,
     "organizerId": 72
+  },
+  {
+    "game": "POCKET",
+    "name": "BRICKCITY PALDEAN WONDERS₊⊹⁀➴prizes:$30+FAs",
+    "date": "2026-02-27T22:00:00.000Z",
+    "format": null,
+    "id": "6994b1f73ef65252b05714cf",
+    "players": 91,
+    "organizerId": 2553
   },
   {
     "game": "POCKET",
@@ -1366,59 +1456,5 @@
     "id": "699d3b523ef65252b05758b0",
     "players": 77,
     "organizerId": 2306
-  },
-  {
-    "game": "POCKET",
-    "name": "Meta Breaker PopUp#6 4 FA Trainers",
-    "date": "2026-02-24T21:45:00.000Z",
-    "format": null,
-    "id": "699de10a3ef65252b0575a3a",
-    "players": 56,
-    "organizerId": 2544
-  },
-  {
-    "game": "OP",
-    "name": "chinoizeCup #23 Tuesday",
-    "date": "2026-02-24T19:00:00.000Z",
-    "format": null,
-    "id": "698de72f988cfc979bd0e26c",
-    "players": 61,
-    "organizerId": 2339
-  },
-  {
-    "game": "VGC",
-    "name": "TARTAN TAKEDOWN #22 - [REG F]",
-    "date": "2026-02-24T18:30:00.000Z",
-    "format": "SVF",
-    "id": "69948fbdbf4ec53bac5dc06a",
-    "players": 51,
-    "organizerId": 2398
-  },
-  {
-    "game": "POCKET",
-    "name": "Umbreon99's Tuesday Showdown #3 (5 USD) + FA",
-    "date": "2026-02-24T17:45:00.000Z",
-    "format": null,
-    "id": "698befbe988cfc979bd0d7fc",
-    "players": 122,
-    "organizerId": 2451
-  },
-  {
-    "game": "PTCG",
-    "name": "CHALLENGE OF DOOM! SEATTLE FORMAT!",
-    "date": "2026-02-24T04:35:00.000Z",
-    "format": "STANDARD",
-    "id": "6995493ec9dc8186f760750a",
-    "players": 104,
-    "organizerId": 349
-  },
-  {
-    "game": "PTCG",
-    "name": "🏛💫 Card Temple Weekly Battles #46",
-    "date": "2026-02-24T02:00:00.000Z",
-    "format": "STANDARD",
-    "id": "699ca4f13ef65252b057536d",
-    "players": 61,
-    "organizerId": 2152
   }
 ]
