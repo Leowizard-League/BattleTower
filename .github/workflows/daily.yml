@@ -27,7 +27,9 @@ jobs:
           DAYS_BACK: "14"
           MIN_PLAYERS: "32"
         run: |
-          python scripts/fetch_and_build.py
+          set -e  # 脚本执行失败则立即终止
+          python scripts/fetch_raw_data.py
+          python scripts/process_data.py
 
       - name: Setup Node
         uses: actions/setup-node@v4
