@@ -1,4002 +1,4802 @@
 [
   {
     "player": "nagetto_zuki",
-    "points": 40,
-    "country": "JP"
+    "points": 40.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "normo360",
-    "points": 37,
-    "country": "US"
+    "points": 37.0,
+    "country": "US",
+    "games": 30
   },
   {
     "player": "sylar33",
-    "points": 32,
-    "country": "HR"
+    "points": 32.0,
+    "country": "HR",
+    "games": 12
   },
   {
     "player": "hosi",
-    "points": 32,
-    "country": "JP"
+    "points": 32.0,
+    "country": "JP",
+    "games": 33
   },
   {
     "player": "iplaypokemans",
-    "points": 32,
-    "country": "US"
+    "points": 32.0,
+    "country": "US",
+    "games": 32
   },
   {
     "player": "koko_pokepoke",
-    "points": 31,
-    "country": "JP"
+    "points": 31.0,
+    "country": "JP",
+    "games": 18
   },
   {
     "player": "naj2g",
-    "points": 31,
-    "country": "CA"
+    "points": 31.0,
+    "country": "CA",
+    "games": 27
   },
   {
     "player": "konono",
-    "points": 30,
-    "country": "JP"
+    "points": 30.0,
+    "country": "JP",
+    "games": 15
   },
   {
     "player": "kabesu",
-    "points": 30,
-    "country": "JP"
+    "points": 30.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "jonnycat",
-    "points": 29,
-    "country": "US"
+    "points": 29.0,
+    "country": "US",
+    "games": 28
   },
   {
     "player": "s1gun",
-    "points": 28,
-    "country": "JP"
+    "points": 28.0,
+    "country": "JP",
+    "games": 6
   },
   {
     "player": "zeekholz",
-    "points": 28,
-    "country": "US"
+    "points": 28.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "val22",
-    "points": 27,
-    "country": "ID"
+    "points": 27.0,
+    "country": "ID",
+    "games": 21
   },
   {
     "player": "leaffff",
-    "points": 26,
-    "country": "JP"
+    "points": 26.0,
+    "country": "JP",
+    "games": 19
   },
   {
     "player": "wall456",
-    "points": 26,
-    "country": "US"
+    "points": 26.0,
+    "country": "US",
+    "games": 30
   },
   {
     "player": "s4t0sh1",
-    "points": 25,
-    "country": "PR"
+    "points": 25.0,
+    "country": "PR",
+    "games": 20
   },
   {
     "player": "chiha_rotsure",
-    "points": 25,
-    "country": "JP"
+    "points": 25.0,
+    "country": "JP",
+    "games": 17
   },
   {
     "player": "einstun",
-    "points": 23,
-    "country": "ID"
+    "points": 23.0,
+    "country": "ID",
+    "games": 18
   },
   {
     "player": "goblinsama",
-    "points": 23,
-    "country": null
+    "points": 23.0,
+    "country": null,
+    "games": 14
   },
   {
     "player": "iisalad",
-    "points": 23,
-    "country": "GB"
+    "points": 23.0,
+    "country": "GB",
+    "games": 11
   },
   {
     "player": "sana_37",
-    "points": 23,
-    "country": "JP"
+    "points": 23.0,
+    "country": "JP",
+    "games": 25
   },
   {
     "player": "shubham",
-    "points": 22,
-    "country": "IN"
+    "points": 22.0,
+    "country": "IN",
+    "games": 18
   },
   {
     "player": "dariuspopek",
-    "points": 22,
-    "country": "PL"
+    "points": 22.0,
+    "country": "PL",
+    "games": 11
   },
   {
     "player": "ppitopin8",
-    "points": 22,
-    "country": "ES"
+    "points": 22.0,
+    "country": "ES",
+    "games": 22
   },
   {
     "player": "syr",
-    "points": 22,
-    "country": "ID"
+    "points": 22.0,
+    "country": "ID",
+    "games": 14
   },
   {
     "player": "luxmea",
-    "points": 22,
-    "country": "ID"
+    "points": 22.0,
+    "country": "ID",
+    "games": 22
   },
   {
     "player": "bixie",
-    "points": 21,
-    "country": "SG"
+    "points": 21.0,
+    "country": "SG",
+    "games": 18
   },
   {
     "player": "koehearts",
-    "points": 21,
-    "country": "US"
+    "points": 21.0,
+    "country": "US",
+    "games": 21
   },
   {
     "player": "esdeath",
-    "points": 21,
-    "country": "AU"
+    "points": 21.0,
+    "country": "AU",
+    "games": 10
   },
   {
     "player": "hectordf",
-    "points": 21,
-    "country": "ES"
+    "points": 21.0,
+    "country": "ES",
+    "games": 20
   },
   {
     "player": "alana",
-    "points": 21,
-    "country": "ID"
+    "points": 21.0,
+    "country": "ID",
+    "games": 19
   },
   {
     "player": "golfermt",
-    "points": 21,
-    "country": "US"
+    "points": 21.0,
+    "country": "US",
+    "games": 20
   },
   {
     "player": "ktech3224",
-    "points": 21,
-    "country": "CA"
+    "points": 21.0,
+    "country": "CA",
+    "games": 8
   },
   {
     "player": "aggerlenny",
-    "points": 20,
-    "country": "BR"
+    "points": 20.0,
+    "country": "BR",
+    "games": 23
   },
   {
     "player": "itati",
-    "points": 20,
-    "country": "JP"
+    "points": 20.0,
+    "country": "JP",
+    "games": 15
   },
   {
     "player": "tortellino69",
-    "points": 20,
-    "country": "IT"
+    "points": 20.0,
+    "country": "IT",
+    "games": 13
   },
   {
     "player": "n00bskiller",
-    "points": 20,
-    "country": "FR"
+    "points": 20.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "nemu",
-    "points": 20,
-    "country": "JP"
+    "points": 20.0,
+    "country": "JP",
+    "games": 12
   },
   {
     "player": "puremi",
-    "points": 20,
-    "country": null
+    "points": 20.0,
+    "country": null,
+    "games": 7
   },
   {
     "player": "njjord7",
-    "points": 19,
-    "country": "FR"
+    "points": 19.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "tosmadoublea",
-    "points": 19,
-    "country": "FR"
+    "points": 19.0,
+    "country": "FR",
+    "games": 13
   },
   {
     "player": "nakopol91",
-    "points": 19,
-    "country": "GR"
+    "points": 19.0,
+    "country": "GR",
+    "games": 18
   },
   {
     "player": "kevnoh",
-    "points": 19,
-    "country": "MX"
+    "points": 19.0,
+    "country": "MX",
+    "games": 23
   },
   {
     "player": "nettomanda4",
-    "points": 19,
-    "country": "JP"
+    "points": 19.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "vgckomalika",
-    "points": 19,
-    "country": "ES"
+    "points": 19.0,
+    "country": "ES",
+    "games": 12
   },
   {
     "player": "sparadrap",
-    "points": 18,
-    "country": "FR"
+    "points": 18.0,
+    "country": "FR",
+    "games": 31
   },
   {
     "player": "frostyicelad",
-    "points": 18,
-    "country": null
+    "points": 18.0,
+    "country": null,
+    "games": 12
   },
   {
     "player": "siro",
-    "points": 18,
-    "country": "JP"
+    "points": 18.0,
+    "country": "JP",
+    "games": 17
   },
   {
     "player": "ddaviss",
-    "points": 18,
-    "country": "ES"
+    "points": 18.0,
+    "country": "ES",
+    "games": 8
   },
   {
     "player": "fedex2729",
-    "points": 18,
-    "country": null
+    "points": 18.0,
+    "country": null,
+    "games": 17
   },
   {
     "player": "gogetta",
-    "points": 18,
-    "country": "CA"
+    "points": 18.0,
+    "country": "CA",
+    "games": 11
   },
   {
     "player": "javiee333",
-    "points": 17,
-    "country": "US"
+    "points": 17.0,
+    "country": "US",
+    "games": 39
   },
   {
     "player": "corndog_xx",
-    "points": 17,
-    "country": "AU"
+    "points": 17.0,
+    "country": "AU",
+    "games": 11
   },
   {
     "player": "jjet",
-    "points": 17,
-    "country": "US"
+    "points": 17.0,
+    "country": "US",
+    "games": 14
   },
   {
     "player": "kaonashi",
-    "points": 17,
-    "country": "ES"
+    "points": 17.0,
+    "country": "ES",
+    "games": 14
   },
   {
     "player": "noobslybot_01",
-    "points": 16,
-    "country": "US"
+    "points": 16.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "zegger",
-    "points": 16,
-    "country": "ID"
+    "points": 16.0,
+    "country": "ID",
+    "games": 8
   },
   {
     "player": "yoppe06",
-    "points": 16,
-    "country": "JP"
+    "points": 16.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "fuu_pcg",
-    "points": 16,
-    "country": "JP"
+    "points": 16.0,
+    "country": "JP",
+    "games": 6
   },
   {
     "player": "luci",
-    "points": 16,
-    "country": "JP"
+    "points": 16.0,
+    "country": "JP",
+    "games": 14
   },
   {
     "player": "griffsama",
-    "points": 16,
-    "country": "GB"
+    "points": 16.0,
+    "country": "GB",
+    "games": 13
   },
   {
     "player": "soheilovic",
-    "points": 16,
-    "country": null
+    "points": 16.0,
+    "country": null,
+    "games": 13
   },
   {
     "player": "popay",
-    "points": 16,
-    "country": "CH"
+    "points": 16.0,
+    "country": "CH",
+    "games": 12
   },
   {
     "player": "piutonium",
-    "points": 15,
-    "country": "US"
+    "points": 15.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "m4kia_t",
-    "points": 15,
-    "country": "JP"
+    "points": 15.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "n3wa",
-    "points": 15,
-    "country": "PT"
+    "points": 15.0,
+    "country": "PT",
+    "games": 23
   },
   {
     "player": "falmn",
-    "points": 15,
-    "country": "FR"
+    "points": 15.0,
+    "country": "FR",
+    "games": 9
   },
   {
     "player": "adi1906",
-    "points": 15,
-    "country": "IN"
+    "points": 15.0,
+    "country": "IN",
+    "games": 22
   },
   {
     "player": "elmatadorperu",
-    "points": 15,
-    "country": "PE"
+    "points": 15.0,
+    "country": "PE",
+    "games": 19
   },
   {
     "player": "nunogdm",
-    "points": 15,
-    "country": "PT"
+    "points": 15.0,
+    "country": "PT",
+    "games": 18
   },
   {
     "player": "preluxe",
-    "points": 15,
-    "country": "DE"
+    "points": 15.0,
+    "country": "DE",
+    "games": 11
   },
   {
     "player": "kodai",
-    "points": 15,
-    "country": "JP"
+    "points": 15.0,
+    "country": "JP",
+    "games": 11
   },
   {
     "player": "mousel96",
-    "points": 15,
-    "country": "NL"
+    "points": 15.0,
+    "country": "NL",
+    "games": 8
   },
   {
     "player": "joshuasutherland21",
-    "points": 14,
-    "country": "US"
+    "points": 14.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "ttv_jmpm9",
-    "points": 14,
-    "country": "ES"
+    "points": 14.0,
+    "country": "ES",
+    "games": 19
   },
   {
     "player": "shinra67",
-    "points": 14,
-    "country": "US"
+    "points": 14.0,
+    "country": "US",
+    "games": 26
   },
   {
     "player": "pokemon_pocket",
-    "points": 14,
-    "country": null
+    "points": 14.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "tox1c",
-    "points": 14,
-    "country": "US"
+    "points": 14.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "neuro",
-    "points": 14,
-    "country": "TW"
+    "points": 14.0,
+    "country": "TW",
+    "games": 3
   },
   {
     "player": "mashu_tcg",
-    "points": 14,
-    "country": "AT"
+    "points": 14.0,
+    "country": "AT",
+    "games": 16
   },
   {
     "player": "turbone101",
-    "points": 14,
-    "country": "ZA"
+    "points": 14.0,
+    "country": "ZA",
+    "games": 11
   },
   {
     "player": "raiderboy181",
-    "points": 14,
-    "country": "CA"
+    "points": 14.0,
+    "country": "CA",
+    "games": 21
   },
   {
     "player": "james_w",
-    "points": 14,
-    "country": "CN"
+    "points": 14.0,
+    "country": "CN",
+    "games": 3
   },
   {
     "player": "4th_d",
-    "points": 14,
-    "country": "ID"
+    "points": 14.0,
+    "country": "ID",
+    "games": 22
   },
   {
     "player": "mspinguino",
-    "points": 13,
-    "country": "AR"
+    "points": 13.0,
+    "country": "AR",
+    "games": 9
   },
   {
     "player": "strawberrycrepecookie",
-    "points": 13,
-    "country": "CA"
+    "points": 13.0,
+    "country": "CA",
+    "games": 16
   },
   {
     "player": "supreme13",
-    "points": 13,
-    "country": "US"
+    "points": 13.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "gato_333",
-    "points": 13,
-    "country": "CL"
+    "points": 13.0,
+    "country": "CL",
+    "games": 14
   },
   {
     "player": "erikitoh",
-    "points": 13,
-    "country": "ES"
+    "points": 13.0,
+    "country": "ES",
+    "games": 11
   },
   {
     "player": "dr_in_d_go",
-    "points": 13,
-    "country": "JP"
+    "points": 13.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "meendes",
-    "points": 13,
-    "country": "BR"
+    "points": 13.0,
+    "country": "BR",
+    "games": 17
   },
   {
     "player": "netcabo",
-    "points": 13,
-    "country": "PT"
+    "points": 13.0,
+    "country": "PT",
+    "games": 8
   },
   {
     "player": "my",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 4
   },
   {
     "player": "russ_ii",
-    "points": 12,
-    "country": "US"
+    "points": 12.0,
+    "country": "US",
+    "games": 37
   },
   {
     "player": "markoh",
-    "points": 12,
-    "country": "CL"
+    "points": 12.0,
+    "country": "CL",
+    "games": 11
   },
   {
     "player": "shreyasplays",
-    "points": 12,
-    "country": "IN"
+    "points": 12.0,
+    "country": "IN",
+    "games": 6
   },
   {
     "player": "lv80mewtwo",
-    "points": 12,
-    "country": "US"
+    "points": 12.0,
+    "country": "US",
+    "games": 21
   },
   {
     "player": "soraku",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "spinvy",
-    "points": 12,
-    "country": "ID"
+    "points": 12.0,
+    "country": "ID",
+    "games": 9
   },
   {
     "player": "iduh",
-    "points": 12,
-    "country": "ID"
+    "points": 12.0,
+    "country": "ID",
+    "games": 19
   },
   {
     "player": "grmn1993",
-    "points": 12,
-    "country": "PT"
+    "points": 12.0,
+    "country": "PT",
+    "games": 12
   },
   {
     "player": "run090723",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 10
   },
   {
     "player": "kspoke",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "sheedy",
-    "points": 12,
-    "country": "AU"
+    "points": 12.0,
+    "country": "AU",
+    "games": 11
   },
   {
     "player": "altkyle",
-    "points": 12,
-    "country": "GB"
+    "points": 12.0,
+    "country": "GB",
+    "games": 4
   },
   {
     "player": "flipand11",
-    "points": 12,
-    "country": "CL"
+    "points": 12.0,
+    "country": "CL",
+    "games": 8
   },
   {
     "player": "kaitona0621",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "peeg",
-    "points": 12,
-    "country": "US"
+    "points": 12.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "raydorm",
-    "points": 12,
-    "country": "ES"
+    "points": 12.0,
+    "country": "ES",
+    "games": 11
   },
   {
     "player": "zfeeney",
-    "points": 12,
-    "country": "US"
+    "points": 12.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "tarutaru",
-    "points": 12,
-    "country": "JP"
+    "points": 12.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "deezzznutzzz549",
-    "points": 11,
-    "country": "AU"
+    "points": 11.0,
+    "country": "AU",
+    "games": 6
   },
   {
     "player": "haruhi_1350",
-    "points": 11,
-    "country": "JP"
+    "points": 11.0,
+    "country": "JP",
+    "games": 14
   },
   {
     "player": "wxchan",
-    "points": 11,
-    "country": "MY"
+    "points": 11.0,
+    "country": "MY",
+    "games": 14
   },
   {
     "player": "kiiiichi08",
-    "points": 11,
-    "country": "JP"
+    "points": 11.0,
+    "country": "JP",
+    "games": 9
   },
   {
     "player": "essey",
-    "points": 11,
-    "country": "US"
+    "points": 11.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "troopscoop",
-    "points": 11,
-    "country": "US"
+    "points": 11.0,
+    "country": "US",
+    "games": 12
   },
   {
     "player": "konapunpun",
-    "points": 11,
-    "country": null
+    "points": 11.0,
+    "country": null,
+    "games": 5
   },
   {
     "player": "ygh",
-    "points": 11,
-    "country": "KR"
+    "points": 11.0,
+    "country": "KR",
+    "games": 11
   },
   {
     "player": "david947",
-    "points": 11,
-    "country": "ES"
+    "points": 11.0,
+    "country": "ES",
+    "games": 2
   },
   {
     "player": "bigslowpokefan",
-    "points": 11,
-    "country": null
+    "points": 11.0,
+    "country": null,
+    "games": 13
   },
   {
     "player": "okauki1",
-    "points": 11,
-    "country": "JP"
+    "points": 11.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "shankar",
-    "points": 11,
-    "country": "IN"
+    "points": 11.0,
+    "country": "IN",
+    "games": 4
   },
   {
     "player": "b1urantics",
-    "points": 11,
-    "country": "US"
+    "points": 11.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "darkus96",
-    "points": 10,
-    "country": "ES"
+    "points": 10.0,
+    "country": "ES",
+    "games": 9
   },
   {
     "player": "r2rjp1",
-    "points": 10,
-    "country": "JP"
+    "points": 10.0,
+    "country": "JP",
+    "games": 10
   },
   {
     "player": "gabykem",
-    "points": 10,
-    "country": "AR"
+    "points": 10.0,
+    "country": "AR",
+    "games": 11
   },
   {
     "player": "estehlegitea",
-    "points": 10,
-    "country": "ID"
+    "points": 10.0,
+    "country": "ID",
+    "games": 19
   },
   {
     "player": "pokebom",
-    "points": 10,
-    "country": "GR"
+    "points": 10.0,
+    "country": "GR",
+    "games": 16
   },
   {
     "player": "sergyo91",
-    "points": 10,
-    "country": "CA"
+    "points": 10.0,
+    "country": "CA",
+    "games": 6
   },
   {
     "player": "seiren",
-    "points": 10,
-    "country": "KR"
+    "points": 10.0,
+    "country": "KR",
+    "games": 19
   },
   {
     "player": "tavi2k",
-    "points": 10,
-    "country": "US"
+    "points": 10.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "rua0715",
-    "points": 10,
-    "country": "JP"
+    "points": 10.0,
+    "country": "JP",
+    "games": 11
   },
   {
     "player": "amoose",
-    "points": 10,
-    "country": "SG"
+    "points": 10.0,
+    "country": "SG",
+    "games": 3
   },
   {
     "player": "moodie",
-    "points": 10,
-    "country": "IT"
+    "points": 10.0,
+    "country": "IT",
+    "games": 16
   },
   {
     "player": "skualo13",
-    "points": 10,
-    "country": "MX"
+    "points": 10.0,
+    "country": "MX",
+    "games": 8
   },
   {
     "player": "sukuna123",
-    "points": 10,
-    "country": "ES"
+    "points": 10.0,
+    "country": "ES",
+    "games": 15
   },
   {
     "player": "ventrixd",
-    "points": 10,
-    "country": "FR"
+    "points": 10.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "seraru",
-    "points": 10,
-    "country": "JP"
+    "points": 10.0,
+    "country": "JP",
+    "games": 7
   },
   {
     "player": "elluquitas96",
-    "points": 10,
-    "country": "PE"
+    "points": 10.0,
+    "country": "PE",
+    "games": 8
   },
   {
     "player": "porygon3",
-    "points": 10,
-    "country": "US"
+    "points": 10.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "adjektive",
-    "points": 10,
-    "country": "DE"
+    "points": 10.0,
+    "country": "DE",
+    "games": 1
   },
   {
     "player": "saripac",
-    "points": 10,
-    "country": "MY"
+    "points": 10.0,
+    "country": "MY",
+    "games": 3
   },
   {
     "player": "cyrunix",
-    "points": 9,
-    "country": null
+    "points": 9.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "jhove",
-    "points": 9,
-    "country": "US"
+    "points": 9.0,
+    "country": "US",
+    "games": 18
   },
   {
     "player": "utirok",
-    "points": 9,
-    "country": null
+    "points": 9.0,
+    "country": null,
+    "games": 12
   },
   {
     "player": "chocolate",
-    "points": 9,
-    "country": "VE"
+    "points": 9.0,
+    "country": "VE",
+    "games": 22
   },
   {
     "player": "benjamink3",
-    "points": 9,
-    "country": "JP"
+    "points": 9.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "frappesdrinker",
-    "points": 9,
-    "country": "CH"
+    "points": 9.0,
+    "country": "CH",
+    "games": 6
   },
   {
     "player": "bigmanblastoise69",
-    "points": 9,
-    "country": null
+    "points": 9.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "yaboipride",
-    "points": 9,
-    "country": "GB"
+    "points": 9.0,
+    "country": "GB",
+    "games": 5
   },
   {
     "player": "1101yuto",
-    "points": 9,
-    "country": "JP"
+    "points": 9.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "bigdev",
-    "points": 9,
-    "country": "US"
+    "points": 9.0,
+    "country": "US",
+    "games": 19
   },
   {
     "player": "chrispyptcgp",
-    "points": 9,
-    "country": "PH"
+    "points": 9.0,
+    "country": "PH",
+    "games": 13
   },
   {
     "player": "jearbear",
-    "points": 9,
-    "country": "US"
+    "points": 9.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "thugsbunny",
-    "points": 9,
-    "country": "US"
+    "points": 9.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "isez",
-    "points": 9,
-    "country": "JP"
+    "points": 9.0,
+    "country": "JP",
+    "games": 9
   },
   {
     "player": "nb2088",
-    "points": 9,
-    "country": null
+    "points": 9.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "888",
-    "points": 9,
-    "country": null
+    "points": 9.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "skl_yizzy",
-    "points": 8,
-    "country": "GB"
+    "points": 8.0,
+    "country": "GB",
+    "games": 5
   },
   {
     "player": "akaseahri",
-    "points": 8,
-    "country": "AR"
+    "points": 8.0,
+    "country": "AR",
+    "games": 12
   },
   {
     "player": "shohei02",
-    "points": 8,
-    "country": "JP"
+    "points": 8.0,
+    "country": "JP",
+    "games": 14
   },
   {
     "player": "official91",
-    "points": 8,
-    "country": "IT"
+    "points": 8.0,
+    "country": "IT",
+    "games": 3
   },
   {
     "player": "victorssito",
-    "points": 8,
-    "country": "ES"
+    "points": 8.0,
+    "country": "ES",
+    "games": 10
   },
   {
     "player": "cura222222",
-    "points": 8,
-    "country": "JP"
+    "points": 8.0,
+    "country": "JP",
+    "games": 12
   },
   {
     "player": "shifuz",
-    "points": 8,
-    "country": "GB"
+    "points": 8.0,
+    "country": "GB",
+    "games": 15
   },
   {
     "player": "creamylotion",
-    "points": 8,
-    "country": "US"
+    "points": 8.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "azelma",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "bingka",
-    "points": 8,
-    "country": "ID"
+    "points": 8.0,
+    "country": "ID",
+    "games": 15
   },
   {
     "player": "rie_shibata",
-    "points": 8,
-    "country": "JP"
+    "points": 8.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "vegegras",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 10
   },
   {
     "player": "moky2510",
-    "points": 8,
-    "country": "GB"
+    "points": 8.0,
+    "country": "GB",
+    "games": 15
   },
   {
     "player": "pkmnchamp9",
-    "points": 8,
-    "country": "US"
+    "points": 8.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "konord",
-    "points": 8,
-    "country": "US"
+    "points": 8.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "reiz",
-    "points": 8,
-    "country": "MY"
+    "points": 8.0,
+    "country": "MY",
+    "games": 5
   },
   {
     "player": "nevaluze",
-    "points": 8,
-    "country": null
+    "points": 8.0,
+    "country": null,
+    "games": 7
   },
   {
     "player": "tomrrr",
-    "points": 8,
-    "country": "PL"
+    "points": 8.0,
+    "country": "PL",
+    "games": 4
   },
   {
     "player": "zholit",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 5
   },
   {
     "player": "wawan",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "icrups",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "danico",
-    "points": 8,
-    "country": "JP"
+    "points": 8.0,
+    "country": "JP",
+    "games": 14
   },
   {
     "player": "jacobjayyy",
-    "points": 8,
-    "country": "US"
+    "points": 8.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "axelniraj",
-    "points": 8,
-    "country": "IN"
+    "points": 8.0,
+    "country": "IN",
+    "games": 6
   },
   {
     "player": "crazynice",
-    "points": 8,
-    "country": "HK"
+    "points": 8.0,
+    "country": "HK",
+    "games": 1
   },
   {
     "player": "yesterryyes971",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "momonagi",
-    "points": 8,
-    "country": "FR"
+    "points": 8.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "proto1994",
-    "points": 8,
-    "country": "US"
+    "points": 8.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "shu0802",
-    "points": 8,
-    "country": "JP"
+    "points": 8.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "masterbenji",
-    "points": 8,
-    "country": "GB"
+    "points": 8.0,
+    "country": "GB",
+    "games": 1
   },
   {
     "player": "sonicr91",
-    "points": 8,
-    "country": null
+    "points": 8.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "taroo",
-    "points": 7,
-    "country": "TW"
+    "points": 7.0,
+    "country": "TW",
+    "games": 6
   },
   {
     "player": "ilikecheese216",
-    "points": 7,
-    "country": "US"
+    "points": 7.0,
+    "country": "US",
+    "games": 13
   },
   {
     "player": "pikaicetea",
-    "points": 7,
-    "country": "FR"
+    "points": 7.0,
+    "country": "FR",
+    "games": 7
   },
   {
     "player": "zerox_9",
-    "points": 7,
-    "country": "PE"
+    "points": 7.0,
+    "country": "PE",
+    "games": 8
   },
   {
     "player": "na0000000008",
-    "points": 7,
-    "country": "JP"
+    "points": 7.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "harian",
-    "points": 7,
-    "country": "IT"
+    "points": 7.0,
+    "country": "IT",
+    "games": 4
   },
   {
     "player": "ezreal",
-    "points": 7,
-    "country": "IN"
+    "points": 7.0,
+    "country": "IN",
+    "games": 16
   },
   {
     "player": "ezz67",
-    "points": 7,
-    "country": "DE"
+    "points": 7.0,
+    "country": "DE",
+    "games": 10
   },
   {
     "player": "atomiix",
-    "points": 7,
-    "country": "FR"
+    "points": 7.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "bicheins",
-    "points": 7,
-    "country": "AR"
+    "points": 7.0,
+    "country": "AR",
+    "games": 2
   },
   {
     "player": "yuta0113",
-    "points": 7,
-    "country": "JP"
+    "points": 7.0,
+    "country": "JP",
+    "games": 12
   },
   {
     "player": "fey",
-    "points": 7,
-    "country": "BR"
+    "points": 7.0,
+    "country": "BR",
+    "games": 18
   },
   {
     "player": "endg3gner",
-    "points": 7,
-    "country": "DE"
+    "points": 7.0,
+    "country": "DE",
+    "games": 6
   },
   {
     "player": "onlyx07",
-    "points": 7,
-    "country": "JP"
+    "points": 7.0,
+    "country": "JP",
+    "games": 7
   },
   {
     "player": "dab1d",
-    "points": 7,
-    "country": null
+    "points": 7.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "semant1c",
-    "points": 7,
-    "country": "DO"
+    "points": 7.0,
+    "country": "DO",
+    "games": 14
   },
   {
     "player": "birikinn",
-    "points": 7,
-    "country": "BR"
+    "points": 7.0,
+    "country": "BR",
+    "games": 23
   },
   {
     "player": "farfa3s",
-    "points": 7,
-    "country": "US"
+    "points": 7.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "jokrazie",
-    "points": 7,
-    "country": "US"
+    "points": 7.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "elsa",
-    "points": 7,
-    "country": "CN"
+    "points": 7.0,
+    "country": "CN",
+    "games": 5
   },
   {
     "player": "warpis",
-    "points": 7,
-    "country": "ID"
+    "points": 7.0,
+    "country": "ID",
+    "games": 20
   },
   {
     "player": "srafaelitocs",
-    "points": 7,
-    "country": "VE"
+    "points": 7.0,
+    "country": "VE",
+    "games": 9
   },
   {
     "player": "grandeevasore",
-    "points": 7,
-    "country": "IT"
+    "points": 7.0,
+    "country": "IT",
+    "games": 6
   },
   {
     "player": "kayyyy",
-    "points": 7,
-    "country": "US"
+    "points": 7.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "pryerlord",
-    "points": 7,
-    "country": "FR"
+    "points": 7.0,
+    "country": "FR",
+    "games": 4
   },
   {
     "player": "proskiftw",
-    "points": 6,
-    "country": "CA"
+    "points": 6.0,
+    "country": "CA",
+    "games": 1
   },
   {
     "player": "rno",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "tobias_oak",
-    "points": 6,
-    "country": "TT"
+    "points": 6.0,
+    "country": "TT",
+    "games": 11
   },
   {
     "player": "mo0nwa1k3r",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 20
   },
   {
     "player": "thegeneralal",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "valekemp",
-    "points": 6,
-    "country": "IT"
+    "points": 6.0,
+    "country": "IT",
+    "games": 2
   },
   {
     "player": "hiiran",
-    "points": 6,
-    "country": "JP"
+    "points": 6.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "pl1222",
-    "points": 6,
-    "country": "FR"
+    "points": 6.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "giga",
-    "points": 6,
-    "country": "JP"
+    "points": 6.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "sbug",
-    "points": 6,
-    "country": "FR"
+    "points": 6.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "arronp",
-    "points": 6,
-    "country": "GB"
+    "points": 6.0,
+    "country": "GB",
+    "games": 1
   },
   {
     "player": "luckypoke",
-    "points": 6,
-    "country": "GB"
+    "points": 6.0,
+    "country": "GB",
+    "games": 25
   },
   {
     "player": "redvelvetash",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "portlandpoliwags",
-    "points": 6,
-    "country": "SI"
+    "points": 6.0,
+    "country": "SI",
+    "games": 14
   },
   {
     "player": "nr5qf",
-    "points": 6,
-    "country": "JP"
+    "points": 6.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "ne",
-    "points": 6,
-    "country": "CH"
+    "points": 6.0,
+    "country": "CH",
+    "games": 6
   },
   {
     "player": "omarkztv",
-    "points": 6,
-    "country": "BR"
+    "points": 6.0,
+    "country": "BR",
+    "games": 9
   },
   {
     "player": "anhz",
-    "points": 6,
-    "country": "JP"
+    "points": 6.0,
+    "country": "JP",
+    "games": 15
   },
   {
     "player": "szy",
-    "points": 6,
-    "country": "DE"
+    "points": 6.0,
+    "country": "DE",
+    "games": 10
   },
   {
     "player": "ted0918",
-    "points": 6,
-    "country": "TW"
+    "points": 6.0,
+    "country": "TW",
+    "games": 2
   },
   {
     "player": "miwa3",
-    "points": 6,
-    "country": "JP"
+    "points": 6.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "7earless",
-    "points": 6,
-    "country": "CA"
+    "points": 6.0,
+    "country": "CA",
+    "games": 13
   },
   {
     "player": "legoshi",
-    "points": 6,
-    "country": "GB"
+    "points": 6.0,
+    "country": "GB",
+    "games": 5
   },
   {
     "player": "brendon68",
-    "points": 6,
-    "country": "FR"
+    "points": 6.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "antony",
-    "points": 6,
-    "country": "FR"
+    "points": 6.0,
+    "country": "FR",
+    "games": 9
   },
   {
     "player": "dreamsky94",
-    "points": 6,
-    "country": null
+    "points": 6.0,
+    "country": null,
+    "games": 3
   },
   {
     "player": "leolg21",
-    "points": 6,
-    "country": "MX"
+    "points": 6.0,
+    "country": "MX",
+    "games": 6
   },
   {
     "player": "jjghost2k",
-    "points": 6,
-    "country": "TW"
+    "points": 6.0,
+    "country": "TW",
+    "games": 1
   },
   {
     "player": "dakka_1988",
-    "points": 6,
-    "country": "IT"
+    "points": 6.0,
+    "country": "IT",
+    "games": 10
   },
   {
     "player": "soflo305x",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "godi",
-    "points": 6,
-    "country": "ID"
+    "points": 6.0,
+    "country": "ID",
+    "games": 15
   },
   {
     "player": "braver_hwang",
-    "points": 6,
-    "country": "KR"
+    "points": 6.0,
+    "country": "KR",
+    "games": 3
   },
   {
     "player": "frogger",
-    "points": 6,
-    "country": "PT"
+    "points": 6.0,
+    "country": "PT",
+    "games": 9
   },
   {
     "player": "fudifudi",
-    "points": 6,
-    "country": "IN"
+    "points": 6.0,
+    "country": "IN",
+    "games": 4
   },
   {
     "player": "justgab",
-    "points": 6,
-    "country": "IT"
+    "points": 6.0,
+    "country": "IT",
+    "games": 9
   },
   {
     "player": "immolate",
-    "points": 6,
-    "country": "PH"
+    "points": 6.0,
+    "country": "PH",
+    "games": 6
   },
   {
     "player": "whatthesigma",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "1coolbro",
-    "points": 6,
-    "country": "IN"
+    "points": 6.0,
+    "country": "IN",
+    "games": 1
   },
   {
     "player": "lun55555",
-    "points": 6,
-    "country": "TW"
+    "points": 6.0,
+    "country": "TW",
+    "games": 1
   },
   {
     "player": "mamas",
-    "points": 6,
-    "country": null
+    "points": 6.0,
+    "country": null,
+    "games": 18
   },
   {
     "player": "bloo",
-    "points": 6,
-    "country": "MY"
+    "points": 6.0,
+    "country": "MY",
+    "games": 11
   },
   {
     "player": "sugaru",
-    "points": 6,
-    "country": "DO"
+    "points": 6.0,
+    "country": "DO",
+    "games": 8
   },
   {
     "player": "scrat6962",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "golfermt10",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "setoni10",
-    "points": 6,
-    "country": "ES"
+    "points": 6.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "tyvix",
-    "points": 6,
-    "country": null
+    "points": 6.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "yuuichi",
-    "points": 6,
-    "country": "IT"
+    "points": 6.0,
+    "country": "IT",
+    "games": 4
   },
   {
     "player": "icymando",
-    "points": 6,
-    "country": "US"
+    "points": 6.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "technogod",
-    "points": 6,
-    "country": null
+    "points": 6.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "thiagoxy",
-    "points": 6,
-    "country": "AR"
+    "points": 6.0,
+    "country": "AR",
+    "games": 4
   },
   {
     "player": "gaizkita",
-    "points": 6,
-    "country": "ES"
+    "points": 6.0,
+    "country": "ES",
+    "games": 9
   },
   {
     "player": "disposablehero",
-    "points": 5,
-    "country": "US"
+    "points": 5.0,
+    "country": "US",
+    "games": 13
   },
   {
     "player": "p11_reiken",
-    "points": 5,
-    "country": "ES"
+    "points": 5.0,
+    "country": "ES",
+    "games": 13
   },
   {
     "player": "jonass11",
-    "points": 5,
-    "country": "ES"
+    "points": 5.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "bonn",
-    "points": 5,
-    "country": "JP"
+    "points": 5.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "rett",
-    "points": 5,
-    "country": null
+    "points": 5.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "flipinton",
-    "points": 5,
-    "country": "US"
+    "points": 5.0,
+    "country": "US",
+    "games": 36
   },
   {
     "player": "gordoom",
-    "points": 5,
-    "country": "BR"
+    "points": 5.0,
+    "country": "BR",
+    "games": 9
   },
   {
     "player": "dougz92",
-    "points": 5,
-    "country": "BR"
+    "points": 5.0,
+    "country": "BR",
+    "games": 4
   },
   {
     "player": "maus10",
-    "points": 5,
-    "country": "IT"
+    "points": 5.0,
+    "country": "IT",
+    "games": 7
   },
   {
     "player": "dragonkni8",
-    "points": 5,
-    "country": "IN"
+    "points": 5.0,
+    "country": "IN",
+    "games": 10
   },
   {
     "player": "okarun",
-    "points": 5,
-    "country": "CO"
+    "points": 5.0,
+    "country": "CO",
+    "games": 13
   },
   {
     "player": "theviice",
-    "points": 5,
-    "country": "DE"
+    "points": 5.0,
+    "country": "DE",
+    "games": 7
   },
   {
     "player": "karebovippass",
-    "points": 5,
-    "country": "JP"
+    "points": 5.0,
+    "country": "JP",
+    "games": 11
   },
   {
     "player": "h1kakinnn",
-    "points": 5,
-    "country": "JP"
+    "points": 5.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "gunnmgirl",
-    "points": 5,
-    "country": "CA"
+    "points": 5.0,
+    "country": "CA",
+    "games": 9
   },
   {
     "player": "fazeuwu",
-    "points": 5,
-    "country": null
+    "points": 5.0,
+    "country": null,
+    "games": 5
   },
   {
     "player": "sevensky",
-    "points": 5,
-    "country": "TW"
+    "points": 5.0,
+    "country": "TW",
+    "games": 4
   },
   {
     "player": "ohoo",
-    "points": 5,
-    "country": "BR"
+    "points": 5.0,
+    "country": "BR",
+    "games": 4
   },
   {
     "player": "cloudchasing",
-    "points": 5,
-    "country": "US"
+    "points": 5.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "fiesco18",
-    "points": 5,
-    "country": "MX"
+    "points": 5.0,
+    "country": "MX",
+    "games": 10
   },
   {
     "player": "sinorci200",
-    "points": 5,
-    "country": "IT"
+    "points": 5.0,
+    "country": "IT",
+    "games": 17
   },
   {
     "player": "random",
-    "points": 5,
-    "country": "DE"
+    "points": 5.0,
+    "country": "DE",
+    "games": 6
   },
   {
     "player": "giaacomoo",
-    "points": 5,
-    "country": "IT"
+    "points": 5.0,
+    "country": "IT",
+    "games": 5
   },
   {
     "player": "shesa",
-    "points": 5,
-    "country": "ID"
+    "points": 5.0,
+    "country": "ID",
+    "games": 9
   },
   {
     "player": "wetwitch",
-    "points": 5,
-    "country": "US"
+    "points": 5.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "landon10",
-    "points": 5,
-    "country": "IT"
+    "points": 5.0,
+    "country": "IT",
+    "games": 5
   },
   {
     "player": "2sick",
-    "points": 4,
-    "country": "GB"
+    "points": 4.0,
+    "country": "GB",
+    "games": 2
   },
   {
     "player": "kraby29",
-    "points": 4,
-    "country": "AR"
+    "points": 4.0,
+    "country": "AR",
+    "games": 10
   },
   {
     "player": "mrd",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 14
   },
   {
     "player": "devastazioneh88",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "mcdonuts",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "fitypaldis",
-    "points": 4,
-    "country": "CL"
+    "points": 4.0,
+    "country": "CL",
+    "games": 5
   },
   {
     "player": "nayarapoke",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 4
   },
   {
     "player": "gimlet1991",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "zeublai",
-    "points": 4,
-    "country": "FR"
+    "points": 4.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "elmarcoo",
-    "points": 4,
-    "country": "MX"
+    "points": 4.0,
+    "country": "MX",
+    "games": 8
   },
   {
     "player": "ixerox",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 20
   },
   {
     "player": "hamuou",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "nuggie_d",
-    "points": 4,
-    "country": "AU"
+    "points": 4.0,
+    "country": "AU",
+    "games": 6
   },
   {
     "player": "jayswan",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 10
   },
   {
     "player": "caniuz",
-    "points": 4,
-    "country": "IT"
+    "points": 4.0,
+    "country": "IT",
+    "games": 3
   },
   {
     "player": "draav3n",
-    "points": 4,
-    "country": "AR"
+    "points": 4.0,
+    "country": "AR",
+    "games": 4
   },
   {
     "player": "amg7",
-    "points": 4,
-    "country": "MX"
+    "points": 4.0,
+    "country": "MX",
+    "games": 6
   },
   {
     "player": "bfootball0525",
-    "points": 4,
-    "country": "KR"
+    "points": 4.0,
+    "country": "KR",
+    "games": 3
   },
   {
     "player": "pepe11714",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "evand",
-    "points": 4,
-    "country": "MX"
+    "points": 4.0,
+    "country": "MX",
+    "games": 9
   },
   {
     "player": "7l",
-    "points": 4,
-    "country": "ID"
+    "points": 4.0,
+    "country": "ID",
+    "games": 9
   },
   {
     "player": "nandosgude",
-    "points": 4,
-    "country": "ES"
+    "points": 4.0,
+    "country": "ES",
+    "games": 20
   },
   {
     "player": "outlxw",
-    "points": 4,
-    "country": "DE"
+    "points": 4.0,
+    "country": "DE",
+    "games": 3
   },
   {
     "player": "jeyksu",
-    "points": 4,
-    "country": "PH"
+    "points": 4.0,
+    "country": "PH",
+    "games": 17
   },
   {
     "player": "mythrilraven",
-    "points": 4,
-    "country": "AU"
+    "points": 4.0,
+    "country": "AU",
+    "games": 3
   },
   {
     "player": "ogprof151",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 24
   },
   {
     "player": "cjplayspokemon",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "timothylie",
-    "points": 4,
-    "country": "NL"
+    "points": 4.0,
+    "country": "NL",
+    "games": 3
   },
   {
     "player": "mbaseggio",
-    "points": 4,
-    "country": "GB"
+    "points": 4.0,
+    "country": "GB",
+    "games": 4
   },
   {
     "player": "oscarparra",
-    "points": 4,
-    "country": "CL"
+    "points": 4.0,
+    "country": "CL",
+    "games": 9
   },
   {
     "player": "xanypopper",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "im_black",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "vlatoshi",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "dovelion",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "sup3r27ttv",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 10
   },
   {
     "player": "bobby02",
-    "points": 4,
-    "country": "IT"
+    "points": 4.0,
+    "country": "IT",
+    "games": 19
   },
   {
     "player": "hanaex",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "matcha17",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "seabass8",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "jariddle",
-    "points": 4,
-    "country": "MX"
+    "points": 4.0,
+    "country": "MX",
+    "games": 3
   },
   {
     "player": "menaofsteel",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "tunanigiri",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 16
   },
   {
     "player": "marckedcards",
-    "points": 4,
-    "country": "PH"
+    "points": 4.0,
+    "country": "PH",
+    "games": 4
   },
   {
     "player": "danimal",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "wataru0901",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "redmaicon",
-    "points": 4,
-    "country": "BR"
+    "points": 4.0,
+    "country": "BR",
+    "games": 8
   },
   {
     "player": "skies",
-    "points": 4,
-    "country": "GB"
+    "points": 4.0,
+    "country": "GB",
+    "games": 9
   },
   {
     "player": "boat_hyperion",
-    "points": 4,
-    "country": "FI"
+    "points": 4.0,
+    "country": "FI",
+    "games": 5
   },
   {
     "player": "ivanchu",
-    "points": 4,
-    "country": "ES"
+    "points": 4.0,
+    "country": "ES",
+    "games": 5
   },
   {
     "player": "coldplay",
-    "points": 4,
-    "country": "PE"
+    "points": 4.0,
+    "country": "PE",
+    "games": 3
   },
   {
     "player": "ranko",
-    "points": 4,
-    "country": "MX"
+    "points": 4.0,
+    "country": "MX",
+    "games": 1
   },
   {
     "player": "nelly",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "zyzz3",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "el_pesca",
-    "points": 4,
-    "country": "ES"
+    "points": 4.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "light_dn",
-    "points": 4,
-    "country": null
+    "points": 4.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "robs",
-    "points": 4,
-    "country": "BR"
+    "points": 4.0,
+    "country": "BR",
+    "games": 3
   },
   {
     "player": "hamza007",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 7
   },
   {
     "player": "kenson",
-    "points": 4,
-    "country": "HK"
+    "points": 4.0,
+    "country": "HK",
+    "games": 1
   },
   {
     "player": "agangofhippies",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "grandeaj",
-    "points": 4,
-    "country": "BR"
+    "points": 4.0,
+    "country": "BR",
+    "games": 5
   },
   {
     "player": "axows",
-    "points": 4,
-    "country": "CO"
+    "points": 4.0,
+    "country": "CO",
+    "games": 3
   },
   {
     "player": "shikamaru_br",
-    "points": 4,
-    "country": "BR"
+    "points": 4.0,
+    "country": "BR",
+    "games": 10
   },
   {
     "player": "daicavallo00",
-    "points": 4,
-    "country": "IT"
+    "points": 4.0,
+    "country": "IT",
+    "games": 4
   },
   {
     "player": "jahknee",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "ev_arima",
-    "points": 4,
-    "country": "KR"
+    "points": 4.0,
+    "country": "KR",
+    "games": 1
   },
   {
     "player": "nabugu",
-    "points": 4,
-    "country": "UA"
+    "points": 4.0,
+    "country": "UA",
+    "games": 1
   },
   {
     "player": "eliteslayer_11",
-    "points": 4,
-    "country": "ZA"
+    "points": 4.0,
+    "country": "ZA",
+    "games": 2
   },
   {
     "player": "amilaz",
-    "points": 4,
-    "country": "TR"
+    "points": 4.0,
+    "country": "TR",
+    "games": 3
   },
   {
     "player": "akamelml",
-    "points": 4,
-    "country": "PE"
+    "points": 4.0,
+    "country": "PE",
+    "games": 1
   },
   {
     "player": "thomasxavier21",
-    "points": 4,
-    "country": "CL"
+    "points": 4.0,
+    "country": "CL",
+    "games": 15
   },
   {
     "player": "beekaytriestcg",
-    "points": 4,
-    "country": "US"
+    "points": 4.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "lotso27",
-    "points": 4,
-    "country": "JP"
+    "points": 4.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "typhoon16",
-    "points": 4,
-    "country": "PT"
+    "points": 4.0,
+    "country": "PT",
+    "games": 1
   },
   {
     "player": "garbohanzo",
-    "points": 4,
-    "country": "MY"
+    "points": 4.0,
+    "country": "MY",
+    "games": 1
   },
   {
     "player": "r0zey",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "khronistr",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "frost22",
-    "points": 3,
-    "country": "IN"
+    "points": 3.0,
+    "country": "IN",
+    "games": 5
   },
   {
     "player": "khaeruibnum",
-    "points": 3,
-    "country": "ID"
+    "points": 3.0,
+    "country": "ID",
+    "games": 4
   },
   {
     "player": "dracoz",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 13
   },
   {
     "player": "crieghz",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 16
   },
   {
     "player": "super_peace",
-    "points": 3,
-    "country": "DE"
+    "points": 3.0,
+    "country": "DE",
+    "games": 22
   },
   {
     "player": "yuyoyuyo",
-    "points": 3,
-    "country": "JP"
+    "points": 3.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "rahwakeup",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "zsensi_ppsd",
-    "points": 3,
-    "country": "JP"
+    "points": 3.0,
+    "country": "JP",
+    "games": 13
   },
   {
     "player": "cheerydog",
-    "points": 3,
-    "country": "AU"
+    "points": 3.0,
+    "country": "AU",
+    "games": 4
   },
   {
     "player": "idizmeee",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "topo_owo",
-    "points": 3,
-    "country": "CO"
+    "points": 3.0,
+    "country": "CO",
+    "games": 9
   },
   {
     "player": "deangelis99",
-    "points": 3,
-    "country": "IT"
+    "points": 3.0,
+    "country": "IT",
+    "games": 8
   },
   {
     "player": "flipsicle",
-    "points": 3,
-    "country": "IN"
+    "points": 3.0,
+    "country": "IN",
+    "games": 3
   },
   {
     "player": "sas",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 11
   },
   {
     "player": "bigchen",
-    "points": 3,
-    "country": "AU"
+    "points": 3.0,
+    "country": "AU",
+    "games": 11
   },
   {
     "player": "dashmd",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 19
   },
   {
     "player": "moonlightmx",
-    "points": 3,
-    "country": "MX"
+    "points": 3.0,
+    "country": "MX",
+    "games": 4
   },
   {
     "player": "hofuruhoshi",
-    "points": 3,
-    "country": "FR"
+    "points": 3.0,
+    "country": "FR",
+    "games": 7
   },
   {
     "player": "racso1",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 12
   },
   {
     "player": "whoisfabela",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "gengargabe",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "shardfly",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "mefig",
-    "points": 3,
-    "country": "VE"
+    "points": 3.0,
+    "country": "VE",
+    "games": 4
   },
   {
     "player": "kana41",
-    "points": 3,
-    "country": "JP"
+    "points": 3.0,
+    "country": "JP",
+    "games": 3
   },
   {
     "player": "gratoss65",
-    "points": 3,
-    "country": "FR"
+    "points": 3.0,
+    "country": "FR",
+    "games": 5
   },
   {
     "player": "fall88",
-    "points": 3,
-    "country": "TW"
+    "points": 3.0,
+    "country": "TW",
+    "games": 17
   },
   {
     "player": "luisw",
-    "points": 3,
-    "country": "BR"
+    "points": 3.0,
+    "country": "BR",
+    "games": 5
   },
   {
     "player": "soshirokaiju",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "tylyn",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "cloud77",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "ynovator",
-    "points": 3,
-    "country": "PH"
+    "points": 3.0,
+    "country": "PH",
+    "games": 8
   },
   {
     "player": "darffan",
-    "points": 3,
-    "country": "BR"
+    "points": 3.0,
+    "country": "BR",
+    "games": 27
   },
   {
     "player": "rekkatherapy",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 17
   },
   {
     "player": "alecorna",
-    "points": 3,
-    "country": "IT"
+    "points": 3.0,
+    "country": "IT",
+    "games": 9
   },
   {
     "player": "iluchien",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "aito",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "sho_sho",
-    "points": 3,
-    "country": "JP"
+    "points": 3.0,
+    "country": "JP",
+    "games": 9
   },
   {
     "player": "caminknight",
-    "points": 3,
-    "country": "PE"
+    "points": 3.0,
+    "country": "PE",
+    "games": 20
   },
   {
     "player": "graywheel6210",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 16
   },
   {
     "player": "pattyd",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "corcho5",
-    "points": 3,
-    "country": "AR"
+    "points": 3.0,
+    "country": "AR",
+    "games": 13
   },
   {
     "player": "gosuuu",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "malacath",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 11
   },
   {
     "player": "rfrey",
-    "points": 3,
-    "country": "JP"
+    "points": 3.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "dj_marnel",
-    "points": 3,
-    "country": "IT"
+    "points": 3.0,
+    "country": "IT",
+    "games": 8
   },
   {
     "player": "capcaps",
-    "points": 3,
-    "country": "DE"
+    "points": 3.0,
+    "country": "DE",
+    "games": 3
   },
   {
     "player": "victorardiles",
-    "points": 3,
-    "country": "BR"
+    "points": 3.0,
+    "country": "BR",
+    "games": 6
   },
   {
     "player": "oohchalk",
-    "points": 3,
-    "country": null
+    "points": 3.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "cicciomelo",
-    "points": 3,
-    "country": "IT"
+    "points": 3.0,
+    "country": "IT",
+    "games": 3
   },
   {
     "player": "itspaydro18",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "xctloya26",
-    "points": 3,
-    "country": "US"
+    "points": 3.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "ruzlv",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "themagikarp",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 1
   },
   {
     "player": "killbo",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "turtlegeek",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 1
   },
   {
     "player": "chiefton007",
-    "points": 2,
-    "country": "TT"
+    "points": 2.0,
+    "country": "TT",
+    "games": 1
   },
   {
     "player": "hanalana",
-    "points": 2,
-    "country": "ID"
+    "points": 2.0,
+    "country": "ID",
+    "games": 6
   },
   {
     "player": "liamkrew",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "timo",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 4
   },
   {
     "player": "fluffy_panda1995",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 2
   },
   {
     "player": "nielreynan",
-    "points": 2,
-    "country": "PH"
+    "points": 2.0,
+    "country": "PH",
+    "games": 1
   },
   {
     "player": "breaking2mirror",
-    "points": 2,
-    "country": "DO"
+    "points": 2.0,
+    "country": "DO",
+    "games": 7
   },
   {
     "player": "mahorn0330",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "fatestar",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 3
   },
   {
     "player": "reziah",
-    "points": 2,
-    "country": "PR"
+    "points": 2.0,
+    "country": "PR",
+    "games": 4
   },
   {
     "player": "ghost_319",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "eilix524",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 11
   },
   {
     "player": "shinyyshinyy",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "thii8",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 3
   },
   {
     "player": "daikii",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 3
   },
   {
     "player": "zilla91",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "architect",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 2
   },
   {
     "player": "schlingel",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 8
   },
   {
     "player": "rmgzane",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 3
   },
   {
     "player": "jimbomancer",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "prisme",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "frozzinnz",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 6
   },
   {
     "player": "michealmayer",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 8
   },
   {
     "player": "ao1610",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 7
   },
   {
     "player": "elnico6754",
-    "points": 2,
-    "country": "CO"
+    "points": 2.0,
+    "country": "CO",
+    "games": 6
   },
   {
     "player": "toxology",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "estxkilla",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "rubiq",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "raigun",
-    "points": 2,
-    "country": "PH"
+    "points": 2.0,
+    "country": "PH",
+    "games": 6
   },
   {
     "player": "doudou33",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 3
   },
   {
     "player": "danimaton",
-    "points": 2,
-    "country": "ES"
+    "points": 2.0,
+    "country": "ES",
+    "games": 1
   },
   {
     "player": "ouaispasmal",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "l_xoz",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "soshi",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "sodesia",
-    "points": 2,
-    "country": "AE"
+    "points": 2.0,
+    "country": "AE",
+    "games": 3
   },
   {
     "player": "highlight",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "guiggs",
-    "points": 2,
-    "country": "PT"
+    "points": 2.0,
+    "country": "PT",
+    "games": 2
   },
   {
     "player": "zorrino",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 15
   },
   {
     "player": "fuleirzys09",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 2
   },
   {
     "player": "masterlando_420",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 21
   },
   {
     "player": "etn",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 8
   },
   {
     "player": "andrewbreaker",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "trainer4572",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "szerolotus",
-    "points": 2,
-    "country": "SG"
+    "points": 2.0,
+    "country": "SG",
+    "games": 1
   },
   {
     "player": "sophiadeclare",
-    "points": 2,
-    "country": "VN"
+    "points": 2.0,
+    "country": "VN",
+    "games": 3
   },
   {
     "player": "canelont",
-    "points": 2,
-    "country": "AR"
+    "points": 2.0,
+    "country": "AR",
+    "games": 4
   },
   {
     "player": "trainerlight29",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "su1_3o",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 6
   },
   {
     "player": "8digger2",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "adriman22",
-    "points": 2,
-    "country": "ES"
+    "points": 2.0,
+    "country": "ES",
+    "games": 1
   },
   {
     "player": "conquestcqn",
-    "points": 2,
-    "country": "PL"
+    "points": 2.0,
+    "country": "PL",
+    "games": 1
   },
   {
     "player": "juninion",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "fury64140",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 9
   },
   {
     "player": "rdstarlight",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 4
   },
   {
     "player": "maims123",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 25
   },
   {
     "player": "fbyixu",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "bard0",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "joystick",
-    "points": 2,
-    "country": "PH"
+    "points": 2.0,
+    "country": "PH",
+    "games": 5
   },
   {
     "player": "hansuwe",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 5
   },
   {
     "player": "misterburp",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "xhunquitooax",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "nid",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 8
   },
   {
     "player": "dodorimo",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "mitsuru_kajiwara",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "flash07",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 8
   },
   {
     "player": "makimon",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "exodia_1",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "cavvyr",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 9
   },
   {
     "player": "crixuz",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 1
   },
   {
     "player": "belceboss",
-    "points": 2,
-    "country": "VE"
+    "points": 2.0,
+    "country": "VE",
+    "games": 4
   },
   {
     "player": "glare",
-    "points": 2,
-    "country": "VE"
+    "points": 2.0,
+    "country": "VE",
+    "games": 2
   },
   {
     "player": "frespyy",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "feherlac",
-    "points": 2,
-    "country": "HU"
+    "points": 2.0,
+    "country": "HU",
+    "games": 6
   },
   {
     "player": "lentis",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "jervis382000",
-    "points": 2,
-    "country": "SG"
+    "points": 2.0,
+    "country": "SG",
+    "games": 1
   },
   {
     "player": "virture_k",
-    "points": 2,
-    "country": "TW"
+    "points": 2.0,
+    "country": "TW",
+    "games": 3
   },
   {
     "player": "jaimelesbonbec",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "conclusive",
-    "points": 2,
-    "country": "PR"
+    "points": 2.0,
+    "country": "PR",
+    "games": 1
   },
   {
     "player": "hekamashi",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 4
   },
   {
     "player": "abe",
-    "points": 2,
-    "country": "ES"
+    "points": 2.0,
+    "country": "ES",
+    "games": 1
   },
   {
     "player": "snorlaxstew",
-    "points": 2,
-    "country": "AU"
+    "points": 2.0,
+    "country": "AU",
+    "games": 2
   },
   {
     "player": "n3mu",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "louie_no1",
-    "points": 2,
-    "country": "KR"
+    "points": 2.0,
+    "country": "KR",
+    "games": 2
   },
   {
     "player": "johtojero",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "citric",
-    "points": 2,
-    "country": "VE"
+    "points": 2.0,
+    "country": "VE",
+    "games": 2
   },
   {
     "player": "xuxsoul",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "wornz",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "jpgaro",
-    "points": 2,
-    "country": "PE"
+    "points": 2.0,
+    "country": "PE",
+    "games": 1
   },
   {
     "player": "sphinxzoro1",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 3
   },
   {
     "player": "diana_chan",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 1
   },
   {
     "player": "edwinborbon000",
-    "points": 2,
-    "country": "DO"
+    "points": 2.0,
+    "country": "DO",
+    "games": 16
   },
   {
     "player": "kaizo",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 2
   },
   {
     "player": "d_mon",
-    "points": 2,
-    "country": "MX"
+    "points": 2.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "braynomaden",
-    "points": 2,
-    "country": "ID"
+    "points": 2.0,
+    "country": "ID",
+    "games": 2
   },
   {
     "player": "aoisora",
-    "points": 2,
-    "country": "ID"
+    "points": 2.0,
+    "country": "ID",
+    "games": 11
   },
   {
     "player": "rzlby",
-    "points": 2,
-    "country": "ID"
+    "points": 2.0,
+    "country": "ID",
+    "games": 10
   },
   {
     "player": "aetherbenny",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "eri_myname",
-    "points": 2,
-    "country": "TW"
+    "points": 2.0,
+    "country": "TW",
+    "games": 2
   },
   {
     "player": "aleqw",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 10
   },
   {
     "player": "stormstar",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "shadowkn24",
-    "points": 2,
-    "country": "IN"
+    "points": 2.0,
+    "country": "IN",
+    "games": 4
   },
   {
     "player": "epicwasta",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "oddy",
-    "points": 2,
-    "country": "ID"
+    "points": 2.0,
+    "country": "ID",
+    "games": 7
   },
   {
     "player": "xari",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "im_notryan",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "alhag114",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 6
   },
   {
     "player": "xdesti",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 3
   },
   {
     "player": "suugarwater",
-    "points": 2,
-    "country": "KR"
+    "points": 2.0,
+    "country": "KR",
+    "games": 1
   },
   {
     "player": "fabiowastaken",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 1
   },
   {
     "player": "hao0o",
-    "points": 2,
-    "country": "SG"
+    "points": 2.0,
+    "country": "SG",
+    "games": 1
   },
   {
     "player": "lt0913",
-    "points": 2,
-    "country": "HK"
+    "points": 2.0,
+    "country": "HK",
+    "games": 1
   },
   {
     "player": "qqoo",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 7
   },
   {
     "player": "diego093",
-    "points": 2,
-    "country": "CO"
+    "points": 2.0,
+    "country": "CO",
+    "games": 5
   },
   {
     "player": "sseisen",
-    "points": 2,
-    "country": "PT"
+    "points": 2.0,
+    "country": "PT",
+    "games": 8
   },
   {
     "player": "kikoxhunter",
-    "points": 2,
-    "country": "CA"
+    "points": 2.0,
+    "country": "CA",
+    "games": 1
   },
   {
     "player": "cookie630",
-    "points": 2,
-    "country": "SG"
+    "points": 2.0,
+    "country": "SG",
+    "games": 2
   },
   {
     "player": "javiercazorla",
-    "points": 2,
-    "country": "AR"
+    "points": 2.0,
+    "country": "AR",
+    "games": 12
   },
   {
     "player": "dazbazgaming",
-    "points": 2,
-    "country": "GB"
+    "points": 2.0,
+    "country": "GB",
+    "games": 2
   },
   {
     "player": "yaboishaad",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 9
   },
   {
     "player": "jaydankest",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "muswa",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 12
   },
   {
     "player": "hanzee",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 3
   },
   {
     "player": "bigred12121",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 15
   },
   {
     "player": "onlyjungsi",
-    "points": 2,
-    "country": "KR"
+    "points": 2.0,
+    "country": "KR",
+    "games": 2
   },
   {
     "player": "eddiespfc",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 4
   },
   {
     "player": "pluto12",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "johtopack",
-    "points": 2,
-    "country": "CL"
+    "points": 2.0,
+    "country": "CL",
+    "games": 4
   },
   {
     "player": "sl4ps",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "xopogs",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "opticsauna",
-    "points": 2,
-    "country": "AU"
+    "points": 2.0,
+    "country": "AU",
+    "games": 2
   },
   {
     "player": "kykicks",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "amigo2222",
-    "points": 2,
-    "country": "ES"
+    "points": 2.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "owen_aw",
-    "points": 2,
-    "country": "MY"
+    "points": 2.0,
+    "country": "MY",
+    "games": 5
   },
   {
     "player": "varma",
-    "points": 2,
-    "country": "IN"
+    "points": 2.0,
+    "country": "IN",
+    "games": 13
   },
   {
     "player": "drloic",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "robin0936",
-    "points": 2,
-    "country": "CO"
+    "points": 2.0,
+    "country": "CO",
+    "games": 2
   },
   {
     "player": "skibididopdop",
-    "points": 2,
-    "country": "ES"
+    "points": 2.0,
+    "country": "ES",
+    "games": 6
   },
   {
     "player": "hdanial",
-    "points": 2,
-    "country": "MY"
+    "points": 2.0,
+    "country": "MY",
+    "games": 1
   },
   {
     "player": "alexsworth",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 7
   },
   {
     "player": "slinnerd101",
-    "points": 2,
-    "country": "US"
+    "points": 2.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "bredle",
-    "points": 2,
-    "country": null
+    "points": 2.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "principecaido95",
-    "points": 2,
-    "country": "AR"
+    "points": 2.0,
+    "country": "AR",
+    "games": 2
   },
   {
     "player": "pyrodachef",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 8
   },
   {
     "player": "rafaellouz",
-    "points": 2,
-    "country": "BR"
+    "points": 2.0,
+    "country": "BR",
+    "games": 9
   },
   {
     "player": "ninoleo",
-    "points": 2,
-    "country": "IT"
+    "points": 2.0,
+    "country": "IT",
+    "games": 1
   },
   {
     "player": "fedped",
-    "points": 2,
-    "country": "JP"
+    "points": 2.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "almezda",
-    "points": 2,
-    "country": "FR"
+    "points": 2.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "8duke8",
-    "points": 2,
-    "country": "DE"
+    "points": 2.0,
+    "country": "DE",
+    "games": 1
   },
   {
     "player": "jrab",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 13
   },
   {
     "player": "akfirestorm",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 3
   },
   {
     "player": "ansito",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 8
   },
   {
     "player": "awbscene",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "tommyhp",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 4
   },
   {
     "player": "acebakun",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 10
   },
   {
     "player": "manutan",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 4
   },
   {
     "player": "rossytribiani",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "magrones",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 6
   },
   {
     "player": "necroblaze",
-    "points": 1,
-    "country": "GB"
+    "points": 1.0,
+    "country": "GB",
+    "games": 2
   },
   {
     "player": "gosulek",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 3
   },
   {
     "player": "elnari",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 1
   },
   {
     "player": "kikokwikwak",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 1
   },
   {
     "player": "ycha_00",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "cacney21",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "kylorde",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "snowpoints",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "foxy",
-    "points": 1,
-    "country": "SI"
+    "points": 1.0,
+    "country": "SI",
+    "games": 2
   },
   {
     "player": "fatsillygoose",
-    "points": 1,
-    "country": "AU"
+    "points": 1.0,
+    "country": "AU",
+    "games": 1
   },
   {
     "player": "keio_zamazenta",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "adporkupine",
-    "points": 1,
-    "country": "HK"
+    "points": 1.0,
+    "country": "HK",
+    "games": 1
   },
   {
     "player": "jphenomenal",
-    "points": 1,
-    "country": "PL"
+    "points": 1.0,
+    "country": "PL",
+    "games": 3
   },
   {
     "player": "freesky0519",
-    "points": 1,
-    "country": "HK"
+    "points": 1.0,
+    "country": "HK",
+    "games": 2
   },
   {
     "player": "mrcin0091",
-    "points": 1,
-    "country": "PL"
+    "points": 1.0,
+    "country": "PL",
+    "games": 5
   },
   {
     "player": "pokeke",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "gigagoat",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 13
   },
   {
     "player": "doodat",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "bestiari",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "xhinoman",
-    "points": 1,
-    "country": "EC"
+    "points": 1.0,
+    "country": "EC",
+    "games": 4
   },
   {
     "player": "lightxz",
-    "points": 1,
-    "country": "SG"
+    "points": 1.0,
+    "country": "SG",
+    "games": 6
   },
   {
     "player": "suguru1999",
-    "points": 1,
-    "country": "MY"
+    "points": 1.0,
+    "country": "MY",
+    "games": 3
   },
   {
     "player": "sekkarou",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "tomita45454545",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "paolettijr",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 2
   },
   {
     "player": "regenzzzeit",
-    "points": 1,
-    "country": "IM"
+    "points": 1.0,
+    "country": "IM",
+    "games": 3
   },
   {
     "player": "chocooo",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "rakgnarvaliant",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 2
   },
   {
     "player": "lionking",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 10
   },
   {
     "player": "keitzu",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 1
   },
   {
     "player": "soundofchaos",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "aiueoniisan",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "lauderdee",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "silencejoker",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 4
   },
   {
     "player": "zephyr400",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "redspoon",
-    "points": 1,
-    "country": "RO"
+    "points": 1.0,
+    "country": "RO",
+    "games": 2
   },
   {
     "player": "sleepy512pete",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "teedotowe",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "ziquan2",
-    "points": 1,
-    "country": "MY"
+    "points": 1.0,
+    "country": "MY",
+    "games": 2
   },
   {
     "player": "caspel09",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 1
   },
   {
     "player": "stormxtr",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 9
   },
   {
     "player": "akezaki",
-    "points": 1,
-    "country": "PE"
+    "points": 1.0,
+    "country": "PE",
+    "games": 2
   },
   {
     "player": "mmsb",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "snipercrowbar",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "numatinale",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "basics_susu",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "dbey4010314_0508",
-    "points": 1,
-    "country": "TW"
+    "points": 1.0,
+    "country": "TW",
+    "games": 3
   },
   {
     "player": "elliedark",
-    "points": 1,
-    "country": "GB"
+    "points": 1.0,
+    "country": "GB",
+    "games": 12
   },
   {
     "player": "snail__05",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "eku",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 8
   },
   {
     "player": "sagekcd",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "strangecoyote",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "tmcoy97",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "juanpcv4540",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 5
   },
   {
     "player": "faded7",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 6
   },
   {
     "player": "kurage",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "makinu",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "koishikomeijiex",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 5
   },
   {
     "player": "tekkenvera",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 4
   },
   {
     "player": "faficha",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 1
   },
   {
     "player": "mysticagleon",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 4
   },
   {
     "player": "flyingfrank",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "itz_guri",
-    "points": 1,
-    "country": "AT"
+    "points": 1.0,
+    "country": "AT",
+    "games": 2
   },
   {
     "player": "guildlen",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 4
   },
   {
     "player": "abscissa",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 2
   },
   {
     "player": "newfirsniper",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 5
   },
   {
     "player": "facechan",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 7
   },
   {
     "player": "carver",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "pepin_mx",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "avalan",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 2
   },
   {
     "player": "thay195",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "mart95nlc",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 4
   },
   {
     "player": "larvaro",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 1
   },
   {
     "player": "destyder",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 3
   },
   {
     "player": "theg35",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "mfa",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "arackz85",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "croco15",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "schmosbydlx",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 3
   },
   {
     "player": "realrtr",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 3
   },
   {
     "player": "sirvival",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 1
   },
   {
     "player": "pamnardo_s2",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 12
   },
   {
     "player": "manchonito",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 4
   },
   {
     "player": "topvianna040423",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 2
   },
   {
     "player": "angelst",
-    "points": 1,
-    "country": "GR"
+    "points": 1.0,
+    "country": "GR",
+    "games": 4
   },
   {
     "player": "kiddoz",
-    "points": 1,
-    "country": "ID"
+    "points": 1.0,
+    "country": "ID",
+    "games": 8
   },
   {
     "player": "rkelle19",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "drunkbuthappy",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "power_cosmuk",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "cavallovlanco",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "yukapower35",
-    "points": 1,
-    "country": "PR"
+    "points": 1.0,
+    "country": "PR",
+    "games": 3
   },
   {
     "player": "dirtychks",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "bb4peach",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 3
   },
   {
     "player": "hinmyt",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "lilyswxn",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "mattelab",
-    "points": 1,
-    "country": "SG"
+    "points": 1.0,
+    "country": "SG",
+    "games": 1
   },
   {
     "player": "rubenoultime",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "greenfra",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 6
   },
   {
     "player": "hima_suika",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 5
   },
   {
     "player": "curryudon1107",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 6
   },
   {
     "player": "lennydeski",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "chrischang032",
-    "points": 1,
-    "country": "KR"
+    "points": 1.0,
+    "country": "KR",
+    "games": 2
   },
   {
     "player": "crackportero",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 4
   },
   {
     "player": "hasalf",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "birdrsarefriends",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "trainerbt",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 6
   },
   {
     "player": "ryutcg",
-    "points": 1,
-    "country": "ID"
+    "points": 1.0,
+    "country": "ID",
+    "games": 7
   },
   {
     "player": "chv3173",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 9
   },
   {
     "player": "kinitzu",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 1
   },
   {
     "player": "jdondog",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "mckey66",
-    "points": 1,
-    "country": "AU"
+    "points": 1.0,
+    "country": "AU",
+    "games": 4
   },
   {
     "player": "jhonseb0",
-    "points": 1,
-    "country": "CO"
+    "points": 1.0,
+    "country": "CO",
+    "games": 3
   },
   {
     "player": "mrxtrem26",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   },
   {
     "player": "fleepter",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 2
   },
   {
     "player": "scorpion527",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "naoki",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 2
   },
   {
     "player": "wuggzy1",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "barba28",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 5
   },
   {
     "player": "meymuus",
-    "points": 1,
-    "country": "CH"
+    "points": 1.0,
+    "country": "CH",
+    "games": 8
   },
   {
     "player": "brayusqui",
-    "points": 1,
-    "country": "BO"
+    "points": 1.0,
+    "country": "BO",
+    "games": 1
   },
   {
     "player": "bu3nardo",
-    "points": 1,
-    "country": "VE"
+    "points": 1.0,
+    "country": "VE",
+    "games": 1
   },
   {
     "player": "castro37",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 9
   },
   {
     "player": "kanjas",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "danthomson",
-    "points": 1,
-    "country": "GB"
+    "points": 1.0,
+    "country": "GB",
+    "games": 4
   },
   {
     "player": "tux",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 1
   },
   {
     "player": "uitravegito",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 3
   },
   {
     "player": "ahmed9",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "x_anax",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "elbert",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 3
   },
   {
     "player": "richardmarighetti",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 2
   },
   {
     "player": "pokemtro_aleja",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 2
   },
   {
     "player": "snub",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "bengganator",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 4
   },
   {
     "player": "papotepaleta",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 1
   },
   {
     "player": "raindrop2cool",
-    "points": 1,
-    "country": "CH"
+    "points": 1.0,
+    "country": "CH",
+    "games": 1
   },
   {
     "player": "raulf",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 3
   },
   {
     "player": "soqquadro",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 1
   },
   {
     "player": "adk",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 6
   },
   {
     "player": "raposacabulosa1",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 1
   },
   {
     "player": "elatomico",
-    "points": 1,
-    "country": "CO"
+    "points": 1.0,
+    "country": "CO",
+    "games": 6
   },
   {
     "player": "garchomplucario123",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "drxco2sosa",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "csmati",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 6
   },
   {
     "player": "evan34",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "gg5192688",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "urcookedlilbro",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "firebana",
-    "points": 1,
-    "country": "TW"
+    "points": 1.0,
+    "country": "TW",
+    "games": 1
   },
   {
     "player": "lovetheworldwithbenefit",
-    "points": 1,
-    "country": "HK"
+    "points": 1.0,
+    "country": "HK",
+    "games": 1
   },
   {
     "player": "bbchillen",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "frozen",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "juggynaut14",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 6
   },
   {
     "player": "ferri54",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 1
   },
   {
     "player": "dat",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "spicy9999",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "beduinzpouste",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "mydiamonds1000",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 2
   },
   {
     "player": "mansiri151",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "specs",
-    "points": 1,
-    "country": "GB"
+    "points": 1.0,
+    "country": "GB",
+    "games": 2
   },
   {
     "player": "pauk55",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 4
   },
   {
     "player": "blastplase11",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 4
   },
   {
     "player": "gukgaeron1",
-    "points": 1,
-    "country": "KR"
+    "points": 1.0,
+    "country": "KR",
+    "games": 2
   },
   {
     "player": "magikarpfish",
-    "points": 1,
-    "country": "IN"
+    "points": 1.0,
+    "country": "IN",
+    "games": 1
   },
   {
     "player": "dar",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 3
   },
   {
     "player": "fiumba",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 6
   },
   {
     "player": "partialfractiondecompo",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 1
   },
   {
     "player": "prometheusiiii",
-    "points": 1,
-    "country": "GB"
+    "points": 1.0,
+    "country": "GB",
+    "games": 3
   },
   {
     "player": "rogervilarmau",
-    "points": 1,
-    "country": "ES"
+    "points": 1.0,
+    "country": "ES",
+    "games": 3
   },
   {
     "player": "ken458962",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 9
   },
   {
     "player": "weez",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "pette9550",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 6
   },
   {
     "player": "avuuado",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 13
   },
   {
     "player": "six420",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 7
   },
   {
     "player": "kaoxt",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "acemushroom",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 1
   },
   {
     "player": "tman2891",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 6
   },
   {
     "player": "schlepp02",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 2
   },
   {
     "player": "rare",
-    "points": 1,
-    "country": null
+    "points": 1.0,
+    "country": null,
+    "games": 2
   },
   {
     "player": "cjxskull",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 3
   },
   {
     "player": "pokefan9122",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 5
   },
   {
     "player": "tawsik",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 4
   },
   {
     "player": "swkillua",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 5
   },
   {
     "player": "fucuro",
-    "points": 1,
-    "country": "AT"
+    "points": 1.0,
+    "country": "AT",
+    "games": 3
   },
   {
     "player": "saucebauce96",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "junioom",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 2
   },
   {
     "player": "toddyfox",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 1
   },
   {
     "player": "maykon123",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 1
   },
   {
     "player": "horipoke",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 2
   },
   {
     "player": "mcleoid",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "isanpum",
-    "points": 1,
-    "country": "PY"
+    "points": 1.0,
+    "country": "PY",
+    "games": 12
   },
   {
     "player": "tapatio94",
-    "points": 1,
-    "country": "MX"
+    "points": 1.0,
+    "country": "MX",
+    "games": 4
   },
   {
     "player": "soadmon",
-    "points": 1,
-    "country": "EC"
+    "points": 1.0,
+    "country": "EC",
+    "games": 12
   },
   {
     "player": "azue",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 6
   },
   {
     "player": "dekisokonai",
-    "points": 1,
-    "country": "JP"
+    "points": 1.0,
+    "country": "JP",
+    "games": 3
   },
   {
     "player": "wick101",
-    "points": 1,
-    "country": "PE"
+    "points": 1.0,
+    "country": "PE",
+    "games": 1
   },
   {
     "player": "fangsnothere",
-    "points": 1,
-    "country": "IN"
+    "points": 1.0,
+    "country": "IN",
+    "games": 1
   },
   {
     "player": "mimu20",
-    "points": 1,
-    "country": "ID"
+    "points": 1.0,
+    "country": "ID",
+    "games": 4
   },
   {
     "player": "dragonpini",
-    "points": 1,
-    "country": "AR"
+    "points": 1.0,
+    "country": "AR",
+    "games": 4
   },
   {
     "player": "god8lucifer",
-    "points": 1,
-    "country": "IN"
+    "points": 1.0,
+    "country": "IN",
+    "games": 2
   },
   {
     "player": "stracchino22",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 12
   },
   {
     "player": "tsukistarx",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 1
   },
   {
     "player": "fogelpfau",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 7
   },
   {
     "player": "petchou",
-    "points": 1,
-    "country": "BR"
+    "points": 1.0,
+    "country": "BR",
+    "games": 4
   },
   {
     "player": "xastur",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 12
   },
   {
     "player": "hyokami",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "lanfro17",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 1
   },
   {
     "player": "ohmydaddy",
-    "points": 1,
-    "country": "PH"
+    "points": 1.0,
+    "country": "PH",
+    "games": 1
   },
   {
     "player": "eternal_tcg",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "fredward",
-    "points": 1,
-    "country": "CL"
+    "points": 1.0,
+    "country": "CL",
+    "games": 5
   },
   {
     "player": "allezlesbleus",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "mikidl94",
-    "points": 1,
-    "country": "IT"
+    "points": 1.0,
+    "country": "IT",
+    "games": 2
   },
   {
     "player": "waterbetter",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 11
   },
   {
     "player": "ericko",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "polodulaus",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 1
   },
   {
     "player": "donsio",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 8
   },
   {
     "player": "sakuragihanamichi",
-    "points": 1,
-    "country": "DO"
+    "points": 1.0,
+    "country": "DO",
+    "games": 13
   },
   {
     "player": "hardbanger",
-    "points": 1,
-    "country": "DE"
+    "points": 1.0,
+    "country": "DE",
+    "games": 1
   },
   {
     "player": "ziggo",
-    "points": 1,
-    "country": "CA"
+    "points": 1.0,
+    "country": "CA",
+    "games": 2
   },
   {
     "player": "thischase",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 1
   },
   {
     "player": "narumi",
-    "points": 1,
-    "country": "FR"
+    "points": 1.0,
+    "country": "FR",
+    "games": 3
   },
   {
     "player": "mrrandom369",
-    "points": 1,
-    "country": "US"
+    "points": 1.0,
+    "country": "US",
+    "games": 3
   }
 ]

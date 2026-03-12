@@ -927,7 +927,7 @@ watch([total, pageSize], () => {
 }
 
 .title {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 900;
   color: rgba(255, 255, 255, 0.92);
 }
