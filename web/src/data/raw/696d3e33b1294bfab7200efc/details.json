@@ -1,0 +1,30 @@
+{
+  "id": "696d3e33b1294bfab7200efc",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Talon’s FIGHT CLUB #73 x PokemonDayWeek BO3 RegF",
+  "date": "2026-02-27T00:00:00.000Z",
+  "players": 59,
+  "organizer": {
+    "id": 1077,
+    "name": "TalonMasterJ"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

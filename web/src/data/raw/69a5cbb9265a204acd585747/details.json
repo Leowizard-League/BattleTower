@@ -1,0 +1,30 @@
+{
+  "id": "69a5cbb9265a204acd585747",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "💥​Plantel Battle #19 ASC💥​100 CODES ✔️​ TOP 8",
+  "date": "2026-03-05T23:00:00.000Z",
+  "players": 72,
+  "organizer": {
+    "id": 1727,
+    "name": "Mighow"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

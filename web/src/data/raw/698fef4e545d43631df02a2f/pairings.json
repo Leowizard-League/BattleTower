@@ -1,0 +1,711 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "icry",
+    "player1": "icry",
+    "player2": "phidra"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "v70shwagon",
+    "player1": "mrsoloman10",
+    "player2": "v70shwagon"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "shionkami",
+    "player1": "shionkami",
+    "player2": "mrmarvel18"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "lukaruio",
+    "player1": "remmah72",
+    "player2": "lukaruio"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "zhiyi20070415",
+    "player1": "nadwagos",
+    "player2": "zhiyi20070415"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "isee24k",
+    "player1": "lastknight12",
+    "player2": "isee24k"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "zakaryan08",
+    "player1": "zakaryan08",
+    "player2": "fufufafa123"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "toto_dile",
+    "player1": "toto_dile",
+    "player2": "isizematters"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "slowko",
+    "player1": "slowko",
+    "player2": "kerosama"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "elliedark",
+    "player1": "xzh",
+    "player2": "elliedark"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "vasilikitsampa",
+    "player1": "fede36u",
+    "player2": "vasilikitsampa"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": "ebsc1",
+    "player1": "proteina",
+    "player2": "ebsc1"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "henry2010",
+    "player1": "henry2010",
+    "player2": "tmkasura"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "joshuasutherland21",
+    "player1": "joshuasutherland21",
+    "player2": "poffination"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "kashmann27",
+    "player1": "shahril1341",
+    "player2": "kashmann27"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 16,
+    "winner": "skandamis",
+    "player1": "skandamis",
+    "player2": "nandosgude"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 17,
+    "winner": "trainergold14",
+    "player1": "soloxeno101",
+    "player2": "trainergold14"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 18,
+    "winner": "jiyong1010",
+    "player1": "arbinanta",
+    "player2": "jiyong1010"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 19,
+    "winner": "lit0rxat",
+    "player1": "q1goldninja",
+    "player2": "lit0rxat"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 20,
+    "winner": "benchpress",
+    "player1": "dynamite",
+    "player2": "benchpress"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "zakaryan08",
+    "player1": "elliedark",
+    "player2": "zakaryan08"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "kashmann27",
+    "player1": "henry2010",
+    "player2": "kashmann27"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "icry",
+    "player1": "icry",
+    "player2": "zhiyi20070415"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "trainergold14",
+    "player1": "shionkami",
+    "player2": "trainergold14"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "toto_dile",
+    "player1": "toto_dile",
+    "player2": "isee24k"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "benchpress",
+    "player1": "benchpress",
+    "player2": "skandamis"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "ebsc1",
+    "player1": "vasilikitsampa",
+    "player2": "ebsc1"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "jiyong1010",
+    "player1": "v70shwagon",
+    "player2": "jiyong1010"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "lukaruio",
+    "player1": "lukaruio",
+    "player2": "slowko"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "lit0rxat",
+    "player1": "lit0rxat",
+    "player2": "joshuasutherland21"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "xzh",
+    "player1": "phidra",
+    "player2": "xzh"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "lastknight12",
+    "player1": "lastknight12",
+    "player2": "isizematters"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": -1,
+    "player1": "arbinanta",
+    "player2": "kerosama"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "nadwagos",
+    "player1": "nadwagos",
+    "player2": "dynamite"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 15,
+    "winner": "fede36u",
+    "player1": "fede36u",
+    "player2": "soloxeno101"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 16,
+    "winner": "fufufafa123",
+    "player1": "fufufafa123",
+    "player2": "mrsoloman10"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 17,
+    "winner": "remmah72",
+    "player1": "q1goldninja",
+    "player2": "remmah72"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 18,
+    "winner": "poffination",
+    "player1": "poffination",
+    "player2": "nandosgude"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 19,
+    "winner": "tmkasura",
+    "player1": "tmkasura",
+    "player2": "mrmarvel18"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 20,
+    "winner": "proteina",
+    "player1": "proteina",
+    "player2": "shahril1341"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "kashmann27",
+    "player1": "kashmann27",
+    "player2": "toto_dile"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "lukaruio",
+    "player1": "lukaruio",
+    "player2": "benchpress"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "ebsc1",
+    "player1": "lit0rxat",
+    "player2": "ebsc1"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "trainergold14",
+    "player1": "jiyong1010",
+    "player2": "trainergold14"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "icry",
+    "player1": "icry",
+    "player2": "zakaryan08"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "remmah72",
+    "player1": "fufufafa123",
+    "player2": "remmah72"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "vasilikitsampa",
+    "player1": "vasilikitsampa",
+    "player2": "nadwagos"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "zhiyi20070415",
+    "player1": "xzh",
+    "player2": "zhiyi20070415"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "shionkami",
+    "player1": "poffination",
+    "player2": "shionkami"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "isee24k",
+    "player1": "elliedark",
+    "player2": "isee24k"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "proteina",
+    "player1": "proteina",
+    "player2": "fede36u"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "henry2010",
+    "player1": "henry2010",
+    "player2": "slowko"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "skandamis",
+    "player1": "v70shwagon",
+    "player2": "skandamis"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 14,
+    "winner": "joshuasutherland21",
+    "player1": "joshuasutherland21",
+    "player2": "lastknight12"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 15,
+    "winner": "tmkasura",
+    "player1": "tmkasura",
+    "player2": "q1goldninja"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 16,
+    "winner": "mrmarvel18",
+    "player1": "mrmarvel18",
+    "player2": "arbinanta"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 17,
+    "winner": "soloxeno101",
+    "player1": "nandosgude",
+    "player2": "soloxeno101"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 18,
+    "winner": "dynamite",
+    "player1": "dynamite"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "ebsc1",
+    "player1": "ebsc1",
+    "player2": "trainergold14"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "lukaruio",
+    "player1": "lukaruio",
+    "player2": "kashmann27"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "vasilikitsampa",
+    "player1": "icry",
+    "player2": "vasilikitsampa"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "shionkami",
+    "player1": "skandamis",
+    "player2": "shionkami"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "benchpress",
+    "player1": "henry2010",
+    "player2": "benchpress"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "tmkasura",
+    "player1": "tmkasura",
+    "player2": "zakaryan08"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "toto_dile",
+    "player1": "toto_dile",
+    "player2": "zhiyi20070415"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "proteina",
+    "player1": "jiyong1010",
+    "player2": "proteina"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "lit0rxat",
+    "player1": "isee24k",
+    "player2": "lit0rxat"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "mrmarvel18",
+    "player1": "mrmarvel18",
+    "player2": "v70shwagon"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "xzh",
+    "player1": "nadwagos",
+    "player2": "xzh"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "dynamite",
+    "player1": "dynamite",
+    "player2": "lastknight12"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 13,
+    "winner": "fufufafa123",
+    "player1": "soloxeno101",
+    "player2": "fufufafa123"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 14,
+    "winner": "arbinanta",
+    "player1": "arbinanta"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": "icry",
+    "player1": "lukaruio",
+    "player2": "icry"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "kashmann27",
+    "player1": "kashmann27",
+    "player2": "shionkami"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "vasilikitsampa",
+    "player1": "vasilikitsampa",
+    "player2": "proteina"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "toto_dile",
+    "player1": "lit0rxat",
+    "player2": "toto_dile"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "tmkasura",
+    "player1": "tmkasura",
+    "player2": "trainergold14"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "benchpress",
+    "player1": "benchpress",
+    "player2": "mrmarvel18"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "skandamis",
+    "player1": "skandamis",
+    "player2": "dynamite"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "fufufafa123",
+    "player1": "jiyong1010",
+    "player2": "fufufafa123"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "xzh",
+    "player1": "arbinanta",
+    "player2": "xzh"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": "v70shwagon",
+    "player1": "v70shwagon"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "icry",
+    "match": "T8-2",
+    "player1": "kashmann27",
+    "player2": "icry"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "benchpress",
+    "match": "T8-4",
+    "player1": "vasilikitsampa",
+    "player2": "benchpress"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "tmkasura",
+    "match": "T8-1",
+    "player1": "lukaruio",
+    "player2": "tmkasura"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "toto_dile",
+    "match": "T8-3",
+    "player1": "ebsc1",
+    "player2": "toto_dile"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "benchpress",
+    "match": "T2-1",
+    "player1": "icry",
+    "player2": "benchpress"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "benchpress",
+    "match": "T4-2",
+    "player1": "toto_dile",
+    "player2": "benchpress"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "icry",
+    "match": "T4-1",
+    "player1": "tmkasura",
+    "player2": "icry"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": 0,
+    "player1": "fabiomarcello",
+    "player2": "gordinho"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "castanho1997",
+    "player1": "campos",
+    "player2": "castanho1997"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "katcg",
+    "player1": "bzin",
+    "player2": "katcg"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "leandroguilbert",
+    "player1": "naugow",
+    "player2": "leandroguilbert"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "miguelhonofre",
+    "player1": "kouga",
+    "player2": "miguelhonofre"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "igordinho",
+    "player1": "igordinho",
+    "player2": "barluina"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "raulbaruc",
+    "player1": "raulbaruc",
+    "player2": "machiavelli"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "chadd",
+    "player1": "kztyllo",
+    "player2": "chadd"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": 0,
+    "player1": "omeninomalukinho",
+    "player2": "alexyabiku"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "giobo20",
+    "player1": "lnk",
+    "player2": "giobo20"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "lucasflaquer",
+    "player1": "motafilipe",
+    "player2": "lucasflaquer"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": 0,
+    "player1": "pocnan",
+    "player2": "pilonzitos"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": 0,
+    "player1": "alvito",
+    "player2": "komodore"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "spadille",
+    "player1": "spadille",
+    "player2": "juhsk19"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "sucomid",
+    "player1": "pedroanauate",
+    "player2": "sucomid"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 16,
+    "winner": "leofemor",
+    "player1": "leofemor",
+    "player2": "fabioisoldi"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 17,
+    "winner": "topin",
+    "player1": "joaovsa",
+    "player2": "topin"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 18,
+    "winner": "flaquer01",
+    "player1": "giovanicp47",
+    "player2": "flaquer01"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 19,
+    "winner": "dorfoyeah",
+    "player1": "dorfoyeah"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "spadille",
+    "player1": "flaquer01",
+    "player2": "spadille"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": 0,
+    "player1": "chadd",
+    "player2": "castanho1997"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "dorfoyeah",
+    "player1": "miguelhonofre",
+    "player2": "dorfoyeah"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "lucasflaquer",
+    "player1": "raulbaruc",
+    "player2": "lucasflaquer"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "leandroguilbert",
+    "player1": "leofemor",
+    "player2": "leandroguilbert"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": 0,
+    "player1": "giobo20",
+    "player2": "katcg"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "igordinho",
+    "player1": "sucomid",
+    "player2": "igordinho"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "topin",
+    "player1": "topin",
+    "player2": "alexyabiku"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "fabiomarcello",
+    "player1": "fabiomarcello",
+    "player2": "pocnan"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "gordinho",
+    "player1": "alvito",
+    "player2": "gordinho"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "pilonzitos",
+    "player1": "pilonzitos",
+    "player2": "omeninomalukinho"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": 0,
+    "player1": "komodore",
+    "player2": "juhsk19"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "naugow",
+    "player1": "naugow",
+    "player2": "bzin"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "joaovsa",
+    "player1": "barluina",
+    "player2": "joaovsa"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 15,
+    "winner": 0,
+    "player1": "kztyllo",
+    "player2": "campos"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 16,
+    "winner": "fabioisoldi",
+    "player1": "lnk",
+    "player2": "fabioisoldi"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 17,
+    "winner": "pedroanauate",
+    "player1": "pedroanauate",
+    "player2": "kouga"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 18,
+    "winner": "giovanicp47",
+    "player1": "giovanicp47",
+    "player2": "motafilipe"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 19,
+    "winner": "machiavelli",
+    "player1": "machiavelli"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": 0,
+    "player1": "topin",
+    "player2": "leandroguilbert"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "spadille",
+    "player1": "spadille",
+    "player2": "lucasflaquer"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "dorfoyeah",
+    "player1": "igordinho",
+    "player2": "dorfoyeah"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "chadd",
+    "player1": "chadd",
+    "player2": "pilonzitos"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "katcg",
+    "player1": "katcg",
+    "player2": "gordinho"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "fabiomarcello",
+    "player1": "fabiomarcello",
+    "player2": "castanho1997"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "giobo20",
+    "player1": "giobo20",
+    "player2": "raulbaruc"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "flaquer01",
+    "player1": "machiavelli",
+    "player2": "flaquer01"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "leofemor",
+    "player1": "leofemor",
+    "player2": "miguelhonofre"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "joaovsa",
+    "player1": "sucomid",
+    "player2": "joaovsa"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "naugow",
+    "player1": "fabioisoldi",
+    "player2": "naugow"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "pedroanauate",
+    "player1": "giovanicp47",
+    "player2": "pedroanauate"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "komodore",
+    "player1": "komodore",
+    "player2": "campos"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 14,
+    "winner": "alexyabiku",
+    "player1": "alexyabiku",
+    "player2": "pocnan"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 15,
+    "winner": "alvito",
+    "player1": "juhsk19",
+    "player2": "alvito"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 16,
+    "winner": "kztyllo",
+    "player1": "kztyllo",
+    "player2": "omeninomalukinho"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 17,
+    "winner": "bzin",
+    "player1": "motafilipe",
+    "player2": "bzin"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 18,
+    "winner": "lnk",
+    "player1": "lnk"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": 0,
+    "player1": "spadille",
+    "player2": "dorfoyeah"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "katcg",
+    "player1": "katcg",
+    "player2": "chadd"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "fabiomarcello",
+    "player1": "leandroguilbert",
+    "player2": "fabiomarcello"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "giobo20",
+    "player1": "giobo20",
+    "player2": "topin"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "pedroanauate",
+    "player1": "pedroanauate",
+    "player2": "leofemor"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "joaovsa",
+    "player1": "flaquer01",
+    "player2": "joaovsa"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "lucasflaquer",
+    "player1": "igordinho",
+    "player2": "lucasflaquer"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "naugow",
+    "player1": "naugow",
+    "player2": "komodore"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "gordinho",
+    "player1": "gordinho",
+    "player2": "pilonzitos"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "alexyabiku",
+    "player1": "alexyabiku",
+    "player2": "castanho1997"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "alvito",
+    "player1": "kztyllo",
+    "player2": "alvito"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "miguelhonofre",
+    "player1": "machiavelli",
+    "player2": "miguelhonofre"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 13,
+    "winner": "lnk",
+    "player1": "bzin",
+    "player2": "lnk"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 14,
+    "winner": "campos",
+    "player1": "sucomid",
+    "player2": "campos"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 15,
+    "winner": "juhsk19",
+    "player1": "juhsk19"
+  }
+]

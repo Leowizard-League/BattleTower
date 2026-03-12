@@ -1,0 +1,30 @@
+{
+  "id": "69b03c87f39e6e7096a00c20",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Nino FF#133",
+  "date": "2026-03-12T00:00:00.000Z",
+  "players": 45,
+  "organizer": {
+    "id": 327,
+    "name": "Nino"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

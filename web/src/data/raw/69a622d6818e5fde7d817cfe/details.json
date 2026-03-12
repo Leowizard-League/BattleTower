@@ -1,0 +1,24 @@
+{
+  "id": "69a622d6818e5fde7d817cfe",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "🏆 Torneo Gratuito Sidedeck Online 3 Marzo",
+  "date": "2026-03-03T23:10:00.000Z",
+  "players": 79,
+  "organizer": {
+    "id": 2306,
+    "name": "Juanma_TCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

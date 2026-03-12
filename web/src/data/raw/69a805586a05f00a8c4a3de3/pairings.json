@@ -1,0 +1,660 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "grapejuiceplays"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "charpie"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "geniusmatti",
+    "player1": "geniusmatti",
+    "player2": "djalan"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "shibbyking",
+    "player1": "shibbyking",
+    "player2": "dhonwolfvgc"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "gielbakker",
+    "player1": "gielbakker",
+    "player2": "emanuele12340"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "danielacorn",
+    "player1": "danielacorn",
+    "player2": "hooper"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "godxany",
+    "player1": "godxany",
+    "player2": "nirvana"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "jaylun",
+    "player1": "jaylun",
+    "player2": "othunder21"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "nanamixd",
+    "player1": "nanamixd",
+    "player2": "scissoringbarbies"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "voltzy_54",
+    "player1": "pp",
+    "player2": "voltzy_54"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "westyliam",
+    "player1": "jbclodsire",
+    "player2": "westyliam"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "sodi",
+    "player1": "beezyvgc",
+    "player2": "sodi"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "mario03",
+    "player1": "capitanpkmn",
+    "player2": "mario03"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": "silvermac",
+    "player1": "silvermac",
+    "player2": "daviduv"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "joniaco",
+    "player1": "hallygu",
+    "player2": "joniaco"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "diegeix93",
+    "player1": "diegeix93",
+    "player2": "arteguarema"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "cyalia12",
+    "player1": "charmoffense",
+    "player2": "cyalia12"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "shibbyking",
+    "player1": "shibbyking",
+    "player2": "mario03"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "sodi",
+    "player1": "voltzy_54",
+    "player2": "sodi"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "danielacorn",
+    "player1": "gielbakker",
+    "player2": "danielacorn"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "jaylun",
+    "player1": "jaylun",
+    "player2": "joniaco"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "diegeix93",
+    "player1": "geniusmatti",
+    "player2": "diegeix93"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "silvermac",
+    "player1": "nanamixd",
+    "player2": "silvermac"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "westyliam",
+    "player1": "westyliam",
+    "player2": "godxany"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "othunder21",
+    "player1": "jbclodsire",
+    "player2": "othunder21"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "capitanpkmn",
+    "player1": "charmoffense",
+    "player2": "capitanpkmn"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "arteguarema",
+    "player1": "emanuele12340",
+    "player2": "arteguarema"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "grapejuiceplays",
+    "player1": "pp",
+    "player2": "grapejuiceplays"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "dhonwolfvgc",
+    "player1": "hallygu",
+    "player2": "dhonwolfvgc"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "charpie",
+    "player1": "beezyvgc",
+    "player2": "charpie"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "hooper",
+    "player1": "hooper",
+    "player2": "nirvana"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 15,
+    "winner": "scissoringbarbies",
+    "player1": "scissoringbarbies"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "jaylun",
+    "player1": "jaylun",
+    "player2": "shibbyking"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "silvermac",
+    "player1": "silvermac",
+    "player2": "danielacorn"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "westyliam",
+    "player1": "westyliam",
+    "player2": "diegeix93"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "othunder21",
+    "player1": "sodi",
+    "player2": "othunder21"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "hooper",
+    "player1": "voltzy_54",
+    "player2": "hooper"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "charpie",
+    "player1": "mario03",
+    "player2": "charpie"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "dhonwolfvgc",
+    "player1": "dhonwolfvgc",
+    "player2": "grapejuiceplays"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "godxany",
+    "player1": "scissoringbarbies",
+    "player2": "godxany"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "geniusmatti",
+    "player1": "joniaco",
+    "player2": "geniusmatti"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "capitanpkmn",
+    "player1": "arteguarema",
+    "player2": "capitanpkmn"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "emanuele12340",
+    "player1": "nirvana",
+    "player2": "emanuele12340"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "beezyvgc",
+    "player1": "beezyvgc",
+    "player2": "pp"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "jbclodsire",
+    "player1": "hallygu",
+    "player2": "jbclodsire"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "westyliam",
+    "player1": "jaylun",
+    "player2": "westyliam"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "othunder21",
+    "player1": "silvermac",
+    "player2": "othunder21"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "charpie",
+    "player1": "danielacorn",
+    "player2": "charpie"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "godxany",
+    "player1": "dhonwolfvgc",
+    "player2": "godxany"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "capitanpkmn",
+    "player1": "geniusmatti",
+    "player2": "capitanpkmn"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "hooper",
+    "player1": "sodi",
+    "player2": "hooper"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "diegeix93",
+    "player1": "shibbyking",
+    "player2": "diegeix93"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "mario03",
+    "player1": "mario03",
+    "player2": "emanuele12340"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "jbclodsire",
+    "player1": "beezyvgc",
+    "player2": "jbclodsire"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "grapejuiceplays",
+    "player1": "joniaco",
+    "player2": "grapejuiceplays"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "arteguarema",
+    "player1": "arteguarema",
+    "player2": "scissoringbarbies"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "nirvana",
+    "player1": "hallygu",
+    "player2": "nirvana"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": "othunder21",
+    "player1": "westyliam",
+    "player2": "othunder21"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "silvermac",
+    "player1": "godxany",
+    "player2": "silvermac"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "charpie",
+    "player1": "charpie",
+    "player2": "hooper"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "jaylun",
+    "player1": "diegeix93",
+    "player2": "jaylun"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "capitanpkmn",
+    "player1": "capitanpkmn",
+    "player2": "sodi"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "mario03",
+    "player1": "dhonwolfvgc",
+    "player2": "mario03"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "arteguarema",
+    "player1": "arteguarema",
+    "player2": "shibbyking"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "danielacorn",
+    "player1": "danielacorn",
+    "player2": "jbclodsire"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "grapejuiceplays",
+    "player1": "grapejuiceplays",
+    "player2": "nirvana"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": -1,
+    "player1": "joniaco",
+    "player2": "emanuele12340"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 11,
+    "winner": "hallygu",
+    "player1": "scissoringbarbies",
+    "player2": "hallygu"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "jaylun",
+    "match": "T16-7",
+    "player1": "jaylun"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "westyliam",
+    "match": "T4-1",
+    "player1": "westyliam",
+    "player2": "charpie"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "westyliam",
+    "match": "T8-1",
+    "player1": "westyliam",
+    "player2": "mario03"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "westyliam",
+    "match": "T16-1",
+    "player1": "westyliam"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "charpie",
+    "match": "T8-2",
+    "player1": "grapejuiceplays",
+    "player2": "charpie"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "westyliam",
+    "match": "T2-1",
+    "player1": "westyliam",
+    "player2": "diegeix93"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "diegeix93",
+    "match": "T4-2",
+    "player1": "diegeix93",
+    "player2": "jaylun"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "diegeix93",
+    "match": "T16-6",
+    "player1": "diegeix93",
+    "player2": "godxany"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "grapejuiceplays",
+    "match": "T16-3",
+    "player1": "silvermac",
+    "player2": "grapejuiceplays"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "jaylun",
+    "match": "T8-4",
+    "player1": "jaylun",
+    "player2": "hooper"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "hooper",
+    "match": "T16-8",
+    "player1": "capitanpkmn",
+    "player2": "hooper"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "charpie",
+    "match": "T16-4",
+    "player1": "charpie",
+    "player2": "arteguarema"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "diegeix93",
+    "match": "T8-3",
+    "player1": "othunder21",
+    "player2": "diegeix93"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "othunder21",
+    "match": "T16-5",
+    "player1": "othunder21"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "mario03",
+    "match": "T16-2",
+    "player1": "danielacorn",
+    "player2": "mario03"
+  }
+]

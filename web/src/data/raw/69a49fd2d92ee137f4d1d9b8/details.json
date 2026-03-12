@@ -1,0 +1,24 @@
+{
+  "id": "69a49fd2d92ee137f4d1d9b8",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Pumpkaweekly",
+  "date": "2026-03-02T19:00:00.000Z",
+  "players": 94,
+  "organizer": {
+    "id": 36,
+    "name": "The Dice Town League"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "69aa07946a05f00a8c4a50f3",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "OTS2026 01/20 - Season Opener!",
+  "date": "2026-03-08T08:00:00.000Z",
+  "players": 37,
+  "organizer": {
+    "id": 1611,
+    "name": "Collecting Leftovers"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

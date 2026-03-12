@@ -1,0 +1,5436 @@
+[
+  {
+    "name": "Vpassion",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "DemiDevimon",
+          "set": "P",
+          "number": "198"
+        },
+        {
+          "count": 3,
+          "name": "Tapirmon",
+          "set": "BT24",
+          "number": "043"
+        },
+        {
+          "count": 3,
+          "name": "Aegiomon",
+          "set": "P",
+          "number": "194"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 1,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "BT24",
+          "number": "014"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "P",
+          "number": "213"
+        },
+        {
+          "count": 4,
+          "name": "Jupitermon",
+          "set": "BT24",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Inori Misono",
+          "set": "BT24",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        },
+        {
+          "count": 2,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        }
+      ],
+      "option": [
+        {
+          "count": 1,
+          "name": "Odin's Breath",
+          "set": "BT13",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "Blinding Ray",
+          "set": "BT4",
+          "number": "104"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tsunomon",
+          "set": "BT24",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 1,
+    "player": "vpassion",
+    "record": {
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "GammaCygni",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "P",
+          "number": "197"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "P",
+          "number": "194"
+        },
+        {
+          "count": 3,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 1,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "BT24",
+          "number": "014"
+        },
+        {
+          "count": 2,
+          "name": "Aegiochusmon",
+          "set": "P",
+          "number": "213"
+        },
+        {
+          "count": 1,
+          "name": "Silphymon",
+          "set": "BT24",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Jupitermon",
+          "set": "BT24",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        },
+        {
+          "count": 1,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        },
+        {
+          "count": 4,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        },
+        {
+          "count": 3,
+          "name": "Inori Misono",
+          "set": "BT24",
+          "number": "084"
+        },
+        {
+          "count": 1,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "Yellow Scramble",
+          "set": "LM",
+          "number": "029"
+        },
+        {
+          "count": 2,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Nyaromon",
+          "set": "BT15",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 2,
+    "player": "gammacygni",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "marshmallowruffian",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Tapirmon",
+          "set": "BT24",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "DemiDevimon",
+          "set": "P",
+          "number": "198"
+        },
+        {
+          "count": 2,
+          "name": "Gomamon",
+          "set": "P",
+          "number": "196"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Garurumon",
+          "set": "BT24",
+          "number": "046"
+        },
+        {
+          "count": 2,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 2,
+          "name": "Gatomon",
+          "set": "BT24",
+          "number": "035"
+        },
+        {
+          "count": 4,
+          "name": "Silphymon",
+          "set": "BT24",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Merukimon",
+          "set": "BT24",
+          "number": "051"
+        },
+        {
+          "count": 2,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        },
+        {
+          "count": 4,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 1,
+          "name": "Gravity Crush",
+          "set": "BT1",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "Blinding Ray",
+          "set": "BT4",
+          "number": "104"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Bukamon",
+          "set": "BT24",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 3,
+    "player": "marshmallowruffian",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "AyyLmao",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Pulsemon",
+          "set": "BT7",
+          "number": "032"
+        },
+        {
+          "count": 1,
+          "name": "Pillomon",
+          "set": "BT9",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Gatomon",
+          "set": "ST10",
+          "number": "04"
+        },
+        {
+          "count": 3,
+          "name": "Gatomon",
+          "set": "BT15",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Gatomon",
+          "set": "EX6",
+          "number": "020"
+        },
+        {
+          "count": 3,
+          "name": "LadyDevimon",
+          "set": "BT11",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "Angewomon",
+          "set": "BT23",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "LadyDevimon",
+          "set": "BT23",
+          "number": "067"
+        },
+        {
+          "count": 2,
+          "name": "Angewomon",
+          "set": "BT11",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Angewomon",
+          "set": "EX6",
+          "number": "022"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "BT23",
+          "number": "102"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "P",
+          "number": "187"
+        },
+        {
+          "count": 2,
+          "name": "Mastemon ACE",
+          "set": "EX6",
+          "number": "029"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Mirei Mikagura",
+          "set": "BT22",
+          "number": "089"
+        },
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "BT11",
+          "number": "094"
+        },
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "EX6",
+          "number": "074"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "Amber Memory Boost!",
+          "set": "LM",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Blinding Ray",
+          "set": "BT4",
+          "number": "104"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Nyaromon",
+          "set": "BT15",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "CS maste",
+      "name": "CS Mastemon"
+    },
+    "placing": 4,
+    "player": "ayylmao",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "KFizzPop",
+    "country": "GB",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elizamon",
+          "set": "BT21",
+          "number": "008"
+        },
+        {
+          "count": 3,
+          "name": "Ukkomon",
+          "set": "BT16",
+          "number": "082"
+        },
+        {
+          "count": 3,
+          "name": "Elizamon",
+          "set": "BT24",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Elizamon",
+          "set": "EX11",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Dimetromon",
+          "set": "BT21",
+          "number": "017"
+        },
+        {
+          "count": 2,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 2,
+          "name": "Dimetromon",
+          "set": "BT24",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Lamiamon",
+          "set": "BT24",
+          "number": "016"
+        },
+        {
+          "count": 2,
+          "name": "Lamiamon",
+          "set": "BT21",
+          "number": "025"
+        },
+        {
+          "count": 4,
+          "name": "Medusamon",
+          "set": "EX11",
+          "number": "012"
+        },
+        {
+          "count": 1,
+          "name": "Medusamon",
+          "set": "BT24",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Styracomon",
+          "set": "BT24",
+          "number": "018"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 2,
+          "name": "Owen Dreadnought",
+          "set": "BT21",
+          "number": "081"
+        },
+        {
+          "count": 2,
+          "name": "Owen Dreadnought",
+          "set": "BT24",
+          "number": "082"
+        },
+        {
+          "count": 1,
+          "name": "Owen Dreadnought",
+          "set": "EX11",
+          "number": "054"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Offense Training",
+          "set": "P",
+          "number": "103"
+        },
+        {
+          "count": 2,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        },
+        {
+          "count": 2,
+          "name": "Red Scramble",
+          "set": "LM",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Red Memory Boost!",
+          "set": "P",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Raging Serpentine",
+          "set": "BT21",
+          "number": "093"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gigimon",
+          "set": "BT21",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "styraco",
+      "name": "Medusa"
+    },
+    "placing": 5,
+    "player": "kfizzpop",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "TheMilkmann",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "P",
+          "number": "197"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "P",
+          "number": "194"
+        },
+        {
+          "count": 3,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "BT24",
+          "number": "014"
+        },
+        {
+          "count": 3,
+          "name": "Aegiochusmon",
+          "set": "P",
+          "number": "213"
+        },
+        {
+          "count": 4,
+          "name": "Jupitermon",
+          "set": "BT24",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Inori Misono",
+          "set": "BT24",
+          "number": "084"
+        },
+        {
+          "count": 2,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        },
+        {
+          "count": 2,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 2,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "Shock Plasma",
+          "set": "BT24",
+          "number": "092"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Nyaromon",
+          "set": "BT15",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 6,
+    "player": "themilkmann",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Grass29",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Salamon",
+          "set": "ST10",
+          "number": "02"
+        },
+        {
+          "count": 1,
+          "name": "Pillomon",
+          "set": "BT9",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Gatomon",
+          "set": "ST10",
+          "number": "04"
+        },
+        {
+          "count": 3,
+          "name": "Gatomon",
+          "set": "EX6",
+          "number": "020"
+        },
+        {
+          "count": 2,
+          "name": "Reppamon",
+          "set": "BT22",
+          "number": "034"
+        },
+        {
+          "count": 1,
+          "name": "Devimon",
+          "set": "BT11",
+          "number": "080"
+        },
+        {
+          "count": 1,
+          "name": "Gatomon",
+          "set": "BT15",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Angewomon",
+          "set": "BT11",
+          "number": "042"
+        },
+        {
+          "count": 3,
+          "name": "Angewomon",
+          "set": "BT23",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "LadyDevimon",
+          "set": "BT23",
+          "number": "067"
+        },
+        {
+          "count": 2,
+          "name": "LadyDevimon",
+          "set": "BT11",
+          "number": "083"
+        },
+        {
+          "count": 1,
+          "name": "Mummymon",
+          "set": "EX10",
+          "number": "051"
+        },
+        {
+          "count": 1,
+          "name": "LadyDevimon",
+          "set": "ST10",
+          "number": "12"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "BT23",
+          "number": "102"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "P",
+          "number": "187"
+        },
+        {
+          "count": 1,
+          "name": "Mastemon ACE",
+          "set": "EX6",
+          "number": "029"
+        },
+        {
+          "count": 1,
+          "name": "Boltboutamon",
+          "set": "EX8",
+          "number": "064"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "BT11",
+          "number": "094"
+        },
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "BT22",
+          "number": "089"
+        },
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "EX6",
+          "number": "074"
+        },
+        {
+          "count": 1,
+          "name": "T.K. Takaishi",
+          "set": "BT1",
+          "number": "087"
+        },
+        {
+          "count": 1,
+          "name": "Cody Hida & T.K. Takaishi",
+          "set": "BT16",
+          "number": "088"
+        }
+      ],
+      "option": [],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tokomon",
+          "set": "BT14",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "CS maste",
+      "name": "CS Mastemon"
+    },
+    "placing": 7,
+    "player": "grass29",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Blake Banter",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 3,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 2,
+          "name": "Pteromon",
+          "set": "EX11",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Pteromon",
+          "set": "EX7",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 3,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 2,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 1,
+          "name": "Galemon",
+          "set": "ST18",
+          "number": "08"
+        },
+        {
+          "count": 3,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "EX7",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 2,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 1,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 3,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 2,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 1,
+          "name": "Hidden Potential Discovered!",
+          "set": "BT3",
+          "number": "103"
+        },
+        {
+          "count": 1,
+          "name": "Vortex Resonance",
+          "set": "EX7",
+          "number": "074"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Fluffymon",
+          "set": "EX7",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 8,
+    "player": "bb2ice",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Tesero",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Gizamon",
+          "set": "BT19",
+          "number": "066"
+        },
+        {
+          "count": 4,
+          "name": "Gazimon",
+          "set": "EX9",
+          "number": "058"
+        },
+        {
+          "count": 2,
+          "name": "Deltamon",
+          "set": "BT18",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "Deltamon",
+          "set": "BT19",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Kimeramon",
+          "set": "BT19",
+          "number": "070"
+        },
+        {
+          "count": 1,
+          "name": "Kimeramon",
+          "set": "BT18",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Machinedramon",
+          "set": "BT18",
+          "number": "073"
+        },
+        {
+          "count": 1,
+          "name": "Machinedramon",
+          "set": "BT19",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Millenniummon",
+          "set": "BT18",
+          "number": "019"
+        },
+        {
+          "count": 4,
+          "name": "Millenniummon",
+          "set": "P",
+          "number": "220"
+        },
+        {
+          "count": 2,
+          "name": "MoonMillenniummon",
+          "set": "BT19",
+          "number": "075"
+        },
+        {
+          "count": 1,
+          "name": "ZeedMillenniummon",
+          "set": "BT19",
+          "number": "101"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Analog Youth",
+          "set": "EX1",
+          "number": "066"
+        },
+        {
+          "count": 4,
+          "name": "Chitose Horaiji",
+          "set": "EX11",
+          "number": "055"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "The Wicked God Emerges!",
+          "set": "P",
+          "number": "193"
+        },
+        {
+          "count": 4,
+          "name": "Insane Synthetic Monster",
+          "set": "P",
+          "number": "205"
+        },
+        {
+          "count": 1,
+          "name": "Pandemonium Flame",
+          "set": "BT8",
+          "number": "107"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Pagumon",
+          "set": "BT19",
+          "number": "006"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Millenniummon",
+      "name": "Millenniummon"
+    },
+    "placing": 9,
+    "player": "tesero",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "adyong6",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Terriermon",
+          "set": "BT22",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Gotsumon",
+          "set": "BT23",
+          "number": "048"
+        },
+        {
+          "count": 2,
+          "name": "Betamon",
+          "set": "BT23",
+          "number": "017"
+        },
+        {
+          "count": 2,
+          "name": "Tentomon",
+          "set": "BT23",
+          "number": "037"
+        },
+        {
+          "count": 1,
+          "name": "Palmon",
+          "set": "BT22",
+          "number": "044"
+        },
+        {
+          "count": 4,
+          "name": "Angemon",
+          "set": "BT23",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Hudiemon",
+          "set": "BT23",
+          "number": "101"
+        },
+        {
+          "count": 3,
+          "name": "Ankylomon",
+          "set": "BT23",
+          "number": "050"
+        },
+        {
+          "count": 4,
+          "name": "Shakkoumon",
+          "set": "BT23",
+          "number": "032"
+        },
+        {
+          "count": 1,
+          "name": "Paildramon",
+          "set": "BT16",
+          "number": "025"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Chitose Imai",
+          "set": "BT23",
+          "number": "081"
+        },
+        {
+          "count": 4,
+          "name": "Keisuke Amasawa",
+          "set": "BT23",
+          "number": "090"
+        },
+        {
+          "count": 3,
+          "name": "Yuugo Kamishiro",
+          "set": "BT22",
+          "number": "094"
+        },
+        {
+          "count": 3,
+          "name": "Erika Mishima",
+          "set": "BT23",
+          "number": "084"
+        },
+        {
+          "count": 2,
+          "name": "Ryuji Mishima",
+          "set": "BT23",
+          "number": "085"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "Comet Hammer",
+          "set": "BT23",
+          "number": "096"
+        },
+        {
+          "count": 1,
+          "name": "Ice Archery",
+          "set": "BT23",
+          "number": "092"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Yokomon",
+          "set": "BT23",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Hudies",
+      "name": "CS Hudiemon"
+    },
+    "placing": 10,
+    "player": "adyong6",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "jericho",
+    "country": "GB",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "P",
+          "number": "197"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "P",
+          "number": "194"
+        },
+        {
+          "count": 2,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "BT24",
+          "number": "014"
+        },
+        {
+          "count": 3,
+          "name": "Aegiochusmon",
+          "set": "P",
+          "number": "213"
+        },
+        {
+          "count": 4,
+          "name": "Jupitermon",
+          "set": "BT24",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "Inori Misono",
+          "set": "BT24",
+          "number": "084"
+        },
+        {
+          "count": 2,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        },
+        {
+          "count": 2,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Temple of Beginnings",
+          "set": "BT24",
+          "number": "093"
+        },
+        {
+          "count": 1,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Nyaromon",
+          "set": "BT15",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 11,
+    "player": "jericho",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Poofy",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "P",
+          "number": "194"
+        },
+        {
+          "count": 4,
+          "name": "DemiDevimon",
+          "set": "P",
+          "number": "198"
+        },
+        {
+          "count": 3,
+          "name": "Tapirmon",
+          "set": "BT24",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 1,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "BT24",
+          "number": "014"
+        },
+        {
+          "count": 4,
+          "name": "Aegiochusmon",
+          "set": "P",
+          "number": "213"
+        },
+        {
+          "count": 3,
+          "name": "Jupitermon",
+          "set": "BT24",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Inori Misono",
+          "set": "BT24",
+          "number": "084"
+        },
+        {
+          "count": 3,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        },
+        {
+          "count": 1,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 1,
+          "name": "Odin's Breath",
+          "set": "BT13",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 1,
+          "name": "Blinding Ray",
+          "set": "BT4",
+          "number": "104"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tsunomon",
+          "set": "BT24",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 12,
+    "player": "poofy",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "MakoSan12",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Sangomon",
+          "set": "BT19",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Sangomon",
+          "set": "BT22",
+          "number": "018"
+        },
+        {
+          "count": 2,
+          "name": "Sangomon",
+          "set": "BT21",
+          "number": "031"
+        },
+        {
+          "count": 2,
+          "name": "Sangomon",
+          "set": "EX11",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "Lanamon",
+          "set": "BT18",
+          "number": "023"
+        },
+        {
+          "count": 2,
+          "name": "Seadramon",
+          "set": "P",
+          "number": "098"
+        },
+        {
+          "count": 2,
+          "name": "Shellmon",
+          "set": "BT19",
+          "number": "019"
+        },
+        {
+          "count": 1,
+          "name": "Calmaramon",
+          "set": "BT24",
+          "number": "023"
+        },
+        {
+          "count": 1,
+          "name": "Shellmon",
+          "set": "BT22",
+          "number": "021"
+        },
+        {
+          "count": 1,
+          "name": "Xiquemon",
+          "set": "EX6",
+          "number": "013"
+        },
+        {
+          "count": 1,
+          "name": "Shellmon",
+          "set": "P",
+          "number": "164"
+        },
+        {
+          "count": 4,
+          "name": "MarineBullmon",
+          "set": "BT19",
+          "number": "024"
+        },
+        {
+          "count": 2,
+          "name": "Huankunmon",
+          "set": "BT19",
+          "number": "023"
+        },
+        {
+          "count": 1,
+          "name": "MegaSeadramon",
+          "set": "EX8",
+          "number": "024"
+        },
+        {
+          "count": 1,
+          "name": "Sharkmon",
+          "set": "BT24",
+          "number": "059"
+        },
+        {
+          "count": 1,
+          "name": "SkullSeadramon",
+          "set": "BT24",
+          "number": "074"
+        },
+        {
+          "count": 4,
+          "name": "Ryugumon",
+          "set": "EX11",
+          "number": "018"
+        },
+        {
+          "count": 1,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Ryugumon",
+          "set": "BT22",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Ariemon",
+          "set": "BT22",
+          "number": "028"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Yao Qinglan",
+          "set": "EX11",
+          "number": "058"
+        },
+        {
+          "count": 2,
+          "name": "Yao Qinglan",
+          "set": "BT19",
+          "number": "082"
+        },
+        {
+          "count": 1,
+          "name": "Yao Qinglan",
+          "set": "P",
+          "number": "168"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Mental Training",
+          "set": "P",
+          "number": "104"
+        },
+        {
+          "count": 2,
+          "name": "Unique Emblem: Poseidia Lagoon",
+          "set": "BT22",
+          "number": "096"
+        },
+        {
+          "count": 1,
+          "name": "Blue Scramble",
+          "set": "LM",
+          "number": "028"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Puyoyomon",
+          "set": "BT22",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Time Stranger",
+      "name": "TS Neptunemon / TS Abyss Sanctuary"
+    },
+    "placing": 13,
+    "player": "makosan12",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "AnnoyedSlowpoke",
+    "country": null,
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "FunBeemon",
+          "set": "BT23",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "FunBeemon",
+          "set": "EX11",
+          "number": "025"
+        },
+        {
+          "count": 3,
+          "name": "FunBeemon",
+          "set": "BT19",
+          "number": "045"
+        },
+        {
+          "count": 4,
+          "name": "Waspmon",
+          "set": "BT23",
+          "number": "042"
+        },
+        {
+          "count": 3,
+          "name": "ForgeBeemon",
+          "set": "EX11",
+          "number": "030"
+        },
+        {
+          "count": 2,
+          "name": "ForgeBeemon",
+          "set": "BT19",
+          "number": "048"
+        },
+        {
+          "count": 3,
+          "name": "Vespamon",
+          "set": "EX11",
+          "number": "031"
+        },
+        {
+          "count": 2,
+          "name": "CannonBeemon",
+          "set": "BT18",
+          "number": "052"
+        },
+        {
+          "count": 2,
+          "name": "CannonBeemon",
+          "set": "BT23",
+          "number": "043"
+        },
+        {
+          "count": 1,
+          "name": "Vespamon",
+          "set": "BT19",
+          "number": "052"
+        },
+        {
+          "count": 3,
+          "name": "QueenBeemon",
+          "set": "EX11",
+          "number": "034"
+        },
+        {
+          "count": 2,
+          "name": "QueenBeemon",
+          "set": "BT19",
+          "number": "053"
+        },
+        {
+          "count": 2,
+          "name": "TigerVespamon ACE",
+          "set": "BT23",
+          "number": "045"
+        },
+        {
+          "count": 1,
+          "name": "TyrantKabuterimon",
+          "set": "BT16",
+          "number": "048"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Fei",
+          "set": "BT23",
+          "number": "083"
+        },
+        {
+          "count": 2,
+          "name": "Winr",
+          "set": "EX11",
+          "number": "063"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Hornet Eraser",
+          "set": "BT19",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 2,
+          "name": "Royal Base",
+          "set": "P",
+          "number": "181"
+        },
+        {
+          "count": 1,
+          "name": "X Antibody Proto Form",
+          "set": "EX5",
+          "number": "070"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Puroromon",
+          "set": "BT18",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "bees",
+      "name": "Bees"
+    },
+    "placing": 14,
+    "player": "annoyedslowpoke",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 1
+    },
+    "drop": null
+  },
+  {
+    "name": "soymarcos",
+    "country": "AR",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Tapirmon",
+          "set": "BT24",
+          "number": "043"
+        },
+        {
+          "count": 2,
+          "name": "Gomamon",
+          "set": "P",
+          "number": "196"
+        },
+        {
+          "count": 3,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Garurumon",
+          "set": "BT24",
+          "number": "046"
+        },
+        {
+          "count": 2,
+          "name": "Greymon",
+          "set": "BT24",
+          "number": "010"
+        },
+        {
+          "count": 2,
+          "name": "Gatomon",
+          "set": "BT24",
+          "number": "035"
+        },
+        {
+          "count": 4,
+          "name": "Silphymon",
+          "set": "BT24",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 3,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        },
+        {
+          "count": 2,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 2,
+          "name": "Merukimon",
+          "set": "BT24",
+          "number": "051"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 3,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        },
+        {
+          "count": 1,
+          "name": "Hiroko Sagisaka",
+          "set": "P",
+          "number": "210"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 2,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Wanyamon",
+          "set": "BT24",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 15,
+    "player": "soymarcos",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Spartan",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "DemiDevimon",
+          "set": "P",
+          "number": "198"
+        },
+        {
+          "count": 4,
+          "name": "Tapirmon",
+          "set": "BT24",
+          "number": "043"
+        },
+        {
+          "count": 2,
+          "name": "Elecmon",
+          "set": "BT24",
+          "number": "031"
+        },
+        {
+          "count": 1,
+          "name": "Gomamon",
+          "set": "P",
+          "number": "196"
+        },
+        {
+          "count": 4,
+          "name": "Aegiomon",
+          "set": "BT24",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Garurumon",
+          "set": "BT24",
+          "number": "046"
+        },
+        {
+          "count": 2,
+          "name": "Gatomon",
+          "set": "BT24",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "Silphymon",
+          "set": "BT24",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        },
+        {
+          "count": 2,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Merukimon",
+          "set": "BT24",
+          "number": "051"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Hiroko Sagisaka",
+          "set": "BT24",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        },
+        {
+          "count": 2,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 1,
+          "name": "Asuna Shiroki",
+          "set": "BT24",
+          "number": "088"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 2,
+          "name": "Soul Fear",
+          "set": "BT24",
+          "number": "097"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Wanyamon",
+          "set": "BT24",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 16,
+    "player": "spartan",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "WizWiz",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pipomon",
+          "set": "BT24",
+          "number": "032"
+        },
+        {
+          "count": 4,
+          "name": "Protecmon",
+          "set": "BT24",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Hackmon",
+          "set": "BT24",
+          "number": "067"
+        },
+        {
+          "count": 3,
+          "name": "Medicmon",
+          "set": "BT24",
+          "number": "036"
+        },
+        {
+          "count": 3,
+          "name": "Dezipmon",
+          "set": "BT24",
+          "number": "056"
+        },
+        {
+          "count": 3,
+          "name": "Docmon",
+          "set": "BT24",
+          "number": "057"
+        },
+        {
+          "count": 3,
+          "name": "Raidramon",
+          "set": "BT24",
+          "number": "071"
+        },
+        {
+          "count": 2,
+          "name": "Gossipmon",
+          "set": "BT21",
+          "number": "070"
+        },
+        {
+          "count": 4,
+          "name": "Biomon",
+          "set": "BT24",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Revivemon",
+          "set": "BT24",
+          "number": "077"
+        },
+        {
+          "count": 4,
+          "name": "Hadesmon",
+          "set": "BT24",
+          "number": "079"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Rei Katsura",
+          "set": "BT24",
+          "number": "087"
+        },
+        {
+          "count": 2,
+          "name": "Haru Shinkai",
+          "set": "BT21",
+          "number": "084"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Super Hacking",
+          "set": "BT24",
+          "number": "099"
+        },
+        {
+          "count": 2,
+          "name": "App Link",
+          "set": "BT21",
+          "number": "097"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tapmon",
+          "set": "BT24",
+          "number": "006"
+        }
+      ]
+    },
+    "deck": {
+      "id": "hades",
+      "name": "Hades Apps"
+    },
+    "placing": 17,
+    "player": "wizwiz",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "NewGuy",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Gomamon",
+          "set": "BT24",
+          "number": "020"
+        },
+        {
+          "count": 4,
+          "name": "Gomamon",
+          "set": "P",
+          "number": "196"
+        },
+        {
+          "count": 3,
+          "name": "Kamemon",
+          "set": "BT24",
+          "number": "019"
+        },
+        {
+          "count": 3,
+          "name": "Calmaramon",
+          "set": "BT24",
+          "number": "023"
+        },
+        {
+          "count": 3,
+          "name": "Shellmon",
+          "set": "BT24",
+          "number": "025"
+        },
+        {
+          "count": 2,
+          "name": "Ikkakumon",
+          "set": "BT24",
+          "number": "022"
+        },
+        {
+          "count": 2,
+          "name": "Lanamon",
+          "set": "BT24",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Divermon",
+          "set": "BT24",
+          "number": "028"
+        },
+        {
+          "count": 3,
+          "name": "Whamon",
+          "set": "BT24",
+          "number": "029"
+        },
+        {
+          "count": 2,
+          "name": "Sharkmon",
+          "set": "BT24",
+          "number": "059"
+        },
+        {
+          "count": 3,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT24",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Minervamon",
+          "set": "BT24",
+          "number": "041"
+        },
+        {
+          "count": 1,
+          "name": "Merukimon",
+          "set": "BT24",
+          "number": "051"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Dan Yuki & Kanan Yuki",
+          "set": "BT24",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Homeros",
+          "set": "BT24",
+          "number": "102"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "In-Between Theater",
+          "set": "BT24",
+          "number": "100"
+        },
+        {
+          "count": 3,
+          "name": "Abyss Sanctuary: Throne Room",
+          "set": "BT24",
+          "number": "090"
+        },
+        {
+          "count": 2,
+          "name": "Tidal Stream",
+          "set": "BT24",
+          "number": "091"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Bukamon",
+          "set": "BT24",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "homeros tamer variants later",
+      "name": "Olympos XII"
+    },
+    "placing": 18,
+    "player": "newguy",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Kdrazcal",
+    "country": "CA",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elizamon",
+          "set": "BT24",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Elizamon",
+          "set": "BT21",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Elizamon",
+          "set": "EX11",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Ukkomon",
+          "set": "BT16",
+          "number": "082"
+        },
+        {
+          "count": 4,
+          "name": "Dimetromon",
+          "set": "BT24",
+          "number": "012"
+        },
+        {
+          "count": 3,
+          "name": "Dimetromon",
+          "set": "BT21",
+          "number": "017"
+        },
+        {
+          "count": 1,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "Lamiamon",
+          "set": "BT24",
+          "number": "016"
+        },
+        {
+          "count": 1,
+          "name": "Paildramon",
+          "set": "BT20",
+          "number": "016"
+        },
+        {
+          "count": 1,
+          "name": "Lamiamon",
+          "set": "BT21",
+          "number": "025"
+        },
+        {
+          "count": 4,
+          "name": "Medusamon",
+          "set": "EX11",
+          "number": "012"
+        },
+        {
+          "count": 1,
+          "name": "Medusamon",
+          "set": "BT24",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Styracomon",
+          "set": "BT24",
+          "number": "018"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Owen Dreadnought",
+          "set": "BT21",
+          "number": "081"
+        },
+        {
+          "count": 2,
+          "name": "Owen Dreadnought",
+          "set": "BT24",
+          "number": "082"
+        },
+        {
+          "count": 1,
+          "name": "Owen Dreadnought",
+          "set": "EX11",
+          "number": "054"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Offense Training",
+          "set": "P",
+          "number": "103"
+        },
+        {
+          "count": 2,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        },
+        {
+          "count": 2,
+          "name": "Unique Emblem: Blazing Conductor",
+          "set": "BT24",
+          "number": "089"
+        },
+        {
+          "count": 2,
+          "name": "Red Scramble",
+          "set": "LM",
+          "number": "027"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gigimon",
+          "set": "BT21",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "styraco",
+      "name": "Medusa"
+    },
+    "placing": 19,
+    "player": "kdrazcal",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Jon Gomez",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Sunarizamon",
+          "set": "EX8",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Sunarizamon",
+          "set": "BT21",
+          "number": "055"
+        },
+        {
+          "count": 3,
+          "name": "Sunarizamon",
+          "set": "EX11",
+          "number": "038"
+        },
+        {
+          "count": 1,
+          "name": "Sunarizamon",
+          "set": "EX10",
+          "number": "025"
+        },
+        {
+          "count": 4,
+          "name": "Landramon",
+          "set": "P",
+          "number": "167"
+        },
+        {
+          "count": 2,
+          "name": "Icemon",
+          "set": "P",
+          "number": "215"
+        },
+        {
+          "count": 2,
+          "name": "Landramon",
+          "set": "EX8",
+          "number": "048"
+        },
+        {
+          "count": 1,
+          "name": "Landramon",
+          "set": "EX10",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Proganomon",
+          "set": "EX10",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "Proganomon",
+          "set": "EX8",
+          "number": "051"
+        },
+        {
+          "count": 2,
+          "name": "Pyramidimon",
+          "set": "EX11",
+          "number": "044"
+        },
+        {
+          "count": 2,
+          "name": "Pyramidimon",
+          "set": "EX10",
+          "number": "033"
+        },
+        {
+          "count": 1,
+          "name": "Metallicdramon",
+          "set": "EX7",
+          "number": "049"
+        },
+        {
+          "count": 3,
+          "name": "Magneticdramon",
+          "set": "EX10",
+          "number": "036"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Close",
+          "set": "EX8",
+          "number": "067"
+        },
+        {
+          "count": 3,
+          "name": "Close",
+          "set": "EX11",
+          "number": "065"
+        },
+        {
+          "count": 1,
+          "name": "Close",
+          "set": "EX10",
+          "number": "063"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Unique Emblem: Gravel Hearts",
+          "set": "EX10",
+          "number": "069"
+        },
+        {
+          "count": 2,
+          "name": "Black Scramble",
+          "set": "LM",
+          "number": "031"
+        },
+        {
+          "count": 1,
+          "name": "Defense Training",
+          "set": "P",
+          "number": "107"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tumblemon",
+          "set": "EX8",
+          "number": "005"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Mineral",
+      "name": "Rocks"
+    },
+    "placing": 20,
+    "player": "bbcjg",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Aomceodeadly",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Salamon",
+          "set": "BT2",
+          "number": "034"
+        },
+        {
+          "count": 1,
+          "name": "Pillomon",
+          "set": "BT9",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "MagnaAngemon",
+          "set": "BT1",
+          "number": "060"
+        },
+        {
+          "count": 2,
+          "name": "MagnaAngemon ACE",
+          "set": "BT14",
+          "number": "037"
+        },
+        {
+          "count": 2,
+          "name": "Etemon",
+          "set": "EX5",
+          "number": "048"
+        },
+        {
+          "count": 4,
+          "name": "Valkyrimon ACE",
+          "set": "BT16",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "Venusmon",
+          "set": "BT10",
+          "number": "042"
+        },
+        {
+          "count": 2,
+          "name": "ShadowSeraphimon ACE",
+          "set": "BT18",
+          "number": "071"
+        },
+        {
+          "count": 2,
+          "name": "ShadowSeraphimon",
+          "set": "EX4",
+          "number": "050"
+        },
+        {
+          "count": 2,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 1,
+          "name": "Seraphimon ACE",
+          "set": "EX6",
+          "number": "028"
+        },
+        {
+          "count": 1,
+          "name": "Imperialdramon: Paladin Mode ACE",
+          "set": "BT17",
+          "number": "077"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Kari Kamiya",
+          "set": "BT4",
+          "number": "097"
+        },
+        {
+          "count": 2,
+          "name": "T.K. Takaishi & Kari Kamiya",
+          "set": "BT6",
+          "number": "089"
+        },
+        {
+          "count": 1,
+          "name": "Digimon Kaiser",
+          "set": "BT8",
+          "number": "094"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Flame Hellscythe",
+          "set": "BT8",
+          "number": "109"
+        },
+        {
+          "count": 4,
+          "name": "Chaos Degradation",
+          "set": "ST10",
+          "number": "14"
+        },
+        {
+          "count": 3,
+          "name": "Lónkhē Adistakto",
+          "set": "BT10",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "Revelation of Light",
+          "set": "BT15",
+          "number": "092"
+        },
+        {
+          "count": 1,
+          "name": "Reinforcing Memory Boost!",
+          "set": "BT6",
+          "number": "100"
+        },
+        {
+          "count": 1,
+          "name": "Wyvern's Breath",
+          "set": "BT6",
+          "number": "101"
+        },
+        {
+          "count": 1,
+          "name": "Lament of Friendship",
+          "set": "ST16",
+          "number": "15"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Upamon",
+          "set": "BT3",
+          "number": "003"
+        },
+        {
+          "count": 1,
+          "name": "Viximon",
+          "set": "EX2",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Security-Control",
+      "name": "Security Control"
+    },
+    "placing": 21,
+    "player": "aomceodeadly",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 1
+    },
+    "drop": null
+  },
+  {
+    "name": "DaigonRoogen",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "EX7",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 2,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "EX7",
+          "number": "034"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 1,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 3,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "P",
+          "number": "133"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "ST18",
+          "number": "14"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Hidden Potential Discovered!",
+          "set": "BT3",
+          "number": "103"
+        },
+        {
+          "count": 1,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 1,
+          "name": "Green Scramble",
+          "set": "LM",
+          "number": "030"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Kokomon",
+          "set": "EX4",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 22,
+    "player": "daigonroogen",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "BobbiDrake14",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Veemon",
+          "set": "BT12",
+          "number": "021"
+        },
+        {
+          "count": 4,
+          "name": "Veemon",
+          "set": "BT16",
+          "number": "017"
+        },
+        {
+          "count": 4,
+          "name": "Veemon",
+          "set": "BT21",
+          "number": "032"
+        },
+        {
+          "count": 3,
+          "name": "Veemon",
+          "set": "EX1",
+          "number": "013"
+        },
+        {
+          "count": 1,
+          "name": "Veemon",
+          "set": "BT3",
+          "number": "021"
+        },
+        {
+          "count": 4,
+          "name": "Flamedramon",
+          "set": "P",
+          "number": "137"
+        },
+        {
+          "count": 2,
+          "name": "ExVeemon",
+          "set": "BT16",
+          "number": "018"
+        },
+        {
+          "count": 2,
+          "name": "Magnamon",
+          "set": "BT21",
+          "number": "036"
+        },
+        {
+          "count": 2,
+          "name": "Flamedramon",
+          "set": "BT8",
+          "number": "012"
+        },
+        {
+          "count": 2,
+          "name": "Shadramon",
+          "set": "EX3",
+          "number": "058"
+        },
+        {
+          "count": 2,
+          "name": "Shadramon",
+          "set": "P",
+          "number": "110"
+        },
+        {
+          "count": 2,
+          "name": "Dinobeemon",
+          "set": "BT16",
+          "number": "077"
+        },
+        {
+          "count": 2,
+          "name": "Valkyrimon",
+          "set": "LM",
+          "number": "039"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Davis Motomiya",
+          "set": "P",
+          "number": "124"
+        },
+        {
+          "count": 2,
+          "name": "Davis Motomiya",
+          "set": "BT21",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Davis Motomiya",
+          "set": "BT3",
+          "number": "093"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "Fire Rocket",
+          "set": "BT8",
+          "number": "095"
+        },
+        {
+          "count": 2,
+          "name": "Lightning Blade",
+          "set": "BT8",
+          "number": "103"
+        },
+        {
+          "count": 2,
+          "name": "Armor Texture!",
+          "set": "BT8",
+          "number": "110"
+        },
+        {
+          "count": 2,
+          "name": "Shadow Wing",
+          "set": "ST1",
+          "number": "13"
+        },
+        {
+          "count": 1,
+          "name": "Digital Gate Open",
+          "set": "P",
+          "number": "206"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "DemiVeemon",
+          "set": "BT16",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "other",
+      "name": "Other"
+    },
+    "placing": 23,
+    "player": "bobbidrake14",
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "AzurePKK",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Elizamon",
+          "set": "BT21",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Elizamon",
+          "set": "BT24",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Ukkomon",
+          "set": "BT16",
+          "number": "082"
+        },
+        {
+          "count": 2,
+          "name": "Elizamon",
+          "set": "EX11",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Dimetromon",
+          "set": "BT21",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Cyclonemon",
+          "set": "BT24",
+          "number": "011"
+        },
+        {
+          "count": 2,
+          "name": "Dimetromon",
+          "set": "BT24",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Lamiamon",
+          "set": "BT24",
+          "number": "016"
+        },
+        {
+          "count": 1,
+          "name": "Paildramon",
+          "set": "BT20",
+          "number": "016"
+        },
+        {
+          "count": 1,
+          "name": "Cyberdramon",
+          "set": "BT21",
+          "number": "024"
+        },
+        {
+          "count": 3,
+          "name": "Medusamon",
+          "set": "EX11",
+          "number": "012"
+        },
+        {
+          "count": 2,
+          "name": "Medusamon",
+          "set": "BT24",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Styracomon",
+          "set": "BT24",
+          "number": "018"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Owen Dreadnought",
+          "set": "BT21",
+          "number": "081"
+        },
+        {
+          "count": 3,
+          "name": "Owen Dreadnought",
+          "set": "BT24",
+          "number": "082"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Offense Training",
+          "set": "P",
+          "number": "103"
+        },
+        {
+          "count": 2,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        },
+        {
+          "count": 2,
+          "name": "Red Scramble",
+          "set": "LM",
+          "number": "027"
+        },
+        {
+          "count": 1,
+          "name": "Raging Serpentine",
+          "set": "BT21",
+          "number": "093"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gigimon",
+          "set": "BT21",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "styraco",
+      "name": "Medusa"
+    },
+    "placing": 24,
+    "player": "azurepkk",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "DannyDelSol",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "EX11",
+          "number": "026"
+        },
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 2,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 2,
+          "name": "Pteromon",
+          "set": "EX7",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 2,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 3,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 2,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 3,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 3,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 1,
+          "name": "Hidden Potential Discovered!",
+          "set": "BT3",
+          "number": "103"
+        },
+        {
+          "count": 1,
+          "name": "Green Scramble",
+          "set": "LM",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Anemoi Embrace",
+          "set": "ST18",
+          "number": "15"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gummymon",
+          "set": "EX2",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 25,
+    "player": "dannydelsol",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Mobius",
+    "country": "MX",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 3,
+          "name": "Ukkomon",
+          "set": "BT16",
+          "number": "082"
+        },
+        {
+          "count": 3,
+          "name": "Pteromon",
+          "set": "EX11",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Pteromon",
+          "set": "EX7",
+          "number": "031"
+        },
+        {
+          "count": 1,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 3,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 3,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 3,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "EX7",
+          "number": "034"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 3,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        },
+        {
+          "count": 1,
+          "name": "Shoto Kazama",
+          "set": "P",
+          "number": "133"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Hidden Potential Discovered!",
+          "set": "BT3",
+          "number": "103"
+        },
+        {
+          "count": 1,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 1,
+          "name": "Green Scramble",
+          "set": "LM",
+          "number": "030"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Kokomon",
+          "set": "EX4",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 26,
+    "player": "mobius",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "veborn",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Patamon",
+          "set": "BT14",
+          "number": "033"
+        },
+        {
+          "count": 1,
+          "name": "Cutemon",
+          "set": "BT5",
+          "number": "033"
+        },
+        {
+          "count": 1,
+          "name": "Pillomon",
+          "set": "BT9",
+          "number": "033"
+        },
+        {
+          "count": 1,
+          "name": "Tapirmon",
+          "set": "EX8",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Terriermon",
+          "set": "BT22",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Gatomon",
+          "set": "ST10",
+          "number": "04"
+        },
+        {
+          "count": 3,
+          "name": "Gatomon",
+          "set": "EX6",
+          "number": "020"
+        },
+        {
+          "count": 3,
+          "name": "Reppamon",
+          "set": "BT22",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Angewomon",
+          "set": "BT11",
+          "number": "042"
+        },
+        {
+          "count": 3,
+          "name": "Angewomon",
+          "set": "BT23",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "LadyDevimon",
+          "set": "BT11",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "LadyDevimon",
+          "set": "BT23",
+          "number": "067"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "BT23",
+          "number": "102"
+        },
+        {
+          "count": 3,
+          "name": "Mastemon",
+          "set": "P",
+          "number": "187"
+        },
+        {
+          "count": 1,
+          "name": "Chaosmon",
+          "set": "P",
+          "number": "221"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "EX6",
+          "number": "074"
+        },
+        {
+          "count": 3,
+          "name": "Mirei Mikagura",
+          "set": "BT22",
+          "number": "089"
+        },
+        {
+          "count": 2,
+          "name": "Mirei Mikagura",
+          "set": "BT11",
+          "number": "094"
+        },
+        {
+          "count": 1,
+          "name": "T.K. Takaishi",
+          "set": "BT1",
+          "number": "087"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Amber Memory Boost!",
+          "set": "LM",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Reinforcing Memory Boost!",
+          "set": "BT6",
+          "number": "100"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tokomon",
+          "set": "BT14",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "CS maste",
+      "name": "CS Mastemon"
+    },
+    "placing": 27,
+    "player": "veborn",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "HassFGC",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Ukkomon",
+          "set": "BT16",
+          "number": "082"
+        },
+        {
+          "count": 4,
+          "name": "Flamemon",
+          "set": "BT17",
+          "number": "009"
+        },
+        {
+          "count": 2,
+          "name": "Bokomon",
+          "set": "BT18",
+          "number": "010"
+        },
+        {
+          "count": 1,
+          "name": "Flamemon",
+          "set": "BT6",
+          "number": "010"
+        },
+        {
+          "count": 1,
+          "name": "Ukkomon",
+          "set": "P",
+          "number": "123"
+        },
+        {
+          "count": 4,
+          "name": "Agunimon",
+          "set": "BT17",
+          "number": "011"
+        },
+        {
+          "count": 4,
+          "name": "BurningGreymon",
+          "set": "BT17",
+          "number": "012"
+        },
+        {
+          "count": 2,
+          "name": "BurningGreymon",
+          "set": "BT12",
+          "number": "013"
+        },
+        {
+          "count": 1,
+          "name": "Agunimon",
+          "set": "BT18",
+          "number": "011"
+        },
+        {
+          "count": 1,
+          "name": "Agunimon",
+          "set": "P",
+          "number": "029"
+        },
+        {
+          "count": 4,
+          "name": "AncientGreymon",
+          "set": "BT17",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "AncientGreymon",
+          "set": "BT4",
+          "number": "113"
+        },
+        {
+          "count": 2,
+          "name": "Omnimon",
+          "set": "BT5",
+          "number": "086"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Takuya Kanbara & Koji Minamoto",
+          "set": "BT18",
+          "number": "088"
+        },
+        {
+          "count": 2,
+          "name": "Takuya Kanbara",
+          "set": "BT12",
+          "number": "088"
+        },
+        {
+          "count": 2,
+          "name": "Takuya Kanbara",
+          "set": "BT17",
+          "number": "079"
+        },
+        {
+          "count": 2,
+          "name": "Takuya Kanbara",
+          "set": "BT21",
+          "number": "082"
+        },
+        {
+          "count": 2,
+          "name": "Analog Youth",
+          "set": "EX1",
+          "number": "066"
+        }
+      ],
+      "option": [
+        {
+          "count": 2,
+          "name": "Ancient Guardian Deity",
+          "set": "BT17",
+          "number": "094"
+        },
+        {
+          "count": 2,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        },
+        {
+          "count": 2,
+          "name": "Red Memory Boost!",
+          "set": "P",
+          "number": "035"
+        }
+      ],
+      "egg": [
+        {
+          "count": 1,
+          "name": "Yokomon",
+          "set": "BT11",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Koromon",
+          "set": "BT14",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Ancient-Red-Hybrid",
+      "name": "Ancient Red Hybrid"
+    },
+    "placing": 28,
+    "player": "hassfgc",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Gamec17",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "EX11",
+          "number": "026"
+        },
+        {
+          "count": 3,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 3,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 2,
+          "name": "Pteromon",
+          "set": "EX7",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 2,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 3,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 2,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 3,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 2,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 2,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Tropical Venom",
+          "set": "BT6",
+          "number": "102"
+        },
+        {
+          "count": 1,
+          "name": "Green Scramble",
+          "set": "LM",
+          "number": "030"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Fluffymon",
+          "set": "EX7",
+          "number": "004"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 29,
+    "player": "gamec17",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 1
+    },
+    "drop": 3
+  },
+  {
+    "name": "Kargalargus",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Keramon (X Antibody)",
+          "set": "BT24",
+          "number": "052"
+        },
+        {
+          "count": 3,
+          "name": "Keramon",
+          "set": "BT5",
+          "number": "059"
+        },
+        {
+          "count": 2,
+          "name": "Keramon",
+          "set": "BT17",
+          "number": "053"
+        },
+        {
+          "count": 2,
+          "name": "Keramon",
+          "set": "BT2",
+          "number": "053"
+        },
+        {
+          "count": 3,
+          "name": "Kurisarimon",
+          "set": "BT2",
+          "number": "059"
+        },
+        {
+          "count": 3,
+          "name": "Kurisarimon",
+          "set": "BT5",
+          "number": "063"
+        },
+        {
+          "count": 2,
+          "name": "Kurisarimon",
+          "set": "BT22",
+          "number": "057"
+        },
+        {
+          "count": 2,
+          "name": "Kurisarimon",
+          "set": "EX6",
+          "number": "039"
+        },
+        {
+          "count": 4,
+          "name": "Infermon",
+          "set": "BT22",
+          "number": "059"
+        },
+        {
+          "count": 4,
+          "name": "Infermon",
+          "set": "EX6",
+          "number": "041"
+        },
+        {
+          "count": 4,
+          "name": "Diaboromon",
+          "set": "BT22",
+          "number": "064"
+        },
+        {
+          "count": 2,
+          "name": "Diaboromon (X Antibody)",
+          "set": "BT24",
+          "number": "065"
+        },
+        {
+          "count": 2,
+          "name": "Diaboromon",
+          "set": "EX6",
+          "number": "043"
+        },
+        {
+          "count": 1,
+          "name": "Armageddemon",
+          "set": "BT5",
+          "number": "085"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Arata Sanada",
+          "set": "BT22",
+          "number": "091"
+        },
+        {
+          "count": 3,
+          "name": "Arata Sanada",
+          "set": "BT5",
+          "number": "090"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Defense Training",
+          "set": "P",
+          "number": "107"
+        },
+        {
+          "count": 2,
+          "name": "Black Scramble",
+          "set": "LM",
+          "number": "031"
+        },
+        {
+          "count": 1,
+          "name": "Emergency Program Shutdown!",
+          "set": "EX1",
+          "number": "072"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tsumemon",
+          "set": "BT22",
+          "number": "005"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Black Diaboromon",
+      "name": "Black Diaboromon"
+    },
+    "placing": 30,
+    "player": "kargalargus",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 1
+    },
+    "drop": 2
+  },
+  {
+    "name": "Mas",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Huckmon",
+          "set": "BT20",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Huckmon",
+          "set": "BT23",
+          "number": "006"
+        },
+        {
+          "count": 2,
+          "name": "Sistermon Blanc",
+          "set": "BT23",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Huckmon",
+          "set": "BT6",
+          "number": "009"
+        },
+        {
+          "count": 1,
+          "name": "Sistermon Blanc",
+          "set": "ST12",
+          "number": "12"
+        },
+        {
+          "count": 4,
+          "name": "BaoHuckmon",
+          "set": "BT13",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "BaoHuckmon",
+          "set": "BT20",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "Sistermon Ciel (Awakened)",
+          "set": "BT20",
+          "number": "084"
+        },
+        {
+          "count": 2,
+          "name": "Sistermon Ciel",
+          "set": "BT23",
+          "number": "077"
+        },
+        {
+          "count": 2,
+          "name": "Sistermon Ciel",
+          "set": "BT6",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "SaviorHuckmon",
+          "set": "BT20",
+          "number": "014"
+        },
+        {
+          "count": 2,
+          "name": "SaviorHuckmon",
+          "set": "BT6",
+          "number": "015"
+        },
+        {
+          "count": 2,
+          "name": "Kimeramon",
+          "set": "BT8",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Jesmon",
+          "set": "BT23",
+          "number": "013"
+        },
+        {
+          "count": 2,
+          "name": "Jesmon (X Antibody)",
+          "set": "BT10",
+          "number": "016"
+        },
+        {
+          "count": 2,
+          "name": "Omnimon (X Antibody)",
+          "set": "BT20",
+          "number": "102"
+        }
+      ],
+      "tamer": [],
+      "option": [
+        {
+          "count": 4,
+          "name": "From Master to Disciple",
+          "set": "ST12",
+          "number": "15"
+        },
+        {
+          "count": 3,
+          "name": "Red Memory Boost!",
+          "set": "P",
+          "number": "035"
+        },
+        {
+          "count": 2,
+          "name": "Crimson Blaze",
+          "set": "BT8",
+          "number": "097"
+        },
+        {
+          "count": 1,
+          "name": "Red Scramble",
+          "set": "LM",
+          "number": "027"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gurimon",
+          "set": "BT8",
+          "number": "001"
+        }
+      ]
+    },
+    "deck": {
+      "id": "jes",
+      "name": "BT23 Jesmon"
+    },
+    "placing": 31,
+    "player": "mas",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "jjrbenis",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Shoemon",
+          "set": "EX7",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Shoemon",
+          "set": "ST19",
+          "number": "03"
+        },
+        {
+          "count": 2,
+          "name": "Shoemon",
+          "set": "EX11",
+          "number": "019"
+        },
+        {
+          "count": 2,
+          "name": "Hanimon",
+          "set": "EX9",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Kokeshimon",
+          "set": "EX11",
+          "number": "021"
+        },
+        {
+          "count": 3,
+          "name": "ShoeShoemon",
+          "set": "P",
+          "number": "165"
+        },
+        {
+          "count": 2,
+          "name": "Namakemon",
+          "set": "BT16",
+          "number": "055"
+        },
+        {
+          "count": 2,
+          "name": "Kokeshimon",
+          "set": "EX9",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Karakurumon",
+          "set": "EX9",
+          "number": "032"
+        },
+        {
+          "count": 3,
+          "name": "Karakurumon",
+          "set": "EX11",
+          "number": "022"
+        },
+        {
+          "count": 3,
+          "name": "Kaguyamon",
+          "set": "EX11",
+          "number": "023"
+        },
+        {
+          "count": 2,
+          "name": "Cendrillmon",
+          "set": "EX11",
+          "number": "024"
+        },
+        {
+          "count": 2,
+          "name": "Kaguyamon",
+          "set": "EX9",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Nyabootmon",
+          "set": "BT22",
+          "number": "042"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Mirai Kinosaki",
+          "set": "EX9",
+          "number": "067"
+        },
+        {
+          "count": 2,
+          "name": "Mirai Kinosaki",
+          "set": "EX11",
+          "number": "061"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Unique Emblem: Narrative Ronde",
+          "set": "P",
+          "number": "229"
+        },
+        {
+          "count": 1,
+          "name": "Yellow Scramble",
+          "set": "LM",
+          "number": "029"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Kyaromon",
+          "set": "BT22",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Shoemon Core",
+      "name": "Puppets"
+    },
+    "placing": 32,
+    "player": "jjrbenis",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "chamoydaboy",
+    "country": "CA",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Shoemon",
+          "set": "EX7",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Shoemon",
+          "set": "ST19",
+          "number": "03"
+        },
+        {
+          "count": 2,
+          "name": "Shoemon",
+          "set": "EX11",
+          "number": "019"
+        },
+        {
+          "count": 2,
+          "name": "Hanimon",
+          "set": "EX9",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Kokeshimon",
+          "set": "EX11",
+          "number": "021"
+        },
+        {
+          "count": 4,
+          "name": "ShoeShoemon",
+          "set": "P",
+          "number": "165"
+        },
+        {
+          "count": 2,
+          "name": "Sistermon Ciel",
+          "set": "BT6",
+          "number": "084"
+        },
+        {
+          "count": 1,
+          "name": "ShoeShoemon",
+          "set": "EX7",
+          "number": "025"
+        },
+        {
+          "count": 4,
+          "name": "Karakurumon",
+          "set": "EX9",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "Chaperomon",
+          "set": "EX7",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Cendrillmon",
+          "set": "EX11",
+          "number": "024"
+        },
+        {
+          "count": 2,
+          "name": "Kaguyamon",
+          "set": "EX9",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Nyabootmon",
+          "set": "BT22",
+          "number": "042"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Mirai Kinosaki",
+          "set": "EX9",
+          "number": "067"
+        },
+        {
+          "count": 2,
+          "name": "Mirai Kinosaki",
+          "set": "EX11",
+          "number": "061"
+        },
+        {
+          "count": 2,
+          "name": "Arisa Kinosaki ",
+          "set": "P",
+          "number": "136"
+        },
+        {
+          "count": 1,
+          "name": "Arisa Kinosaki",
+          "set": "ST19",
+          "number": "14"
+        }
+      ],
+      "option": [
+        {
+          "count": 4,
+          "name": "Unique Emblem: Narrative Ronde",
+          "set": "P",
+          "number": "229"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Nyaromon",
+          "set": "BT15",
+          "number": "003"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Shoemon Core",
+      "name": "Puppets"
+    },
+    "placing": 33,
+    "player": "chamoydaboy",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "PremiumMSG",
+    "country": "US",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Gabumon",
+          "set": "EX9",
+          "number": "014"
+        },
+        {
+          "count": 4,
+          "name": "Elecmon",
+          "set": "EX9",
+          "number": "022"
+        },
+        {
+          "count": 3,
+          "name": "Biyomon",
+          "set": "EX9",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Vegiemon",
+          "set": "BT22",
+          "number": "049"
+        },
+        {
+          "count": 3,
+          "name": "Garurumon",
+          "set": "EX9",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Kabuterimon",
+          "set": "EX9",
+          "number": "037"
+        },
+        {
+          "count": 1,
+          "name": "Angemon",
+          "set": "EX9",
+          "number": "026"
+        },
+        {
+          "count": 4,
+          "name": "Vademon",
+          "set": "BT22",
+          "number": "061"
+        },
+        {
+          "count": 3,
+          "name": "MetalMamemon",
+          "set": "EX9",
+          "number": "018"
+        },
+        {
+          "count": 2,
+          "name": "Neptunemon",
+          "set": "BT24",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Volcanicdramon",
+          "set": "EX7",
+          "number": "014"
+        },
+        {
+          "count": 1,
+          "name": "BlackWarGreymon ACE",
+          "set": "EX10",
+          "number": "010"
+        },
+        {
+          "count": 1,
+          "name": "MegaGargomon ACE",
+          "set": "ST17",
+          "number": "08"
+        },
+        {
+          "count": 1,
+          "name": "Metallicdramon",
+          "set": "EX7",
+          "number": "049"
+        },
+        {
+          "count": 1,
+          "name": "Invisimon",
+          "set": "BT20",
+          "number": "055"
+        },
+        {
+          "count": 1,
+          "name": "BlackWarGreymon",
+          "set": "P",
+          "number": "026"
+        },
+        {
+          "count": 1,
+          "name": "Quartzmon",
+          "set": "BT12",
+          "number": "057"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Analog Youth",
+          "set": "EX9",
+          "number": "069"
+        },
+        {
+          "count": 3,
+          "name": "Analog Youth",
+          "set": "EX1",
+          "number": "066"
+        },
+        {
+          "count": 2,
+          "name": "Digimon Kaiser",
+          "set": "BT8",
+          "number": "094"
+        }
+      ],
+      "option": [
+        {
+          "count": 1,
+          "name": "Ice Wall!",
+          "set": "EX1",
+          "number": "068"
+        },
+        {
+          "count": 1,
+          "name": "Hammer Spark",
+          "set": "ST2",
+          "number": "13"
+        },
+        {
+          "count": 1,
+          "name": "File Island",
+          "set": "EX9",
+          "number": "072"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Tsunomon",
+          "set": "EX9",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "Time Stranger",
+      "name": "TS Neptunemon / TS Abyss Sanctuary"
+    },
+    "placing": 34,
+    "player": "premiummsg",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "Skelyte",
+    "country": "GB",
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Guilmon",
+          "set": "BT21",
+          "number": "064"
+        },
+        {
+          "count": 4,
+          "name": "Impmon",
+          "set": "EX10",
+          "number": "037"
+        },
+        {
+          "count": 1,
+          "name": "Guilmon",
+          "set": "EX4",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "BlackGrowlmon",
+          "set": "EX4",
+          "number": "008"
+        },
+        {
+          "count": 3,
+          "name": "Grolwmon",
+          "set": "BT21",
+          "number": "068"
+        },
+        {
+          "count": 2,
+          "name": "Saberdramon",
+          "set": "P",
+          "number": "091"
+        },
+        {
+          "count": 4,
+          "name": "WarGrowlmon",
+          "set": "EX3",
+          "number": "062"
+        },
+        {
+          "count": 1,
+          "name": "WarGrowlmon",
+          "set": "BT21",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "BlackWarGrowlmon",
+          "set": "EX4",
+          "number": "010"
+        },
+        {
+          "count": 3,
+          "name": "Megidramon",
+          "set": "BT5",
+          "number": "083"
+        },
+        {
+          "count": 3,
+          "name": "Creepymon",
+          "set": "EX10",
+          "number": "009"
+        },
+        {
+          "count": 2,
+          "name": "Gallantmon",
+          "set": "BT13",
+          "number": "111"
+        },
+        {
+          "count": 2,
+          "name": "Gallantmon",
+          "set": "P",
+          "number": "186"
+        },
+        {
+          "count": 1,
+          "name": "Gallantmon: Crimson Mode ACE",
+          "set": "BT17",
+          "number": "018"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 3,
+          "name": "Takato Matsuki",
+          "set": "BT21",
+          "number": "089"
+        },
+        {
+          "count": 3,
+          "name": "Analog Youth",
+          "set": "EX1",
+          "number": "066"
+        },
+        {
+          "count": 2,
+          "name": "Takato Matsuki",
+          "set": "BT19",
+          "number": "080"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Mist Memory Boost!",
+          "set": "BT8",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Purple Scramble",
+          "set": "LM",
+          "number": "032"
+        },
+        {
+          "count": 1,
+          "name": "Calling From the Darkness",
+          "set": "BT7",
+          "number": "107"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Gigimon",
+          "set": "P",
+          "number": "177"
+        }
+      ]
+    },
+    "deck": {
+      "id": "other",
+      "name": "Other"
+    },
+    "placing": 35,
+    "player": "skelyte",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 1
+  },
+  {
+    "name": "Cryptid",
+    "country": null,
+    "decklist": {
+      "digimon": [
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "EX11",
+          "number": "026"
+        },
+        {
+          "count": 4,
+          "name": "Pteromon",
+          "set": "ST18",
+          "number": "04"
+        },
+        {
+          "count": 2,
+          "name": "Palmon",
+          "set": "BT14",
+          "number": "044"
+        },
+        {
+          "count": 2,
+          "name": "Muchomon",
+          "set": "BT24",
+          "number": "044"
+        },
+        {
+          "count": 4,
+          "name": "Galemon",
+          "set": "EX11",
+          "number": "028"
+        },
+        {
+          "count": 3,
+          "name": "Kokatorimon",
+          "set": "BT24",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Galemon",
+          "set": "P",
+          "number": "166"
+        },
+        {
+          "count": 4,
+          "name": "GrandGalemon",
+          "set": "EX11",
+          "number": "032"
+        },
+        {
+          "count": 2,
+          "name": "Deramon",
+          "set": "BT24",
+          "number": "048"
+        },
+        {
+          "count": 2,
+          "name": "GrandGalemon",
+          "set": "ST22",
+          "number": "13"
+        },
+        {
+          "count": 3,
+          "name": "Zephagamon",
+          "set": "EX11",
+          "number": "035"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon ACE",
+          "set": "BT20",
+          "number": "101"
+        },
+        {
+          "count": 1,
+          "name": "Zephagamon",
+          "set": "EX7",
+          "number": "036"
+        },
+        {
+          "count": 1,
+          "name": "MedievalGallantmon",
+          "set": "EX8",
+          "number": "074"
+        },
+        {
+          "count": 2,
+          "name": "Vortexdramon",
+          "set": "EX11",
+          "number": "074"
+        }
+      ],
+      "tamer": [
+        {
+          "count": 4,
+          "name": "Shoto Kazama",
+          "set": "EX11",
+          "number": "062"
+        },
+        {
+          "count": 2,
+          "name": "Shoto Kazama",
+          "set": "EX7",
+          "number": "064"
+        }
+      ],
+      "option": [
+        {
+          "count": 3,
+          "name": "Unique Emblem: Guardian Vortex",
+          "set": "EX11",
+          "number": "072"
+        },
+        {
+          "count": 2,
+          "name": "Agility Training",
+          "set": "P",
+          "number": "106"
+        },
+        {
+          "count": 1,
+          "name": "Hidden Potential Discovered!",
+          "set": "BT3",
+          "number": "103"
+        },
+        {
+          "count": 1,
+          "name": "Samadhi Santi",
+          "set": "BT8",
+          "number": "102"
+        }
+      ],
+      "egg": [
+        {
+          "count": 4,
+          "name": "Kokomon",
+          "set": "EX4",
+          "number": "002"
+        }
+      ]
+    },
+    "deck": {
+      "id": "vortexdramon",
+      "name": "Vortexdramon"
+    },
+    "placing": 36,
+    "player": "cryptid",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  }
+]

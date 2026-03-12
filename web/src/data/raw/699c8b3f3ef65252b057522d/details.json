@@ -1,0 +1,24 @@
+{
+  "id": "699c8b3f3ef65252b057522d",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Sunny's Weekly #246 Eight Who Do We Appreciate?",
+  "date": "2026-03-02T23:05:00.000Z",
+  "players": 163,
+  "organizer": {
+    "id": 145,
+    "name": "Sunny's Weekly"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+[
+  {
+    "name": "spadille",
+    "country": "TH",
+    "decklist": null,
+    "placing": 1,
+    "player": "spadille",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Rodolfo Violla",
+    "country": "BR",
+    "decklist": null,
+    "placing": 2,
+    "player": "dorfoyeah",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Katcg",
+    "country": "BR",
+    "decklist": null,
+    "placing": 3,
+    "player": "katcg",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Giovanni M",
+    "country": "BR",
+    "decklist": null,
+    "placing": 4,
+    "player": "giobo20",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "FabioMarcello",
+    "country": "BR",
+    "decklist": null,
+    "placing": 5,
+    "player": "fabiomarcello",
+    "record": {
+      "wins": 3,
+      "losses": 0,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "lucasflaquer",
+    "country": "BR",
+    "decklist": null,
+    "placing": 6,
+    "player": "lucasflaquer",
+    "record": {
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Alisson Gino",
+    "country": "BR",
+    "decklist": null,
+    "placing": 7,
+    "player": "naugow",
+    "record": {
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "joaovsa",
+    "country": "BR",
+    "decklist": null,
+    "placing": 8,
+    "player": "joaovsa",
+    "record": {
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "pedroanauate",
+    "country": "BR",
+    "decklist": null,
+    "placing": 9,
+    "player": "pedroanauate",
+    "record": {
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "João Paulo Thomazini",
+    "country": "BR",
+    "decklist": null,
+    "placing": 10,
+    "player": "topin",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Leandro G",
+    "country": "BR",
+    "decklist": null,
+    "placing": 11,
+    "player": "leandroguilbert",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Lucas Ribeiro",
+    "country": "BR",
+    "decklist": null,
+    "placing": 12,
+    "player": "gordinho",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Chadd",
+    "country": "BR",
+    "decklist": null,
+    "placing": 13,
+    "player": "chadd",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Alvito",
+    "country": null,
+    "decklist": null,
+    "placing": 14,
+    "player": "alvito",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "alexyabiku",
+    "country": "BR",
+    "decklist": null,
+    "placing": 15,
+    "player": "alexyabiku",
+    "record": {
+      "wins": 2,
+      "losses": 1,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Leofemor",
+    "country": "BR",
+    "decklist": null,
+    "placing": 16,
+    "player": "leofemor",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "André Flaquer",
+    "country": "BR",
+    "decklist": null,
+    "placing": 17,
+    "player": "flaquer01",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "igordinho",
+    "country": "BR",
+    "decklist": null,
+    "placing": 18,
+    "player": "igordinho",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Maycon Santos",
+    "country": "BR",
+    "decklist": null,
+    "placing": 19,
+    "player": "lnk",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "MiguelHonofre",
+    "country": "BR",
+    "decklist": null,
+    "placing": 20,
+    "player": "miguelhonofre",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Matheus Xavier",
+    "country": "BR",
+    "decklist": null,
+    "placing": 21,
+    "player": "komodore",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 2
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Juhsk19",
+    "country": "BR",
+    "decklist": null,
+    "placing": 22,
+    "player": "juhsk19",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Castanho1997",
+    "country": "BR",
+    "decklist": null,
+    "placing": 23,
+    "player": "castanho1997",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Agustin Castillo",
+    "country": "BR",
+    "decklist": null,
+    "placing": 24,
+    "player": "kztyllo",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Pilonzitos",
+    "country": "BR",
+    "decklist": null,
+    "placing": 25,
+    "player": "pilonzitos",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Hélio Campos",
+    "country": "BR",
+    "decklist": null,
+    "placing": 26,
+    "player": "campos",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "RaulBaruc",
+    "country": "BR",
+    "decklist": null,
+    "placing": 27,
+    "player": "raulbaruc",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "bzin",
+    "country": "BR",
+    "decklist": null,
+    "placing": 28,
+    "player": "bzin",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Sucomid",
+    "country": "BR",
+    "decklist": null,
+    "placing": 29,
+    "player": "sucomid",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Fabioisoldi",
+    "country": "BR",
+    "decklist": null,
+    "placing": 30,
+    "player": "fabioisoldi",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Giovani Padilha",
+    "country": null,
+    "decklist": null,
+    "placing": 31,
+    "player": "giovanicp47",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Machiavelli",
+    "country": "BR",
+    "decklist": null,
+    "placing": 32,
+    "player": "machiavelli",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Pocnan",
+    "country": "BR",
+    "decklist": null,
+    "placing": 33,
+    "player": "pocnan",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Omeninomalukinho",
+    "country": null,
+    "decklist": null,
+    "placing": 34,
+    "player": "omeninomalukinho",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": 3
+  },
+  {
+    "name": "Luiza B",
+    "country": "BR",
+    "decklist": null,
+    "placing": 35,
+    "player": "barluina",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Matheus Santos Costa",
+    "country": "BR",
+    "decklist": null,
+    "placing": 36,
+    "player": "kouga",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  },
+  {
+    "name": "Filipe M",
+    "country": "BR",
+    "decklist": null,
+    "placing": 37,
+    "player": "motafilipe",
+    "record": {
+      "wins": 0,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 3
+  }
+]

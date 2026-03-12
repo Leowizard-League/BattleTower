@@ -1,0 +1,30 @@
+{
+  "id": "69a9f4f6f39e6e70969fc9b5",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Oscar’s Competitive Events | Second Tournament!",
+  "date": "2026-03-07T21:30:00.000Z",
+  "players": 100,
+  "organizer": {
+    "id": 2575,
+    "name": "Oscar’s Oceanic Hangout"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

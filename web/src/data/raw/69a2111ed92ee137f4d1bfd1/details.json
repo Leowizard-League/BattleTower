@@ -1,0 +1,24 @@
+{
+  "id": "69a2111ed92ee137f4d1bfd1",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Pokemon day",
+  "date": "2026-02-27T22:30:00.000Z",
+  "players": 37,
+  "organizer": {
+    "id": 438,
+    "name": "Cards Hall"
+  },
+  "platform": null,
+  "decklists": false,
+  "isPublic": true,
+  "isOnline": false,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 4,
+      "mode": "BO3"
+    }
+  ]
+}

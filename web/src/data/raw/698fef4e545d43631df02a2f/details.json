@@ -1,0 +1,30 @@
+{
+  "id": "698fef4e545d43631df02a2f",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Oceania Open | Prizing #Gifted_By Pokémon | S1-W9",
+  "date": "2026-02-27T08:30:00.000Z",
+  "players": 40,
+  "organizer": {
+    "id": 1659,
+    "name": "TripleBtcg"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "69ab59886a05f00a8c4a5dda",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "T2TCG FRIDAY NIGHT SHOWDOWN!!! 100 CODES!",
+  "date": "2026-03-07T02:30:00.000Z",
+  "players": 37,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

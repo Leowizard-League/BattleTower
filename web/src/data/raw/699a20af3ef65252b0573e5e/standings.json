@@ -1,0 +1,7864 @@
+[
+  {
+    "name": "prizzy95",
+    "country": "AT",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 2,
+          "name": "Cavendish",
+          "set": "OP10",
+          "number": "045"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 3,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Portgas.D.Ace",
+          "set": "OP13",
+          "number": "119"
+        },
+        {
+          "count": 1,
+          "name": "Portgas.D.Ace",
+          "set": "OP02",
+          "number": "013"
+        },
+        {
+          "count": 1,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": null,
+    "player": "prizzy95",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "Harko11",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Jewelry Bonney",
+        "set": "OP13",
+        "number": "100"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "O-Nami",
+          "set": "OP06",
+          "number": "101"
+        },
+        {
+          "count": 4,
+          "name": "Capone\"Gang\"Bege",
+          "set": "OP04",
+          "number": "100"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Satori",
+          "set": "OP05",
+          "number": "105"
+        },
+        {
+          "count": 2,
+          "name": "Nami",
+          "set": "OP08",
+          "number": "106"
+        },
+        {
+          "count": 2,
+          "name": "Boa Hancock",
+          "set": "PRB02",
+          "number": "017"
+        },
+        {
+          "count": 4,
+          "name": "S-Snake",
+          "set": "EB03",
+          "number": "059"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "OP09",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "You'll Frighten Me... ♡",
+          "set": "OP14",
+          "number": "118"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-100",
+      "name": "Jewelry Bonney"
+    },
+    "placing": null,
+    "player": "harko11",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "HashtagEMB",
+    "country": "SE",
+    "decklist": {
+      "leader": {
+        "name": "Roronoa Zoro",
+        "set": "OP12",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP12",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Koushirou",
+          "set": "OP12",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Otama",
+          "set": "EB03",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Dracule Mihawk",
+          "set": "ST12",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "OP13",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Oden",
+          "set": "OP14",
+          "number": "026"
+        },
+        {
+          "count": 3,
+          "name": "Kuina",
+          "set": "OP12",
+          "number": "026"
+        },
+        {
+          "count": 3,
+          "name": "Kin'emon",
+          "set": "OP14",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP12",
+          "number": "031"
+        },
+        {
+          "count": 2,
+          "name": "Cavendish",
+          "set": "EB01",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+          "set": "OP12",
+          "number": "039"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-020",
+      "name": "Roronoa Zoro"
+    },
+    "placing": null,
+    "player": "hashtagemb",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "ImpelDown",
+    "country": "FR",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 3,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Flame Dragon King",
+          "set": "ST13",
+          "number": "017"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "impeldown",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Josip O",
+    "country": "AT",
+    "decklist": {
+      "leader": {
+        "name": "Shirahoshi",
+        "set": "OP11",
+        "number": "022"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Shirahoshi",
+          "set": "OP11",
+          "number": "030"
+        },
+        {
+          "count": 4,
+          "name": "Otohime",
+          "set": "OP11",
+          "number": "100"
+        },
+        {
+          "count": 4,
+          "name": "Shirahoshi",
+          "set": "OP12",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Shirahoshi",
+          "set": "EB03",
+          "number": "052"
+        },
+        {
+          "count": 4,
+          "name": "Megalo",
+          "set": "EB04",
+          "number": "018"
+        },
+        {
+          "count": 4,
+          "name": "Spotted Neptunian",
+          "set": "OP11",
+          "number": "036"
+        },
+        {
+          "count": 4,
+          "name": "Bird Neptunian",
+          "set": "EB04",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Topknot Neptunian",
+          "set": "OP11",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Scaled Neptunian",
+          "set": "EB04",
+          "number": "011"
+        },
+        {
+          "count": 3,
+          "name": "Hody Jones",
+          "set": "OP06",
+          "number": "035"
+        },
+        {
+          "count": 3,
+          "name": "Shanks",
+          "set": "ST16",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "You're Just Not My Type!",
+          "set": "OP11",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Ancient Weapon Poseidon",
+          "set": "OP11",
+          "number": "037"
+        },
+        {
+          "count": 2,
+          "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+          "set": "OP13",
+          "number": "040"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-022",
+      "name": "Shirahoshi"
+    },
+    "placing": null,
+    "player": "josimpisgone",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "nytrex",
+    "country": "GB",
+    "decklist": {
+      "leader": {
+        "name": "Crocodile",
+        "set": "OP14",
+        "number": "079"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Ms. Wednesday",
+          "set": "OP14",
+          "number": "083"
+        },
+        {
+          "count": 4,
+          "name": "Miss.Goldenweek(Marianne)",
+          "set": "OP14",
+          "number": "085"
+        },
+        {
+          "count": 4,
+          "name": "Miss.Valentine(Mikita)",
+          "set": "OP14",
+          "number": "087"
+        },
+        {
+          "count": 4,
+          "name": "Miss.MerryChristmas(Drophy)",
+          "set": "OP14",
+          "number": "088"
+        },
+        {
+          "count": 4,
+          "name": "Mr.2.Bon.Kurei(Bentham)",
+          "set": "OP14",
+          "number": "091"
+        },
+        {
+          "count": 3,
+          "name": "Mr.4(Babe)",
+          "set": "OP14",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Miss Doublefinger(Zala)",
+          "set": "OP14",
+          "number": "086"
+        },
+        {
+          "count": 4,
+          "name": "Mr.1(Daz.Bonez)",
+          "set": "OP14",
+          "number": "090"
+        },
+        {
+          "count": 3,
+          "name": "Mr.5(Gem)",
+          "set": "OP14",
+          "number": "094"
+        },
+        {
+          "count": 4,
+          "name": "Ms. All Sunday",
+          "set": "OP14",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Crocodile",
+          "set": "OP14",
+          "number": "120"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Ground Death",
+          "set": "OP14",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Disappointed?",
+          "set": "OP14",
+          "number": "099"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-079",
+      "name": "Crocodile"
+    },
+    "placing": null,
+    "player": "nytrex",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "oMatos",
+    "country": "PT",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 2,
+          "name": "S-Snake",
+          "set": "OP13",
+          "number": "114"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 2,
+          "name": "Nami",
+          "set": "OP08",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 3,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 2,
+          "name": "Nico Robin",
+          "set": "OP09",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 3,
+          "name": "Eustass\"Captain\"Kid",
+          "set": "OP10",
+          "number": "112"
+        },
+        {
+          "count": 3,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Flame Dragon King",
+          "set": "ST13",
+          "number": "017"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "omatos",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "OtakuProwder",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Dracule Mihawk",
+        "set": "OP14",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Scratchmen Apoo",
+          "set": "EB01",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Tashigi",
+          "set": "OP10",
+          "number": "032"
+        },
+        {
+          "count": 1,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP14",
+          "number": "029"
+        },
+        {
+          "count": 3,
+          "name": "Jewelry Bonney",
+          "set": "OP12",
+          "number": "118"
+        },
+        {
+          "count": 2,
+          "name": "Jewelry Bonney",
+          "set": "OP07",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP14",
+          "number": "027"
+        },
+        {
+          "count": 1,
+          "name": "Dracule Mihawk",
+          "set": "OP14",
+          "number": "119"
+        },
+        {
+          "count": 1,
+          "name": "Shanks",
+          "set": "ST16",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Law & Bepo",
+          "set": "ST24",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "The Billion-fold World Trichiliocosm",
+          "set": "OP06",
+          "number": "038"
+        },
+        {
+          "count": 3,
+          "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+          "set": "OP13",
+          "number": "040"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 1,
+          "name": "Paradise Waterfall",
+          "set": "OP01",
+          "number": "057"
+        },
+        {
+          "count": 1,
+          "name": "Spiderweb",
+          "set": "OP04",
+          "number": "035"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Coffin Boat",
+          "set": "OP14",
+          "number": "039"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP14-020",
+      "name": "Dracule Mihawk"
+    },
+    "placing": null,
+    "player": "otakuprowder",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "PalzieJP",
+    "country": "NL",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "OP13",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP01",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 2,
+          "name": "Killer",
+          "set": "OP14",
+          "number": "005"
+        },
+        {
+          "count": 3,
+          "name": "Sanji",
+          "set": "ST21",
+          "number": "003"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "P",
+          "number": "111"
+        },
+        {
+          "count": 2,
+          "name": "Jewelry Bonney",
+          "set": "PRB02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP14",
+          "number": "022"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP14",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP13",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        },
+        {
+          "count": 3,
+          "name": "Roronoa Zoro",
+          "set": "OP06",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+          "set": "OP14",
+          "number": "019"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 3,
+          "name": "Charlestone",
+          "set": "OP05",
+          "number": "038"
+        },
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "palziejp",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "PapaFishhh",
+    "country": "US",
+    "decklist": {
+      "leader": {
+        "name": "Roronoa Zoro",
+        "set": "OP12",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP12",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Kuina",
+          "set": "EB03",
+          "number": "014"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP10",
+          "number": "032"
+        },
+        {
+          "count": 4,
+          "name": "Dracule Mihawk",
+          "set": "ST12",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "OP13",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Oden",
+          "set": "OP14",
+          "number": "026"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 2,
+          "name": "Kuina",
+          "set": "OP12",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Kin'emon",
+          "set": "OP14",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP12",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+          "set": "OP12",
+          "number": "039"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-020",
+      "name": "Roronoa Zoro"
+    },
+    "placing": null,
+    "player": "papafishhh",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Patpat",
+    "country": "SK",
+    "decklist": {
+      "leader": {
+        "name": "Boa Hancock",
+        "set": "OP14",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Gloriosa (Grandma Nyon)",
+          "set": "OP14",
+          "number": "103"
+        },
+        {
+          "count": 4,
+          "name": "Marguerite",
+          "set": "OP14",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Boa Hancock",
+          "set": "ST17",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Ran",
+          "set": "OP14",
+          "number": "114"
+        },
+        {
+          "count": 3,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Gorgon Sisters",
+          "set": "OP14",
+          "number": "105"
+        },
+        {
+          "count": 4,
+          "name": "Shakuyaku",
+          "set": "OP14",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Boa Hancock",
+          "set": "OP14",
+          "number": "112"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Slave Arrow",
+          "set": "OP07",
+          "number": "056"
+        },
+        {
+          "count": 3,
+          "name": "Perfume Femur",
+          "set": "OP07",
+          "number": "057"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-041",
+      "name": "Boa Hancock"
+    },
+    "placing": null,
+    "player": "patpat",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Potlehio",
+    "country": "ES",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 2,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        },
+        {
+          "count": 1,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": null,
+    "player": "potlehio",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "aarton1",
+    "country": "BE",
+    "decklist": {
+      "leader": {
+        "name": "Nico Robin",
+        "set": "OP09",
+        "number": "062"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Nico Olvia",
+          "set": "OP09",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "PRB02",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Nami",
+          "set": "PRB02",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Franky",
+          "set": "OP07",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP13",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 3,
+          "name": "Basil Hawkins",
+          "set": "OP10",
+          "number": "109"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "OP09",
+          "number": "107"
+        },
+        {
+          "count": 3,
+          "name": "Silvers Rayleigh",
+          "set": "OP14",
+          "number": "108"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Gum-Gum Giant",
+          "set": "OP09",
+          "number": "078"
+        },
+        {
+          "count": 2,
+          "name": "You'll Frighten Me... ♡",
+          "set": "OP14",
+          "number": "118"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP09-062",
+      "name": "Nico Robin"
+    },
+    "placing": null,
+    "player": "aarton1",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Radical",
+    "country": "ES",
+    "decklist": {
+      "leader": {
+        "name": "Sanji",
+        "set": "OP12",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 3,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP12",
+          "number": "071"
+        },
+        {
+          "count": 1,
+          "name": "Yamato",
+          "set": "P",
+          "number": "046"
+        },
+        {
+          "count": 1,
+          "name": "Terracotta",
+          "set": "EB04",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP12",
+          "number": "070"
+        },
+        {
+          "count": 3,
+          "name": "Vinsmoke Reiju",
+          "set": "OP12",
+          "number": "063"
+        },
+        {
+          "count": 4,
+          "name": "Vinsmoke Reiju",
+          "set": "EB03",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Sanji",
+          "set": "OP07",
+          "number": "064"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+          "set": "EB04",
+          "number": "029"
+        },
+        {
+          "count": 4,
+          "name": "Gum-Gum Giant",
+          "set": "OP09",
+          "number": "078"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+          "set": "OP12",
+          "number": "079"
+        },
+        {
+          "count": 2,
+          "name": "Concasser",
+          "set": "OP12",
+          "number": "059"
+        },
+        {
+          "count": 1,
+          "name": "Slave Arrow",
+          "set": "OP07",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "Boeuf Burst",
+          "set": "OP12",
+          "number": "060"
+        },
+        {
+          "count": 3,
+          "name": "Stealth Black",
+          "set": "EB04",
+          "number": "041"
+        },
+        {
+          "count": 1,
+          "name": "Gum-Gum Jet Culverin",
+          "set": "OP11",
+          "number": "061"
+        },
+        {
+          "count": 1,
+          "name": "Brochette Blow",
+          "set": "OP12",
+          "number": "078"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 2,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-041",
+      "name": "Sanji"
+    },
+    "placing": null,
+    "player": "radical",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Rehnay",
+    "country": "BE",
+    "decklist": {
+      "leader": {
+        "name": "Sanji",
+        "set": "OP12",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP12",
+          "number": "071"
+        },
+        {
+          "count": 1,
+          "name": "Terracotta",
+          "set": "EB04",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP12",
+          "number": "070"
+        },
+        {
+          "count": 2,
+          "name": "Vinsmoke Reiju",
+          "set": "OP12",
+          "number": "063"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Vinsmoke Reiju",
+          "set": "EB03",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP07",
+          "number": "064"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Concasser",
+          "set": "OP12",
+          "number": "059"
+        },
+        {
+          "count": 4,
+          "name": "Gum-Gum Giant",
+          "set": "OP09",
+          "number": "078"
+        },
+        {
+          "count": 4,
+          "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+          "set": "EB04",
+          "number": "029"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+          "set": "OP12",
+          "number": "079"
+        },
+        {
+          "count": 4,
+          "name": "Boeuf Burst",
+          "set": "OP12",
+          "number": "060"
+        },
+        {
+          "count": 3,
+          "name": "Stealth Black",
+          "set": "EB04",
+          "number": "041"
+        },
+        {
+          "count": 1,
+          "name": "Brochette Blow",
+          "set": "OP12",
+          "number": "078"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 2,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-041",
+      "name": "Sanji"
+    },
+    "placing": null,
+    "player": "rehnay",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Simpiii",
+    "country": "CA",
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 3,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 1,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": null,
+    "player": "simpiii",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Sobread",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 2,
+          "name": "Shirahoshi",
+          "set": "OP12",
+          "number": "102"
+        },
+        {
+          "count": 2,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 2,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        },
+        {
+          "count": 1,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": null,
+    "player": "sobread",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "Spartacus2224",
+    "country": "DK",
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 3,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 3,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 1,
+          "name": "If I Bowed Down to Power, What's the Point in Living?",
+          "set": "OP13",
+          "number": "057"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": null,
+    "player": "spartacus2224",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "stinkicheezman",
+    "country": "US",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 3,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 2,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 2,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+          "set": "OP12",
+          "number": "077"
+        },
+        {
+          "count": 2,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": null,
+    "player": "stinkicheezman",
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 1
+  },
+  {
+    "name": "Szychu",
+    "country": "PL",
+    "decklist": {
+      "leader": {
+        "name": "Trafalgar Law",
+        "set": "OP01",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP01",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP14",
+          "number": "013"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "ST02",
+          "number": "007"
+        },
+        {
+          "count": 1,
+          "name": "Killer",
+          "set": "OP14",
+          "number": "005"
+        },
+        {
+          "count": 1,
+          "name": "Scratchmen Apoo",
+          "set": "EB01",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Killer",
+          "set": "OP01",
+          "number": "039"
+        },
+        {
+          "count": 3,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "X.Drake",
+          "set": "OP14",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Cavendish",
+          "set": "EB01",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP12",
+          "number": "118"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "ST02",
+          "number": "009"
+        },
+        {
+          "count": 3,
+          "name": "Eustass\"Captain\"Kid",
+          "set": "OP01",
+          "number": "051"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Karmic Punishment",
+          "set": "OP07",
+          "number": "035"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 1,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP01-002",
+      "name": "Trafalgar Law"
+    },
+    "placing": null,
+    "player": "szychu",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "TheArnold",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 3,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 2,
+          "name": "Cavendish",
+          "set": "OP10",
+          "number": "045"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 2,
+          "name": "Vista",
+          "set": "OP13",
+          "number": "046"
+        },
+        {
+          "count": 1,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 2,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": null,
+    "player": "thearnold",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "watermelon2020",
+    "country": "IL",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Eustass\"Captain\"Kid",
+          "set": "OP10",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Flame Dragon King",
+          "set": "ST13",
+          "number": "017"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "watermelon2020",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "yung_mlody",
+    "country": "PL",
+    "decklist": {
+      "leader": {
+        "name": "Jinbe",
+        "set": "OP14",
+        "number": "040"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Arlong",
+          "set": "OP14",
+          "number": "042"
+        },
+        {
+          "count": 4,
+          "name": "Chew",
+          "set": "OP14",
+          "number": "050"
+        },
+        {
+          "count": 4,
+          "name": "Koala",
+          "set": "OP14",
+          "number": "046"
+        },
+        {
+          "count": 4,
+          "name": "Wadatsumi",
+          "set": "OP14",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "Arlong",
+          "set": "P",
+          "number": "048"
+        },
+        {
+          "count": 2,
+          "name": "Hina",
+          "set": "OP12",
+          "number": "051"
+        },
+        {
+          "count": 4,
+          "name": "Aladine",
+          "set": "OP14",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "ST17",
+          "number": "002"
+        },
+        {
+          "count": 4,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Fisher Tiger",
+          "set": "OP14",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "OP14",
+          "number": "049"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Perfume Femur",
+          "set": "OP07",
+          "number": "057"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-040",
+      "name": "Jinbe"
+    },
+    "placing": null,
+    "player": "yung_mlody",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "Zlazer",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 3,
+          "name": "Nojiko",
+          "set": "OP03",
+          "number": "048"
+        },
+        {
+          "count": 2,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 1,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 1,
+          "name": "If I Bowed Down to Power, What's the Point in Living?",
+          "set": "OP13",
+          "number": "057"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 2,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": null,
+    "player": "zlazer",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "55555555dh",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Roronoa Zoro",
+        "set": "OP12",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP12",
+          "number": "028"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 2,
+          "name": "Scratchmen Apoo",
+          "set": "EB01",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Koushirou",
+          "set": "OP12",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Dracule Mihawk",
+          "set": "ST12",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "OP13",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Kin'emon",
+          "set": "OP14",
+          "number": "024"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Oden",
+          "set": "OP14",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Kuina",
+          "set": "OP12",
+          "number": "026"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP12",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Cavendish",
+          "set": "EB01",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        },
+        {
+          "count": 1,
+          "name": "Shanks",
+          "set": "OP13",
+          "number": "028"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+          "set": "OP12",
+          "number": "039"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-020",
+      "name": "Roronoa Zoro"
+    },
+    "placing": null,
+    "player": "55555555dh",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "boostedlifestyle",
+    "country": "CA",
+    "decklist": {
+      "leader": {
+        "name": "Foxy",
+        "set": "OP07",
+        "number": "059"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Porche",
+          "set": "EB04",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Gina",
+          "set": "OP07",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Tony Tony.Chopper",
+          "set": "OP07",
+          "number": "066"
+        },
+        {
+          "count": 3,
+          "name": "Monda",
+          "set": "OP07",
+          "number": "074"
+        },
+        {
+          "count": 2,
+          "name": "Foxy",
+          "set": "OP10",
+          "number": "075"
+        },
+        {
+          "count": 4,
+          "name": "Itomimizu",
+          "set": "OP07",
+          "number": "060"
+        },
+        {
+          "count": 4,
+          "name": "Porche",
+          "set": "OP07",
+          "number": "072"
+        },
+        {
+          "count": 4,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Mr.2.Bon.Kurei(Bentham)",
+          "set": "EB01",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Foxy",
+          "set": "OP07",
+          "number": "071"
+        },
+        {
+          "count": 4,
+          "name": "Foxy",
+          "set": "EB04",
+          "number": "036"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Linlin",
+          "set": "OP08",
+          "number": "069"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 2,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 3,
+          "name": "Megaton Nine-Tails Rush",
+          "set": "OP07",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP07-059",
+      "name": "Foxy"
+    },
+    "placing": null,
+    "player": "boostedlifestyle",
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "bornax10",
+    "country": "HR",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 1,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Jozu",
+          "set": "OP02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 2,
+          "name": "Vista",
+          "set": "OP13",
+          "number": "046"
+        },
+        {
+          "count": 1,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 2,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": null,
+    "player": "bornax10",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Captivat3",
+    "country": "US",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP05",
+          "number": "069"
+        },
+        {
+          "count": 2,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 3,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        },
+        {
+          "count": 1,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": null,
+    "player": "captivat3",
+    "record": {
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 3
+  },
+  {
+    "name": "Gringoloco",
+    "country": "CH",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 3,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Flame Dragon King",
+          "set": "ST13",
+          "number": "017"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "gringoloco",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "clumsi",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Doflamingo",
+        "set": "OP14",
+        "number": "060"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Dellinger",
+          "set": "OP14",
+          "number": "067"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP14",
+          "number": "063"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP14",
+          "number": "072"
+        },
+        {
+          "count": 4,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Trebol",
+          "set": "OP14",
+          "number": "068"
+        },
+        {
+          "count": 4,
+          "name": "Monet",
+          "set": "OP14",
+          "number": "074"
+        },
+        {
+          "count": 3,
+          "name": "Donquixote Rosinante",
+          "set": "OP10",
+          "number": "072"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Doflamingo",
+          "set": "OP10",
+          "number": "071"
+        },
+        {
+          "count": 3,
+          "name": "Donquixote Doflamingo",
+          "set": "OP14",
+          "number": "069"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 2,
+          "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
+          "set": "OP10",
+          "number": "078"
+        },
+        {
+          "count": 4,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-060",
+      "name": "Donquixote Doflamingo"
+    },
+    "placing": null,
+    "player": "clumsi",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "Beton1996",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Imu",
+        "set": "OP13",
+        "number": "079"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Saint Shalria",
+          "set": "OP13",
+          "number": "086"
+        },
+        {
+          "count": 2,
+          "name": "Shirahoshi",
+          "set": "OP05",
+          "number": "082"
+        },
+        {
+          "count": 4,
+          "name": "Saint Mjosgard",
+          "set": "OP13",
+          "number": "092"
+        },
+        {
+          "count": 4,
+          "name": "St. Jaygarcia Saturn",
+          "set": "OP13",
+          "number": "083"
+        },
+        {
+          "count": 4,
+          "name": "St. Topman Warcury",
+          "set": "OP13",
+          "number": "089"
+        },
+        {
+          "count": 4,
+          "name": "St. Ethanbaron V. Nusjuro",
+          "set": "OP13",
+          "number": "080"
+        },
+        {
+          "count": 4,
+          "name": "St. Marcus Mars",
+          "set": "OP13",
+          "number": "091"
+        },
+        {
+          "count": 4,
+          "name": "St. Shepherd Ju Peter",
+          "set": "OP13",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Five Elders",
+          "set": "OP13",
+          "number": "082"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "The Five Elders Are at Your Service!!!",
+          "set": "OP13",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Never Existed... in the First Place...",
+          "set": "OP13",
+          "number": "098"
+        },
+        {
+          "count": 4,
+          "name": "Ground Death",
+          "set": "OP14",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "After All These Years I'm Losing My Edge!!!",
+          "set": "OP11",
+          "number": "097"
+        }
+      ],
+      "stage": [
+        {
+          "count": 1,
+          "name": "Mary Geoise",
+          "set": "OP05",
+          "number": "097"
+        },
+        {
+          "count": 1,
+          "name": "The Empty Throne",
+          "set": "OP13",
+          "number": "099"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP13-079",
+      "name": "Imu"
+    },
+    "placing": null,
+    "player": "beton1996",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "Benni08B",
+    "country": "AT",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP05",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        },
+        {
+          "count": 2,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": null,
+    "player": "benni08b",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "BabaMigu",
+    "country": "CH",
+    "decklist": {
+      "leader": {
+        "name": "Dracule Mihawk",
+        "set": "OP14",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 2,
+          "name": "Jewelry Bonney",
+          "set": "ST02",
+          "number": "007"
+        },
+        {
+          "count": 2,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP10",
+          "number": "032"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP14",
+          "number": "029"
+        },
+        {
+          "count": 2,
+          "name": "Jewelry Bonney",
+          "set": "OP07",
+          "number": "026"
+        },
+        {
+          "count": 2,
+          "name": "Jewelry Bonney",
+          "set": "OP12",
+          "number": "118"
+        },
+        {
+          "count": 2,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP14",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Eustass\"Captain\"Kid",
+          "set": "OP01",
+          "number": "051"
+        },
+        {
+          "count": 2,
+          "name": "Dracule Mihawk",
+          "set": "OP14",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Law & Bepo",
+          "set": "ST24",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "The Billion-fold World Trichiliocosm",
+          "set": "OP06",
+          "number": "038"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Coffin Boat",
+          "set": "OP14",
+          "number": "039"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP14-020",
+      "name": "Dracule Mihawk"
+    },
+    "placing": null,
+    "player": "babamigu",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "andydolai",
+    "country": "AU",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP07",
+          "number": "099"
+        },
+        {
+          "count": 4,
+          "name": "Lilith",
+          "set": "OP13",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Capone\"Gang\"Bege",
+          "set": "OP04",
+          "number": "100"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "ST29",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 3,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 1,
+          "name": "S-Snake",
+          "set": "OP13",
+          "number": "114"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 2,
+          "name": "S-Snake",
+          "set": "EB03",
+          "number": "059"
+        },
+        {
+          "count": 2,
+          "name": "Nico Robin",
+          "set": "OP09",
+          "number": "107"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 3,
+          "name": "Eustass\"Captain\"Kid",
+          "set": "OP10",
+          "number": "112"
+        },
+        {
+          "count": 3,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        },
+        {
+          "count": 2,
+          "name": "Flame Dragon King",
+          "set": "ST13",
+          "number": "017"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": null,
+    "player": "andydolai",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 2
+  },
+  {
+    "name": "Gefen H",
+    "country": "IL",
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 2,
+          "name": "Nojiko",
+          "set": "OP03",
+          "number": "048"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 2,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": null,
+    "player": "gefen1",
+    "record": {
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": 4
+  },
+  {
+    "name": "AmitS",
+    "country": "IL",
+    "decklist": {
+      "leader": {
+        "name": "Sabo",
+        "set": "ST13",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 3,
+          "name": "Pagaya",
+          "set": "OP05",
+          "number": "109"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "OP01",
+          "number": "025"
+        },
+        {
+          "count": 3,
+          "name": "Sanji",
+          "set": "OP10",
+          "number": "005"
+        },
+        {
+          "count": 3,
+          "name": "Absalom",
+          "set": "OP14",
+          "number": "100"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Bartholomew Kuma",
+          "set": "OP09",
+          "number": "108"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP13",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 3,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Honesty Impact",
+          "set": "OP11",
+          "number": "018"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST13-001",
+      "name": "Sabo"
+    },
+    "placing": null,
+    "player": "amits",
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": 5
+  },
+  {
+    "name": "loremassa",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 2,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 1,
+          "name": "If I Bowed Down to Power, What's the Point in Living?",
+          "set": "OP13",
+          "number": "057"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 1,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": 1,
+    "player": "loremassa",
+    "record": {
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "NikolayBaydanov",
+    "country": "BG",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Jozu",
+          "set": "OP02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Vista",
+          "set": "OP13",
+          "number": "046"
+        },
+        {
+          "count": 2,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": 2,
+    "player": "nikolaybaydanov",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Xatoliuk",
+    "country": "IT",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Jozu",
+          "set": "OP02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Cavendish",
+          "set": "OP10",
+          "number": "045"
+        },
+        {
+          "count": 1,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 1,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": 3,
+    "player": "xatoliuk",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "ricmasterflash",
+    "country": null,
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "OP13",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Nami",
+          "set": "EB02",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Luffy",
+          "set": "OP14",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "P",
+          "number": "111"
+        },
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP14",
+          "number": "022"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP14",
+          "number": "031"
+        },
+        {
+          "count": 2,
+          "name": "Roronoa Zoro",
+          "set": "OP13",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP13",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        },
+        {
+          "count": 2,
+          "name": "Monkey.D.Luffy",
+          "set": "OP02",
+          "number": "041"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "In Two Years!! At the Sabaody Archipelago!!",
+          "set": "OP01",
+          "number": "030"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Charlestone",
+          "set": "OP05",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Electrical Luna",
+          "set": "OP08",
+          "number": "036"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": 4,
+    "player": "ricmasterflash",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Nightingale",
+    "country": "LU",
+    "decklist": {
+      "leader": {
+        "name": "Sanji",
+        "set": "OP12",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 3,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP12",
+          "number": "071"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP12",
+          "number": "070"
+        },
+        {
+          "count": 1,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Vinsmoke Reiju",
+          "set": "EB03",
+          "number": "031"
+        },
+        {
+          "count": 3,
+          "name": "Sanji",
+          "set": "OP07",
+          "number": "064"
+        },
+        {
+          "count": 2,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+          "set": "EB04",
+          "number": "029"
+        },
+        {
+          "count": 4,
+          "name": "Gum-Gum Giant",
+          "set": "OP09",
+          "number": "078"
+        },
+        {
+          "count": 4,
+          "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+          "set": "OP12",
+          "number": "079"
+        },
+        {
+          "count": 3,
+          "name": "Concasser",
+          "set": "OP12",
+          "number": "059"
+        },
+        {
+          "count": 2,
+          "name": "Let's Crash This Wedding!!!",
+          "set": "OP11",
+          "number": "060"
+        },
+        {
+          "count": 4,
+          "name": "Boeuf Burst",
+          "set": "OP12",
+          "number": "060"
+        },
+        {
+          "count": 3,
+          "name": "Stealth Black",
+          "set": "EB04",
+          "number": "041"
+        },
+        {
+          "count": 1,
+          "name": "Gum-Gum Jet Culverin",
+          "set": "OP11",
+          "number": "061"
+        },
+        {
+          "count": 1,
+          "name": "Brochette Blow",
+          "set": "OP12",
+          "number": "078"
+        },
+        {
+          "count": 2,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 2,
+          "name": "Gravity Blade Raging Tiger",
+          "set": "OP06",
+          "number": "058"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-041",
+      "name": "Sanji"
+    },
+    "placing": 5,
+    "player": "nightingale",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Pongui",
+    "country": "CL",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "ST29",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Absalom",
+          "set": "OP14",
+          "number": "100"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "ST29",
+          "number": "009"
+        },
+        {
+          "count": 3,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Jinbe",
+          "set": "ST29",
+          "number": "005"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "OP09",
+          "number": "107"
+        },
+        {
+          "count": 3,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 3,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "OP13",
+          "number": "108"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+          "set": "ST29",
+          "number": "016"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST29-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": 6,
+    "player": "pongui",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "lukas123",
+    "country": "BE",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP05",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 1,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": 7,
+    "player": "lukas123",
+    "record": {
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "fuat",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Imu",
+        "set": "OP13",
+        "number": "079"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Saint Shalria",
+          "set": "OP13",
+          "number": "086"
+        },
+        {
+          "count": 2,
+          "name": "Shirahoshi",
+          "set": "OP05",
+          "number": "082"
+        },
+        {
+          "count": 4,
+          "name": "Saint Mjosgard",
+          "set": "OP13",
+          "number": "092"
+        },
+        {
+          "count": 4,
+          "name": "St. Jaygarcia Saturn",
+          "set": "OP13",
+          "number": "083"
+        },
+        {
+          "count": 4,
+          "name": "St. Topman Warcury",
+          "set": "OP13",
+          "number": "089"
+        },
+        {
+          "count": 4,
+          "name": "St. Ethanbaron V. Nusjuro",
+          "set": "OP13",
+          "number": "080"
+        },
+        {
+          "count": 4,
+          "name": "St. Marcus Mars",
+          "set": "OP13",
+          "number": "091"
+        },
+        {
+          "count": 4,
+          "name": "St. Shepherd Ju Peter",
+          "set": "OP13",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Five Elders",
+          "set": "OP13",
+          "number": "082"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "The Five Elders Are at Your Service!!!",
+          "set": "OP13",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Never Existed... in the First Place...",
+          "set": "OP13",
+          "number": "098"
+        },
+        {
+          "count": 4,
+          "name": "Ground Death",
+          "set": "OP14",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "After All These Years I'm Losing My Edge!!!",
+          "set": "OP11",
+          "number": "097"
+        }
+      ],
+      "stage": [
+        {
+          "count": 1,
+          "name": "Mary Geoise",
+          "set": "OP05",
+          "number": "097"
+        },
+        {
+          "count": 1,
+          "name": "The Empty Throne",
+          "set": "OP13",
+          "number": "099"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP13-079",
+      "name": "Imu"
+    },
+    "placing": 8,
+    "player": "fuat",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "enderu",
+    "country": "HR",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Doflamingo",
+        "set": "OP14",
+        "number": "060"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Dellinger",
+          "set": "OP14",
+          "number": "067"
+        },
+        {
+          "count": 2,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Violet",
+          "set": "OP10",
+          "number": "062"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP14",
+          "number": "063"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP14",
+          "number": "072"
+        },
+        {
+          "count": 4,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Trebol",
+          "set": "OP14",
+          "number": "068"
+        },
+        {
+          "count": 4,
+          "name": "Monet",
+          "set": "OP14",
+          "number": "074"
+        },
+        {
+          "count": 2,
+          "name": "Donquixote Rosinante",
+          "set": "OP10",
+          "number": "072"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Doflamingo",
+          "set": "OP10",
+          "number": "071"
+        },
+        {
+          "count": 2,
+          "name": "Silvers Rayleigh",
+          "set": "OP13",
+          "number": "066"
+        },
+        {
+          "count": 3,
+          "name": "Donquixote Doflamingo",
+          "set": "OP14",
+          "number": "069"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-060",
+      "name": "Donquixote Doflamingo"
+    },
+    "placing": 9,
+    "player": "enderu",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Solmyr",
+    "country": "UA",
+    "decklist": {
+      "leader": {
+        "name": "Imu",
+        "set": "OP13",
+        "number": "079"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Saint Shalria",
+          "set": "OP13",
+          "number": "086"
+        },
+        {
+          "count": 2,
+          "name": "Shirahoshi",
+          "set": "OP05",
+          "number": "082"
+        },
+        {
+          "count": 2,
+          "name": "Saint Mjosgard",
+          "set": "OP13",
+          "number": "092"
+        },
+        {
+          "count": 2,
+          "name": "Saint Rosward",
+          "set": "OP13",
+          "number": "095"
+        },
+        {
+          "count": 4,
+          "name": "St. Jaygarcia Saturn",
+          "set": "OP13",
+          "number": "083"
+        },
+        {
+          "count": 4,
+          "name": "St. Topman Warcury",
+          "set": "OP13",
+          "number": "089"
+        },
+        {
+          "count": 4,
+          "name": "St. Ethanbaron V. Nusjuro",
+          "set": "OP13",
+          "number": "080"
+        },
+        {
+          "count": 4,
+          "name": "St. Marcus Mars",
+          "set": "OP13",
+          "number": "091"
+        },
+        {
+          "count": 4,
+          "name": "St. Shepherd Ju Peter",
+          "set": "OP13",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Five Elders",
+          "set": "OP13",
+          "number": "082"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "The Five Elders Are at Your Service!!!",
+          "set": "OP13",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Never Existed... in the First Place...",
+          "set": "OP13",
+          "number": "098"
+        },
+        {
+          "count": 4,
+          "name": "Ground Death",
+          "set": "OP14",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "After All These Years I'm Losing My Edge!!!",
+          "set": "OP11",
+          "number": "097"
+        }
+      ],
+      "stage": [
+        {
+          "count": 1,
+          "name": "Mary Geoise",
+          "set": "OP05",
+          "number": "097"
+        },
+        {
+          "count": 1,
+          "name": "The Empty Throne",
+          "set": "OP13",
+          "number": "099"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP13-079",
+      "name": "Imu"
+    },
+    "placing": 10,
+    "player": "solmyr",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "tsvaac",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Roronoa Zoro & Sanji",
+        "set": "ST12",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Koushirou",
+          "set": "OP12",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 1,
+          "name": "Otama",
+          "set": "EB03",
+          "number": "012"
+        },
+        {
+          "count": 4,
+          "name": "Dracule Mihawk",
+          "set": "ST12",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Megalo",
+          "set": "EB04",
+          "number": "018"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "OP13",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP14",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Cavendish",
+          "set": "OP10",
+          "number": "045"
+        },
+        {
+          "count": 2,
+          "name": "Basil Hawkins",
+          "set": "ST24",
+          "number": "003"
+        },
+        {
+          "count": 1,
+          "name": "Smoker",
+          "set": "OP10",
+          "number": "030"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+          "set": "OP13",
+          "number": "040"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "ST12-001",
+      "name": "Roronoa Zoro & Sanji"
+    },
+    "placing": 11,
+    "player": "tsvaac",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "CDCe",
+    "country": "IT",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "OP11",
+        "number": "040"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kaya",
+          "set": "EB03",
+          "number": "023"
+        },
+        {
+          "count": 4,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Mr.2.Bon.Kurei(Bentham)",
+          "set": "EB01",
+          "number": "061"
+        },
+        {
+          "count": 2,
+          "name": "O-Nami",
+          "set": "ST18",
+          "number": "002"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP11",
+          "number": "054"
+        },
+        {
+          "count": 1,
+          "name": "Sanji",
+          "set": "OP07",
+          "number": "064"
+        },
+        {
+          "count": 3,
+          "name": "Charlotte Linlin",
+          "set": "EB03",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Gol.D.Roger",
+          "set": "P",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP06",
+          "number": "119"
+        },
+        {
+          "count": 3,
+          "name": "Dracule Mihawk",
+          "set": "OP01",
+          "number": "070"
+        },
+        {
+          "count": 1,
+          "name": "Monkey.D.Luffy",
+          "set": "OP09",
+          "number": "119"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Gum-Gum Giant",
+          "set": "OP09",
+          "number": "078"
+        },
+        {
+          "count": 4,
+          "name": "Gear Two",
+          "set": "OP11",
+          "number": "080"
+        },
+        {
+          "count": 1,
+          "name": "Slave Arrow",
+          "set": "OP07",
+          "number": "056"
+        },
+        {
+          "count": 3,
+          "name": "It's to Die For...",
+          "set": "OP08",
+          "number": "076"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-040",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": 12,
+    "player": "cdce",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "BMKid",
+    "country": "PT",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP05",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": 13,
+    "player": "bmkid",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "cicciopal",
+    "country": "ES",
+    "decklist": {
+      "leader": {
+        "name": "Gol.D.Roger",
+        "set": "OP13",
+        "number": "003"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP13",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Buggy",
+          "set": "OP13",
+          "number": "072"
+        },
+        {
+          "count": 2,
+          "name": "Sanji",
+          "set": "OP01",
+          "number": "013"
+        },
+        {
+          "count": 4,
+          "name": "Douglas Bullet",
+          "set": "OP13",
+          "number": "068"
+        },
+        {
+          "count": 2,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Mr.2.Bon.Kurei(Bentham)",
+          "set": "EB01",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Scopper Gaban",
+          "set": "OP13",
+          "number": "067"
+        },
+        {
+          "count": 4,
+          "name": "Silvers Rayleigh",
+          "set": "OP13",
+          "number": "066"
+        },
+        {
+          "count": 4,
+          "name": "Gol.D.Roger",
+          "set": "P",
+          "number": "107"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Katakuri",
+          "set": "OP11",
+          "number": "067"
+        },
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP09",
+          "number": "004"
+        },
+        {
+          "count": 2,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "You Can Only Risk Death While You're Still Alive!!",
+          "set": "OP13",
+          "number": "075"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-003",
+      "name": "Gol.D.Roger"
+    },
+    "placing": 14,
+    "player": "cicciopal",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "lonotus",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Dracule Mihawk",
+        "set": "OP14",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Jewelry Bonney",
+          "set": "ST02",
+          "number": "007"
+        },
+        {
+          "count": 3,
+          "name": "Scratchmen Apoo",
+          "set": "EB01",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 3,
+          "name": "Tashigi",
+          "set": "OP10",
+          "number": "032"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP14",
+          "number": "029"
+        },
+        {
+          "count": 2,
+          "name": "X.Drake",
+          "set": "ST24",
+          "number": "005"
+        },
+        {
+          "count": 1,
+          "name": "Trafalgar Law",
+          "set": "OP01",
+          "number": "047"
+        },
+        {
+          "count": 1,
+          "name": "Jewelry Bonney",
+          "set": "OP07",
+          "number": "026"
+        },
+        {
+          "count": 1,
+          "name": "Jewelry Bonney",
+          "set": "OP12",
+          "number": "118"
+        },
+        {
+          "count": 1,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP14",
+          "number": "027"
+        },
+        {
+          "count": 1,
+          "name": "Dracule Mihawk",
+          "set": "OP14",
+          "number": "119"
+        },
+        {
+          "count": 1,
+          "name": "Shanks",
+          "set": "ST16",
+          "number": "004"
+        },
+        {
+          "count": 3,
+          "name": "Law & Bepo",
+          "set": "ST24",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "The Billion-fold World Trichiliocosm",
+          "set": "OP06",
+          "number": "038"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 2,
+          "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+          "set": "OP13",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Strive to Surpass me, Roronoa Zoro!!!",
+          "set": "OP14",
+          "number": "036"
+        },
+        {
+          "count": 1,
+          "name": "Spiderweb",
+          "set": "OP04",
+          "number": "035"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Coffin Boat",
+          "set": "OP14",
+          "number": "039"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP14-020",
+      "name": "Dracule Mihawk"
+    },
+    "placing": 15,
+    "player": "lonotus",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "snorlax1cynda",
+    "country": "GB",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "OP13",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB02",
+          "number": "017"
+        },
+        {
+          "count": 3,
+          "name": "Sanji",
+          "set": "ST21",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "P",
+          "number": "111"
+        },
+        {
+          "count": 2,
+          "name": "Monkey.D.Luffy",
+          "set": "OP14",
+          "number": "034"
+        },
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP14",
+          "number": "022"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP14",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP13",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        },
+        {
+          "count": 1,
+          "name": "Uta",
+          "set": "EB03",
+          "number": "061"
+        },
+        {
+          "count": 1,
+          "name": "Monkey.D.Luffy",
+          "set": "OP02",
+          "number": "041"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "In Two Years!! At the Sabaody Archipelago!!",
+          "set": "OP01",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Charlestone",
+          "set": "OP05",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Electrical Luna",
+          "set": "OP08",
+          "number": "036"
+        },
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": 16,
+    "player": "snorlax1cynda",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Vincaru",
+    "country": "NL",
+    "decklist": {
+      "leader": {
+        "name": "Shirahoshi",
+        "set": "OP11",
+        "number": "022"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Shirahoshi",
+          "set": "OP11",
+          "number": "030"
+        },
+        {
+          "count": 4,
+          "name": "Otohime",
+          "set": "OP11",
+          "number": "100"
+        },
+        {
+          "count": 3,
+          "name": "Camie",
+          "set": "OP06",
+          "number": "025"
+        },
+        {
+          "count": 3,
+          "name": "Shirahoshi",
+          "set": "OP12",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Shirahoshi",
+          "set": "EB03",
+          "number": "052"
+        },
+        {
+          "count": 2,
+          "name": "Shirley",
+          "set": "OP11",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Megalo",
+          "set": "EB04",
+          "number": "018"
+        },
+        {
+          "count": 3,
+          "name": "Spotted Neptunian",
+          "set": "OP11",
+          "number": "036"
+        },
+        {
+          "count": 4,
+          "name": "Bird Neptunian",
+          "set": "EB04",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Topknot Neptunian",
+          "set": "OP11",
+          "number": "107"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        },
+        {
+          "count": 4,
+          "name": "Scaled Neptunian",
+          "set": "EB04",
+          "number": "011"
+        },
+        {
+          "count": 3,
+          "name": "Hody Jones",
+          "set": "OP06",
+          "number": "035"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "You're Just Not My Type!",
+          "set": "OP11",
+          "number": "115"
+        },
+        {
+          "count": 3,
+          "name": "Electrical Luna",
+          "set": "OP08",
+          "number": "036"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-022",
+      "name": "Shirahoshi"
+    },
+    "placing": 17,
+    "player": "vincaru",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Wortaxx",
+    "country": "ES",
+    "decklist": {
+      "leader": {
+        "name": "Sabo",
+        "set": "OP13",
+        "number": "004"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Belo Betty",
+          "set": "OP05",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Koala",
+          "set": "OP12",
+          "number": "086"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Koala",
+          "set": "OP05",
+          "number": "006"
+        },
+        {
+          "count": 3,
+          "name": "Koala",
+          "set": "EB03",
+          "number": "042"
+        },
+        {
+          "count": 3,
+          "name": "Sabo",
+          "set": "P",
+          "number": "105"
+        },
+        {
+          "count": 2,
+          "name": "Karasu",
+          "set": "OP12",
+          "number": "085"
+        },
+        {
+          "count": 4,
+          "name": "Hack",
+          "set": "OP13",
+          "number": "090"
+        },
+        {
+          "count": 4,
+          "name": "Sabo",
+          "set": "OP13",
+          "number": "120"
+        },
+        {
+          "count": 4,
+          "name": "Sabo",
+          "set": "PRB02",
+          "number": "014"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Dragon",
+          "set": "OP12",
+          "number": "094"
+        },
+        {
+          "count": 2,
+          "name": "Stussy",
+          "set": "OP07",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Hair Removal Fist",
+          "set": "OP12",
+          "number": "098"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Revolutionary Army HQ",
+          "set": "OP05",
+          "number": "021"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP13-004",
+      "name": "Sabo"
+    },
+    "placing": 18,
+    "player": "wortaxx",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "freajski",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 2,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "Divine Departure",
+          "set": "OP13",
+          "number": "076"
+        },
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        },
+        {
+          "count": 1,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": 19,
+    "player": "freajski",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Lexinator22",
+    "country": "BE",
+    "decklist": {
+      "leader": {
+        "name": "Portgas.D.Ace",
+        "set": "OP13",
+        "number": "002"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Otama",
+          "set": "OP13",
+          "number": "043"
+        },
+        {
+          "count": 4,
+          "name": "Izo",
+          "set": "ST22",
+          "number": "002"
+        },
+        {
+          "count": 2,
+          "name": "Ace & Sabo & Luffy",
+          "set": "OP13",
+          "number": "007"
+        },
+        {
+          "count": 3,
+          "name": "Cavendish",
+          "set": "OP10",
+          "number": "045"
+        },
+        {
+          "count": 3,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Jozu",
+          "set": "OP02",
+          "number": "008"
+        },
+        {
+          "count": 2,
+          "name": "Atmos",
+          "set": "OP08",
+          "number": "040"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 4,
+          "name": "Yamato",
+          "set": "OP13",
+          "number": "054"
+        },
+        {
+          "count": 4,
+          "name": "Jozu",
+          "set": "OP08",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Uta",
+          "set": "ST23",
+          "number": "001"
+        },
+        {
+          "count": 1,
+          "name": "Edward.Newgate",
+          "set": "OP02",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Edward.Newgate",
+          "set": "OP13",
+          "number": "042"
+        },
+        {
+          "count": 2,
+          "name": "Gol.D.Roger",
+          "set": "OP09",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        },
+        {
+          "count": 4,
+          "name": "I Am Whitebeard!!",
+          "set": "ST22",
+          "number": "015"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-002",
+      "name": "Portgas.D.Ace"
+    },
+    "placing": 20,
+    "player": "lexinator22",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Frodon",
+    "country": "FR",
+    "decklist": {
+      "leader": {
+        "name": "Monkey.D.Luffy",
+        "set": "OP13",
+        "number": "001"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB02",
+          "number": "017"
+        },
+        {
+          "count": 2,
+          "name": "Nami",
+          "set": "ST01",
+          "number": "007"
+        },
+        {
+          "count": 2,
+          "name": "Sanji",
+          "set": "ST21",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "P",
+          "number": "111"
+        },
+        {
+          "count": 3,
+          "name": "Tashigi",
+          "set": "OP10",
+          "number": "032"
+        },
+        {
+          "count": 4,
+          "name": "Usopp",
+          "set": "OP14",
+          "number": "022"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "OP14",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Sanji",
+          "set": "OP13",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Luffy",
+          "set": "OP13",
+          "number": "118"
+        },
+        {
+          "count": 1,
+          "name": "Roronoa Zoro",
+          "set": "OP06",
+          "number": "118"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "In Two Years!! At the Sabaody Archipelago!!",
+          "set": "OP01",
+          "number": "030"
+        },
+        {
+          "count": 1,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Charlestone",
+          "set": "OP05",
+          "number": "038"
+        },
+        {
+          "count": 3,
+          "name": "Electrical Luna",
+          "set": "OP08",
+          "number": "036"
+        },
+        {
+          "count": 2,
+          "name": "Round Table",
+          "set": "OP01",
+          "number": "027"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP13-001",
+      "name": "Monkey.D.Luffy"
+    },
+    "placing": 21,
+    "player": "frodon",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Dissonance075",
+    "country": "FR",
+    "decklist": {
+      "leader": {
+        "name": "Lim",
+        "set": "OP09",
+        "number": "022"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Lim",
+          "set": "OP10",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP14",
+          "number": "023"
+        },
+        {
+          "count": 3,
+          "name": "Nami",
+          "set": "OP10",
+          "number": "033"
+        },
+        {
+          "count": 4,
+          "name": "Lim",
+          "set": "OP09",
+          "number": "037"
+        },
+        {
+          "count": 4,
+          "name": "Sabo",
+          "set": "OP09",
+          "number": "027"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Doflamingo",
+          "set": "OP09",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Enel",
+          "set": "OP10",
+          "number": "025"
+        },
+        {
+          "count": 4,
+          "name": "Dracule Mihawk",
+          "set": "OP10",
+          "number": "029"
+        },
+        {
+          "count": 3,
+          "name": "Portgas.D.Ace",
+          "set": "OP09",
+          "number": "035"
+        },
+        {
+          "count": 3,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Sanji",
+          "set": "OP13",
+          "number": "027"
+        },
+        {
+          "count": 3,
+          "name": "Shanks",
+          "set": "OP13",
+          "number": "028"
+        },
+        {
+          "count": 2,
+          "name": "Law & Bepo",
+          "set": "ST24",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 2,
+          "name": "Soul Franky Swing Arm Boxing Solid",
+          "set": "OP09",
+          "number": "041"
+        },
+        {
+          "count": 2,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 2,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP09-022",
+      "name": "Lim"
+    },
+    "placing": 22,
+    "player": "dissonance075",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "GreenD",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Donquixote Rosinante",
+        "set": "OP12",
+        "number": "061"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP09",
+          "number": "069"
+        },
+        {
+          "count": 4,
+          "name": "Sugar",
+          "set": "OP10",
+          "number": "065"
+        },
+        {
+          "count": 4,
+          "name": "Donquixote Rosinante",
+          "set": "OP12",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Uso-Hachi",
+          "set": "ST18",
+          "number": "001"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "093"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "P",
+          "number": "088"
+        },
+        {
+          "count": 3,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "ST10",
+          "number": "010"
+        },
+        {
+          "count": 2,
+          "name": "Vergo",
+          "set": "OP14",
+          "number": "061"
+        },
+        {
+          "count": 4,
+          "name": "Rosinante & Law",
+          "set": "EB04",
+          "number": "038"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "OP12",
+          "number": "073"
+        },
+        {
+          "count": 4,
+          "name": "Trafalgar Law",
+          "set": "EB03",
+          "number": "062"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "I Love You!!",
+          "set": "OP12",
+          "number": "115"
+        },
+        {
+          "count": 2,
+          "name": "Gamma Knife",
+          "set": "OP05",
+          "number": "077"
+        },
+        {
+          "count": 1,
+          "name": "Slow-Slow Beam Sword",
+          "set": "OP07",
+          "number": "076"
+        },
+        {
+          "count": 1,
+          "name": "Bullet String",
+          "set": "OP14",
+          "number": "078"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP12-061",
+      "name": "Donquixote Rosinante"
+    },
+    "placing": 23,
+    "player": "greend",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "JACKJONES",
+    "country": "US",
+    "decklist": {
+      "leader": {
+        "name": "Sabo",
+        "set": "OP13",
+        "number": "004"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Belo Betty",
+          "set": "OP05",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Monkey.D.Garp",
+          "set": "OP13",
+          "number": "016"
+        },
+        {
+          "count": 3,
+          "name": "Koala",
+          "set": "OP12",
+          "number": "086"
+        },
+        {
+          "count": 3,
+          "name": "Koala",
+          "set": "OP05",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Morley",
+          "set": "OP12",
+          "number": "093"
+        },
+        {
+          "count": 3,
+          "name": "Koala",
+          "set": "EB03",
+          "number": "042"
+        },
+        {
+          "count": 3,
+          "name": "Sabo",
+          "set": "P",
+          "number": "105"
+        },
+        {
+          "count": 4,
+          "name": "Sabo",
+          "set": "OP13",
+          "number": "120"
+        },
+        {
+          "count": 4,
+          "name": "Sabo",
+          "set": "PRB02",
+          "number": "014"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Dragon",
+          "set": "OP07",
+          "number": "015"
+        },
+        {
+          "count": 3,
+          "name": "Monkey.D.Dragon",
+          "set": "OP12",
+          "number": "094"
+        },
+        {
+          "count": 3,
+          "name": "Stussy",
+          "set": "OP07",
+          "number": "085"
+        },
+        {
+          "count": 2,
+          "name": "Kaido",
+          "set": "OP08",
+          "number": "079"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Hair Removal Fist",
+          "set": "OP12",
+          "number": "098"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Revolutionary Army HQ",
+          "set": "OP05",
+          "number": "021"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP13-004",
+      "name": "Sabo"
+    },
+    "placing": 24,
+    "player": "jackjones",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "DennisWgr",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Nami",
+        "set": "OP11",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Kumacy",
+          "set": "OP14",
+          "number": "102"
+        },
+        {
+          "count": 4,
+          "name": "Girl",
+          "set": "P",
+          "number": "096"
+        },
+        {
+          "count": 2,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 4,
+          "name": "Marco",
+          "set": "PRB02",
+          "number": "008"
+        },
+        {
+          "count": 4,
+          "name": "Kikunojo",
+          "set": "OP06",
+          "number": "104"
+        },
+        {
+          "count": 4,
+          "name": "Baby 5",
+          "set": "OP12",
+          "number": "112"
+        },
+        {
+          "count": 4,
+          "name": "Dr. Hogback",
+          "set": "OP14",
+          "number": "110"
+        },
+        {
+          "count": 2,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "111"
+        },
+        {
+          "count": 4,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Nico Robin",
+          "set": "EB03",
+          "number": "055"
+        },
+        {
+          "count": 4,
+          "name": "Gecko Moria",
+          "set": "OP14",
+          "number": "104"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "Will You Be My Servant?",
+          "set": "EB03",
+          "number": "060"
+        },
+        {
+          "count": 1,
+          "name": "If I Bowed Down to Power, What's the Point in Living?",
+          "set": "OP13",
+          "number": "057"
+        },
+        {
+          "count": 3,
+          "name": "Gum-Gum Red Roc",
+          "set": "OP04",
+          "number": "056"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP11-041",
+      "name": "Nami"
+    },
+    "placing": 25,
+    "player": "denniswgr",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Guigzine",
+    "country": "FR",
+    "decklist": {
+      "leader": {
+        "name": "Dracule Mihawk",
+        "set": "OP14",
+        "number": "020"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Scratchmen Apoo",
+          "set": "EB01",
+          "number": "015"
+        },
+        {
+          "count": 4,
+          "name": "Perona",
+          "set": "OP12",
+          "number": "034"
+        },
+        {
+          "count": 3,
+          "name": "Kid & Killer",
+          "set": "ST24",
+          "number": "002"
+        },
+        {
+          "count": 3,
+          "name": "Roronoa Zoro",
+          "set": "PRB02",
+          "number": "006"
+        },
+        {
+          "count": 4,
+          "name": "Tashigi",
+          "set": "OP14",
+          "number": "029"
+        },
+        {
+          "count": 3,
+          "name": "Jewelry Bonney",
+          "set": "OP07",
+          "number": "026"
+        },
+        {
+          "count": 3,
+          "name": "Perona",
+          "set": "OP14",
+          "number": "033"
+        },
+        {
+          "count": 2,
+          "name": "Trafalgar Law",
+          "set": "OP13",
+          "number": "031"
+        },
+        {
+          "count": 4,
+          "name": "Shanks",
+          "set": "OP14",
+          "number": "027"
+        },
+        {
+          "count": 2,
+          "name": "Dracule Mihawk",
+          "set": "OP14",
+          "number": "119"
+        },
+        {
+          "count": 1,
+          "name": "Shanks",
+          "set": "ST16",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Law & Bepo",
+          "set": "ST24",
+          "number": "004"
+        }
+      ],
+      "event": [
+        {
+          "count": 3,
+          "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+          "set": "OP12",
+          "number": "037"
+        },
+        {
+          "count": 2,
+          "name": "The Billion-fold World Trichiliocosm",
+          "set": "OP06",
+          "number": "038"
+        },
+        {
+          "count": 2,
+          "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+          "set": "OP13",
+          "number": "040"
+        },
+        {
+          "count": 2,
+          "name": "Spiderweb",
+          "set": "OP04",
+          "number": "035"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Coffin Boat",
+          "set": "OP14",
+          "number": "039"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP14-020",
+      "name": "Dracule Mihawk"
+    },
+    "placing": 26,
+    "player": "guigzine",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "BaronCabbage",
+    "country": "IL",
+    "decklist": {
+      "leader": {
+        "name": "Marshall.D.Teach",
+        "set": "OP09",
+        "number": "081"
+      },
+      "character": [
+        {
+          "count": 4,
+          "name": "Stronger",
+          "set": "OP09",
+          "number": "089"
+        },
+        {
+          "count": 4,
+          "name": "Laffitte",
+          "set": "OP09",
+          "number": "095"
+        },
+        {
+          "count": 4,
+          "name": "Caribou",
+          "set": "OP11",
+          "number": "083"
+        },
+        {
+          "count": 2,
+          "name": "Nefeltari Vivi",
+          "set": "OP05",
+          "number": "086"
+        },
+        {
+          "count": 4,
+          "name": "Jesus Burgess",
+          "set": "OP09",
+          "number": "086"
+        },
+        {
+          "count": 2,
+          "name": "Shiryu",
+          "set": "PRB02",
+          "number": "015"
+        },
+        {
+          "count": 1,
+          "name": "St. Topman Warcury",
+          "set": "OP13",
+          "number": "089"
+        },
+        {
+          "count": 4,
+          "name": "Kuzan",
+          "set": "OP10",
+          "number": "082"
+        },
+        {
+          "count": 1,
+          "name": "Catarina Devon",
+          "set": "OP09",
+          "number": "084"
+        },
+        {
+          "count": 4,
+          "name": "Kuzan",
+          "set": "ST27",
+          "number": "003"
+        },
+        {
+          "count": 4,
+          "name": "Marshall.D.Teach",
+          "set": "OP09",
+          "number": "093"
+        }
+      ],
+      "event": [
+        {
+          "count": 4,
+          "name": "My Era...Begins!!",
+          "set": "OP09",
+          "number": "096"
+        },
+        {
+          "count": 4,
+          "name": "Finger Pistol",
+          "set": "EB01",
+          "number": "051"
+        },
+        {
+          "count": 4,
+          "name": "Black Hole",
+          "set": "OP09",
+          "number": "098"
+        }
+      ],
+      "stage": [
+        {
+          "count": 4,
+          "name": "Fullalead",
+          "set": "OP09",
+          "number": "099"
+        }
+      ]
+    },
+    "deck": {
+      "id": "OP09-081",
+      "name": "Marshall.D.Teach"
+    },
+    "placing": 27,
+    "player": "baroncabbage",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": null
+  },
+  {
+    "name": "Andre415",
+    "country": "DE",
+    "decklist": {
+      "leader": {
+        "name": "Boa Hancock",
+        "set": "OP14",
+        "number": "041"
+      },
+      "character": [
+        {
+          "count": 2,
+          "name": "Sengoku",
+          "set": "OP07",
+          "number": "046"
+        },
+        {
+          "count": 4,
+          "name": "Kouzuki Hiyori",
+          "set": "OP06",
+          "number": "106"
+        },
+        {
+          "count": 2,
+          "name": "Gloriosa (Grandma Nyon)",
+          "set": "OP14",
+          "number": "103"
+        },
+        {
+          "count": 4,
+          "name": "Marguerite",
+          "set": "OP14",
+          "number": "113"
+        },
+        {
+          "count": 4,
+          "name": "Boa Hancock",
+          "set": "ST17",
+          "number": "004"
+        },
+        {
+          "count": 4,
+          "name": "Ran",
+          "set": "OP14",
+          "number": "114"
+        },
+        {
+          "count": 1,
+          "name": "Charlotte Pudding",
+          "set": "OP06",
+          "number": "047"
+        },
+        {
+          "count": 2,
+          "name": "Nami",
+          "set": "EB03",
+          "number": "053"
+        },
+        {
+          "count": 4,
+          "name": "Gorgon Sisters",
+          "set": "OP14",
+          "number": "105"
+        },
+        {
+          "count": 4,
+          "name": "Silvers Rayleigh",
+          "set": "OP14",
+          "number": "108"
+        },
+        {
+          "count": 3,
+          "name": "Bartholomew Kuma",
+          "set": "OP12",
+          "number": "119"
+        },
+        {
+          "count": 3,
+          "name": "Shakuyaku",
+          "set": "OP14",
+          "number": "107"
+        },
+        {
+          "count": 4,
+          "name": "Boa Hancock",
+          "set": "OP14",
+          "number": "112"
+        }
+      ],
+      "event": [
+        {
+          "count": 1,
+          "name": "You're the One Who Should Disappear.",
+          "set": "OP06",
+          "number": "115"
+        },
+        {
+          "count": 3,
+          "name": "Slave Arrow",
+          "set": "OP07",
+          "number": "056"
+        },
+        {
+          "count": 3,
+          "name": "You'll Frighten Me... ♡",
+          "set": "OP14",
+          "number": "118"
+        },
+        {
+          "count": 2,
+          "name": "Perfume Femur",
+          "set": "OP07",
+          "number": "057"
+        }
+      ],
+      "stage": []
+    },
+    "deck": {
+      "id": "OP14-041",
+      "name": "Boa Hancock"
+    },
+    "placing": 28,
+    "player": "andre415",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "drop": null
+  }
+]
