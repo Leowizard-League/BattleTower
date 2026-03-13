@@ -292,7 +292,7 @@
 
 <script setup lang="ts">
 import { useRoute } from "vue-router";
-import { computed, reactive, ref, watch } from "vue";
+import { computed, reactive, ref } from "vue";
 import { Data } from '../lib/data'
 import "flag-icons/css/flag-icons.min.css";
 
@@ -604,6 +604,9 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 .page {
   width: 100%;
   max-width: 1100px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 10px;
 }
 
 .header {
@@ -627,16 +630,21 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 }
 
 .tableWrap {
-  overflow: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
   background: rgba(15, 23, 42, 0.35);
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .tbl {
   width: 100%;
   border-collapse: collapse;
-  min-width: 320px;
+  min-width: 800px;
 }
 
 th,
@@ -1310,6 +1318,13 @@ a:hover {
     padding: 0 10px;
     margin: 0 auto;
   }
+  
+  /* 表格容器居中 */
+  /* .tableWrap {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+  } */
   
   /* 表格行样式 */
   tr {
