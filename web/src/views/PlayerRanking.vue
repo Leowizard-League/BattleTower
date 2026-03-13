@@ -12,12 +12,14 @@
         />
       </div>
       <div class="f">
-        <label>{{ isZh ? "日期" : "Time" }}</label>
+        <label>{{ isZh ? "日期" : "Time" }}
+          <span class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</span>
+        </label>
         <select v-model="filters.time">
           <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
           <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
         </select>
-        <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div>
+        <!-- <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div> -->
       </div>
       <div class="f">
         <label>{{ isZh ? "版本" : "Set" }}</label>
@@ -318,14 +320,17 @@ watch(totalPages, () => {
 </script>
 
 <style scoped>
-.page{ width: 1100px; }
+.page{ width: 100%; max-width: 1100px; }
 .pageTitle { margin: 0 0 12px; color: rgba(255,255,255,0.92); font-size: 18px; font-weight: 800; }
 .meta { margin-bottom: 12px; color: rgba(226,232,240,.75); font-size: 12px; line-height: 1.5; }
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 .tableWrap { overflow: auto; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; background: rgba(15,23,42,0.35); }
-.tbl { width: 100%; border-collapse: collapse; min-width: 680px; }
+.tbl { width: 100%; border-collapse: collapse; min-width: 320px; }
 th, td { padding: 10px 12px; border-bottom: 1px solid rgba(255,255,255,0.06); text-align: left; }
+/* 确保所有表格行背景色一致 */
+tr { background: transparent; }
+tr:hover { background: rgba(255,255,255,0.03); }
 th { font-size: 12px; color: rgba(226,232,240,.75); font-weight: 700; }
 td { font-size: 13px; color: rgba(255,255,255,0.9); }
 .num { text-align: right; }
@@ -357,6 +362,7 @@ td { font-size: 13px; color: rgba(255,255,255,0.9); }
   margin-top: 16px;
   color: rgba(255,255,255,0.9);
   font-size: 13px;
+  flex-wrap: wrap;
 }
 
 .page-btn {
@@ -390,6 +396,7 @@ td { font-size: 13px; color: rgba(255,255,255,0.9); }
   align-items: center;
   gap: 8px;
   margin-left: auto;
+  flex-wrap: wrap;
 }
 
 .page-input {
@@ -413,14 +420,110 @@ td { font-size: 13px; color: rgba(255,255,255,0.9); }
 
 .filters {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 10px;
   margin: 10px 0 12px;
 }
 
+/* 中屏幕：2列布局 */
 @media (max-width: 980px) {
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 小屏幕：2列布局，调整间距 */
+@media (max-width: 760px) {
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  
+  .f {
+    padding: 8px;
+  }
+  
+  .f label {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+  
+  .f input,
+  .f select {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+  
+  .hint {
+    font-size: 10px;
+    margin-top: 4px;
+  }
+  
+  /* 表格调整 */
+  .tbl {
+    min-width: 320px;
+  }
+  
+  th, td {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+  
+  /* 国家列调整 */
+  .country-cell {
+    gap: 6px;
+  }
+  
+  .flag-icon {
+    width: 16px;
+    height: 12px;
+  }
+  
+  .country-name {
+    font-size: 12px;
+  }
+  
+  /* 分页调整 */
+  .pagination {
+    gap: 8px;
+    font-size: 12px;
+  }
+  
+  .page-btn {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+  
+  .page-info {
+    font-size: 11px;
+  }
+  
+  .page-input {
+    width: 50px;
+    padding: 4px 6px;
+    font-size: 11px;
+  }
+  
+  .jump-btn {
+    padding: 4px 8px;
+  }
+}
+
+/* 超小屏幕：保持2列布局 */
+@media (max-width: 480px) {
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  
+  .pagination {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .page-jump {
+    margin-left: auto;
+    justify-content: flex-end;
   }
 }
 

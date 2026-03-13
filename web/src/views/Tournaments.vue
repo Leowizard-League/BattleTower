@@ -12,14 +12,18 @@
     <!-- Filters -->
     <div class="filters">
       <div class="f">
-        <label>{{ isZh ? "玩家數" : "Players " }}</label>
+        <label>{{ isZh ? "玩家數" : "Players " }}
+          <span class="hint">{{ isZh ? "多於或等於（>=）" : "More than or equal to (>=)" }}</span>
+        </label>
         <input v-model.number="filters.minPlayers" type="number" inputmode="numeric" min="0"
           :placeholder="isZh ? '例如 32' : 'e.g： 32'" />
-        <div class="hint">{{ isZh ? "多於或等於（>=）" : "More than or equal to (>=)" }}</div>
+        
       </div>
 
       <div class="f">
-        <label>{{ isZh ? "日期" : "Time" }}</label>
+        <label>{{ isZh ? "日期" : "Time" }}
+          <span class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</span>
+        </label>
         <select v-model="filters.time">
           <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
           <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
@@ -29,7 +33,7 @@
             </option>
           </optgroup>
         </select>
-        <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div>
+        <!-- <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div> -->
       </div>
 
       <div class="f">
@@ -953,6 +957,28 @@ watch([total, pageSize], () => {
 @media (max-width: 980px) {
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 超小屏幕：保持2列布局 */
+@media (max-width: 480px) {
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  
+  .pager {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+  
+  .pager__left {
+    flex-wrap: nowrap;
+  }
+  
+  .pager__right {
+    flex-wrap: nowrap;
   }
 }
 

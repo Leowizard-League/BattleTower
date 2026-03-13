@@ -3,19 +3,21 @@
     <div class="header">
       <div>
         <div class="title">{{ ui.title }}</div>
-        <div class="sub">
+        <!-- <div class="sub">
           {{ ui.standingsTitle }}
-        </div>
+        </div> -->
       </div>
     </div>
     <div class="filters">
       <div class="f">
-        <label>{{ isZh ? "日期" : "Time" }}</label>
+        <label>{{ isZh ? "日期" : "Time" }}
+          <span class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</span>
+        </label>
         <select v-model="filters.time">
           <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
           <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
         </select>
-        <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div>
+        <!-- <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div> -->
       </div>
 
       <div class="f">
@@ -600,7 +602,8 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 
 <style scoped>
 .page {
-  width: 1100px;
+  width: 100%;
+  max-width: 1100px;
 }
 
 .header {
@@ -633,7 +636,7 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 .tbl {
   width: 100%;
   border-collapse: collapse;
-  min-width: 940px;
+  min-width: 320px;
 }
 
 th,
@@ -1094,14 +1097,227 @@ a:hover {
 
 .filters {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
   margin: 10px 0 12px;
 }
 
-@media (max-width: 980px) {
+/* 小屏幕：2列布局，调整间距 */
+@media (max-width: 760px) {
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  
+  .f {
+    padding: 8px;
+  }
+  
+  .f label {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+  
+  .f input,
+  .f select {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+  
+  .hint {
+    font-size: 10px;
+    margin-top: 4px;
+  }
+  
+  /* 表格调整 */
+  .tbl {
+    min-width: 320px;
+  }
+  
+  th, td {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+  
+  /* 国旗样式调整 */
+  .flag {
+    margin-right: 6px;
+  }
+  
+  /* 分页调整 */
+  .pagination {
+    gap: 6px;
+    font-size: 12px;
+  }
+  
+  .page-btn {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+  
+  .page-num {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+  
+  .page-info {
+    font-size: 11px;
+    margin-left: 8px;
+  }
+  
+  /* 弹窗调整 */
+  .modal-content {
+    max-width: 98vw;
+    max-height: 95vh;
+  }
+  
+  .modal-header {
+    padding: 12px 16px;
+  }
+  
+  .modal-header h3 {
+    font-size: 16px;
+  }
+  
+  .modal-body {
+    padding: 16px;
+    max-height: 70vh;
+  }
+  
+  .player-list-header,
+  .player-list-item {
+    padding: 10px 12px;
+  }
+  
+  .rank-col { flex: 0 0 50px; }
+  .points-col { flex: 0 0 70px; }
+  
+  .modal-footer {
+    padding: 12px 16px;
+  }
+  
+  .confirm-btn {
+    padding: 6px 16px;
+    font-size: 13px;
+  }
+}
+
+/* 超小屏幕：保持2列布局 */
+@media (max-width: 480px) {
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  
+  .pagination {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .page-info {
+    margin-left: 8px;
+    text-align: right;
+  }
+  
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .title {
+    font-size: 16px;
+  }
+  
+  /* 表格调整 */
+  .tableWrap {
+    overflow-x: auto;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+    background: rgba(15,23,42,0.35);
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+  
+  .tableWrap::-webkit-scrollbar {
+    height: 6px;
+  }
+  
+  .tableWrap::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.05);
+    border-radius: 3px;
+  }
+  
+  .tableWrap::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.2);
+    border-radius: 3px;
+  }
+  
+  .tableWrap::-webkit-scrollbar-thumb:hover {
+    background: rgba(255,255,255,0.3);
+  }
+  
+  .tbl {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px;
+  }
+  
+  th, td {
+    padding: 8px 10px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    text-align: left;
+    font-size: 12px;
+  }
+  
+  /* 调整列宽 */
+  .num {
+    text-align: right;
+    min-width: 70px;
+  }
+  
+  /* 国旗样式调整 */
+  .flag {
+    display: inline-block;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  
+  /* 国家名称样式调整 */
+  .country-name {
+    vertical-align: middle;
+    font-size: 12px;
+  }
+  
+  /* 按钮样式调整 */
+  .page-btn {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+  
+  /* 表头调整 */
+  th {
+    font-size: 12px;
+    color: rgba(226,232,240,.75);
+    font-weight: 700;
+  }
+  
+  /* 确保表格容器不会超出屏幕 */
+  .page {
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+    padding: 0 10px;
+    margin: 0 auto;
+  }
+  
+  /* 表格行样式 */
+  tr {
+    background: transparent;
+  }
+  
+  tr:hover {
+    background: rgba(255,255,255,0.03);
   }
 }
 
