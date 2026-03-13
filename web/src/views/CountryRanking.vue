@@ -32,59 +32,96 @@
       </div>
     </div>
     <div class="tableWrap">
-      <table class="tbl">
-        <thead>
-          <tr>
-            <th class="num" rowspan="2">
-              {{ ui.rank }}
-            </th>
-            <th rowspan="2">
-              {{ ui.country }}
-            </th>
-            <th class="num" rowspan="2">
-              {{ ui.totalcountryplayers }}
-            </th>
-            <th class="num" rowspan="2">
-              {{ ui.totalplayers }}
-            </th>
-            <th colspan="4" style="text-align: center;">{{ ui.bestplayer }}</th>
-          </tr>
-          <tr>
-            <th class="num">
-              {{ ui.first }}
-            </th>
-            <th class="num">
-              {{ ui.second }}
-            </th>
-            <th class="num">
-              {{ ui.third }}
-            </th>
-            <th class="num">
-              {{ ui.actions }}
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- 空数据提示 -->
-          <tr v-if="countryRows.length === 0">
-            <td colspan="8" style="text-align: center; color: rgba(226,232,240,0.7);">
-              {{ ui.noData }}
-            </td>
-          </tr>
-          <tr v-if="paginatedCountryRows.length === 0 && countryRows.length > 0">
-            <td colspan="8" style="text-align: center; color: rgba(226,232,240,0.7);">
-              {{ ui.noDataInPage }}
-            </td>
-          </tr>
-          <!-- 动态渲染国家排行榜 -->
-          <tr v-for="(item, index) in paginatedCountryRows" :key="item.countryCode">
-            <!-- 排名序号：(当前页-1)*每页条数 + 索引 + 1 -->
-            <td class="num">{{ (currentPage - 1) * pageSize + index + 1 }}</td>
-            <!-- 国旗 + 中文全称 -->
-            <td>
+      <div class="responsive-table">
+        <table class="tbl">
+          <thead>
+            <tr>
+              <th class="num" rowspan="2">
+                {{ ui.rank }}
+              </th>
+              <th rowspan="2">
+                {{ ui.country }}
+              </th>
+              <th class="num" rowspan="2">
+                {{ ui.totalcountryplayers }}
+              </th>
+              <th class="num" rowspan="2">
+                {{ ui.totalplayers }}
+              </th>
+              <th colspan="4" style="text-align: center;">{{ ui.bestplayer }}</th>
+            </tr>
+            <tr>
+              <th class="num">
+                {{ ui.first }}
+              </th>
+              <th class="num">
+                {{ ui.second }}
+              </th>
+              <th class="num">
+                {{ ui.third }}
+              </th>
+              <th class="num">
+                {{ ui.actions }}
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- 空数据提示 -->
+            <tr v-if="countryRows.length === 0">
+              <td colspan="8" style="text-align: center; color: rgba(226,232,240,0.7);">
+                {{ ui.noData }}
+              </td>
+            </tr>
+            <tr v-if="paginatedCountryRows.length === 0 && countryRows.length > 0">
+              <td colspan="8" style="text-align: center; color: rgba(226,232,240,0.7);">
+                {{ ui.noDataInPage }}
+              </td>
+            </tr>
+            <!-- 动态渲染国家排行榜 -->
+            <tr v-for="(item, index) in paginatedCountryRows" :key="item.countryCode">
+              <!-- 排名序号：(当前页-1)*每页条数 + 索引 + 1 -->
+              <td class="num">{{ (currentPage - 1) * pageSize + index + 1 }}</td>
+              <!-- 国旗 + 中文全称 -->
+              <td>
+                <span class="flag">
+                  <span 
+                    v-if="item.countryCode !== 'Unknown' " 
+                    :class="`fi fi-${item.countryCode.toLowerCase()}`"
+                  ></span>
+                  <span v-else class="fi fi-xx"></span>
+                </span>
+                <span class="country-name">
+                  <span v-if="isZh">{{ item.countryFullName }}</span>
+                  <span v-else>{{ item.countryEnName }}</span>
+                </span>
+              </td>
+              <td class="num">{{ item.totalPoints }}</td>
+              <td class="num">{{ item.totalPlayers }}</td>
+              <td class="num player-cell">{{ item.bestPlayers.first?.player || "-" }}</td>
+              <td class="num player-cell">{{ item.bestPlayers.second?.player || "-" }}</td>
+              <td class="num player-cell">{{ item.bestPlayers.third?.player || "-" }}</td>
+              <!-- 查看按钮：点击传当前国家代码 -->
+              <td class="num">
+                <button 
+                  class="page-btn"
+                  @click="openPlayerModal(item.countryCode)"
+                >
+                  {{ ui.view }}
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- 移动端卡片式布局 -->
+      <div class="mobile-cards" v-if="paginatedCountryRows.length > 0">
+        <div v-for="(item, index) in paginatedCountryRows" :key="item.countryCode" class="mobile-card">
+          <div class="card-header">
+            <span class="rank-badge">{{ (currentPage - 1) * pageSize + index + 1 }}</span>
+            <div class="country-info">
               <span class="flag">
                 <span 
-                  v-if="item.countryCode !== 'Unknown'" 
+                  v-if="item.countryCode !== 'Unknown' " 
                   :class="`fi fi-${item.countryCode.toLowerCase()}`"
                 ></span>
                 <span v-else class="fi fi-xx"></span>
@@ -92,27 +129,44 @@
               <span class="country-name">
                 <span v-if="isZh">{{ item.countryFullName }}</span>
                 <span v-else>{{ item.countryEnName }}</span>
-                <!-- <span class="en-name">({{ item.countryEnName }})</span> -->
               </span>
-            </td>
-            <td class="num">{{ item.totalPoints }}</td>
-            <td class="num">{{ item.totalPlayers }}</td>
-            <td class="num">{{ item.bestPlayers.first?.player || "-" }}</td>
-            <td class="num">{{ item.bestPlayers.second?.player || "-" }}</td>
-            <td class="num">{{ item.bestPlayers.third?.player || "-" }}</td>
-            <!-- <td class="num">{{ ui.view }}</td> -->
-            <!-- 查看按钮：点击传当前国家代码 -->
-            <td class="num">
-              <button 
-                class="page-btn"
-                @click="openPlayerModal(item.countryCode)"
-              >
-                {{ ui.view }}
-              </button>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            </div>
+          </div>
+          <div class="card-stats">
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.totalcountryplayers }}</span>
+              <span class="stat-value">{{ item.totalPoints }}</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.totalplayers }}</span>
+              <span class="stat-value">{{ item.totalPlayers }}</span>
+            </div>
+          </div>
+          <div class="card-best-players">
+            <div class="best-player-title">{{ ui.bestplayer }}</div>
+            <div class="best-player-item">
+              <span class="player-rank">{{ ui.first }}</span>
+              <span class="player-name">{{ item.bestPlayers.first?.player || "-" }}</span>
+            </div>
+            <div class="best-player-item">
+              <span class="player-rank">{{ ui.second }}</span>
+              <span class="player-name">{{ item.bestPlayers.second?.player || "-" }}</span>
+            </div>
+            <div class="best-player-item">
+              <span class="player-rank">{{ ui.third }}</span>
+              <span class="player-name">{{ item.bestPlayers.third?.player || "-" }}</span>
+            </div>
+          </div>
+          <div class="card-actions">
+            <button 
+              class="page-btn"
+              @click="openPlayerModal(item.countryCode)"
+            >
+              {{ ui.view }}
+            </button>
+          </div>
+        </div>
+      </div>
     </div>
      <!-- 分页控件 -->
     <div class="pagination" v-if="totalPages > 1">
@@ -630,6 +684,12 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 }
 
 .tableWrap {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.responsive-table {
   overflow-x: auto;
   overflow-y: hidden;
   border: 1px solid rgba(255, 255, 255, 0.08);
@@ -637,7 +697,6 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
   background: rgba(15, 23, 42, 0.35);
   width: 100%;
   box-sizing: border-box;
-  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -645,6 +704,123 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
   width: 100%;
   border-collapse: collapse;
   min-width: 800px;
+}
+
+/* 移动端卡片式布局 */
+.mobile-cards {
+  display: none;
+  width: 100%;
+}
+
+.mobile-card {
+  background: rgba(15, 23, 42, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.rank-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(59, 130, 246, 0.7);
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+.country-info {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.card-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: rgba(226, 232, 240, 0.7);
+  margin-bottom: 4px;
+}
+
+.stat-value {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.card-best-players {
+  margin-bottom: 12px;
+}
+
+.best-player-title {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 8px;
+}
+
+.best-player-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+  font-size: 13px;
+}
+
+.player-rank {
+  width: 40px;
+  color: rgba(226, 232, 240, 0.7);
+  font-size: 12px;
+}
+
+.player-name {
+  color: rgba(255, 255, 255, 0.9);
+  flex: 1;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: center;
+}
+
+/* 响应式断点 */
+@media (max-width: 760px) {
+  .responsive-table {
+    display: none;
+  }
+  
+  .mobile-cards {
+    display: block;
+  }
+  
+  .pagination {
+    margin-top: 16px;
+  }
 }
 
 th,

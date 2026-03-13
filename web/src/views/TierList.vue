@@ -14,34 +14,76 @@
     </div>
 
     <div class="tableWrap">
-      <table class="tbl">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>{{ ui.deck }}</th>
-            <th>{{ ui.tier }}</th>
-            <th class="num">{{ ui.score }}</th>
-            <th class="num">{{ ui.usage }}</th>
-            <th class="num">{{ ui.samples }}</th>
-            <th class="num">{{ ui.top32 }}</th>
-            <th class="num">{{ ui.points }}</th>
-            <th class="num">{{ ui.top32pct }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="(r, i) in rows" :key="r.deck">
-            <td class="muted">{{ i + 1 }}</td>
-            <td class="deck">{{ r.deck }}</td>
-            <td><span class="pill" :data-tier="r.tier">{{ r.tier }}</span></td>
-            <td class="num mono">{{ r.score.toFixed(4) }}</td>
-            <td class="num mono">{{ (r.usage * 100).toFixed(2) }}%</td>
-            <td class="num mono">{{ r.total_samples }}</td>
-            <td class="num mono">{{ r.data1_top32_appearances }}</td>
-            <td class="num mono">{{ r.data2_weighted_points }}</td>
-            <td class="num mono">{{ r.data3_top32_share_pct.toFixed(2) }}%</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="responsive-table">
+        <table class="tbl">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>{{ ui.deck }}</th>
+              <th>{{ ui.tier }}</th>
+              <th class="num">{{ ui.score }}</th>
+              <th class="num">{{ ui.usage }}</th>
+              <th class="num">{{ ui.samples }}</th>
+              <th class="num">{{ ui.top32 }}</th>
+              <th class="num">{{ ui.points }}</th>
+              <th class="num">{{ ui.top32pct }}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="(r, i) in rows" :key="r.deck">
+              <td class="muted">{{ i + 1 }}</td>
+              <td class="deck">{{ r.deck }}</td>
+              <td><span class="pill" :data-tier="r.tier">{{ r.tier }}</span></td>
+              <td class="num mono">{{ r.score.toFixed(4) }}</td>
+              <td class="num mono">{{ (r.usage * 100).toFixed(2) }}%</td>
+              <td class="num mono">{{ r.total_samples }}</td>
+              <td class="num mono">{{ r.data1_top32_appearances }}</td>
+              <td class="num mono">{{ r.data2_weighted_points }}</td>
+              <td class="num mono">{{ r.data3_top32_share_pct.toFixed(2) }}%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- 移动端卡片式布局 -->
+      <div class="mobile-cards" v-if="rows.length > 0">
+        <div v-for="(r, i) in rows" :key="r.deck" class="mobile-card">
+          <div class="card-header">
+            <span class="rank-badge">{{ i + 1 }}</span>
+            <div class="deck-info">
+              <div class="deck-name">{{ r.deck }}</div>
+              <span class="pill" :data-tier="r.tier">{{ r.tier }}</span>
+            </div>
+          </div>
+          <div class="card-stats">
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.score }}</span>
+              <span class="stat-value mono">{{ r.score.toFixed(4) }}</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.usage }}</span>
+              <span class="stat-value mono">{{ (r.usage * 100).toFixed(2) }}%</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.samples }}</span>
+              <span class="stat-value mono">{{ r.total_samples }}</span>
+            </div>
+          </div>
+          <div class="card-stats">
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.top32 }}</span>
+              <span class="stat-value mono">{{ r.data1_top32_appearances }}</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.points }}</span>
+              <span class="stat-value mono">{{ r.data2_weighted_points }}</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">{{ ui.top32pct }}</span>
+              <span class="stat-value mono">{{ r.data3_top32_share_pct.toFixed(2) }}%</span>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -94,13 +136,189 @@ const lang = computed<"zh" | "en">(() => {
 </script>
 
 <style scoped>
-.page{width: 1100px;}
+.page {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
 .pageTitle { margin: 0 0 12px; color: rgba(255,255,255,0.92); font-size: 18px; font-weight: 800; }
 .meta { margin-bottom: 12px; color: rgba(226,232,240,.75); font-size: 12px; line-height: 1.5; }
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
-.tableWrap { overflow: auto; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; background: rgba(15,23,42,0.35); }
-.tbl { width: 100%; border-collapse: collapse; min-width: 980px; }
+.tableWrap {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.responsive-table {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  background: rgba(15,23,42,0.35);
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.tbl { 
+  width: 100%; 
+  border-collapse: collapse; 
+  table-layout: fixed;
+}
+
+/* 调整列宽 */
+td.deck {
+  width: 25%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th:nth-child(1), td:nth-child(1) {
+  width: 5%;
+  text-align: center;
+}
+
+th:nth-child(3), td:nth-child(3) {
+  width: 8%;
+  text-align: center;
+}
+
+th:nth-child(4), td:nth-child(4) {
+  width: 10%;
+  text-align: right;
+}
+
+th:nth-child(5), td:nth-child(5) {
+  width: 10%;
+  text-align: right;
+}
+
+th:nth-child(6), td:nth-child(6) {
+  width: 10%;
+  text-align: right;
+}
+
+th:nth-child(7), td:nth-child(7) {
+  width: 10%;
+  text-align: right;
+}
+
+th:nth-child(8), td:nth-child(8) {
+  width: 10%;
+  text-align: right;
+}
+
+th:nth-child(9), td:nth-child(9) {
+  width: 12%;
+  text-align: right;
+}
+
+/* 移动端卡片式布局 */
+.mobile-cards {
+  display: none;
+  width: 100%;
+}
+
+.mobile-card {
+  background: rgba(15, 23, 42, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.rank-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(59, 130, 246, 0.7);
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+.deck-info {
+  flex: 1;
+}
+
+.deck-name {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 4px;
+}
+
+.card-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.card-stats:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: rgba(226, 232, 240, 0.7);
+  margin-bottom: 4px;
+}
+
+.stat-value {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* 响应式断点 */
+@media (max-width: 760px) {
+  .page {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .responsive-table {
+    display: none;
+  }
+  
+  .mobile-cards {
+    display: block;
+  }
+  
+  .pageTitle {
+    font-size: 16px;
+  }
+  
+  .meta {
+    font-size: 11px;
+  }
+}
 th, td { padding: 10px 12px; border-bottom: 1px solid rgba(255,255,255,0.06); text-align: left; }
 th { font-size: 12px; color: rgba(226,232,240,.75); font-weight: 700; }
 td { font-size: 13px; color: rgba(255,255,255,0.9); }

@@ -112,116 +112,178 @@
 
     <!-- Table -->
     <div class="tableWrap">
-      <table class="tbl">
-        <thead>
-          <tr>
-            <th class="date">
-              {{ isZh ? "日期" : "Date" }}
-            </th>
+      <div class="responsive-table">
+        <table class="tbl">
+          <thead>
+            <tr>
+              <th class="date">
+                {{ isZh ? "日期" : "Date" }}
+              </th>
 
-            <th>
-              {{ isZh ? "賽事" : "Name" }}
-            </th>
+              <th>
+                {{ isZh ? "賽事" : "Name" }}
+              </th>
 
-            <th class="num">
-              {{ isZh ? "人數" : "Players" }}
-            </th>
+              <th class="num">
+                {{ isZh ? "人數" : "Players" }}
+              </th>
 
-            <th class="top4">
-              {{ isZh ? "前四名牌組" : "Top 4 Decks" }}<br />
-              <span class="muted">
-                {{ isZh ? " " : " " }}
-              </span>
-            </th>
+              <th class="top4">
+                {{ isZh ? "前四名牌組" : "Top 4 Decks" }}<br />
+                <span class="muted">
+                  {{ isZh ? " " : " " }}
+                </span>
+              </th>
 
-            <th class="link">
-              {{ isZh ? "排位" : "Standings" }}
-            </th>
-          </tr>
-        </thead>
+              <th class="link">
+                {{ isZh ? "排位" : "Standings" }}
+              </th>
+            </tr>
+          </thead>
 
-        <tbody>
-          <tr v-for="t in paged" :key="t.id">
-            <td class="mono muted">
-              {{ t.dateStr }}
-            </td>
+          <tbody>
+            <tr v-for="t in paged" :key="t.id">
+              <td class="mono muted">
+                {{ t.dateStr }}
+              </td>
 
-            <td>
-              <div class="nameCell">
-                <div class="nameMain">{{ t.name }}</div>
-                <div class="nameMeta muted">
-                  <button v-if="t.set" type="button"
-                    :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
-                    :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
-                    :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
-                    {{ versionLabel(t.set) }}
-                  </button>
+              <td>
+                <div class="nameCell">
+                  <div class="nameMain">{{ t.name }}</div>
+                  <div class="nameMeta muted">
+                    <button v-if="t.set" type="button"
+                      :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
+                      :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
+                      :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
+                      {{ versionLabel(t.set) }}
+                    </button>
 
-                  <button v-if="t.format" type="button"
-                    :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
-                    :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
-                    :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
-                    {{ formatLabelForUi(t.format) }}
-                  </button>
+                    <button v-if="t.format" type="button"
+                      :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
+                      :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
+                      :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
+                      {{ formatLabelForUi(t.format) }}
+                    </button>
 
-                  <button v-if="t.swiss" type="button"
-                    :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
-                    :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
-                    :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
-                    {{ t.swiss }}
-                  </button>
-                </div>
-              </div>
-            </td>
-
-            <td class="num mono">{{ t.players ?? "—" }}</td>
-
-            <td>
-              <div v-if="t.topDecks.length" class="topDecksGrid" :aria-label="ui.top4AriaLabel">
-                <div v-for="(d, i) in t.topDecks" :key="i" class="deckPair" :title="deckPairTitle(d, i + 1)">
-                  <div class="deckIconsWrap">
-                    <div class="deckIconsRow">
-                      <template v-for="slot in 2" :key="slot">
-                        <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
-                          :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
-                          draggable="false" />
-
-                        <span v-else-if="d.iconKeys[slot - 1]"
-                          :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
-                          :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
-
-                        <template v-else></template>
-                      </template>
-                    </div>
-
-                    <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
-                      draggable="false" />
+                    <button v-if="t.swiss" type="button"
+                      :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
+                      :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
+                      :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
+                      {{ t.swiss }}
+                    </button>
                   </div>
+                </div>
+              </td>
 
+              <td class="num mono">{{ t.players ?? "—" }}</td>
 
+              <td>
+                <div v-if="t.topDecks.length" class="topDecksGrid" :aria-label="ui.top4AriaLabel">
+                  <div v-for="(d, i) in t.topDecks" :key="i" class="deckPair" :title="deckPairTitle(d, i + 1)">
+                    <div class="deckIconsWrap">
+                      <div class="deckIconsRow">
+                        <template v-for="slot in 2" :key="slot">
+                          <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
+                            :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
+                            draggable="false" />
+
+                          <span v-else-if="d.iconKeys[slot - 1]"
+                            :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
+                            :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
+
+                          <template v-else></template>
+                        </template>
+                      </div>
+
+                      <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
+                        draggable="false" />
+                    </div>
+                  </div>
+                </div>
+                <span v-else class="muted">—</span>
+              </td>
+
+              <td class="link">
+                <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
+                  :aria-label="ui.standingsTitle">
+                  ↗
+                </a>
+              </td>
+            </tr>
+
+            <tr v-if="filtered.length === 0">
+              <td class="muted" colspan="5" style="padding: 16px;">
+                {{ ui.emptyText }}
+                <span class="mono">
+                  <!-- web/src/data/raw/* -->
+                </span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- 移动端卡片式布局 -->
+      <div class="mobile-cards" v-if="paged.length > 0">
+        <div v-for="t in paged" :key="t.id" class="mobile-card">
+          <div class="card-header">
+            <div class="date-info mono muted">{{ t.dateStr }}</div>
+            <h3 class="tournament-name">{{ t.name }}</h3>
+          </div>
+          <div class="card-meta">
+            <button v-if="t.set" type="button"
+              :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
+              :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
+              :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
+              {{ versionLabel(t.set) }}
+            </button>
+            <button v-if="t.format" type="button"
+              :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
+              :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
+              :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
+              {{ formatLabelForUi(t.format) }}
+            </button>
+            <button v-if="t.swiss" type="button"
+              :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
+              :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
+              :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
+              {{ t.swiss }}
+            </button>
+          </div>
+          <div class="card-stats">
+            <div class="stat-item">
+              <span class="stat-label">{{ isZh ? "人數" : "Players" }}</span>
+              <span class="stat-value mono">{{ t.players ?? "—" }}</span>
+            </div>
+          </div>
+          <div class="card-top-decks" v-if="t.topDecks.length">
+            <div class="top-decks-title">{{ isZh ? "前四名牌組" : "Top 4 Decks" }}</div>
+            <div class="topDecksGrid">
+              <div v-for="(d, i) in t.topDecks" :key="i" class="deckPair" :title="deckPairTitle(d, i + 1)">
+                <div class="deckIconsWrap">
+                  <div class="deckIconsRow">
+                    <template v-for="slot in 2" :key="slot">
+                      <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
+                        :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
+                        draggable="false" />
+                      <span v-else-if="d.iconKeys[slot - 1]"
+                        :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
+                        :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
+                    </template>
+                  </div>
+                  <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
+                    draggable="false" />
                 </div>
               </div>
-              <span v-else class="muted">—</span>
-            </td>
-
-            <td class="link">
-              <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
-                :aria-label="ui.standingsTitle">
-                ↗
-              </a>
-            </td>
-          </tr>
-
-          <tr v-if="filtered.length === 0">
-            <td class="muted" colspan="5" style="padding: 16px;">
-              {{ ui.emptyText }}
-              <span class="mono">
-                <!-- web/src/data/raw/* -->
-              </span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            </div>
+          </div>
+          <div class="card-actions">
+            <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
+              :aria-label="ui.standingsTitle">
+              {{ isZh ? "查看排位" : "View Standings" }}
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div class="foot muted mono">
@@ -919,7 +981,11 @@ watch([total, pageSize], () => {
 <style scoped>
 /* padding: 12px 14px;  */
 .page {
-  width: 1100px;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .header {
@@ -1015,16 +1081,197 @@ watch([total, pageSize], () => {
 }
 
 .tableWrap {
-  overflow: auto;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.responsive-table {
+  overflow-x: auto;
+  overflow-y: hidden;
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
   background: rgba(15, 23, 42, 0.35);
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
 }
 
 .tbl {
   width: 100%;
   border-collapse: collapse;
   min-width: 940px;
+}
+
+/* 移动端卡片式布局 */
+.mobile-cards {
+  display: none;
+  width: 100%;
+}
+
+.mobile-card {
+  background: rgba(15, 23, 42, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+.card-header {
+  margin-bottom: 12px;
+}
+
+.date-info {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.tournament-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0 0 8px 0;
+}
+
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.card-stats {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.stat-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: rgba(226, 232, 240, 0.7);
+}
+
+.stat-value {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.card-top-decks {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.top-decks-title {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 8px;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: center;
+}
+
+/* 响应式断点 */
+@media (max-width: 760px) {
+  .page {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  
+  .responsive-table {
+    display: none;
+  }
+  
+  .mobile-cards {
+    display: block;
+  }
+  
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .title {
+    font-size: 16px;
+  }
+  
+  .sub {
+    font-size: 11px;
+  }
+  
+  .filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  
+  .f {
+    padding: 8px;
+  }
+  
+  .f label {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+  
+  .f input,
+  .f select {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+  
+  .hint {
+    font-size: 10px;
+    margin-top: 4px;
+  }
+  
+  .pager {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .pager__left {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+  
+  .pager__right {
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  .topDecksGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  
+  .deckPair {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .linkDot {
+    padding: 8px 16px;
+    font-size: 13px;
+  }
+  
+  .linkDot::after {
+    content: "";
+  }
 }
 
 th,
@@ -1220,24 +1467,29 @@ a:hover {
 
 /* standings link dot */
 .linkDot {
-  width: 28px;
-  height: 28px;
-  border-radius: 999px;
+  padding: 10px 20px;
+  border-radius: 12px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  background: rgba(2, 6, 23, 0.25);
+  gap: 6px;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(37, 99, 235, 0.05));
   color: rgba(147, 197, 253, 0.95);
-  font-weight: 900;
+  font-weight: 700;
   text-decoration: none;
   user-select: none;
+  transition: all 0.3s ease;
+  font-size: 14px;
+  box-shadow: 0 2px 4px rgba(59, 130, 246, 0.1);
 }
 
 .linkDot:hover {
   text-decoration: none;
-  border-color: rgba(147, 197, 253, 0.55);
-  background: rgba(30, 41, 59, 0.35);
+  border-color: rgba(59, 130, 246, 0.6);
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(37, 99, 235, 0.15));
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(59, 130, 246, 0.2);
 }
 
 .foot {
