@@ -24,13 +24,9 @@
             <th class="num" rowspan="2">
               {{ ui.totalplayers }}
             </th>
-            <!-- <th class="num">
-              {{ ui.totalappearances }}
-            </th> -->
             <th colspan="4" style="text-align: center;">{{ ui.bestplayer }}</th>
           </tr>
           <tr>
-            <!-- <td colspan="4"></td> -->
             <th class="num">
               {{ ui.first }}
             </th>
@@ -46,16 +42,6 @@
           </tr>
         </thead>
         <tbody>
-          <!-- <tr>
-            <td class="num muted">1</td>
-            <td class="num muted">japan</td>
-            <td class="num muted">1000</td>
-            <td class="num muted">5000</td>
-            <td class="num muted">10</td>
-            <td class="num muted">5</td>
-            <td class="num muted">2</td>
-            <td class="num muted">{{ ui.view }}</td>
-          </tr>
           <!-- 空数据提示 -->
           <tr v-if="countryRows.length === 0">
             <td colspan="8" style="text-align: center; color: rgba(226,232,240,0.7);">
@@ -377,12 +363,6 @@ interface Player {
   player: string;
   points: number;
   country: string | null; // 国家代码（如 JP/US/CN）
-}
-
-interface CountryBestPlayers {
-  first: Player | null;
-  second: Player | null;
-  third: Player | null;
 }
 
 interface CountryStat {

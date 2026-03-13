@@ -12,7 +12,9 @@
           <tr>
             <th>#</th>
             <th>{{ ui.player }}</th>
+            <th>{{ ui.country }}</th>
             <th class="num">{{ ui.points }}</th>
+            <th class="num">{{ ui.session }}</th>
           </tr>
         </thead>
         <tbody>
@@ -25,11 +27,25 @@
           <tr v-for="(r, i) in currentPageRows" :key="r.player">
             <td class="muted">{{ (currentPage - 1) * pageSize + i + 1 }}</td>
             <td>{{ r.player }}</td>
+            <!-- 🌟 国家列：旗帜 + 多语言全名 -->
+            <td class="country-cell">
+              <!-- 旗帜图标（flag-icons 类名要求小写国家代码） -->
+              <span 
+                v-if="r.country"
+                class="flag-icon" 
+                :class="`fi fi-${r.country.toLowerCase()}`"
+                aria-hidden="true"
+              ></span>
+              <span v-else class="fi fi-xx"></span>
+              <!-- 多语言国家全名 -->
+              <span class="country-name">{{ getCountryName(r.country ?? '') }}</span>
+            </td>
             <td class="num mono">{{ r.points }}</td>
+            <td class="num mono">{{ r.games }}</td>
           </tr>
           <!-- 空数据提示 -->
           <tr v-if="!currentPageRows.length">
-            <td colspan="3" style="text-align: center; padding: 20px;">
+            <td colspan="5" style="text-align: center; padding: 20px;">
               {{ isZh ? '暂无数据' : 'No data' }}
             </td>
           </tr>
@@ -83,6 +99,16 @@
 import { Data } from '../lib/data'
 import { useRoute } from "vue-router";
 import { computed, reactive, ref, watch } from "vue";
+import "flag-icons/css/flag-icons.min.css";
+
+// 1. 导入多语言国家名称库
+import countries from 'i18n-iso-countries';
+// 2. 导入中文/英文语言包（按需加载）
+import enLang from 'i18n-iso-countries/langs/en.json';
+import zhCnLang from 'i18n-iso-countries/langs/zh.json';
+
+countries.registerLocale(enLang);
+countries.registerLocale(zhCnLang);
 
 const route = useRoute();
 
@@ -99,14 +125,20 @@ const ui = computed(() => {
       title: "玩家排行榜",
       rule: "积分规则 = 你在每场比赛中的排名权重（第1名 10分，第2名 8分，第3-4名 6分，第5-8名 4分，第9-16名 2分，第17-32名 1分）",
       player: "玩家",
+      country: "国家/地区",
       points: "积分",
+      session: "场次",
+      unknown: "未知",
     };
   }
   return {
     title: "Player Ranking",
     rule: "Points rule = your placing weights (1st 10, 2nd 8, 3-4 6, 5-8 4, 9-16 2, 17-32 1)",
     player: "Player",
+    country: "Country/Region",
     points: "Points",
+    session: "Sessions",
+    unknown: "Unknown Region",
   };
 });
 
@@ -142,6 +174,18 @@ const jumpToPage = () => {
   currentPage.value = jumpPage.value;
 };
 
+// 🌟 新增：根据国家代码和当前语言获取多语言国家全名
+const getCountryName = (code: string) => {
+  if (!code) return isZh.value ? '未知' : 'Unknown Region'; // 空值兜底
+  try {
+    // 获取官方全称（支持中文/英文）
+    return countries.getName(code, lang.value, { select: 'official' }) || code;
+  } catch (e) {
+    // 异常兜底（比如无效的国家代码）
+    return code;
+  }
+};
+
 // 监听总页数变化，防止页码超出范围
 watch(totalPages, () => {
   if (currentPage.value > totalPages.value) {
@@ -163,6 +207,24 @@ th { font-size: 12px; color: rgba(226,232,240,.75); font-weight: 700; }
 td { font-size: 13px; color: rgba(255,255,255,0.9); }
 .num { text-align: right; }
 .muted { color: rgba(226,232,240,.55); }
+
+/* 🌟 新增：国家列样式（旗帜 + 文字） */
+.country-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* 旗帜和文字的间距 */
+}
+.flag-icon {
+  width: 20px;
+  height: 14px; /* 保持旗帜3:2的黄金比例 */
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.country-name {
+  white-space: nowrap; /* 防止国家名称换行 */
+}
 
 /* 分页样式 */
 .pagination {
