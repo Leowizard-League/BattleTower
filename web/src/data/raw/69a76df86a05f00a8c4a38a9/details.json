@@ -1,0 +1,42 @@
+{
+  "id": "69a76df86a05f00a8c4a38a9",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Redacted Heroes #7 PI DAY SPECIAL (314 Codes)",
+  "date": "2026-03-14T22:05:00.000Z",
+  "players": 157,
+  "organizer": {
+    "id": 222,
+    "name": "Redacted Gaming"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SWISS",
+      "rounds": 3,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 1,
+      "mode": "BO1"
+    },
+    {
+      "phase": 4,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

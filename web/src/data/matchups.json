@@ -569,16 +569,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 61,
-    "total": 104,
-    "winrateA": 0.5865384615384616
+    "winsA": 65,
+    "total": 110,
+    "winrateA": 0.5909090909090909
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 43,
-    "total": 104,
-    "winrateA": 0.41346153846153844
+    "winsA": 45,
+    "total": 110,
+    "winrateA": 0.4090909090909091
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
@@ -597,16 +597,16 @@
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 43,
-    "total": 93,
-    "winrateA": 0.46236559139784944
+    "winsA": 49,
+    "total": 103,
+    "winrateA": 0.47572815533980584
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 50,
-    "total": 93,
-    "winrateA": 0.5376344086021505
+    "winsA": 54,
+    "total": 103,
+    "winrateA": 0.5242718446601942
   },
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
@@ -640,15 +640,15 @@
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "gourgeist-b2-houndstone-b2a",
     "winsA": 26,
-    "total": 43,
-    "winrateA": 0.6046511627906976
+    "total": 44,
+    "winrateA": 0.5909090909090909
   },
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 17,
-    "total": 43,
-    "winrateA": 0.3953488372093023
+    "winsA": 18,
+    "total": 44,
+    "winrateA": 0.4090909090909091
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -668,15 +668,15 @@
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 230,
-    "total": 446,
-    "winrateA": 0.515695067264574
+    "total": 450,
+    "winrateA": 0.5111111111111111
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 216,
-    "total": 446,
-    "winrateA": 0.484304932735426
+    "winsA": 220,
+    "total": 450,
+    "winrateA": 0.4888888888888889
   },
   {
     "deckA": "mega-altaria-ex-chingling-b1",
@@ -710,70 +710,70 @@
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 147,
-    "total": 378,
-    "winrateA": 0.3888888888888889
+    "total": 381,
+    "winrateA": 0.3858267716535433
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 231,
-    "total": 378,
-    "winrateA": 0.6111111111111112
+    "winsA": 234,
+    "total": 381,
+    "winrateA": 0.6141732283464567
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 251,
-    "total": 465,
-    "winrateA": 0.5397849462365591
+    "winsA": 252,
+    "total": 466,
+    "winrateA": 0.5407725321888412
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 214,
-    "total": 465,
-    "winrateA": 0.46021505376344085
+    "total": 466,
+    "winrateA": 0.4592274678111588
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "greninja-a1-oricorio-a3",
-    "winsA": 19,
-    "total": 54,
-    "winrateA": 0.35185185185185186
+    "winsA": 23,
+    "total": 61,
+    "winrateA": 0.3770491803278688
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 35,
-    "total": 54,
-    "winrateA": 0.6481481481481481
+    "winsA": 38,
+    "total": 61,
+    "winrateA": 0.6229508196721312
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 136,
-    "total": 280,
-    "winrateA": 0.4857142857142857
+    "winsA": 152,
+    "total": 307,
+    "winrateA": 0.495114006514658
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 144,
-    "total": 280,
-    "winrateA": 0.5142857142857142
+    "winsA": 155,
+    "total": 307,
+    "winrateA": 0.504885993485342
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "jolteon-ex-b1-zeraora-a3a",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "jolteon-ex-b1-zeraora-a3a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -793,30 +793,30 @@
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 97,
-    "total": 205,
-    "winrateA": 0.47317073170731705
+    "winsA": 100,
+    "total": 214,
+    "winrateA": 0.4672897196261682
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 108,
-    "total": 205,
-    "winrateA": 0.526829268292683
+    "winsA": 114,
+    "total": 214,
+    "winrateA": 0.5327102803738317
   },
   {
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 14,
-    "total": 27,
-    "winrateA": 0.5185185185185185
+    "total": 28,
+    "winrateA": 0.5
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
-    "winsA": 13,
-    "total": 27,
-    "winrateA": 0.48148148148148145
+    "winsA": 14,
+    "total": 28,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
@@ -850,15 +850,15 @@
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
     "winsA": 99,
-    "total": 180,
-    "winrateA": 0.55
+    "total": 181,
+    "winrateA": 0.5469613259668509
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 81,
-    "total": 180,
-    "winrateA": 0.45
+    "winsA": 82,
+    "total": 181,
+    "winrateA": 0.4530386740331492
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -877,16 +877,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 414,
-    "total": 715,
-    "winrateA": 0.579020979020979
+    "winsA": 422,
+    "total": 730,
+    "winrateA": 0.5780821917808219
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 301,
-    "total": 715,
-    "winrateA": 0.42097902097902096
+    "winsA": 308,
+    "total": 730,
+    "winrateA": 0.42191780821917807
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
@@ -920,78 +920,78 @@
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "gholdengo-ex-orthworm-b2a",
     "winsA": 3,
-    "total": 4,
-    "winrateA": 0.75
+    "total": 5,
+    "winrateA": 0.6
   },
   {
     "deckA": "gholdengo-ex-orthworm-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 1,
-    "total": 4,
-    "winrateA": 0.25
+    "winsA": 2,
+    "total": 5,
+    "winrateA": 0.4
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
-    "winsA": 42,
-    "total": 59,
-    "winrateA": 0.711864406779661
+    "winsA": 43,
+    "total": 60,
+    "winrateA": 0.7166666666666667
   },
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
     "winsA": 17,
-    "total": 59,
-    "winrateA": 0.288135593220339
+    "total": 60,
+    "winrateA": 0.2833333333333333
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 524,
-    "total": 962,
-    "winrateA": 0.5446985446985447
+    "winsA": 539,
+    "total": 986,
+    "winrateA": 0.5466531440162272
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 438,
-    "total": 962,
-    "winrateA": 0.4553014553014553
+    "winsA": 447,
+    "total": 986,
+    "winrateA": 0.45334685598377283
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 98,
-    "total": 251,
-    "winrateA": 0.3904382470119522
+    "winsA": 104,
+    "total": 269,
+    "winrateA": 0.38661710037174724
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 153,
-    "total": 251,
-    "winrateA": 0.6095617529880478
+    "winsA": 165,
+    "total": 269,
+    "winrateA": 0.6133828996282528
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 681,
-    "total": 1362,
+    "winsA": 691,
+    "total": 1382,
     "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 191,
-    "total": 326,
-    "winrateA": 0.5858895705521472
+    "winsA": 192,
+    "total": 333,
+    "winrateA": 0.5765765765765766
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 135,
-    "total": 326,
-    "winrateA": 0.41411042944785276
+    "winsA": 141,
+    "total": 333,
+    "winrateA": 0.42342342342342343
   },
   {
     "deckA": "gholdengo-ex-b2a-skarmory-a2",
@@ -1087,8 +1087,8 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 342,
-    "total": 684,
+    "winsA": 345,
+    "total": 690,
     "winrateA": 0.5
   },
   {
@@ -1151,35 +1151,35 @@
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "greninja-a1-mega-absol-ex-b1",
     "winsA": 58,
-    "total": 137,
-    "winrateA": 0.4233576642335766
+    "total": 138,
+    "winrateA": 0.42028985507246375
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 79,
-    "total": 137,
-    "winrateA": 0.5766423357664233
+    "winsA": 80,
+    "total": 138,
+    "winrateA": 0.5797101449275363
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-altaria-ex-b1",
     "winsA": 14,
-    "total": 39,
-    "winrateA": 0.358974358974359
+    "total": 40,
+    "winrateA": 0.35
   },
   {
     "deckA": "mega-altaria-ex-b1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 25,
-    "total": 39,
-    "winrateA": 0.6410256410256411
+    "winsA": 26,
+    "total": 40,
+    "winrateA": 0.65
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 80,
-    "total": 160,
+    "winsA": 101,
+    "total": 202,
     "winrateA": 0.5
   },
   {
@@ -1199,16 +1199,16 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 198,
-    "total": 387,
-    "winrateA": 0.5116279069767442
+    "winsA": 202,
+    "total": 391,
+    "winrateA": 0.5166240409207161
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 189,
-    "total": 387,
-    "winrateA": 0.4883720930232558
+    "total": 391,
+    "winrateA": 0.4833759590792839
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
@@ -1269,16 +1269,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
-    "winsA": 39,
-    "total": 49,
-    "winrateA": 0.7959183673469388
+    "winsA": 40,
+    "total": 50,
+    "winrateA": 0.8
   },
   {
     "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 10,
-    "total": 49,
-    "winrateA": 0.20408163265306123
+    "total": 50,
+    "winrateA": 0.2
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
@@ -1298,15 +1298,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "greninja-a1-oricorio-a3",
     "winsA": 22,
-    "total": 37,
-    "winrateA": 0.5945945945945946
+    "total": 38,
+    "winrateA": 0.5789473684210527
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 15,
-    "total": 37,
-    "winrateA": 0.40540540540540543
+    "winsA": 16,
+    "total": 38,
+    "winrateA": 0.42105263157894735
   },
   {
     "deckA": "gholdengo-ex-orthworm-b2a",
@@ -1395,30 +1395,30 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 172,
-    "total": 297,
-    "winrateA": 0.5791245791245792
+    "winsA": 174,
+    "total": 301,
+    "winrateA": 0.5780730897009967
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 125,
-    "total": 297,
-    "winrateA": 0.4208754208754209
+    "winsA": 127,
+    "total": 301,
+    "winrateA": 0.4219269102990033
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 162,
-    "total": 381,
-    "winrateA": 0.4251968503937008
+    "winsA": 167,
+    "total": 388,
+    "winrateA": 0.43041237113402064
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 219,
-    "total": 381,
-    "winrateA": 0.5748031496062992
+    "winsA": 221,
+    "total": 388,
+    "winrateA": 0.5695876288659794
   },
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
@@ -1437,30 +1437,30 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
-    "winsA": 50,
-    "total": 80,
-    "winrateA": 0.625
+    "winsA": 51,
+    "total": 81,
+    "winrateA": 0.6296296296296297
   },
   {
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 30,
-    "total": 80,
-    "winrateA": 0.375
+    "total": 81,
+    "winrateA": 0.37037037037037035
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "jolteon-ex-b1-zeraora-a3a",
-    "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "winsA": 3,
+    "total": 4,
+    "winrateA": 0.75
   },
   {
     "deckA": "jolteon-ex-b1-zeraora-a3a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 4,
+    "winrateA": 0.25
   },
   {
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
@@ -1494,15 +1494,15 @@
     "deckA": "gholdengo-ex-orthworm-b2a",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 3,
-    "total": 13,
-    "winrateA": 0.23076923076923078
+    "total": 14,
+    "winrateA": 0.21428571428571427
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "gholdengo-ex-orthworm-b2a",
-    "winsA": 10,
-    "total": 13,
-    "winrateA": 0.7692307692307693
+    "winsA": 11,
+    "total": 14,
+    "winrateA": 0.7857142857142857
   },
   {
     "deckA": "mega-altaria-ex-b1-furfrou-b1a",
@@ -1536,15 +1536,15 @@
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "greninja-a1-oricorio-a3",
     "winsA": 22,
-    "total": 39,
-    "winrateA": 0.5641025641025641
+    "total": 42,
+    "winrateA": 0.5238095238095238
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 17,
-    "total": 39,
-    "winrateA": 0.4358974358974359
+    "winsA": 20,
+    "total": 42,
+    "winrateA": 0.47619047619047616
   },
   {
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
@@ -1578,14 +1578,14 @@
     "deckA": "jolteon-ex-b1-zeraora-a3a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "jolteon-ex-b1-zeraora-a3a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -1605,44 +1605,44 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 212,
-    "total": 527,
-    "winrateA": 0.40227703984819735
+    "winsA": 213,
+    "total": 528,
+    "winrateA": 0.4034090909090909
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 315,
-    "total": 527,
-    "winrateA": 0.5977229601518027
+    "total": 528,
+    "winrateA": 0.5965909090909091
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 181,
-    "total": 267,
-    "winrateA": 0.6779026217228464
+    "winsA": 182,
+    "total": 268,
+    "winrateA": 0.6791044776119403
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 86,
-    "total": 267,
-    "winrateA": 0.32209737827715357
+    "total": 268,
+    "winrateA": 0.3208955223880597
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "greninja-a1-oricorio-a3",
-    "winsA": 10,
-    "total": 17,
-    "winrateA": 0.5882352941176471
+    "winsA": 12,
+    "total": 21,
+    "winrateA": 0.5714285714285714
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 7,
-    "total": 17,
-    "winrateA": 0.4117647058823529
+    "winsA": 9,
+    "total": 21,
+    "winrateA": 0.42857142857142855
   },
   {
     "deckA": "mega-altaria-ex-b1-xatu-a4",
@@ -1676,29 +1676,29 @@
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 14,
-    "total": 33,
-    "winrateA": 0.42424242424242425
+    "total": 35,
+    "winrateA": 0.4
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
-    "winsA": 19,
-    "total": 33,
-    "winrateA": 0.5757575757575758
+    "winsA": 21,
+    "total": 35,
+    "winrateA": 0.6
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "gourgeist-b2-houndstone-b2a",
     "winsA": 27,
-    "total": 59,
-    "winrateA": 0.4576271186440678
+    "total": 60,
+    "winrateA": 0.45
   },
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 32,
-    "total": 59,
-    "winrateA": 0.5423728813559322
+    "winsA": 33,
+    "total": 60,
+    "winrateA": 0.55
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -1746,15 +1746,15 @@
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 3,
-    "total": 7,
-    "winrateA": 0.42857142857142855
+    "total": 8,
+    "winrateA": 0.375
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
-    "winsA": 4,
-    "total": 7,
-    "winrateA": 0.5714285714285714
+    "winsA": 5,
+    "total": 8,
+    "winrateA": 0.625
   },
   {
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
@@ -1773,16 +1773,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 293,
-    "total": 724,
-    "winrateA": 0.4046961325966851
+    "winsA": 302,
+    "total": 737,
+    "winrateA": 0.4097693351424695
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 431,
-    "total": 724,
-    "winrateA": 0.5953038674033149
+    "winsA": 435,
+    "total": 737,
+    "winrateA": 0.5902306648575305
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
@@ -1802,15 +1802,15 @@
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "greninja-a1-oricorio-a3",
     "winsA": 23,
-    "total": 29,
-    "winrateA": 0.7931034482758621
+    "total": 30,
+    "winrateA": 0.7666666666666667
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 6,
-    "total": 29,
-    "winrateA": 0.20689655172413793
+    "winsA": 7,
+    "total": 30,
+    "winrateA": 0.23333333333333334
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
@@ -1844,15 +1844,15 @@
     "deckA": "mega-altaria-ex-b1",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
     "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
@@ -1899,16 +1899,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "alolan-ninetales-ex-b2-baxcalibur-b2a",
-    "winsA": 30,
-    "total": 39,
-    "winrateA": 0.7692307692307693
+    "winsA": 32,
+    "total": 42,
+    "winrateA": 0.7619047619047619
   },
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 9,
-    "total": 39,
-    "winrateA": 0.23076923076923078
+    "winsA": 10,
+    "total": 42,
+    "winrateA": 0.23809523809523808
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -1927,72 +1927,72 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 108,
-    "total": 224,
-    "winrateA": 0.48214285714285715
+    "winsA": 125,
+    "total": 253,
+    "winrateA": 0.49407114624505927
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 116,
-    "total": 224,
-    "winrateA": 0.5178571428571429
+    "winsA": 128,
+    "total": 253,
+    "winrateA": 0.5059288537549407
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 41,
-    "total": 73,
-    "winrateA": 0.5616438356164384
+    "winsA": 42,
+    "total": 74,
+    "winrateA": 0.5675675675675675
   },
   {
     "deckA": "mega-altaria-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 32,
-    "total": 73,
-    "winrateA": 0.4383561643835616
+    "total": 74,
+    "winrateA": 0.43243243243243246
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "galvantula-a3b-greninja-a1",
-    "winsA": 3,
-    "total": 17,
-    "winrateA": 0.17647058823529413
+    "winsA": 4,
+    "total": 20,
+    "winrateA": 0.2
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 14,
-    "total": 17,
-    "winrateA": 0.8235294117647058
+    "winsA": 16,
+    "total": 20,
+    "winrateA": 0.8
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "greninja-a1-mega-absol-ex-b1",
     "winsA": 1,
-    "total": 16,
-    "winrateA": 0.0625
+    "total": 17,
+    "winrateA": 0.058823529411764705
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "galvantula-a3b-greninja-a1",
-    "winsA": 15,
-    "total": 16,
-    "winrateA": 0.9375
+    "winsA": 16,
+    "total": 17,
+    "winrateA": 0.9411764705882353
   },
   {
     "deckA": "oricorio-a3",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 1,
-    "total": 11,
-    "winrateA": 0.09090909090909091
+    "total": 12,
+    "winrateA": 0.08333333333333333
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "oricorio-a3",
-    "winsA": 10,
-    "total": 11,
-    "winrateA": 0.9090909090909091
+    "winsA": 11,
+    "total": 12,
+    "winrateA": 0.9166666666666666
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
@@ -2025,16 +2025,16 @@
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 8,
-    "total": 11,
-    "winrateA": 0.7272727272727273
+    "winsA": 9,
+    "total": 12,
+    "winrateA": 0.75
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-altaria-a4a",
     "winsA": 3,
-    "total": 11,
-    "winrateA": 0.2727272727272727
+    "total": 12,
+    "winrateA": 0.25
   },
   {
     "deckA": "magnezone-b1a-oricorio-a3",
@@ -2053,16 +2053,16 @@
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 9,
-    "total": 21,
-    "winrateA": 0.42857142857142855
+    "winsA": 10,
+    "total": 22,
+    "winrateA": 0.45454545454545453
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "giratina-ex-a2b-darkrai-ex-a2",
     "winsA": 12,
-    "total": 21,
-    "winrateA": 0.5714285714285714
+    "total": 22,
+    "winrateA": 0.5454545454545454
   },
   {
     "deckA": "magnezone-b1a-silvally-a3a",
@@ -2109,16 +2109,16 @@
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 9,
-    "total": 14,
-    "winrateA": 0.6428571428571429
+    "winsA": 11,
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 5,
-    "total": 14,
-    "winrateA": 0.35714285714285715
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
@@ -2179,15 +2179,15 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "annihilape-b2a-rampardos-a2",
-    "winsA": 4,
-    "total": 4,
+    "winsA": 5,
+    "total": 5,
     "winrateA": 1.0
   },
   {
     "deckA": "annihilape-b2a-rampardos-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 0,
-    "total": 4,
+    "total": 5,
     "winrateA": 0.0
   },
   {
@@ -2222,15 +2222,15 @@
     "deckA": "bellibolt-ex-b2a-magnezone-b1a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 40,
-    "total": 79,
-    "winrateA": 0.5063291139240507
+    "total": 80,
+    "winrateA": 0.5
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "bellibolt-ex-b2a-magnezone-b1a",
-    "winsA": 39,
-    "total": 79,
-    "winrateA": 0.4936708860759494
+    "winsA": 40,
+    "total": 80,
+    "winrateA": 0.5
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
@@ -2278,15 +2278,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "gholdengo-ex-orthworm-b2a",
     "winsA": 20,
-    "total": 30,
-    "winrateA": 0.6666666666666666
+    "total": 31,
+    "winrateA": 0.6451612903225806
   },
   {
     "deckA": "gholdengo-ex-orthworm-b2a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 10,
-    "total": 30,
-    "winrateA": 0.3333333333333333
+    "winsA": 11,
+    "total": 31,
+    "winrateA": 0.3548387096774194
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
@@ -2333,30 +2333,30 @@
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 12,
-    "total": 24,
-    "winrateA": 0.5
+    "winsA": 14,
+    "total": 27,
+    "winrateA": 0.5185185185185185
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "giratina-ex-a2b-darkrai-ex-a2",
-    "winsA": 12,
-    "total": 24,
-    "winrateA": 0.5
+    "winsA": 13,
+    "total": 27,
+    "winrateA": 0.48148148148148145
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 5,
-    "total": 12,
-    "winrateA": 0.4166666666666667
+    "winsA": 7,
+    "total": 14,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "galvantula-a3b-greninja-a1",
     "winsA": 7,
-    "total": 12,
-    "winrateA": 0.5833333333333334
+    "total": 14,
+    "winrateA": 0.5
   },
   {
     "deckA": "charizard-ex-a1-entei-ex-a4a",
@@ -2389,16 +2389,16 @@
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 20,
-    "total": 31,
-    "winrateA": 0.6451612903225806
+    "winsA": 21,
+    "total": 32,
+    "winrateA": 0.65625
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-altaria-ex-b1-altaria-a4a",
     "winsA": 11,
-    "total": 31,
-    "winrateA": 0.3548387096774194
+    "total": 32,
+    "winrateA": 0.34375
   },
   {
     "deckA": "alolan-ninetales-ex-b2-crawdaunt-a4",
@@ -2417,16 +2417,16 @@
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 4,
-    "total": 5,
-    "winrateA": 0.8
+    "winsA": 8,
+    "total": 12,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 1,
-    "total": 5,
-    "winrateA": 0.2
+    "winsA": 4,
+    "total": 12,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
@@ -2446,43 +2446,43 @@
     "deckA": "mega-blaziken-ex-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 4,
-    "total": 8,
-    "winrateA": 0.5
+    "total": 9,
+    "winrateA": 0.4444444444444444
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-blaziken-ex-b1",
-    "winsA": 4,
-    "total": 8,
-    "winrateA": 0.5
+    "winsA": 5,
+    "total": 9,
+    "winrateA": 0.5555555555555556
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "galvantula-a3b-greninja-a1",
-    "winsA": 11,
-    "total": 21,
-    "winrateA": 0.5238095238095238
+    "winsA": 13,
+    "total": 25,
+    "winrateA": 0.52
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 10,
-    "total": 21,
-    "winrateA": 0.47619047619047616
+    "winsA": 12,
+    "total": 25,
+    "winrateA": 0.48
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 7,
-    "total": 12,
-    "winrateA": 0.5833333333333334
+    "winsA": 8,
+    "total": 16,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 5,
-    "total": 12,
-    "winrateA": 0.4166666666666667
+    "winsA": 8,
+    "total": 16,
+    "winrateA": 0.5
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -2501,16 +2501,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-blaziken-ex-b1-entei-ex-a4a",
-    "winsA": 4,
-    "total": 7,
-    "winrateA": 0.5714285714285714
+    "winsA": 6,
+    "total": 9,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-blaziken-ex-b1-entei-ex-a4a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 3,
-    "total": 7,
-    "winrateA": 0.42857142857142855
+    "total": 9,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "jolteon-ex-b1-leafeon-ex-a2a",
@@ -2614,15 +2614,15 @@
     "deckA": "bellibolt-ex-b2a-magnezone-b1a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 20,
-    "total": 39,
-    "winrateA": 0.5128205128205128
+    "total": 40,
+    "winrateA": 0.5
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "bellibolt-ex-b2a-magnezone-b1a",
-    "winsA": 19,
-    "total": 39,
-    "winrateA": 0.48717948717948717
+    "winsA": 20,
+    "total": 40,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
@@ -2712,15 +2712,15 @@
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
     "winsA": 3,
-    "total": 6,
-    "winrateA": 0.5
+    "total": 8,
+    "winrateA": 0.375
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
-    "winsA": 3,
-    "total": 6,
-    "winrateA": 0.5
+    "winsA": 5,
+    "total": 8,
+    "winrateA": 0.625
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
@@ -2796,15 +2796,15 @@
     "deckA": "mega-blaziken-ex-b1-entei-ex-a4a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 4,
-    "total": 14,
-    "winrateA": 0.2857142857142857
+    "total": 15,
+    "winrateA": 0.26666666666666666
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-blaziken-ex-b1-entei-ex-a4a",
-    "winsA": 10,
-    "total": 14,
-    "winrateA": 0.7142857142857143
+    "winsA": 11,
+    "total": 15,
+    "winrateA": 0.7333333333333333
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -2908,15 +2908,15 @@
     "deckA": "mega-altaria-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 36,
-    "total": 68,
-    "winrateA": 0.5294117647058824
+    "total": 69,
+    "winrateA": 0.5217391304347826
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 32,
-    "total": 68,
-    "winrateA": 0.47058823529411764
+    "winsA": 33,
+    "total": 69,
+    "winrateA": 0.4782608695652174
   },
   {
     "deckA": "gholdengo-ex-orthworm-b2a",
@@ -2963,16 +2963,16 @@
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 1,
-    "total": 10,
-    "winrateA": 0.1
+    "winsA": 2,
+    "total": 11,
+    "winrateA": 0.18181818181818182
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "alolan-ninetales-ex-b2-baxcalibur-b2a",
     "winsA": 9,
-    "total": 10,
-    "winrateA": 0.9
+    "total": 11,
+    "winrateA": 0.8181818181818182
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
@@ -2992,15 +2992,15 @@
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 14,
-    "total": 30,
-    "winrateA": 0.4666666666666667
+    "total": 31,
+    "winrateA": 0.45161290322580644
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-b1-altaria-a4a",
-    "winsA": 16,
-    "total": 30,
-    "winrateA": 0.5333333333333333
+    "winsA": 17,
+    "total": 31,
+    "winrateA": 0.5483870967741935
   },
   {
     "deckA": "mega-altaria-ex-indeedee-ex-b1",
@@ -3089,23 +3089,23 @@
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 104,
-    "total": 208,
+    "winsA": 106,
+    "total": 212,
     "winrateA": 0.5
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 8,
-    "total": 30,
-    "winrateA": 0.26666666666666666
+    "winsA": 9,
+    "total": 33,
+    "winrateA": 0.2727272727272727
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 22,
-    "total": 30,
-    "winrateA": 0.7333333333333333
+    "winsA": 24,
+    "total": 33,
+    "winrateA": 0.7272727272727273
   },
   {
     "deckA": "mega-steelix-ex-b1a-skarmory-a2",
@@ -3285,16 +3285,16 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 10,
-    "total": 28,
-    "winrateA": 0.35714285714285715
+    "winsA": 12,
+    "total": 33,
+    "winrateA": 0.36363636363636365
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 18,
-    "total": 28,
-    "winrateA": 0.6428571428571429
+    "winsA": 21,
+    "total": 33,
+    "winrateA": 0.6363636363636364
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -3341,16 +3341,16 @@
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 12,
-    "total": 32,
-    "winrateA": 0.375
+    "winsA": 14,
+    "total": 35,
+    "winrateA": 0.4
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 20,
-    "total": 32,
-    "winrateA": 0.625
+    "winsA": 21,
+    "total": 35,
+    "winrateA": 0.6
   },
   {
     "deckA": "decidueye-ex-a3-decidueye-a3a",
@@ -3467,16 +3467,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-lopunny-ex-b1a-lucario-a2",
-    "winsA": 3,
-    "total": 5,
-    "winrateA": 0.6
+    "winsA": 4,
+    "total": 7,
+    "winrateA": 0.5714285714285714
   },
   {
     "deckA": "mega-lopunny-ex-b1a-lucario-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 2,
-    "total": 5,
-    "winrateA": 0.4
+    "winsA": 3,
+    "total": 7,
+    "winrateA": 0.42857142857142855
   },
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
@@ -3523,8 +3523,8 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 413,
-    "total": 826,
+    "winsA": 426,
+    "total": 852,
     "winrateA": 0.5
   },
   {
@@ -3559,15 +3559,15 @@
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 4,
-    "total": 10,
-    "winrateA": 0.4
+    "total": 11,
+    "winrateA": 0.36363636363636365
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 6,
-    "total": 10,
-    "winrateA": 0.6
+    "winsA": 7,
+    "total": 11,
+    "winrateA": 0.6363636363636364
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -3586,16 +3586,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
-    "winsA": 36,
-    "total": 50,
-    "winrateA": 0.72
+    "winsA": 37,
+    "total": 51,
+    "winrateA": 0.7254901960784313
   },
   {
     "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 14,
-    "total": 50,
-    "winrateA": 0.28
+    "total": 51,
+    "winrateA": 0.27450980392156865
   },
   {
     "deckA": "alolan-ninetales-ex-swellow-b2",
@@ -3670,16 +3670,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "jolteon-ex-b1-jolteon-a3b",
-    "winsA": 7,
-    "total": 11,
-    "winrateA": 0.6363636363636364
+    "winsA": 8,
+    "total": 14,
+    "winrateA": 0.5714285714285714
   },
   {
     "deckA": "jolteon-ex-b1-jolteon-a3b",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 4,
-    "total": 11,
-    "winrateA": 0.36363636363636365
+    "winsA": 6,
+    "total": 14,
+    "winrateA": 0.42857142857142855
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
@@ -3937,15 +3937,15 @@
     "deckA": "gourgeist-b2-houndstone-b2a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
     "winsA": 9,
-    "total": 16,
-    "winrateA": 0.5625
+    "total": 17,
+    "winrateA": 0.5294117647058824
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "gourgeist-b2-houndstone-b2a",
-    "winsA": 7,
-    "total": 16,
-    "winrateA": 0.4375
+    "winsA": 8,
+    "total": 17,
+    "winrateA": 0.47058823529411764
   },
   {
     "deckA": "meowscarada-ex-b2a",
@@ -4300,8 +4300,8 @@
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 3,
-    "total": 6,
+    "winsA": 4,
+    "total": 8,
     "winrateA": 0.5
   },
   {
@@ -4685,16 +4685,16 @@
   {
     "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 5,
+    "total": 8,
+    "winrateA": 0.625
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
-    "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "winsA": 3,
+    "total": 8,
+    "winrateA": 0.375
   },
   {
     "deckA": "alolan-ninetales-ex-b2-baxcalibur-b2a",
@@ -5939,15 +5939,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
     "winsA": 13,
-    "total": 19,
-    "winrateA": 0.6842105263157895
+    "total": 21,
+    "winrateA": 0.6190476190476191
   },
   {
     "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 6,
-    "total": 19,
-    "winrateA": 0.3157894736842105
+    "winsA": 8,
+    "total": 21,
+    "winrateA": 0.38095238095238093
   },
   {
     "deckA": "oricorio-a3",
@@ -5981,15 +5981,15 @@
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-altaria-ex-indeedee-ex-b1",
     "winsA": 11,
-    "total": 19,
-    "winrateA": 0.5789473684210527
+    "total": 20,
+    "winrateA": 0.55
   },
   {
     "deckA": "mega-altaria-ex-indeedee-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 8,
-    "total": 19,
-    "winrateA": 0.42105263157894735
+    "winsA": 9,
+    "total": 20,
+    "winrateA": 0.45
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
@@ -6022,15 +6022,15 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-altaria-ex-b1-altaria-a4a",
-    "winsA": 15,
-    "total": 30,
+    "winsA": 17,
+    "total": 34,
     "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 15,
-    "total": 30,
+    "winsA": 17,
+    "total": 34,
     "winrateA": 0.5
   },
   {
@@ -6176,30 +6176,30 @@
   {
     "deckA": "mega-altaria-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 44,
-    "total": 73,
-    "winrateA": 0.6027397260273972
+    "winsA": 46,
+    "total": 76,
+    "winrateA": 0.6052631578947368
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 29,
-    "total": 73,
-    "winrateA": 0.3972602739726027
+    "winsA": 30,
+    "total": 76,
+    "winrateA": 0.39473684210526316
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "giratina-ex-a2b-darkrai-ex-a2",
-    "winsA": 15,
-    "total": 23,
-    "winrateA": 0.6521739130434783
+    "winsA": 17,
+    "total": 25,
+    "winrateA": 0.68
   },
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 8,
-    "total": 23,
-    "winrateA": 0.34782608695652173
+    "total": 25,
+    "winrateA": 0.32
   },
   {
     "deckA": "gourgeist-meloetta-b2",
@@ -6232,16 +6232,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
-    "winsA": 13,
-    "total": 20,
-    "winrateA": 0.65
+    "winsA": 15,
+    "total": 23,
+    "winrateA": 0.6521739130434783
   },
   {
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 7,
-    "total": 20,
-    "winrateA": 0.35
+    "winsA": 8,
+    "total": 23,
+    "winrateA": 0.34782608695652173
   },
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
@@ -6470,16 +6470,16 @@
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 3,
-    "total": 5,
-    "winrateA": 0.6
+    "winsA": 5,
+    "total": 8,
+    "winrateA": 0.625
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "giratina-ex-a2b-darkrai-ex-a2",
-    "winsA": 2,
-    "total": 5,
-    "winrateA": 0.4
+    "winsA": 3,
+    "total": 8,
+    "winrateA": 0.375
   },
   {
     "deckA": "gourgeist-meloetta-b2",
@@ -6681,15 +6681,15 @@
     "deckA": "mega-altaria-ex-indeedee-ex-b1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 5,
-    "total": 15,
-    "winrateA": 0.3333333333333333
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-altaria-ex-indeedee-ex-b1",
-    "winsA": 10,
-    "total": 15,
-    "winrateA": 0.6666666666666666
+    "winsA": 11,
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "mega-blaziken-ex-b1-entei-ex-a4a",
@@ -6709,57 +6709,57 @@
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "gourgeist-b2-houndstone-b2a",
     "winsA": 36,
-    "total": 67,
-    "winrateA": 0.5373134328358209
+    "total": 68,
+    "winrateA": 0.5294117647058824
   },
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 31,
-    "total": 67,
-    "winrateA": 0.4626865671641791
+    "winsA": 32,
+    "total": 68,
+    "winrateA": 0.47058823529411764
   },
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 4,
-    "total": 25,
-    "winrateA": 0.16
+    "total": 26,
+    "winrateA": 0.15384615384615385
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
-    "winsA": 21,
-    "total": 25,
-    "winrateA": 0.84
+    "winsA": 22,
+    "total": 26,
+    "winrateA": 0.8461538461538461
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "winsA": 4,
-    "total": 10,
-    "winrateA": 0.4
+    "total": 11,
+    "winrateA": 0.36363636363636365
   },
   {
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 6,
-    "total": 10,
-    "winrateA": 0.6
+    "winsA": 7,
+    "total": 11,
+    "winrateA": 0.6363636363636364
   },
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 14,
-    "total": 20,
-    "winrateA": 0.7
+    "winsA": 17,
+    "total": 24,
+    "winrateA": 0.7083333333333334
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "galvantula-a3b-greninja-a1",
-    "winsA": 6,
-    "total": 20,
-    "winrateA": 0.3
+    "winsA": 7,
+    "total": 24,
+    "winrateA": 0.2916666666666667
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
@@ -7037,16 +7037,16 @@
   {
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 11,
-    "total": 18,
-    "winrateA": 0.6111111111111112
+    "winsA": 12,
+    "total": 19,
+    "winrateA": 0.631578947368421
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "galvantula-a3b-greninja-a1",
     "winsA": 7,
-    "total": 18,
-    "winrateA": 0.3888888888888889
+    "total": 19,
+    "winrateA": 0.3684210526315789
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -7065,30 +7065,30 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-blaziken-ex-heatmor-b1",
-    "winsA": 3,
-    "total": 6,
+    "winsA": 4,
+    "total": 8,
     "winrateA": 0.5
   },
   {
     "deckA": "mega-blaziken-ex-heatmor-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 3,
-    "total": 6,
+    "winsA": 4,
+    "total": 8,
     "winrateA": 0.5
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "greninja-a1-mega-absol-ex-b1",
     "winsA": 10,
-    "total": 19,
-    "winrateA": 0.5263157894736842
+    "total": 20,
+    "winrateA": 0.5
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 9,
-    "total": 19,
-    "winrateA": 0.47368421052631576
+    "winsA": 10,
+    "total": 20,
+    "winrateA": 0.5
   },
   {
     "deckA": "leafeon-ex-a2a-rampardos-a2",
@@ -7163,16 +7163,16 @@
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 16,
-    "total": 35,
-    "winrateA": 0.45714285714285713
+    "winsA": 21,
+    "total": 40,
+    "winrateA": 0.525
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
     "winsA": 19,
-    "total": 35,
-    "winrateA": 0.5428571428571428
+    "total": 40,
+    "winrateA": 0.475
   },
   {
     "deckA": "bellibolt-ex-b2a-magnezone-b1a",
@@ -7234,15 +7234,15 @@
     "deckA": "mega-altaria-ex-b1",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
     "winsA": 3,
-    "total": 3,
-    "winrateA": 1.0
+    "total": 4,
+    "winrateA": 0.75
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 0,
-    "total": 3,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 4,
+    "winrateA": 0.25
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -7730,16 +7730,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mimikyu-ex-b2-greninja-a1",
-    "winsA": 3,
-    "total": 8,
-    "winrateA": 0.375
+    "winsA": 4,
+    "total": 10,
+    "winrateA": 0.4
   },
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 5,
-    "total": 8,
-    "winrateA": 0.625
+    "winsA": 6,
+    "total": 10,
+    "winrateA": 0.6
   },
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
@@ -7898,16 +7898,16 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-lopunny-ex-b1a-lucario-a2",
-    "winsA": 18,
-    "total": 24,
-    "winrateA": 0.75
+    "winsA": 19,
+    "total": 27,
+    "winrateA": 0.7037037037037037
   },
   {
     "deckA": "mega-lopunny-ex-b1a-lucario-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 6,
-    "total": 24,
-    "winrateA": 0.25
+    "winsA": 8,
+    "total": 27,
+    "winrateA": 0.2962962962962963
   },
   {
     "deckA": "greninja-ex-b1-suicune-ex-a4a",
@@ -8011,15 +8011,15 @@
     "deckA": "mega-lopunny-ex-b1a-lucario-a2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 5,
-    "total": 14,
-    "winrateA": 0.35714285714285715
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-lopunny-ex-b1a-lucario-a2",
-    "winsA": 9,
-    "total": 14,
-    "winrateA": 0.6428571428571429
+    "winsA": 11,
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "galarian-obstagoon-b2-mega-absol-ex-b1",
@@ -8389,15 +8389,15 @@
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
     "winsA": 6,
-    "total": 7,
-    "winrateA": 0.8571428571428571
+    "total": 8,
+    "winrateA": 0.75
   },
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
-    "winsA": 1,
-    "total": 7,
-    "winrateA": 0.14285714285714285
+    "winsA": 2,
+    "total": 8,
+    "winrateA": 0.25
   },
   {
     "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
@@ -8557,15 +8557,15 @@
     "deckA": "alolan-ninetales-ex-b2-crawdaunt-a4",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "winsA": 2,
-    "total": 3,
-    "winrateA": 0.6666666666666666
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "alolan-ninetales-ex-b2-crawdaunt-a4",
-    "winsA": 1,
-    "total": 3,
-    "winrateA": 0.3333333333333333
+    "winsA": 2,
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-venusaur-ex-b1a",
@@ -9228,16 +9228,16 @@
   {
     "deckA": "decidueye-ex-a3-decidueye-a3a",
     "deckB": "jolteon-ex-b1-eevee-ex-a3b",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 4,
+    "winrateA": 0.25
   },
   {
     "deckA": "jolteon-ex-b1-eevee-ex-a3b",
     "deckB": "decidueye-ex-a3-decidueye-a3a",
-    "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "winsA": 3,
+    "total": 4,
+    "winrateA": 0.75
   },
   {
     "deckA": "gyarados-a4-palkia-ex-a2",
@@ -9480,16 +9480,16 @@
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "jolteon-ex-b1-eevee-ex-a3b",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "jolteon-ex-b1-eevee-ex-a3b",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
@@ -9550,16 +9550,16 @@
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "mega-venusaur-ex-b1a",
@@ -9705,15 +9705,15 @@
     "deckA": "decidueye-ex-a3-decidueye-a3a",
     "deckB": "alolan-ninetales-ex-b2-crawdaunt-a4",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "alolan-ninetales-ex-b2-crawdaunt-a4",
     "deckB": "decidueye-ex-a3-decidueye-a3a",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "chandelure-meowth-b2",
@@ -9760,16 +9760,16 @@
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "chandelure-meowth-b2",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "chandelure-meowth-b2",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "solgaleo-ex-a3-cleffa-a4",
@@ -9817,15 +9817,15 @@
     "deckA": "jolteon-ex-b1-eevee-ex-a3b",
     "deckB": "chandelure-meowth-b2",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "chandelure-meowth-b2",
     "deckB": "jolteon-ex-b1-eevee-ex-a3b",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
@@ -10068,16 +10068,16 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 28,
-    "total": 40,
-    "winrateA": 0.7
+    "winsA": 29,
+    "total": 41,
+    "winrateA": 0.7073170731707317
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 12,
-    "total": 40,
-    "winrateA": 0.3
+    "total": 41,
+    "winrateA": 0.2926829268292683
   },
   {
     "deckA": "magnezone-b1a-galvantula-a3b",
@@ -10111,15 +10111,15 @@
     "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 8,
-    "total": 22,
-    "winrateA": 0.36363636363636365
+    "total": 23,
+    "winrateA": 0.34782608695652173
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
-    "winsA": 14,
-    "total": 22,
-    "winrateA": 0.6363636363636364
+    "winsA": 15,
+    "total": 23,
+    "winrateA": 0.6521739130434783
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
@@ -10307,15 +10307,15 @@
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "bellibolt-ex-b2a-magnezone-b1a",
     "winsA": 13,
-    "total": 20,
-    "winrateA": 0.65
+    "total": 21,
+    "winrateA": 0.6190476190476191
   },
   {
     "deckA": "bellibolt-ex-b2a-magnezone-b1a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 7,
-    "total": 20,
-    "winrateA": 0.35
+    "winsA": 8,
+    "total": 21,
+    "winrateA": 0.38095238095238093
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
@@ -10446,16 +10446,16 @@
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "suicune-ex-a4a-greninja-ex-b1",
-    "winsA": 20,
-    "total": 30,
-    "winrateA": 0.6666666666666666
+    "winsA": 21,
+    "total": 31,
+    "winrateA": 0.6774193548387096
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 10,
-    "total": 30,
-    "winrateA": 0.3333333333333333
+    "total": 31,
+    "winrateA": 0.3225806451612903
   },
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
@@ -10643,14 +10643,14 @@
     "deckA": "mega-venusaur-ex-b1a",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 0,
-    "total": 4,
+    "total": 5,
     "winrateA": 0.0
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-venusaur-ex-b1a",
-    "winsA": 4,
-    "total": 4,
+    "winsA": 5,
+    "total": 5,
     "winrateA": 1.0
   },
   {
@@ -10699,15 +10699,15 @@
     "deckA": "magnezone-b1a-galvantula-a3b",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 6,
-    "total": 6,
-    "winrateA": 1.0
+    "total": 7,
+    "winrateA": 0.8571428571428571
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "magnezone-b1a-galvantula-a3b",
-    "winsA": 0,
-    "total": 6,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 7,
+    "winrateA": 0.14285714285714285
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
@@ -10726,16 +10726,16 @@
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 17,
-    "total": 19,
-    "winrateA": 0.8947368421052632
+    "winsA": 18,
+    "total": 20,
+    "winrateA": 0.9
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "greninja-a1-oricorio-a3",
     "winsA": 2,
-    "total": 19,
-    "winrateA": 0.10526315789473684
+    "total": 20,
+    "winrateA": 0.1
   },
   {
     "deckA": "mega-altaria-ex-b1",
@@ -10978,15 +10978,15 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
-    "winsA": 5,
-    "total": 5,
+    "winsA": 6,
+    "total": 6,
     "winrateA": 1.0
   },
   {
     "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 0,
-    "total": 5,
+    "total": 6,
     "winrateA": 0.0
   },
   {
@@ -12665,16 +12665,16 @@
   {
     "deckA": "gourgeist-b2-houndstone-b2a",
     "deckB": "mimikyu-ex-b2-greninja-a1",
-    "winsA": 5,
-    "total": 7,
-    "winrateA": 0.7142857142857143
+    "winsA": 7,
+    "total": 9,
+    "winrateA": 0.7777777777777778
   },
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "gourgeist-b2-houndstone-b2a",
     "winsA": 2,
-    "total": 7,
-    "winrateA": 0.2857142857142857
+    "total": 9,
+    "winrateA": 0.2222222222222222
   },
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
@@ -13387,15 +13387,15 @@
     "deckA": "jolteon-ex-b1-eevee-ex-a3b",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
     "winsA": 3,
-    "total": 3,
-    "winrateA": 1.0
+    "total": 4,
+    "winrateA": 0.75
   },
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "jolteon-ex-b1-eevee-ex-a3b",
-    "winsA": 0,
-    "total": 3,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 4,
+    "winrateA": 0.25
   },
   {
     "deckA": "wugtrio-ex-a2b-mantyke-a4a",
@@ -13429,14 +13429,14 @@
     "deckA": "galvantula-a3b-greninja-a1",
     "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
     "winsA": 0,
-    "total": 2,
+    "total": 3,
     "winrateA": 0.0
   },
   {
     "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
     "deckB": "galvantula-a3b-greninja-a1",
-    "winsA": 2,
-    "total": 2,
+    "winsA": 3,
+    "total": 3,
     "winrateA": 1.0
   },
   {
@@ -14394,15 +14394,15 @@
   {
     "deckA": "chandelure-meowth-b2",
     "deckB": "charizard-ex-a1-entei-ex-a4a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
     "deckA": "charizard-ex-a1-entei-ex-a4a",
     "deckB": "chandelure-meowth-b2",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
@@ -14772,16 +14772,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "magnezone-b1a-galvantula-a3b",
-    "winsA": 2,
-    "total": 3,
-    "winrateA": 0.6666666666666666
+    "winsA": 4,
+    "total": 5,
+    "winrateA": 0.8
   },
   {
     "deckA": "magnezone-b1a-galvantula-a3b",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 1,
-    "total": 3,
-    "winrateA": 0.3333333333333333
+    "total": 5,
+    "winrateA": 0.2
   },
   {
     "deckA": "meowscarada-a2b-decidueye-ex-a3",
@@ -15263,15 +15263,15 @@
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "magnezone-b1a-galvantula-a3b",
     "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "magnezone-b1a-galvantula-a3b",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-lopunny-ex-b1a-lucario-a2",
@@ -15347,15 +15347,15 @@
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
     "winsA": 23,
-    "total": 29,
-    "winrateA": 0.7931034482758621
+    "total": 30,
+    "winrateA": 0.7666666666666667
   },
   {
     "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 6,
-    "total": 29,
-    "winrateA": 0.20689655172413793
+    "winsA": 7,
+    "total": 30,
+    "winrateA": 0.23333333333333334
   },
   {
     "deckA": "jolteon-ex-b1-jolteon-a3b",
@@ -15486,16 +15486,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 14,
-    "total": 31,
-    "winrateA": 0.45161290322580644
+    "winsA": 15,
+    "total": 33,
+    "winrateA": 0.45454545454545453
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 17,
-    "total": 31,
-    "winrateA": 0.5483870967741935
+    "winsA": 18,
+    "total": 33,
+    "winrateA": 0.5454545454545454
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
@@ -15710,16 +15710,16 @@
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "giratina-ex-a2b-darkrai-ex-a2",
-    "winsA": 5,
-    "total": 10,
-    "winrateA": 0.5
+    "winsA": 6,
+    "total": 11,
+    "winrateA": 0.5454545454545454
   },
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 5,
-    "total": 10,
-    "winrateA": 0.5
+    "total": 11,
+    "winrateA": 0.45454545454545453
   },
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
@@ -16418,15 +16418,15 @@
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "suicune-ex-a4a-greninja-ex-b1",
     "winsA": 32,
-    "total": 39,
-    "winrateA": 0.8205128205128205
+    "total": 41,
+    "winrateA": 0.7804878048780488
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 7,
-    "total": 39,
-    "winrateA": 0.1794871794871795
+    "winsA": 9,
+    "total": 41,
+    "winrateA": 0.21951219512195122
   },
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
@@ -16529,16 +16529,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "jolteon-ex-b1-jolteon-a3b",
-    "winsA": 13,
-    "total": 26,
-    "winrateA": 0.5
+    "winsA": 15,
+    "total": 28,
+    "winrateA": 0.5357142857142857
   },
   {
     "deckA": "jolteon-ex-b1-jolteon-a3b",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 13,
-    "total": 26,
-    "winrateA": 0.5
+    "total": 28,
+    "winrateA": 0.4642857142857143
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
@@ -16641,16 +16641,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
-    "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "winsA": 4,
+    "total": 5,
+    "winrateA": 0.8
   },
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 5,
+    "winrateA": 0.2
   },
   {
     "deckA": "leafeon-ex-a2a-rampardos-a2",
@@ -16823,16 +16823,16 @@
   {
     "deckA": "galarian-obstagoon-b2-darkrai-ex-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 2,
+    "total": 5,
+    "winrateA": 0.4
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "galarian-obstagoon-b2-darkrai-ex-a2",
-    "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "winsA": 3,
+    "total": 5,
+    "winrateA": 0.6
   },
   {
     "deckA": "pawmot-a2b-oricorio-a3",
@@ -17047,16 +17047,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
-    "winsA": 3,
-    "total": 5,
-    "winrateA": 0.6
+    "winsA": 4,
+    "total": 6,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 2,
-    "total": 5,
-    "winrateA": 0.4
+    "total": 6,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "indeedee-ex-b1-snorlax-ex-a3b",
@@ -17257,29 +17257,29 @@
   {
     "deckA": "mega-venusaur-ex-b1a",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 3,
-    "total": 10,
-    "winrateA": 0.3
+    "winsA": 4,
+    "total": 11,
+    "winrateA": 0.36363636363636365
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-venusaur-ex-b1a",
     "winsA": 7,
-    "total": 10,
-    "winrateA": 0.7
+    "total": 11,
+    "winrateA": 0.6363636363636364
   },
   {
     "deckA": "galarian-obstagoon-b2-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 0,
-    "total": 3,
+    "total": 4,
     "winrateA": 0.0
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "galarian-obstagoon-b2-darkrai-ex-a2",
-    "winsA": 3,
-    "total": 3,
+    "winsA": 4,
+    "total": 4,
     "winrateA": 1.0
   },
   {
@@ -17761,16 +17761,16 @@
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 9,
-    "total": 14,
-    "winrateA": 0.6428571428571429
+    "winsA": 12,
+    "total": 17,
+    "winrateA": 0.7058823529411765
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "winsA": 5,
-    "total": 14,
-    "winrateA": 0.35714285714285715
+    "total": 17,
+    "winrateA": 0.29411764705882354
   },
   {
     "deckA": "galarian-cursola-a4a-giratina-ex-a2b",
@@ -17831,16 +17831,16 @@
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-venusaur-ex-b1a-chingling-b1",
-    "winsA": 3,
-    "total": 13,
-    "winrateA": 0.23076923076923078
+    "winsA": 5,
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "mega-venusaur-ex-b1a-chingling-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 10,
-    "total": 13,
-    "winrateA": 0.7692307692307693
+    "winsA": 11,
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
@@ -18210,15 +18210,15 @@
     "deckA": "jolteon-ex-b1-jolteon-a3b",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 11,
-    "total": 15,
-    "winrateA": 0.7333333333333333
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "jolteon-ex-b1-jolteon-a3b",
-    "winsA": 4,
-    "total": 15,
-    "winrateA": 0.26666666666666666
+    "winsA": 5,
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
@@ -18251,16 +18251,16 @@
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
-    "winsA": 3,
-    "total": 4,
-    "winrateA": 0.75
+    "winsA": 4,
+    "total": 5,
+    "winrateA": 0.8
   },
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 1,
-    "total": 4,
-    "winrateA": 0.25
+    "total": 5,
+    "winrateA": 0.2
   },
   {
     "deckA": "skarmory-ex-a4",
@@ -18433,16 +18433,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
-    "winsA": 11,
-    "total": 21,
-    "winrateA": 0.5238095238095238
+    "winsA": 12,
+    "total": 22,
+    "winrateA": 0.5454545454545454
   },
   {
     "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 10,
-    "total": 21,
-    "winrateA": 0.47619047619047616
+    "total": 22,
+    "winrateA": 0.45454545454545453
   },
   {
     "deckA": "solgaleo-ex-a3-mega-steelix-ex-b1a",
@@ -18811,16 +18811,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
-    "winsA": 13,
-    "total": 17,
-    "winrateA": 0.7647058823529411
+    "winsA": 14,
+    "total": 19,
+    "winrateA": 0.7368421052631579
   },
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 4,
-    "total": 17,
-    "winrateA": 0.23529411764705882
+    "winsA": 5,
+    "total": 19,
+    "winrateA": 0.2631578947368421
   },
   {
     "deckA": "moltres-ex-a1-skeledirge-b2a",
@@ -19035,16 +19035,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
-    "winsA": 3,
-    "total": 8,
-    "winrateA": 0.375
+    "winsA": 4,
+    "total": 11,
+    "winrateA": 0.36363636363636365
   },
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 5,
-    "total": 8,
-    "winrateA": 0.625
+    "winsA": 7,
+    "total": 11,
+    "winrateA": 0.6363636363636364
   },
   {
     "deckA": "magnezone-b1a-mega-kangaskhan-ex-b2",
@@ -19274,15 +19274,15 @@
     "deckA": "mega-venusaur-ex-b1a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 4,
-    "total": 12,
-    "winrateA": 0.3333333333333333
+    "total": 13,
+    "winrateA": 0.3076923076923077
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-venusaur-ex-b1a",
-    "winsA": 8,
-    "total": 12,
-    "winrateA": 0.6666666666666666
+    "winsA": 9,
+    "total": 13,
+    "winrateA": 0.6923076923076923
   },
   {
     "deckA": "tauros-ex-b1-darkrai-ex-a2",
@@ -19554,15 +19554,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-venusaur-ex-b1a",
     "winsA": 5,
-    "total": 22,
-    "winrateA": 0.22727272727272727
+    "total": 23,
+    "winrateA": 0.21739130434782608
   },
   {
     "deckA": "mega-venusaur-ex-b1a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 17,
-    "total": 22,
-    "winrateA": 0.7727272727272727
+    "winsA": 18,
+    "total": 23,
+    "winrateA": 0.782608695652174
   },
   {
     "deckA": "mega-venusaur-ex-b1a-chingling-b1",
@@ -19609,16 +19609,16 @@
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "oricorio-a3",
-    "winsA": 3,
-    "total": 4,
-    "winrateA": 0.75
+    "winsA": 4,
+    "total": 5,
+    "winrateA": 0.8
   },
   {
     "deckA": "oricorio-a3",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 1,
-    "total": 4,
-    "winrateA": 0.25
+    "total": 5,
+    "winrateA": 0.2
   },
   {
     "deckA": "crobat-a2a-mega-absol-ex-b1",
@@ -19862,15 +19862,15 @@
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-venusaur-ex-b1a-chingling-b1",
     "winsA": 3,
-    "total": 3,
-    "winrateA": 1.0
+    "total": 5,
+    "winrateA": 0.6
   },
   {
     "deckA": "mega-venusaur-ex-b1a-chingling-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 0,
-    "total": 3,
-    "winrateA": 0.0
+    "winsA": 2,
+    "total": 5,
+    "winrateA": 0.4
   },
   {
     "deckA": "giratina-ex-a2b-darkrai-ex-a2",
@@ -19988,14 +19988,14 @@
     "deckA": "gyarados-a4-chien-pao-ex-b2a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 0,
-    "total": 1,
+    "total": 3,
     "winrateA": 0.0
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "gyarados-a4-chien-pao-ex-b2a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 3,
+    "total": 3,
     "winrateA": 1.0
   },
   {
@@ -20029,15 +20029,15 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
-    "winsA": 3,
-    "total": 3,
+    "winsA": 4,
+    "total": 4,
     "winrateA": 1.0
   },
   {
     "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 0,
-    "total": 3,
+    "total": 4,
     "winrateA": 0.0
   },
   {
@@ -20169,16 +20169,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
-    "winsA": 46,
-    "total": 75,
-    "winrateA": 0.6133333333333333
+    "winsA": 47,
+    "total": 76,
+    "winrateA": 0.618421052631579
   },
   {
     "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 29,
-    "total": 75,
-    "winrateA": 0.38666666666666666
+    "total": 76,
+    "winrateA": 0.3815789473684211
   },
   {
     "deckA": "melmetal-ex-b1-galarian-perrserker-b2",
@@ -20533,16 +20533,16 @@
   {
     "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
     "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "darkrai-ex-a2-eevee-ex-a3b",
@@ -21205,16 +21205,16 @@
   {
     "deckA": "mega-altaria-ex-altaria-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 12,
-    "total": 21,
-    "winrateA": 0.5714285714285714
+    "winsA": 13,
+    "total": 22,
+    "winrateA": 0.5909090909090909
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-altaria-ex-altaria-b1",
     "winsA": 9,
-    "total": 21,
-    "winrateA": 0.42857142857142855
+    "total": 22,
+    "winrateA": 0.4090909090909091
   },
   {
     "deckA": "baxcalibur-b2a-palkia-ex-a2",
@@ -21374,29 +21374,29 @@
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-altaria-b1",
     "winsA": 4,
-    "total": 8,
-    "winrateA": 0.5
+    "total": 10,
+    "winrateA": 0.4
   },
   {
     "deckA": "mega-altaria-ex-altaria-b1",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 4,
-    "total": 8,
-    "winrateA": 0.5
+    "winsA": 6,
+    "total": 10,
+    "winrateA": 0.6
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "suicune-ex-a4a-greninja-ex-b1",
-    "winsA": 30,
-    "total": 46,
-    "winrateA": 0.6521739130434783
+    "winsA": 31,
+    "total": 48,
+    "winrateA": 0.6458333333333334
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 16,
-    "total": 46,
-    "winrateA": 0.34782608695652173
+    "winsA": 17,
+    "total": 48,
+    "winrateA": 0.3541666666666667
   },
   {
     "deckA": "magnezone-heliolisk-b1a",
@@ -21793,16 +21793,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "suicune-ex-a4a-greninja-ex-b1",
-    "winsA": 4,
-    "total": 5,
-    "winrateA": 0.8
+    "winsA": 6,
+    "total": 9,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 1,
-    "total": 5,
-    "winrateA": 0.2
+    "winsA": 3,
+    "total": 9,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "magnezone-heliolisk-b1a",
@@ -22465,16 +22465,16 @@
   {
     "deckA": "galarian-obstagoon-b2-darkrai-ex-a2",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "galarian-obstagoon-b2-darkrai-ex-a2",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "hydreigon-b1-guzzlord-ex-a3a",
@@ -22521,16 +22521,16 @@
   {
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "skarmory-ex-a4",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "skarmory-ex-a4",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
     "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "celebi-ex-serperior-a1a",
@@ -23557,16 +23557,16 @@
   {
     "deckA": "mega-altaria-ex-b1-altaria-a4a",
     "deckB": "mega-altaria-ex-b1",
-    "winsA": 1,
-    "total": 3,
-    "winrateA": 0.3333333333333333
+    "winsA": 2,
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1",
     "deckB": "mega-altaria-ex-b1-altaria-a4a",
     "winsA": 2,
-    "total": 3,
-    "winrateA": 0.6666666666666666
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "greninja-a1-oricorio-a3",
@@ -28276,14 +28276,14 @@
     "deckA": "rayquaza-ex-p-a-zeraora-a3a",
     "deckB": "alolan-ninetales-ex-b2-crawdaunt-a4",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "alolan-ninetales-ex-b2-crawdaunt-a4",
     "deckB": "rayquaza-ex-p-a-zeraora-a3a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -29017,16 +29017,16 @@
   {
     "deckA": "mega-altaria-ex-b1-gourgeist-b2",
     "deckB": "mimikyu-ex-b2-greninja-a1",
-    "winsA": 1,
-    "total": 4,
-    "winrateA": 0.25
+    "winsA": 3,
+    "total": 6,
+    "winrateA": 0.5
   },
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "mega-altaria-ex-b1-gourgeist-b2",
     "winsA": 3,
-    "total": 4,
-    "winrateA": 0.75
+    "total": 6,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
@@ -29101,16 +29101,16 @@
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 2,
-    "total": 6,
-    "winrateA": 0.3333333333333333
+    "winsA": 3,
+    "total": 8,
+    "winrateA": 0.375
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mimikyu-ex-b2-greninja-a1",
-    "winsA": 4,
-    "total": 6,
-    "winrateA": 0.6666666666666666
+    "winsA": 5,
+    "total": 8,
+    "winrateA": 0.625
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
@@ -29395,16 +29395,16 @@
   {
     "deckA": "annihilape-b2a-rampardos-a2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 4,
-    "total": 4,
-    "winrateA": 1.0
+    "winsA": 5,
+    "total": 6,
+    "winrateA": 0.8333333333333334
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "annihilape-b2a-rampardos-a2",
-    "winsA": 0,
-    "total": 4,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 6,
+    "winrateA": 0.16666666666666666
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
@@ -29535,16 +29535,16 @@
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 6,
-    "total": 16,
-    "winrateA": 0.375
+    "winsA": 7,
+    "total": 19,
+    "winrateA": 0.3684210526315789
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mimikyu-ex-b2-greninja-a1",
-    "winsA": 10,
-    "total": 16,
-    "winrateA": 0.625
+    "winsA": 12,
+    "total": 19,
+    "winrateA": 0.631578947368421
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -30431,16 +30431,16 @@
   {
     "deckA": "magnezone-b1a-mega-absol-ex-b1",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
-    "winsA": 4,
-    "total": 9,
-    "winrateA": 0.4444444444444444
+    "winsA": 6,
+    "total": 11,
+    "winrateA": 0.5454545454545454
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "magnezone-b1a-mega-absol-ex-b1",
     "winsA": 5,
-    "total": 9,
-    "winrateA": 0.5555555555555556
+    "total": 11,
+    "winrateA": 0.45454545454545453
   },
   {
     "deckA": "chien-pao-ex-baxcalibur-b2a",
@@ -30571,16 +30571,16 @@
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 6,
-    "total": 18,
-    "winrateA": 0.3333333333333333
+    "winsA": 7,
+    "total": 19,
+    "winrateA": 0.3684210526315789
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
     "winsA": 12,
-    "total": 18,
-    "winrateA": 0.6666666666666666
+    "total": 19,
+    "winrateA": 0.631578947368421
   },
   {
     "deckA": "meowscarada-ex-b2a-decidueye-ex-a3",
@@ -30781,16 +30781,16 @@
   {
     "deckA": "magnezone-b1a-mega-absol-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 9,
-    "total": 14,
-    "winrateA": 0.6428571428571429
+    "winsA": 11,
+    "total": 16,
+    "winrateA": 0.6875
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "magnezone-b1a-mega-absol-ex-b1",
     "winsA": 5,
-    "total": 14,
-    "winrateA": 0.35714285714285715
+    "total": 16,
+    "winrateA": 0.3125
   },
   {
     "deckA": "suicune-ex-a4a-alolan-ninetales-ex-b2",
@@ -31551,16 +31551,16 @@
   {
     "deckA": "magnezone-b1a-mega-absol-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 8,
-    "total": 16,
-    "winrateA": 0.5
+    "winsA": 9,
+    "total": 17,
+    "winrateA": 0.5294117647058824
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "magnezone-b1a-mega-absol-ex-b1",
     "winsA": 8,
-    "total": 16,
-    "winrateA": 0.5
+    "total": 17,
+    "winrateA": 0.47058823529411764
   },
   {
     "deckA": "rampardos-a2",
@@ -31887,16 +31887,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "gholdengo-ex-orthworm-b2a",
-    "winsA": 12,
-    "total": 21,
-    "winrateA": 0.5714285714285714
+    "winsA": 13,
+    "total": 22,
+    "winrateA": 0.5909090909090909
   },
   {
     "deckA": "gholdengo-ex-orthworm-b2a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 9,
-    "total": 21,
-    "winrateA": 0.42857142857142855
+    "total": 22,
+    "winrateA": 0.4090909090909091
   },
   {
     "deckA": "guzzlord-ex-a3a",
@@ -32223,16 +32223,16 @@
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
@@ -33218,15 +33218,15 @@
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-altaria-ex-altaria-b1",
     "winsA": 4,
-    "total": 13,
-    "winrateA": 0.3076923076923077
+    "total": 15,
+    "winrateA": 0.26666666666666666
   },
   {
     "deckA": "mega-altaria-ex-altaria-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 9,
-    "total": 13,
-    "winrateA": 0.6923076923076923
+    "winsA": 11,
+    "total": 15,
+    "winrateA": 0.7333333333333333
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
@@ -34107,15 +34107,15 @@
     "deckA": "jolteon-ex-b1-jolteon-a3b",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "jolteon-ex-b1-jolteon-a3b",
-    "winsA": 1,
-    "total": 2,
-    "winrateA": 0.5
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "mega-altaria-ex-altaria-b1",
@@ -34428,15 +34428,15 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "raikou-ex-a4a-pawmot-b2a",
-    "winsA": 2,
-    "total": 2,
+    "winsA": 3,
+    "total": 3,
     "winrateA": 1.0
   },
   {
     "deckA": "raikou-ex-a4a-pawmot-b2a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 0,
-    "total": 2,
+    "total": 3,
     "winrateA": 0.0
   },
   {
@@ -34470,16 +34470,16 @@
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "mega-blaziken-ex-heatmor-b1",
-    "winsA": 6,
-    "total": 14,
-    "winrateA": 0.42857142857142855
+    "winsA": 7,
+    "total": 15,
+    "winrateA": 0.4666666666666667
   },
   {
     "deckA": "mega-blaziken-ex-heatmor-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 8,
-    "total": 14,
-    "winrateA": 0.5714285714285714
+    "total": 15,
+    "winrateA": 0.5333333333333333
   },
   {
     "deckA": "crobat-ex-a4-crobat-a2a",
@@ -35198,15 +35198,15 @@
   {
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-lopunny-ex-b1a-lucario-a2",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
     "deckA": "mega-lopunny-ex-b1a-lucario-a2",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
@@ -36221,15 +36221,15 @@
     "deckA": "melmetal-ex-b1-melmetal-a3b",
     "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
     "deckB": "melmetal-ex-b1-melmetal-a3b",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "lunala-ex-a3-mimikyu-ex-b2",
@@ -36319,14 +36319,14 @@
     "deckA": "magnezone-b1a-mega-absol-ex-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 0,
-    "total": 3,
+    "total": 4,
     "winrateA": 0.0
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "magnezone-b1a-mega-absol-ex-b1",
-    "winsA": 3,
-    "total": 3,
+    "winsA": 4,
+    "total": 4,
     "winrateA": 1.0
   },
   {
@@ -38880,16 +38880,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-venusaur-ex-b1a-chingling-b1",
-    "winsA": 3,
-    "total": 5,
-    "winrateA": 0.6
+    "winsA": 4,
+    "total": 8,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-venusaur-ex-b1a-chingling-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 2,
-    "total": 5,
-    "winrateA": 0.4
+    "winsA": 4,
+    "total": 8,
+    "winrateA": 0.5
   },
   {
     "deckA": "raikou-ex-a4a-luxray-b1",
@@ -40470,15 +40470,15 @@
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "mega-altaria-ex-altaria-b1",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-altaria-b1",
     "deckB": "greninja-a1-oricorio-a3",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "crobat-ex-a4-darkrai-ex-a2",
@@ -42444,14 +42444,14 @@
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
     "winsA": 0,
-    "total": 2,
+    "total": 3,
     "winrateA": 0.0
   },
   {
     "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
     "deckB": "greninja-a1-oricorio-a3",
-    "winsA": 2,
-    "total": 2,
+    "winsA": 3,
+    "total": 3,
     "winrateA": 1.0
   },
   {
@@ -42598,15 +42598,15 @@
     "deckA": "dragonite-ex-a3b-dragonite-a1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
     "winsA": 2,
-    "total": 11,
-    "winrateA": 0.18181818181818182
+    "total": 12,
+    "winrateA": 0.16666666666666666
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "dragonite-ex-a3b-dragonite-a1",
-    "winsA": 9,
-    "total": 11,
-    "winrateA": 0.8181818181818182
+    "winsA": 10,
+    "total": 12,
+    "winrateA": 0.8333333333333334
   },
   {
     "deckA": "skeledirge-b2a-oricorio-b2",
@@ -45202,15 +45202,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
     "winsA": 2,
-    "total": 2,
-    "winrateA": 1.0
+    "total": 3,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 0,
-    "total": 2,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "baxcalibur-b2a-suicune-ex-a4a",
@@ -45748,15 +45748,15 @@
     "deckA": "gholdengo-ex-orthworm-b2a",
     "deckB": "hydreigon-mega-absol-ex-b1",
     "winsA": 6,
-    "total": 16,
-    "winrateA": 0.375
+    "total": 17,
+    "winrateA": 0.35294117647058826
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "gholdengo-ex-orthworm-b2a",
-    "winsA": 10,
-    "total": 16,
-    "winrateA": 0.625
+    "winsA": 11,
+    "total": 17,
+    "winrateA": 0.6470588235294118
   },
   {
     "deckA": "dragonite-ex-a3b-dragonite-a1",
@@ -46307,15 +46307,15 @@
   {
     "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "deckB": "hydreigon-mega-absol-ex-b1",
-    "winsA": 2,
-    "total": 2,
+    "winsA": 3,
+    "total": 3,
     "winrateA": 1.0
   },
   {
     "deckA": "hydreigon-mega-absol-ex-b1",
     "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
     "winsA": 0,
-    "total": 2,
+    "total": 3,
     "winrateA": 0.0
   },
   {
@@ -46728,15 +46728,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
     "winsA": 2,
-    "total": 3,
-    "winrateA": 0.6666666666666666
+    "total": 5,
+    "winrateA": 0.4
   },
   {
     "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 1,
-    "total": 3,
-    "winrateA": 0.3333333333333333
+    "winsA": 3,
+    "total": 5,
+    "winrateA": 0.6
   },
   {
     "deckA": "oricorio-a3",
@@ -47162,15 +47162,15 @@
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
@@ -47274,14 +47274,14 @@
     "deckA": "vanilluxe-b2-alcremie-a3b",
     "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
     "deckB": "vanilluxe-b2-alcremie-a3b",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -48624,16 +48624,16 @@
   {
     "deckA": "jolteon-ex-b1-magnezone-b1a",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 3,
-    "total": 4,
-    "winrateA": 0.75
+    "winsA": 5,
+    "total": 7,
+    "winrateA": 0.7142857142857143
   },
   {
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "jolteon-ex-b1-magnezone-b1a",
-    "winsA": 1,
-    "total": 4,
-    "winrateA": 0.25
+    "winsA": 2,
+    "total": 7,
+    "winrateA": 0.2857142857142857
   },
   {
     "deckA": "greninja-ex-b1-chien-pao-ex-b2a",
@@ -49002,16 +49002,16 @@
   {
     "deckA": "jolteon-ex-b1-magnezone-b1a",
     "deckB": "greninja-a1-mega-absol-ex-b1",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "greninja-a1-mega-absol-ex-b1",
     "deckB": "jolteon-ex-b1-magnezone-b1a",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "tyrantrum-b2-chingling-b1",
@@ -49156,16 +49156,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "jolteon-ex-b1-magnezone-b1a",
-    "winsA": 2,
-    "total": 3,
-    "winrateA": 0.6666666666666666
+    "winsA": 3,
+    "total": 4,
+    "winrateA": 0.75
   },
   {
     "deckA": "jolteon-ex-b1-magnezone-b1a",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
     "winsA": 1,
-    "total": 3,
-    "winrateA": 0.3333333333333333
+    "total": 4,
+    "winrateA": 0.25
   },
   {
     "deckA": "gengar-ex-a1-mega-gardevoir-ex-b2",
@@ -50234,16 +50234,16 @@
   {
     "deckA": "mimikyu-ex-b2-greninja-a1",
     "deckB": "bellibolt-ex-b2a-zeraora-a3a",
-    "winsA": 3,
-    "total": 5,
-    "winrateA": 0.6
+    "winsA": 4,
+    "total": 6,
+    "winrateA": 0.6666666666666666
   },
   {
     "deckA": "bellibolt-ex-b2a-zeraora-a3a",
     "deckB": "mimikyu-ex-b2-greninja-a1",
     "winsA": 2,
-    "total": 5,
-    "winrateA": 0.4
+    "total": 6,
+    "winrateA": 0.3333333333333333
   },
   {
     "deckA": "greninja-ex-b1-chien-pao-ex-b2a",
@@ -52664,15 +52664,15 @@
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "vanilluxe-b2-alcremie-a3b",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "vanilluxe-b2-alcremie-a3b",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "gengar-ex-a1-mega-gardevoir-ex-b2",
@@ -53861,15 +53861,15 @@
     "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
     "deckB": "vanilluxe-b2-alcremie-a3b",
     "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "vanilluxe-b2-alcremie-a3b",
     "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
   },
   {
     "deckA": "pawmot-b2a-oricorio-a3",
@@ -54785,14 +54785,14 @@
     "deckA": "mega-altaria-ex-indeedee-ex-b1",
     "deckB": "suicune-ex-a4a-greninja-ex-b1",
     "winsA": 0,
-    "total": 4,
+    "total": 5,
     "winrateA": 0.0
   },
   {
     "deckA": "suicune-ex-a4a-greninja-ex-b1",
     "deckB": "mega-altaria-ex-indeedee-ex-b1",
-    "winsA": 4,
-    "total": 4,
+    "winsA": 5,
+    "total": 5,
     "winrateA": 1.0
   },
   {
@@ -56814,16 +56814,16 @@
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
     "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
-    "winsA": 1,
-    "total": 1,
-    "winrateA": 1.0
+    "winsA": 2,
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
     "deckB": "mega-altaria-ex-b1-greninja-a1",
-    "winsA": 0,
-    "total": 1,
-    "winrateA": 0.0
+    "winsA": 2,
+    "total": 4,
+    "winrateA": 0.5
   },
   {
     "deckA": "mega-altaria-ex-b1-greninja-a1",
@@ -57081,15 +57081,15 @@
     "deckA": "suicune-ex-a4a-baxcalibur-b2a",
     "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
     "winsA": 4,
-    "total": 6,
-    "winrateA": 0.6666666666666666
+    "total": 7,
+    "winrateA": 0.5714285714285714
   },
   {
     "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
     "deckB": "suicune-ex-a4a-baxcalibur-b2a",
-    "winsA": 2,
-    "total": 6,
-    "winrateA": 0.3333333333333333
+    "winsA": 3,
+    "total": 7,
+    "winrateA": 0.42857142857142855
   },
   {
     "deckA": "decidueye-ex-a3-decidueye-a3a",
@@ -60469,14 +60469,14 @@
     "deckA": "decidueye-ex-a3-decidueye-a3a",
     "deckB": "mega-gardevoir-ex-meloetta-b2",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "mega-gardevoir-ex-meloetta-b2",
     "deckB": "decidueye-ex-a3-decidueye-a3a",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -62680,15 +62680,15 @@
   {
     "deckA": "greninja-a1-oricorio-a3",
     "deckB": "mega-mawile-ex-b2",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
     "deckA": "mega-mawile-ex-b2",
     "deckB": "greninja-a1-oricorio-a3",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
@@ -68085,14 +68085,14 @@
     "deckA": "mega-mawile-ex-b2",
     "deckB": "magnezone-b1a-bellibolt-ex-b2a",
     "winsA": 0,
-    "total": 1,
+    "total": 2,
     "winrateA": 0.0
   },
   {
     "deckA": "magnezone-b1a-bellibolt-ex-b2a",
     "deckB": "mega-mawile-ex-b2",
-    "winsA": 1,
-    "total": 1,
+    "winsA": 2,
+    "total": 2,
     "winrateA": 1.0
   },
   {
@@ -68976,5 +68976,2056 @@
     "winsA": 1,
     "total": 1,
     "winrateA": 1.0
+  },
+  {
+    "deckA": "greninja-a1-oricorio-a3",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "greninja-a1-oricorio-a3",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "giratina-ex-a2b-darkrai-ex-a2",
+    "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "deckB": "giratina-ex-a2b-darkrai-ex-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-altaria-ex-b1",
+    "deckB": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-altaria-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-greninja-ex-b1",
+    "deckB": "jolteon-ex-b1-jolteon-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-jolteon-a3b",
+    "deckB": "suicune-ex-a4a-greninja-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
+    "deckB": "mega-altaria-ex-altaria-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-altaria-b1",
+    "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "annihilape-b2a-rampardos-a2",
+    "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
+    "deckB": "annihilape-b2a-rampardos-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "skarmory-ex-a4-magnezone-b1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "skarmory-ex-a4-magnezone-b1a",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "lycanroc-a3",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "lycanroc-a3",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "mega-lopunny-ex-b1a-lucario-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-lucario-a2",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mimikyu-ex-b2-greninja-a1",
+    "deckB": "greninja-a1-oricorio-a3",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "greninja-a1-oricorio-a3",
+    "deckB": "mimikyu-ex-b2-greninja-a1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-venusaur-ex-b1a-chingling-b1",
+    "deckB": "jolteon-ex-b1-jolteon-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-jolteon-a3b",
+    "deckB": "mega-venusaur-ex-b1a-chingling-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "galarian-obstagoon-b2-darkrai-ex-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "galarian-obstagoon-b2-darkrai-ex-a2",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mimikyu-ex-b2-greninja-a1",
+    "deckB": "magnezone-b1a-mega-absol-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "magnezone-b1a-mega-absol-ex-b1",
+    "deckB": "mimikyu-ex-b2-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "galvantula-a3b-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "galvantula-a3b-greninja-a1",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "skarmory-ex-a4-magnezone-b1a",
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
+  },
+  {
+    "deckA": "skarmory-ex-a4-magnezone-b1a",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "magnezone-b1a-bellibolt-ex-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "magnezone-b1a-bellibolt-ex-b2a",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "lycanroc-a3",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "lycanroc-a3",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "zoroark-a4a-galarian-obstagoon-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "zoroark-a4a-galarian-obstagoon-b2",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
+  },
+  {
+    "deckA": "mega-absol-ex-b1-darkrai-ex-a2",
+    "deckB": "mega-venusaur-ex-b1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-venusaur-ex-b1a",
+    "deckB": "mega-absol-ex-b1-darkrai-ex-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mimikyu-ex-b2-greninja-a1",
+    "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
+    "deckB": "mimikyu-ex-b2-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1",
+    "deckB": "mimikyu-ex-b2-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mimikyu-ex-b2-greninja-a1",
+    "deckB": "mega-altaria-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "giratina-ex-a2b-darkrai-ex-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "giratina-ex-a2b-darkrai-ex-a2",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "oricorio-a3",
+    "deckB": "zoroark-a4a-galarian-obstagoon-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "zoroark-a4a-galarian-obstagoon-b2",
+    "deckB": "oricorio-a3",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "zoroark-a4a-galarian-obstagoon-b2",
+    "deckB": "greninja-a1-mega-absol-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "greninja-a1-mega-absol-ex-b1",
+    "deckB": "zoroark-a4a-galarian-obstagoon-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-lucario-a2",
+    "deckB": "skarmory-ex-a4-magnezone-b1a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "skarmory-ex-a4-magnezone-b1a",
+    "deckB": "mega-lopunny-ex-b1a-lucario-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-jolteon-a3b",
+    "deckB": "meowscarada-ex-b2a-meowscarada-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-meowscarada-a2b",
+    "deckB": "jolteon-ex-b1-jolteon-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-magnezone-b1a",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "jolteon-ex-b1-magnezone-b1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "suicune-ex-a4a-greninja-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-greninja-ex-b1",
+    "deckB": "meowscarada-ex-b2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "bellibolt-ex-b2a-zeraora-a3a",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "bellibolt-ex-b2a-zeraora-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "zoroark-a4a-galarian-obstagoon-b2",
+    "deckB": "magnezone-b1a-bellibolt-ex-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "magnezone-b1a-bellibolt-ex-b2a",
+    "deckB": "zoroark-a4a-galarian-obstagoon-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "mega-altaria-ex-altaria-b1",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-altaria-b1",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "zoroark-a4a-galarian-obstagoon-b2",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "zoroark-a4a-galarian-obstagoon-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "deckB": "suicune-ex-a4a-greninja-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-greninja-ex-b1",
+    "deckB": "guzzlord-ex-a3a-indeedee-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "gourgeist-b2-houndstone-b2a",
+    "deckB": "mega-altaria-ex-altaria-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-altaria-b1",
+    "deckB": "gourgeist-b2-houndstone-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "deckB": "magnezone-b1a-mega-absol-ex-b1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "magnezone-b1a-mega-absol-ex-b1",
+    "deckB": "mega-steelix-ex-b1a-indeedee-ex-b1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
+  },
+  {
+    "deckA": "starmie-ex-articuno-ex-a1",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "starmie-ex-articuno-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "deckB": "greninja-a1-oricorio-a3",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "greninja-a1-oricorio-a3",
+    "deckB": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "vanilluxe-b2-slurpuff-a3b",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "vanilluxe-b2-slurpuff-a3b",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "leafeon-ex-a2a-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-celebi-ex-a1a",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "vanilluxe-b2-slurpuff-a3b",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "vanilluxe-b2-slurpuff-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "starmie-ex-articuno-ex-a1",
+    "deckB": "mega-lopunny-ex-b1a-lucario-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-lucario-a2",
+    "deckB": "starmie-ex-articuno-ex-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "galvantula-a3b-greninja-a1",
+    "deckB": "leafeon-ex-a2a-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-celebi-ex-a1a",
+    "deckB": "galvantula-a3b-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "deckB": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "raikou-ex-a4a-pawmot-b2a",
+    "deckB": "magnezone-b1a-bellibolt-ex-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "magnezone-b1a-bellibolt-ex-b2a",
+    "deckB": "raikou-ex-a4a-pawmot-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "galvantula-a3b-greninja-a1",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "galvantula-a3b-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "starmie-ex-articuno-ex-a1",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "starmie-ex-articuno-ex-a1",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "deckB": "leafeon-ex-a2a-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-celebi-ex-a1a",
+    "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "vanilluxe-b2-slurpuff-a3b",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "vanilluxe-b2-slurpuff-a3b",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-darkrai-ex-a2",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "deckB": "starmie-ex-articuno-ex-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "starmie-ex-articuno-ex-a1",
+    "deckB": "mega-charizard-y-ex-b1a-entei-ex-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-kangaskhan-ex-b2-celebi-ex-a1a",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "xatu-a4-galarian-cursola-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "xatu-a4-galarian-cursola-a4a",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "vanilluxe-b2-slurpuff-a3b",
+    "deckB": "greninja-a1-mega-absol-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "greninja-a1-mega-absol-ex-b1",
+    "deckB": "vanilluxe-b2-slurpuff-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "galvantula-a3b-greninja-a1",
+    "deckB": "mega-venusaur-ex-b1a-chingling-b1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-venusaur-ex-b1a-chingling-b1",
+    "deckB": "galvantula-a3b-greninja-a1",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "galvantula-a3b-greninja-a1",
+    "deckB": "greninja-a1-oricorio-a3",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "greninja-a1-oricorio-a3",
+    "deckB": "galvantula-a3b-greninja-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "paldean-clodsire-ex-a2b-weezing-a1",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "paldean-clodsire-ex-a2b-weezing-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "skarmory-ex-a4",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "skarmory-ex-a4",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "solgaleo-ex-a3-cleffa-a4",
+    "deckB": "decidueye-ex-a3-decidueye-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "decidueye-ex-a3-decidueye-a3a",
+    "deckB": "solgaleo-ex-a3-cleffa-a4",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "vanilluxe-b2-alcremie-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "vanilluxe-b2-alcremie-a3b",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-skarmory-a2",
+    "deckB": "charizard-ex-a1-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "charizard-ex-a1-entei-ex-a4a",
+    "deckB": "solgaleo-ex-a3-skarmory-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "alolan-ninetales-ex-b2-crawdaunt-a4",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "alolan-ninetales-ex-b2-crawdaunt-a4",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "decidueye-ex-a3-decidueye-a3a",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "decidueye-ex-a3-decidueye-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-jolteon-a3b",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "jolteon-ex-b1-jolteon-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "flareon-ex-a3b-flareon-a1",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "flareon-ex-a3b-flareon-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "whimsicott-ex-b1-ariados-b1a",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "whimsicott-ex-b1-ariados-b1a",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "rayquaza-ex-p-a-zeraora-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "rayquaza-ex-p-a-zeraora-a3a",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 2,
+    "total": 4,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "flareon-ex-a3b-flareon-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "flareon-ex-a3b-flareon-a1",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "charizard-ex-a1-entei-ex-a4a",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "charizard-ex-a1-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "decidueye-ex-a3-decidueye-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "decidueye-ex-a3-decidueye-a3a",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "skarmory-ex-a4",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "skarmory-ex-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-skarmory-a2",
+    "deckB": "paldean-clodsire-ex-a2b-weezing-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "paldean-clodsire-ex-a2b-weezing-a1",
+    "deckB": "solgaleo-ex-a3-skarmory-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-cleffa-a4",
+    "deckB": "chandelure-meowth-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "chandelure-meowth-b2",
+    "deckB": "solgaleo-ex-a3-cleffa-a4",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "decidueye-ex-a3-decidueye-a3a",
+    "deckB": "aegislash-b1-skarmory-a2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "aegislash-b1-skarmory-a2",
+    "deckB": "decidueye-ex-a3-decidueye-a3a",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-arboliva-b2a",
+    "deckB": "solgaleo-ex-a3-scizor-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-scizor-a4",
+    "deckB": "mega-steelix-ex-b1a-arboliva-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "charizard-ex-a1-entei-ex-a4a",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "charizard-ex-a1-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "paldean-clodsire-ex-a2b-weezing-a1",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "paldean-clodsire-ex-a2b-weezing-a1",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-scizor-a4",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "solgaleo-ex-a3-scizor-a4",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "skarmory-ex-a4",
+    "deckB": "decidueye-ex-a3-decidueye-a3a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "decidueye-ex-a3-decidueye-a3a",
+    "deckB": "skarmory-ex-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "flareon-ex-a3b-flareon-a1",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "flareon-ex-a3b-flareon-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-steelix-ex-b1a-arboliva-b2a",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "mega-steelix-ex-b1a-arboliva-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-cleffa-a4",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "solgaleo-ex-a3-cleffa-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-skarmory-a2",
+    "deckB": "whimsicott-ex-b1-ariados-b1a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "whimsicott-ex-b1-ariados-b1a",
+    "deckB": "solgaleo-ex-a3-skarmory-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "charizard-ex-a1-entei-ex-a4a",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "charizard-ex-a1-entei-ex-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "vanilluxe-b2-alcremie-a3b",
+    "deckB": "flareon-ex-a3b-flareon-a1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "flareon-ex-a3b-flareon-a1",
+    "deckB": "vanilluxe-b2-alcremie-a3b",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "paldean-clodsire-ex-a2b-weezing-a1",
+    "deckB": "chandelure-meowth-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "chandelure-meowth-b2",
+    "deckB": "paldean-clodsire-ex-a2b-weezing-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "silvally-a3a-rampardos-a2",
+    "deckB": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-b2-mewtwo-ex-a1",
+    "deckB": "silvally-a3a-rampardos-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-skarmory-a2",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "solgaleo-ex-a3-skarmory-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "solgaleo-ex-a3-cleffa-a4",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "solgaleo-ex-a3-cleffa-a4",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "melmetal-ex-b1-melmetal-a3b",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "melmetal-ex-b1-melmetal-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-zeraora-a3a",
+    "deckB": "chandelure-gourgeist-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "chandelure-gourgeist-b2",
+    "deckB": "jolteon-ex-b1-zeraora-a3a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "charizard-ex-a1-entei-ex-a4a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "charizard-ex-a1-entei-ex-a4a",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "jolteon-ex-b1-eevee-ex-a3b",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "jolteon-ex-b1-eevee-ex-a3b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-meloetta-b2",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "mega-gardevoir-ex-meloetta-b2",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "deckB": "paldean-clodsire-ex-a2b-weezing-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "paldean-clodsire-ex-a2b-weezing-a1",
+    "deckB": "mega-lopunny-ex-b1a-annihilape-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "flareon-ex-a3b-flareon-a1",
+    "deckB": "lunala-ex-a3-giratina-ex-a2b",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "lunala-ex-a3-giratina-ex-a2b",
+    "deckB": "flareon-ex-a3b-flareon-a1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "deckB": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-gardevoir-ex-mimikyu-ex-b2",
+    "deckB": "leafeon-ex-a2a-teal-mask-ogerpon-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "magnezone-b1a-bellibolt-ex-b2a",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "magnezone-b1a-bellibolt-ex-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-greninja-a1",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 1,
+    "total": 3,
+    "winrateA": 0.3333333333333333
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "mega-altaria-ex-b1-greninja-a1",
+    "winsA": 2,
+    "total": 3,
+    "winrateA": 0.6666666666666666
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "greninja-a1-mega-absol-ex-b1",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "greninja-a1-mega-absol-ex-b1",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "gyarados-a4-chien-pao-ex-b2a",
+    "deckB": "mega-altaria-ex-b1-gourgeist-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-altaria-ex-b1-gourgeist-b2",
+    "deckB": "gyarados-a4-chien-pao-ex-b2a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-lucario-a2",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "mega-lopunny-ex-b1a-lucario-a2",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 1,
+    "total": 2,
+    "winrateA": 0.5
+  },
+  {
+    "deckA": "mega-mawile-ex-b2",
+    "deckB": "mega-blaziken-ex-b1-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-blaziken-ex-b1-entei-ex-a4a",
+    "deckB": "mega-mawile-ex-b2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "hydreigon-mega-absol-ex-b1",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "hydreigon-mega-absol-ex-b1",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "suicune-ex-a4a-baxcalibur-b2a",
+    "deckB": "tinkaton-ex-a2b-pichu-a4",
+    "winsA": 2,
+    "total": 2,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "tinkaton-ex-a2b-pichu-a4",
+    "deckB": "suicune-ex-a4a-baxcalibur-b2a",
+    "winsA": 0,
+    "total": 2,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-blaziken-ex-b1-entei-ex-a4a",
+    "deckB": "gyarados-a4-chien-pao-ex-b2a",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "gyarados-a4-chien-pao-ex-b2a",
+    "deckB": "mega-blaziken-ex-b1-entei-ex-a4a",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-tyrogue-a4",
+    "deckB": "mega-lopunny-ex-b1a-lucario-a2",
+    "winsA": 1,
+    "total": 1,
+    "winrateA": 1.0
+  },
+  {
+    "deckA": "mega-lopunny-ex-b1a-lucario-a2",
+    "deckB": "mega-lopunny-ex-b1a-tyrogue-a4",
+    "winsA": 0,
+    "total": 1,
+    "winrateA": 0.0
   }
 ]
