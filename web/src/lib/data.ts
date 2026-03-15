@@ -4,6 +4,7 @@ import tournaments from '../data/tournaments.json'
 import tier from '../data/tier.json'
 import players from '../data/players.json'
 import matchups from '../data/matchups.json'
+import gameVersions from '../data/game_version.json'
 
 export const Data = {
   meta,
@@ -11,4 +12,5 @@ export const Data = {
   tier,
   players,
   matchups,
+  gameVersions,
 }
