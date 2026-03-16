@@ -886,7 +886,7 @@
     "/assets/xk-Cdz2uTvR.svg"
   ],
   "node_modules/flag-icons/css/flag-icons.min.css?vue&type=style&index=1&src=true&lang.css": [
-    "/assets/CountryRanking-DVFMVA54.js",
+    "/assets/CountryRanking-B45jgE_B.js",
     "/assets/CountryRanking-Ck893nab.css",
     "/assets/ad-B18i8NGa.svg",
     "/assets/ad-Blhdm5jl.svg",
@@ -1776,24 +1776,24 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&scoped=75970205&lang.css": [],
   "src/assets/deck-disks/disk-gold.png": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",
     "/assets/tournaments-DYGanqf2.json"
   ],
   "src/assets/deck-disks/disk-neutral.png": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",
     "/assets/tournaments-DYGanqf2.json"
   ],
   "src/assets/deck-disks/disk-silver.png": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",
@@ -33484,30 +33484,14 @@
   ],
   "src/assets/fonts.css": [],
   "src/assets/theme.css": [],
-  "src/data/game_version.json": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
-    "/assets/disk-gold-GuTQqI84.png",
-    "/assets/disk-neutral-Fm6Wghgz.png",
-    "/assets/disk-silver-DKxQHb5h.png",
-    "/assets/tournaments-DYGanqf2.json"
-  ],
   "src/layouts/Layout.vue": [],
   "src/layouts/Layout.vue?vue&type=script&setup=true&lang.ts": [],
   "src/layouts/Layout.vue?vue&type=style&index=0&scoped=f8256a55&lang.css": [],
-  "src/lib/data.ts": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
-    "/assets/disk-gold-GuTQqI84.png",
-    "/assets/disk-neutral-Fm6Wghgz.png",
-    "/assets/disk-silver-DKxQHb5h.png",
-    "/assets/tournaments-DYGanqf2.json"
-  ],
   "src/main.ts": [],
   "src/responsive.css": [],
   "src/routes.ts": [],
   "src/views/CountryRanking.vue": [
-    "/assets/CountryRanking-DVFMVA54.js",
+    "/assets/CountryRanking-B45jgE_B.js",
     "/assets/CountryRanking-Ck893nab.css",
     "/assets/ad-B18i8NGa.svg",
     "/assets/ad-Blhdm5jl.svg",
@@ -33653,7 +33637,7 @@
     "/assets/xk-Cdz2uTvR.svg"
   ],
   "src/views/CountryRanking.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CountryRanking-DVFMVA54.js",
+    "/assets/CountryRanking-B45jgE_B.js",
     "/assets/CountryRanking-Ck893nab.css",
     "/assets/ad-B18i8NGa.svg",
     "/assets/ad-Blhdm5jl.svg",
@@ -33799,7 +33783,7 @@
     "/assets/xk-Cdz2uTvR.svg"
   ],
   "src/views/CountryRanking.vue?vue&type=style&index=0&scoped=78bcb185&lang.css": [
-    "/assets/CountryRanking-DVFMVA54.js",
+    "/assets/CountryRanking-B45jgE_B.js",
     "/assets/CountryRanking-Ck893nab.css",
     "/assets/ad-B18i8NGa.svg",
     "/assets/ad-Blhdm5jl.svg",
@@ -33945,78 +33929,78 @@
     "/assets/xk-Cdz2uTvR.svg"
   ],
   "src/views/Home.vue": [
-    "/assets/Home-BGaoaArj.js",
+    "/assets/Home-C3K11RAf.js",
     "/assets/Home-DQlBx23h.css"
   ],
   "src/views/Home.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/Home-BGaoaArj.js",
+    "/assets/Home-C3K11RAf.js",
     "/assets/Home-DQlBx23h.css"
   ],
   "src/views/Home.vue?vue&type=style&index=0&scoped=d478f51a&lang.css": [
-    "/assets/Home-BGaoaArj.js",
+    "/assets/Home-C3K11RAf.js",
     "/assets/Home-DQlBx23h.css"
   ],
   "src/views/PlayerRanking.vue": [
-    "/assets/PlayerRanking-nEz71FV9.js",
+    "/assets/PlayerRanking-B6a51J9b.js",
     "/assets/PlayerRanking-Dg31vHpi.css"
   ],
   "src/views/PlayerRanking.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PlayerRanking-nEz71FV9.js",
+    "/assets/PlayerRanking-B6a51J9b.js",
     "/assets/PlayerRanking-Dg31vHpi.css"
   ],
   "src/views/PlayerRanking.vue?vue&type=style&index=0&scoped=a84e8cb9&lang.css": [
-    "/assets/PlayerRanking-nEz71FV9.js",
+    "/assets/PlayerRanking-B6a51J9b.js",
     "/assets/PlayerRanking-Dg31vHpi.css"
   ],
   "src/views/TierList.vue": [
-    "/assets/TierList-U9UDQ8G3.js",
+    "/assets/TierList-G5HDBrg4.js",
     "/assets/TierList-CL2Q0CdX.css"
   ],
   "src/views/TierList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TierList-U9UDQ8G3.js",
+    "/assets/TierList-G5HDBrg4.js",
     "/assets/TierList-CL2Q0CdX.css"
   ],
   "src/views/TierList.vue?vue&type=style&index=0&scoped=8a81c459&lang.css": [
-    "/assets/TierList-U9UDQ8G3.js",
+    "/assets/TierList-G5HDBrg4.js",
     "/assets/TierList-CL2Q0CdX.css"
   ],
   "src/views/TopCards.vue": [
-    "/assets/TopCards-BBvmLqgM.js"
+    "/assets/TopCards-JeFiyOOP.js"
   ],
   "src/views/TopDecks.vue": [
-    "/assets/TopDecks-D2ZyEmYH.js"
+    "/assets/TopDecks-BErDqReQ.js"
   ],
   "src/views/TournamentReport.vue": [
-    "/assets/TournamentReport-W_hSunur.js",
+    "/assets/TournamentReport-BPQMS94u.js",
     "/assets/TournamentReport-N9OgC5MH.css"
   ],
   "src/views/TournamentReport.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TournamentReport-W_hSunur.js",
+    "/assets/TournamentReport-BPQMS94u.js",
     "/assets/TournamentReport-N9OgC5MH.css"
   ],
   "src/views/TournamentReport.vue?vue&type=style&index=0&scoped=d83b4ada&lang.css": [
-    "/assets/TournamentReport-W_hSunur.js",
+    "/assets/TournamentReport-BPQMS94u.js",
     "/assets/TournamentReport-N9OgC5MH.css"
   ],
   "src/views/Tournaments.vue": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",
     "/assets/tournaments-DYGanqf2.json"
   ],
   "src/views/Tournaments.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",
     "/assets/tournaments-DYGanqf2.json"
   ],
-  "src/views/Tournaments.vue?vue&type=style&index=0&scoped=14a86080&lang.css": [
-    "/assets/Tournaments-B-Kp7fDP.js",
-    "/assets/Tournaments-h_Z_VvpX.css",
+  "src/views/Tournaments.vue?vue&type=style&index=0&scoped=7023be72&lang.css": [
+    "/assets/Tournaments-Da0EbrwN.js",
+    "/assets/Tournaments-BKCqlQoC.css",
     "/assets/disk-gold-GuTQqI84.png",
     "/assets/disk-neutral-Fm6Wghgz.png",
     "/assets/disk-silver-DKxQHb5h.png",

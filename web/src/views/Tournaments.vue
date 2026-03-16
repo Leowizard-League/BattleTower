@@ -492,20 +492,17 @@ type GameVersion = {
   releaseUtcIso: string; // ISO string in UTC
 };
 
-// 从 data.ts 加载游戏版本数据
-import { Data } from '../lib/data';
-const GAME_VERSIONS = (Data.gameVersions as unknown as GameVersion[]).sort((a, b) => 
-  new Date(a.releaseUtcIso).getTime() - new Date(b.releaseUtcIso).getTime()
-);
+// 从 public/data/game_version.json 读取游戏版本数据
+const gameVersions = ref<GameVersion[]>([]);
 
-const VERSION_BY_CODE: Record<string, GameVersion> = Object.fromEntries(
-  GAME_VERSIONS.map((v) => [v.code, v])
+const VERSION_BY_CODE = computed<Record<string, GameVersion>>(() =>
+  Object.fromEntries(gameVersions.value.map((v) => [v.code, v]))
 );
 
 function inferVersionByStartMs(startMs?: number): GameVersion | undefined {
   if (!startMs) return undefined;
   let cur: GameVersion | undefined;
-  for (const v of GAME_VERSIONS) {
+  for (const v of gameVersions.value) {
     if (startMs >= new Date(v.releaseUtcIso).getTime()) cur = v;
     else break;
   }
@@ -514,15 +511,13 @@ function inferVersionByStartMs(startMs?: number): GameVersion | undefined {
 
 function versionLabel(code?: string) {
   if (!code) return "—";
-  const v = VERSION_BY_CODE[code];
+  const v = VERSION_BY_CODE.value[code];
   if (!v) return code;
   return isZh.value ? `${v.code} - ${v.nameZh}` : `${v.code} - ${v.nameEn}`;
 }
 
 // 給 filter 下拉用（新到舊）
-
-
-const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
+const setOptions = computed(() => gameVersions.value.map(v => v.code).reverse());
 
 const filters = reactive({
   minPlayers: undefined as number | undefined,
@@ -881,6 +876,16 @@ async function ensureTopDecksForIds(ids: string[]) {
 
 // 首屏：只用 tournaments.json 建立列表（快），其他字段按需补齐
 onMounted(async () => {
+  // 先加载版本数据（给 set / versionLabel 用）
+  try {
+    const versions = await fetchJson<GameVersion[]>(`${BASE_URL}data/game_version.json`);
+    gameVersions.value = versions.sort(
+      (a, b) => new Date(a.releaseUtcIso).getTime() - new Date(b.releaseUtcIso).getTime()
+    );
+  } catch {
+    gameVersions.value = [];
+  }
+
   const rows: TournamentRow[] = [];
   // tournaments.json 建议放在 public/data/tournaments.json
   // 这样它不会被打进首屏 JS，而是作为静态资源按需拉取

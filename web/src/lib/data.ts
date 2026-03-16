@@ -1,14 +1,3 @@
-// web/src/lib/data.ts
-import meta from '../data/meta.json'
-import tier from '../data/tier.json'
-import players from '../data/players.json'
-import matchups from '../data/matchups.json'
-import gameVersions from '../data/game_version.json'
-
-export const Data = {
-  meta,
-  tier,
-  players,
-  matchups,
-  gameVersions,
-}
+// Legacy data helper has been replaced by runtime fetches from public/data.
+// Kept only as a placeholder to avoid breaking imports if any remain.
+export const Data = {};
