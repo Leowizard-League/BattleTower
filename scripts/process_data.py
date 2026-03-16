@@ -64,7 +64,7 @@ def tier_label(score):
 # ===================== 核心逻辑：读取本地原始数据并统计 =====================
 def main():
     # 1. 读取本地的赛事列表
-    with open("web/src/data/tournaments.json", "r", encoding="utf-8") as f:
+    with open("web/public/data/tournaments.json", "r", encoding="utf-8") as f:
         tournaments = json.load(f)
     print(f"读取到本地 {len(tournaments)} 场赛事数据")
     
@@ -89,11 +89,11 @@ def main():
         
         # 读取本地raw文件夹中的数据
         try:
-            with open(f"web/src/data/raw/{tid}/details.json", "r", encoding="utf-8") as f:
+            with open(f"web/public/data/raw/{tid}/details.json", "r", encoding="utf-8") as f:
                 details = json.load(f)
-            with open(f"web/src/data/raw/{tid}/standings.json", "r", encoding="utf-8") as f:
+            with open(f"web/public/data/raw/{tid}/standings.json", "r", encoding="utf-8") as f:
                 standings = json.load(f)
-            with open(f"web/src/data/raw/{tid}/pairings.json", "r", encoding="utf-8") as f:
+            with open(f"web/public/data/raw/{tid}/pairings.json", "r", encoding="utf-8") as f:
                 pairings = json.load(f)
         except FileNotFoundError:
             print(f"警告：赛事 {tid} 的原始数据文件缺失，跳过")
@@ -252,10 +252,10 @@ def main():
     }
     
     # 10. 保存所有结果文件
-    write_json("web/src/data/tier.json", tier_rows)
-    write_json("web/src/data/players.json", players)
-    write_json("web/src/data/matchups.json", matchup_out)
-    write_json("web/src/data/meta.json", meta)
+    write_json("web/public/data/tier.json", tier_rows)
+    write_json("web/public/data/players.json", players)
+    write_json("web/public/data/matchups.json", matchup_out)
+    write_json("web/public/data/meta.json", meta)
     
     print("统计分析完成！已生成：")
     print("- tier.json（牌组Tier数据）")

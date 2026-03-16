@@ -21,7 +21,7 @@ REQUEST_TIMEOUT = 120.0
 _last_request_ts = 0.0
 failed_tournaments = []
 # 赛事列表文件路径（抽离为常量，便于维护）
-TOURNAMENTS_JSON_PATH = "web/src/data/tournaments.json"
+TOURNAMENTS_JSON_PATH = "web/public/data/tournaments.json"
 
 # ===================== 工具函数 =====================
 def get_json(url: str, api_type: str = "unknown", tid: str = "unknown"):
@@ -142,7 +142,7 @@ def main():
     failed_tournaments = []
     
     # 1. 移除「清理旧raw文件夹」的代码，保留历史数据
-    # shutil.rmtree("web/src/data/raw", ignore_errors=True)  # 注释/删除这行
+    # shutil.rmtree("web/public/data/raw", ignore_errors=True)  # 注释/删除这行
     
     # 2. 加载旧的赛事列表，提取已有的赛事ID
     existing_tournaments = load_existing_tournaments()
@@ -200,9 +200,9 @@ def main():
             pairings = get_json(f"{BASE}/tournaments/{tid}/pairings", api_type="pairings", tid=tid)
             
             # 保存数据（保留旧文件夹，直接写入新增赛事的文件夹）
-            write_json(f"web/src/data/raw/{tid}/details.json", details)
-            write_json(f"web/src/data/raw/{tid}/standings.json", standings)
-            write_json(f"web/src/data/raw/{tid}/pairings.json", pairings)
+            write_json(f"web/public/data/raw/{tid}/details.json", details)
+            write_json(f"web/public/data/raw/{tid}/standings.json", standings)
+            write_json(f"web/public/data/raw/{tid}/pairings.json", pairings)
             print(f"✅ 新增赛事{tid}数据保存完成")
         
         except Exception as e:
@@ -217,7 +217,7 @@ def main():
     print(f"  - 新增赛事抓取失败数：{len(failed_tournaments)}")
     if failed_tournaments:
         print(f"  - 失败详情：{json.dumps(failed_tournaments, ensure_ascii=False, indent=2)}")
-        write_json("web/src/data/failed_tournaments.json", failed_tournaments)
+        write_json("web/public/data/failed_tournaments.json", failed_tournaments)
     print("🎉 增量数据抓取完成！历史数据已保留，仅新增赛事数据已抓取")
 
 if __name__ == "__main__":

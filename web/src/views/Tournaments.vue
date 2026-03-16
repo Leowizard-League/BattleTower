@@ -25,6 +25,7 @@
           <span class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</span>
         </label>
         <select v-model="filters.time">
+          <option value="all">{{ isZh ? "全部" : "All" }}</option>
           <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
           <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
           <optgroup :label="isZh ? '月份' : 'Month'">
@@ -294,7 +295,7 @@
 
 <script setup lang="ts">
 import { useRoute } from "vue-router";
-import { computed, reactive, ref, watch } from "vue";
+import { computed, reactive, ref, watch, onMounted } from "vue";
 
 
 function toggleSet(set?: string) {
@@ -395,16 +396,17 @@ function getDeckDiskKind(rank: number): 'gold' | 'silver' | 'neutral' {
 }
 
 /**
- * 讀取 raw 資料夾內的 details / standings
- * 注意：路徑以本檔案位置（src/views）為基準
+ * ✅ 性能优化重点：
+ * - 不再使用 import.meta.glob 去扫描/打包 raw 目录（会导致首屏慢、甚至 build OOM）
+ * - 改为运行时 fetch 静态 json（需要把数据放到可被静态访问的位置，比如 public/data/**）
  */
-const detailsModules = import.meta.glob("../data/raw/*/details.json", {
-  eager: true,
-}) as Record<string, any>;
+const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
 
-const standingsModules = import.meta.glob("../data/raw/*/standings.json", {
-  eager: true,
-}) as Record<string, any>;
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return (await res.json()) as T;
+}
 
 /**
  * 讀取本地 deck icon（你自己放的 png/webp/svg）
@@ -524,7 +526,7 @@ const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
 
 const filters = reactive({
   minPlayers: undefined as number | undefined,
-  time: "past7" as string, // past7 | past4w | month:YYYY-MM
+  time: "all" as string, // all | past7 | past4w | month:YYYY-MM
   set: "" as string,
   swiss: "" as "" | SwissLabel,
   format: "" as "" | "Standard" | "NoEX" | "Special",
@@ -597,8 +599,16 @@ const deckIconIndex: Record<string, string> = (() => {
   return idx;
 })();
 
+// 图标路径缓存，避免重复解析
+const deckIconCache = new Map<string, string | undefined>();
+
 function resolveDeckIconUrl(key?: string) {
   if (!key) return undefined;
+  
+  // 检查缓存
+  if (deckIconCache.has(key)) {
+    return deckIconCache.get(key);
+  }
 
   // 先試原本精準路徑（大小寫都試）
   const candidates = [
@@ -609,13 +619,19 @@ function resolveDeckIconUrl(key?: string) {
     `../assets/deck-icons/${String(key).toLowerCase()}.webp`,
     `../assets/deck-icons/${String(key).toLowerCase()}.svg`,
   ];
+  
   for (const p of candidates) {
-    if (deckIconModules[p]) return deckIconModules[p];
+    if (deckIconModules[p]) {
+      deckIconCache.set(key, deckIconModules[p]);
+      return deckIconModules[p];
+    }
   }
 
   // 再用「normalized basename」對檔名
   const nk = normalizeKeyForMatch(String(key));
-  return deckIconIndex[nk];
+  const result = deckIconIndex[nk];
+  deckIconCache.set(key, result);
+  return result;
 }
 
 function parseTwoFromDeckId(deckId?: string): (string | undefined)[] {
@@ -769,84 +785,149 @@ function deckPairTitle(d: TopDeck, rank: number) {
     : `Rank ${rank}: ${k1} / ${k2}`;
 }
 
-const tournaments = computed<TournamentRow[]>(() => {
-  const rows: TournamentRow[] = [];
+// 缓存 tournaments 数据，避免重复计算
+const tournaments = ref<TournamentRow[]>([]);
 
-  for (const [path, mod] of Object.entries(detailsModules)) {
-    const id = extractIdFromPath(path);
-    if (!id) continue;
+type TournamentIndexRow = {
+  game?: string;
+  name?: string;
+  date?: string;
+  format?: string | null;
+  id: string;
+  players?: number;
+};
 
-    const details = mod?.default ?? mod;
+function detailsUrl(id: string) {
+  return `${BASE_URL}data/raw/${id}/details.json`;
+}
+function standingsUrl(id: string) {
+  return `${BASE_URL}data/raw/${id}/standings.json`;
+}
 
-    const standingsPath = path.replace(/details\.json$/, "standings.json");
-    const standingsMod = standingsModules[standingsPath];
-    const standings = (standingsMod?.default ?? standingsMod) as any[];
+async function runWithConcurrency<T>(
+  items: T[],
+  limit: number,
+  fn: (item: T) => Promise<void>
+) {
+  const q = [...items];
+  const workers = Array.from({ length: Math.max(1, limit) }, async () => {
+    while (q.length) {
+      const it = q.shift();
+      if (!it) return;
+      await fn(it);
+    }
+  });
+  await Promise.all(workers);
+}
 
-    const top4Rows = pickTopN(standings, 4);
-    const topDecks: TopDeck[] = top4Rows.map((r) => {
-      const keys = getDeckIconKeys(r);
-      const urls = keys.map((k) => resolveDeckIconUrl(k)) as (string | undefined)[];
-      return {
-        iconKeys: [keys[0], keys[1]],
-        iconUrls: [urls[0], urls[1]],
-      };
+const swissCache = new Map<string, SwissLabel>();
+const topDecksCache = new Map<string, TopDeck[]>();
+const swissLoading = ref(false);
+
+async function ensureSwissForAllIfNeeded() {
+  if (!filters.swiss) return;
+  if (swissLoading.value) return;
+
+  swissLoading.value = true;
+  try {
+    const ids = tournaments.value.map((t) => t.id).filter((id) => !swissCache.has(id));
+    await runWithConcurrency(ids, 12, async (id) => {
+      try {
+        const details = await fetchJson<any>(detailsUrl(id));
+        swissCache.set(id, swissLabelFromDetails(details));
+      } catch {
+        // 缺档就跳过，不影响首屏
+      }
     });
 
-    const dateMs =
-      toUtcDateMs(details?.date) ??
-      toUtcDateMs(details?.startDate) ??
-      toUtcDateMs(details?.start_date) ??
-      toUtcDateMs(details?.time) ??
-      undefined;
+    tournaments.value = tournaments.value.map((t) => ({
+      ...t,
+      swiss: swissCache.get(t.id) ?? t.swiss,
+    }));
+  } finally {
+    swissLoading.value = false;
+  }
+}
 
-    const dateISO = dateMs ? formatUtcYmd(dateMs) : undefined;
+async function ensureTopDecksForIds(ids: string[]) {
+  const missing = ids.filter((id) => !topDecksCache.has(id));
+  if (missing.length === 0) return;
 
-    const players =
-      details?.players ??
-      details?.playerCount ??
-      details?.player_count ??
-      details?.attendance ??
-      undefined;
+  await runWithConcurrency(missing, 6, async (id) => {
+    try {
+      const standings = await fetchJson<any[]>(standingsUrl(id));
+      const top4Rows = pickTopN(standings, 4);
+      const topDecks: TopDeck[] = top4Rows.map((r) => {
+        const keys = getDeckIconKeys(r);
+        const urls = keys.map((k) => resolveDeckIconUrl(k)) as (string | undefined)[];
+        return {
+          iconKeys: [keys[0], keys[1]],
+          iconUrls: [urls[0], urls[1]],
+        };
+      });
+      topDecksCache.set(id, topDecks);
+    } catch {
+      // 缺档就保持空
+    }
+  });
 
-    const format = formatFromDetails(details);
+  const patchIds = new Set(ids);
+  tournaments.value = tournaments.value.map((t) => {
+    if (!patchIds.has(t.id)) return t;
+    const td = topDecksCache.get(t.id);
+    return td ? { ...t, topDecks: td } : t;
+  });
+}
 
+// 首屏：只用 tournaments.json 建立列表（快），其他字段按需补齐
+onMounted(async () => {
+  const rows: TournamentRow[] = [];
+  // tournaments.json 建议放在 public/data/tournaments.json
+  // 这样它不会被打进首屏 JS，而是作为静态资源按需拉取
+  const list = await fetchJson<TournamentIndexRow[]>(`${BASE_URL}data/tournaments.json`).catch(
+    async () =>
+      // 兼容：如果你暂时没搬到 public，可以先走 Vite asset URL
+      await fetchJson<TournamentIndexRow[]>(new URL("../data/tournaments.json", import.meta.url).toString())
+  );
 
-
-
-    const g = String(details?.game ?? "").toUpperCase();
+  for (const r of list) {
+    const g = String(r?.game ?? "").toUpperCase();
     if (g && g !== "POCKET") continue;
+    if (!r?.id) continue;
 
+    const dateMs = toUtcDateMs(r?.date);
+    const dateISO = dateMs ? formatUtcYmd(dateMs) : undefined;
     const set = inferVersionByStartMs(dateMs)?.code;
-
-    const swiss = swissLabelFromDetails(details);
+    const format = formatFromDetails({ format: r?.format });
 
     rows.push({
-      id,
+      id: String(r.id),
       dateISO,
       dateMs,
       dateStr: dateISO ?? "—",
-      name: details?.name ?? details?.title ?? id,
-      players: typeof players === "number" ? players : Number(players) || undefined,
-
+      name: r?.name ?? String(r.id),
+      players: typeof r?.players === "number" ? r.players : Number(r?.players) || undefined,
       set: set ? String(set) : undefined,
       format: format ? String(format) : undefined,
-      swiss,
-
-      topDecks,
-
-      standingsUrl: `https://play.limitlesstcg.com/tournament/${id}/standings`,
+      swiss: swissCache.get(String(r.id)),
+      topDecks: topDecksCache.get(String(r.id)) ?? [],
+      standingsUrl: `https://play.limitlesstcg.com/tournament/${r.id}/standings`,
     });
   }
 
   rows.sort((a, b) => (b.dateMs ?? 0) - (a.dateMs ?? 0));
-  return rows;
+  tournaments.value = rows;
 });
 
-const monthOptions = computed(() => {
+// 缓存月份选项，避免重复计算
+const monthOptions = ref<{ value: string; label: string }[]>([]);
+
+// 当 tournaments 数据变化时更新月份选项
+watch(() => tournaments.value, (newTournaments) => {
   const seen = new Set<string>();
   const opts: { value: string; label: string }[] = [];
 
-  for (const t of tournaments.value) {
+  for (const t of newTournaments) {
     if (!t.dateMs) continue;
     const d = new Date(t.dateMs);
     const y = d.getUTCFullYear();
@@ -862,11 +943,13 @@ const monthOptions = computed(() => {
   }
 
   opts.sort((a, b) => (a.value < b.value ? 1 : -1));
-  return opts;
-});
+  monthOptions.value = opts;
+}, { immediate: true });
 
 function inTimeRange(t: TournamentRow) {
   if (!t.dateMs) return false;
+
+  if (filters.time === "all") return true;
 
   const now = Date.now();
   const day = 24 * 60 * 60 * 1000;
@@ -900,7 +983,9 @@ const filtered = computed(() => {
     if (filters.set && t.set !== filters.set) return false;
 
     if (filters.swiss) {
-      if ((t.swiss ?? "Other") !== filters.swiss) return false;
+      // swiss 是按需加载的：启用 swiss filter 时会异步补齐
+      if (!t.swiss) return false;
+      if (t.swiss !== filters.swiss) return false;
     }
 
 
@@ -934,6 +1019,23 @@ const paged = computed(() => {
   const start = pageStartIndex.value;
   return filtered.value.slice(start, start + pageSize.value);
 });
+
+// 当前页变化时，按需加载 standings 来补 top4（只补当前页，避免首屏爆炸）
+watch(
+  () => paged.value.map((t) => t.id),
+  (ids) => {
+    ensureTopDecksForIds(ids);
+  },
+  { immediate: true }
+);
+
+// 启用 swiss filter 时，才按需批量加载 details 来补 swiss 字段
+watch(
+  () => filters.swiss,
+  () => {
+    ensureSwissForAllIfNeeded();
+  }
+);
 
 const rangeStart = computed(() => (total.value === 0 ? 0 : pageStartIndex.value + 1));
 const rangeEnd = computed(() => Math.min(total.value, pageStartIndex.value + pageSize.value));

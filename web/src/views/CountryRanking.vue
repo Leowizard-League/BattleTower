@@ -346,8 +346,7 @@
 
 <script setup lang="ts">
 import { useRoute } from "vue-router";
-import { computed, reactive, ref } from "vue";
-import { Data } from '../lib/data'
+import { computed, reactive, ref, onMounted } from "vue";
 import "flag-icons/css/flag-icons.min.css";
 
 // 1. 导入多语言国家名称库
@@ -359,6 +358,25 @@ import zhCnLang from 'i18n-iso-countries/langs/zh.json';
 countries.registerLocale(enLang);
 countries.registerLocale(zhCnLang);
 
+// 统一：从 public/data/players.json 读取玩家积分数据
+const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
+
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return (await res.json()) as T;
+}
+
+const players = ref<Player[]>([]);
+
+onMounted(async () => {
+  try {
+    players.value = await fetchJson<Player[]>(`${BASE_URL}data/players.json`);
+  } catch {
+    players.value = [];
+  }
+});
+
 const route = useRoute();
 
 const lang = computed<"zh" | "en">(() => {
@@ -366,8 +384,7 @@ const lang = computed<"zh" | "en">(() => {
   return seg === "en" ? "en" : "zh";
 });
 
-//const playerRows = computed(() => Data.players)
-const playerRows = computed<Player[]>(() => Data.players || []);
+const playerRows = computed<Player[]>(() => players.value || []);
 
 const isZh = computed(() => lang.value === "zh");
 

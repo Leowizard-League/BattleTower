@@ -3,7 +3,7 @@
     <h1 class="pageTitle">{{ ui.title }}</h1>
 
     <div class="meta">
-      <div>{{ ui.time }}: <span class="mono">{{ Data.meta.generated_at }}</span></div>
+      <div>{{ ui.time }}: <span class="mono">{{ meta?.generated_at || "—" }}</span></div>
       <div>
         <!-- Window: last {{ Data.meta.days_back }} days ·
         Min players: {{ Data.meta.min_players }} ·
@@ -89,50 +89,100 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 import { useRoute } from "vue-router";
-import { Data } from '../lib/data'
 
-const rows = computed(() => Data.tier)
+// 统一：从 public/data/*.json 通过 fetch 读取
+const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
+
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return (await res.json()) as T;
+}
+
+type TierRow = {
+  deck: string;
+  tier: string;
+  score: number;
+  usage: number;
+  total_samples: number;
+  data1_top32_appearances: number;
+  data2_weighted_points: number;
+  data3_top32_share_pct: number;
+};
+
+type Meta = {
+  generated_at: string;
+  days_back: number;
+  min_players: number;
+  usage_threshold: number;
+  tournaments_count: number;
+};
+
+const tierRows = ref<TierRow[]>([]);
+const meta = ref<Meta | null>(null);
+
+onMounted(async () => {
+  try {
+    tierRows.value = await fetchJson<TierRow[]>(`${BASE_URL}data/tier.json`);
+  } catch {
+    tierRows.value = [];
+  }
+
+  try {
+    meta.value = await fetchJson<Meta>(`${BASE_URL}data/meta.json`);
+  } catch {
+    meta.value = null;
+  }
+});
+
+const rows = computed(() => tierRows.value);
 
 const route = useRoute();
 const lang = computed<"zh" | "en">(() => {
-    const seg = String(route.path).split("/")[1];
-    return seg === "en" ? "en" : "zh";
-  });
+  const seg = String(route.path).split("/")[1];
+  return seg === "en" ? "en" : "zh";
+});
 
-  const isZh = computed(() => lang.value === "zh");
+const isZh = computed(() => lang.value === "zh");
 
-  const ui = computed(() => {
-    if (isZh.value) {
-      return {
-        title: "梯队排行",
-        time:"发布于",
-        window: "统计范围：最近 "+Data.meta.days_back+" 天 · 最小参赛人数 "+Data.meta.min_players+" · 使用率 ≥ "+(Data.meta.usage_threshold * 100).toFixed(0)+"% · 赛事数量 "+Data.meta.tournaments_count,
-        deck: "牌组",
-        tier: "梯队",
-        score: "评分",
-        usage: "使用率",
-        samples: "样本数",
-        top32: "Top32",
-        points: "积分",
-        top32pct: "Top32%"
-      };
-    }
+const ui = computed(() => {
+  const m = meta.value;
+  const days = m?.days_back ?? 0;
+  const minPlayers = m?.min_players ?? 0;
+  const usage = ((m?.usage_threshold ?? 0) * 100).toFixed(0);
+  const events = m?.tournaments_count ?? 0;
+
+  if (isZh.value) {
     return {
-      title: "Tier List",
-      time: "Generated at",
-      window: "Window: last " + Data.meta.days_back + " days · Min players: " + Data.meta.min_players + " · Usage ≥ " + (Data.meta.usage_threshold * 100).toFixed(0) + "% · Events: " + Data.meta.tournaments_count,
-      deck: "Deck",
-      tier: "Tier",
-      score: "Score",
-      usage: "Usage",
-      samples: "Samples",
+      title: "梯队排行",
+      time: "发布于",
+      window: `统计范围：最近 ${days} 天 · 最小参赛人数 ${minPlayers} · 使用率 ≥ ${usage}% · 赛事数量 ${events}`,
+      deck: "牌组",
+      tier: "梯队",
+      score: "评分",
+      usage: "使用率",
+      samples: "样本数",
       top32: "Top32",
-      points: "Points",
-      top32pct: "Top32%"
+      points: "积分",
+      top32pct: "Top32%",
     };
-  });
+  }
+  return {
+    title: "Tier List",
+    time: "Generated at",
+    window: `Window: last ${days} days · Min players: ${minPlayers} · Usage ≥ ${usage}% · Events: ${events}`,
+    deck: "Deck",
+    tier: "Tier",
+    score: "Score",
+    usage: "Usage",
+    samples: "Samples",
+    top32: "Top32",
+    points: "Points",
+    top32pct: "Top32%",
+  };
+});
 </script>
 
 <style scoped>

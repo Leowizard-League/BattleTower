@@ -118,7 +118,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed, ref, watchEffect } from "vue";
 import { useRoute } from "vue-router";
 
 // -------- route params --------
@@ -138,21 +138,56 @@ const id = computed(() => String(route.params.id ?? ""));
 
 const standingsUrl = computed(() => `https://play.limitlesstcg.com/tournament/${id.value}/standings`);
 
-// -------- load raw json (same strategy as your Tournaments.vue) --------
-const detailsModules = import.meta.glob("../data/raw/*/details.json", { eager: true }) as Record<string, any>;
-const standingsModules = import.meta.glob("../data/raw/*/standings.json", { eager: true }) as Record<string, any>;
+// -------- load raw json via fetch (avoid bundling src/data/raw/**) --------
+const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
 
-const details = computed<any | undefined>(() => {
-  const key = `../data/raw/${id.value}/details.json`;
-  const mod = detailsModules[key];
-  return mod?.default ?? mod;
-});
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return (await res.json()) as T;
+}
 
-const standings = computed<any[]>(() => {
-  const key = `../data/raw/${id.value}/standings.json`;
-  const mod = standingsModules[key];
-  const val = mod?.default ?? mod;
-  return Array.isArray(val) ? val : [];
+function detailsUrl(tournamentId: string) {
+  return `${BASE_URL}data/raw/${tournamentId}/details.json`;
+}
+function standingsJsonUrl(tournamentId: string) {
+  return `${BASE_URL}data/raw/${tournamentId}/standings.json`;
+}
+
+const details = ref<any | undefined>(undefined);
+const standings = ref<any[]>([]);
+
+watchEffect((onCleanup) => {
+  const tid = id.value;
+  if (!tid) return;
+
+  let cancelled = false;
+  onCleanup(() => {
+    cancelled = true;
+  });
+
+  details.value = undefined;
+  standings.value = [];
+
+  fetchJson<any>(detailsUrl(tid))
+    .then((d) => {
+      if (cancelled) return;
+      details.value = d;
+    })
+    .catch(() => {
+      if (cancelled) return;
+      details.value = undefined;
+    });
+
+  fetchJson<any[]>(standingsJsonUrl(tid))
+    .then((arr) => {
+      if (cancelled) return;
+      standings.value = Array.isArray(arr) ? arr : [];
+    })
+    .catch(() => {
+      if (cancelled) return;
+      standings.value = [];
+    });
 });
 
 // -------- tournament meta helpers --------

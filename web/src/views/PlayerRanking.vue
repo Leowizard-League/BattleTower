@@ -139,9 +139,8 @@
 </template>
 
 <script setup lang="ts">
-import { Data } from '../lib/data'
 import { useRoute } from "vue-router";
-import { computed, reactive, ref, watch } from "vue";
+import { computed, reactive, ref, watch, onMounted } from "vue";
 import "flag-icons/css/flag-icons.min.css";
 
 // 1. 导入多语言国家名称库
@@ -152,6 +151,32 @@ import zhCnLang from 'i18n-iso-countries/langs/zh.json';
 
 countries.registerLocale(enLang);
 countries.registerLocale(zhCnLang);
+
+// 统一：从 public/data/players.json 读取玩家积分数据
+const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
+
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return (await res.json()) as T;
+}
+
+type PlayerRow = {
+  player: string;
+  points: number;
+  games: number;
+  country?: string | null;
+};
+
+const players = ref<PlayerRow[]>([]);
+
+onMounted(async () => {
+  try {
+    players.value = await fetchJson<PlayerRow[]>(`${BASE_URL}data/players.json`);
+  } catch {
+    players.value = [];
+  }
+});
 
 const route = useRoute();
 
@@ -242,7 +267,7 @@ const currentPage = ref(1); // 当前页码
 const jumpPage = ref(1); // 跳转页码
 
 // 所有玩家数据
-const allPlayers = computed(() => Data.players || []);
+const allPlayers = computed(() => players.value || []);
 
 // 总页数
 // const totalPages = computed(() => {
