@@ -69,7 +69,9 @@
           <!-- 显示当前页的数据 -->
           <tr v-for="(r, i) in currentPageRows" :key="r.player">
             <td class="muted">{{ (currentPage - 1) * pageSize + i + 1 }}</td>
-            <td>{{ r.player }}</td>
+            <td>
+              <span class="player-name">{{ r.player }}</span>
+            </td>
             <!-- 🌟 国家列：旗帜 + 多语言全名 -->
             <td class="country-cell">
               <!-- 旗帜图标（flag-icons 类名要求小写国家代码） -->
@@ -203,7 +205,7 @@ const ui = computed(() => {
     title: "Player Ranking",
     rule: "Points rule = your placing weights (1st 10, 2nd 8, 3-4 6, 5-8 4, 9-16 2, 17-32 1)",
     player: "Player",
-    country: "Country/Region",
+    country: "Region",
     points: "Points",
     session: "Sessions",
     unknown: "Unknown Region",
@@ -375,8 +377,18 @@ td { font-size: 13px; color: rgba(255,255,255,0.9); }
   background-repeat: no-repeat;
   background-position: center;
 }
+.player-name {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .country-name {
-  white-space: nowrap; /* 防止国家名称换行 */
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* 分页样式 */
@@ -504,7 +516,13 @@ td { font-size: 13px; color: rgba(255,255,255,0.9); }
     height: 12px;
   }
   
+  .player-name {
+    max-width: 70px;
+    font-size: 12px;
+  }
+  
   .country-name {
+    max-width: 60px;
     font-size: 12px;
   }
   
