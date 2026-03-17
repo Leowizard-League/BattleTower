@@ -1,0 +1,940 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "rmgzane"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "xodekll",
+    "player1": "xodekll",
+    "player2": "brexar"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "miguepokemon",
+    "player1": "miguepokemon",
+    "player2": "tux"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "rhoads",
+    "player1": "rhoads",
+    "player2": "9dudul"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "vikalo",
+    "player1": "vikalo",
+    "player2": "jorgeibarra"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "xhunquitooax",
+    "player1": "bluekirby90",
+    "player2": "xhunquitooax"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "ruddy117",
+    "player1": "ruddy117",
+    "player2": "victorsillo12"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "kaos_536",
+    "player1": "kaos_536",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "diana_chan",
+    "player1": "ranko",
+    "player2": "diana_chan"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "alexelkpo",
+    "player1": "alexelkpo",
+    "player2": "periko"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "kerrycopito",
+    "player1": "kerrycopito",
+    "player2": "harvey26"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "izmaa",
+    "player1": "ozamora89",
+    "player2": "izmaa"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": -1,
+    "player1": "spaceracoonsmx",
+    "player2": "giskard011"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "guzmanco",
+    "player1": "alvarocg18",
+    "player2": "guzmanco"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "drosek2",
+    "player1": "drosek2",
+    "player2": "capitanhin"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "erick22",
+    "player1": "erick22",
+    "player2": "akaza15"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 16,
+    "winner": "ayase",
+    "player1": "ayase",
+    "player2": "semitse"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 17,
+    "winner": "meteoro",
+    "player1": "meteoro"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "xhunquitooax",
+    "player1": "xhunquitooax",
+    "player2": "diana_chan"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "miguepokemon",
+    "player1": "miguepokemon",
+    "player2": "kerrycopito"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "ruddy117",
+    "player1": "meteoro",
+    "player2": "ruddy117"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "xodekll",
+    "player1": "xodekll",
+    "player2": "alexelkpo"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "kaos_536",
+    "player1": "ayase",
+    "player2": "kaos_536"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "erick22",
+    "player1": "erick22",
+    "player2": "drosek2"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "izmaa",
+    "player1": "vikalo",
+    "player2": "izmaa"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "rhoads",
+    "player1": "rhoads",
+    "player2": "guzmanco"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "9dudul",
+    "player1": "alvarocg18",
+    "player2": "9dudul"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "giskard011",
+    "player1": "giskard011",
+    "player2": "bluekirby90"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "capitanhin",
+    "player1": "capitanhin",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "tux",
+    "player1": "periko",
+    "player2": "tux"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "jorgeibarra",
+    "player1": "semitse",
+    "player2": "jorgeibarra"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "ranko",
+    "player1": "ranko",
+    "player2": "rmgzane"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 15,
+    "winner": "victorsillo12",
+    "player1": "victorsillo12",
+    "player2": "spaceracoonsmx"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 16,
+    "winner": "brexar",
+    "player1": "brexar",
+    "player2": "akaza15"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 17,
+    "winner": "harvey26",
+    "player1": "ozamora89",
+    "player2": "harvey26"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "ruddy117",
+    "player1": "miguepokemon",
+    "player2": "ruddy117"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "xodekll",
+    "player1": "xodekll",
+    "player2": "rhoads"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "izmaa",
+    "player1": "kaos_536",
+    "player2": "izmaa"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "erick22",
+    "player1": "erick22",
+    "player2": "xhunquitooax"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "kerrycopito",
+    "player1": "giskard011",
+    "player2": "kerrycopito"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "harvey26",
+    "player1": "harvey26",
+    "player2": "victorsillo12"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "jorgeibarra",
+    "player1": "jorgeibarra",
+    "player2": "brexar"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "vikalo",
+    "player1": "vikalo",
+    "player2": "tux"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "capitanhin",
+    "player1": "capitanhin",
+    "player2": "9dudul"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "guzmanco",
+    "player1": "ranko",
+    "player2": "guzmanco"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": -1,
+    "player1": "meteoro",
+    "player2": "ayase"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "alexelkpo",
+    "player1": "alexelkpo",
+    "player2": "diana_chan"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "ozamora89",
+    "player1": "drosek2",
+    "player2": "ozamora89"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 14,
+    "winner": "semitse",
+    "player1": "spaceracoonsmx",
+    "player2": "semitse"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 15,
+    "winner": 0,
+    "player1": "alvarocg18",
+    "player2": "rmgzane"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 16,
+    "winner": "periko",
+    "player1": "periko",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 17,
+    "winner": "bluekirby90",
+    "player1": "bluekirby90"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "ruddy117",
+    "player1": "izmaa",
+    "player2": "ruddy117"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "xodekll",
+    "player1": "erick22",
+    "player2": "xodekll"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "miguepokemon",
+    "player1": "miguepokemon",
+    "player2": "capitanhin"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "xhunquitooax",
+    "player1": "xhunquitooax",
+    "player2": "kaos_536"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "kerrycopito",
+    "player1": "rhoads",
+    "player2": "kerrycopito"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "jorgeibarra",
+    "player1": "jorgeibarra",
+    "player2": "alexelkpo"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "harvey26",
+    "player1": "harvey26",
+    "player2": "vikalo"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "guzmanco",
+    "player1": "guzmanco",
+    "player2": "meteoro"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "drosek2",
+    "player1": "drosek2",
+    "player2": "periko"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "9dudul",
+    "player1": "9dudul",
+    "player2": "diana_chan"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "ayase",
+    "player1": "ayase",
+    "player2": "brexar"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 12,
+    "winner": "semitse",
+    "player1": "bluekirby90",
+    "player2": "semitse"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 13,
+    "winner": "victorsillo12",
+    "player1": "victorsillo12",
+    "player2": "ranko"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 14,
+    "winner": "tux",
+    "player1": "tux",
+    "player2": "ozamora89"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 15,
+    "winner": "rmgzane",
+    "player1": "giskard011",
+    "player2": "rmgzane"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 16,
+    "winner": "jadimaj",
+    "player1": "alvarocg18",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 17,
+    "winner": "spaceracoonsmx",
+    "player1": "spaceracoonsmx"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": 0,
+    "player1": "ruddy117",
+    "player2": "xodekll"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "izmaa",
+    "player1": "erick22",
+    "player2": "izmaa"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "xhunquitooax",
+    "player1": "kerrycopito",
+    "player2": "xhunquitooax"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "harvey26",
+    "player1": "harvey26",
+    "player2": "jorgeibarra"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "miguepokemon",
+    "player1": "guzmanco",
+    "player2": "miguepokemon"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "9dudul",
+    "player1": "9dudul",
+    "player2": "tux"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "capitanhin",
+    "player1": "capitanhin",
+    "player2": "alexelkpo"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "victorsillo12",
+    "player1": "ayase",
+    "player2": "victorsillo12"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "rhoads",
+    "player1": "rhoads",
+    "player2": "kaos_536"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": "semitse",
+    "player1": "drosek2",
+    "player2": "semitse"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 11,
+    "winner": "rmgzane",
+    "player1": "vikalo",
+    "player2": "rmgzane"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 12,
+    "winner": "spaceracoonsmx",
+    "player1": "ozamora89",
+    "player2": "spaceracoonsmx"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 13,
+    "winner": "brexar",
+    "player1": "brexar",
+    "player2": "bluekirby90"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 14,
+    "winner": "jadimaj",
+    "player1": "ranko",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 15,
+    "winner": -1,
+    "player1": "diana_chan",
+    "player2": "meteoro"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 16,
+    "winner": "giskard011",
+    "player1": "periko",
+    "player2": "giskard011"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 17,
+    "winner": "alvarocg18",
+    "player1": "alvarocg18"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 1,
+    "winner": "miguepokemon",
+    "player1": "xodekll",
+    "player2": "miguepokemon"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 2,
+    "winner": "ruddy117",
+    "player1": "ruddy117",
+    "player2": "harvey26"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 3,
+    "winner": 0,
+    "player1": "izmaa",
+    "player2": "xhunquitooax"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 4,
+    "winner": "jorgeibarra",
+    "player1": "guzmanco",
+    "player2": "jorgeibarra"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 5,
+    "winner": "9dudul",
+    "player1": "9dudul",
+    "player2": "kerrycopito"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 6,
+    "winner": "capitanhin",
+    "player1": "capitanhin",
+    "player2": "victorsillo12"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 7,
+    "winner": "rhoads",
+    "player1": "semitse",
+    "player2": "rhoads"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 8,
+    "winner": "rmgzane",
+    "player1": "erick22",
+    "player2": "rmgzane"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 9,
+    "winner": "ayase",
+    "player1": "ayase",
+    "player2": "tux"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 10,
+    "winner": -1,
+    "player1": "kaos_536",
+    "player2": "vikalo"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 11,
+    "winner": -1,
+    "player1": "giskard011",
+    "player2": "alexelkpo"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 12,
+    "winner": 0,
+    "player1": "brexar",
+    "player2": "jadimaj"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 13,
+    "winner": "spaceracoonsmx",
+    "player1": "drosek2",
+    "player2": "spaceracoonsmx"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 14,
+    "winner": 0,
+    "player1": "alvarocg18",
+    "player2": "diana_chan"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 15,
+    "winner": "ozamora89",
+    "player1": "ozamora89",
+    "player2": "bluekirby90"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 16,
+    "winner": -1,
+    "player1": "meteoro",
+    "player2": "periko"
+  },
+  {
+    "round": 6,
+    "phase": 1,
+    "table": 17,
+    "winner": "ranko",
+    "player1": "ranko"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "rhoads",
+    "match": "L2-2",
+    "player1": "xhunquitooax",
+    "player2": "rhoads"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "miguepokemon",
+    "match": "R",
+    "player1": "miguepokemon",
+    "player2": "ruddy117"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "harvey26",
+    "match": "W1-4",
+    "player1": "xodekll",
+    "player2": "harvey26"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "rhoads",
+    "match": "L1-2",
+    "player1": "xodekll",
+    "player2": "rhoads"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "miguepokemon",
+    "match": "L4-1",
+    "player1": "miguepokemon",
+    "player2": "capitanhin"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "capitanhin",
+    "match": "L3-1",
+    "player1": "capitanhin",
+    "player2": "rhoads"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "miguepokemon",
+    "match": "F",
+    "player1": "ruddy117",
+    "player2": "miguepokemon"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "ruddy117",
+    "match": "W3-1",
+    "player1": "ruddy117",
+    "player2": "miguepokemon"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "ruddy117",
+    "match": "W2-1",
+    "player1": "ruddy117",
+    "player2": "xhunquitooax"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "ruddy117",
+    "match": "W1-1",
+    "player1": "ruddy117",
+    "player2": "capitanhin"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "capitanhin",
+    "match": "L2-1",
+    "player1": "harvey26",
+    "player2": "capitanhin"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "xhunquitooax",
+    "match": "W1-2",
+    "player1": "izmaa",
+    "player2": "xhunquitooax"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "capitanhin",
+    "match": "L1-1",
+    "player1": "izmaa",
+    "player2": "capitanhin"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "miguepokemon",
+    "match": "W1-3",
+    "player1": "miguepokemon",
+    "player2": "rhoads"
+  },
+  {
+    "phase": 2,
+    "round": 7,
+    "winner": "miguepokemon",
+    "match": "W2-2",
+    "player1": "miguepokemon",
+    "player2": "harvey26"
+  }
+]

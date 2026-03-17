@@ -1,0 +1,24 @@
+{
+  "id": "69b609fbccdfe3b78e574700",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "野狐x好奇杯ptcg日常赛（国际环境)-64CODES",
+  "date": "2026-03-16T11:30:00.000Z",
+  "players": 56,
+  "organizer": {
+    "id": 1758,
+    "name": "HaoQi cup"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    }
+  ]
+}

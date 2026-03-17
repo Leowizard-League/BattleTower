@@ -1,0 +1,30 @@
+{
+  "id": "69b8884a9f81767f3e803b58",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Monday Mick T2TCG 30 codes",
+  "date": "2026-03-17T00:00:00.000Z",
+  "players": 49,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

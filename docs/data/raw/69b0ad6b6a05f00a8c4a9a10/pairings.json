@@ -1,0 +1,597 @@
+[
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "robck27"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "thunderpini"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 1,
+    "winner": "pavelcito",
+    "player1": "pavelcito",
+    "player2": "ohanitarafax"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 2,
+    "winner": "thegracida",
+    "player1": "alexshyness",
+    "player2": "thegracida"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 3,
+    "winner": "emmanuel",
+    "player1": "emmanuel",
+    "player2": "drosek2"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 4,
+    "winner": "meriwis",
+    "player1": "viterbo",
+    "player2": "meriwis"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 5,
+    "winner": "vanartur",
+    "player1": "arcaem",
+    "player2": "vanartur"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 6,
+    "winner": "usagifoo",
+    "player1": "die_kampfstube",
+    "player2": "usagifoo"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 7,
+    "winner": "chuybreton",
+    "player1": "chuybreton",
+    "player2": "voltzy_54"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 8,
+    "winner": "luvier",
+    "player1": "serturbodv313",
+    "player2": "luvier"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 9,
+    "winner": "starlight143",
+    "player1": "ederzu24",
+    "player2": "starlight143"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 10,
+    "winner": "americojr",
+    "player1": "cain",
+    "player2": "americojr"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 11,
+    "winner": "punihina",
+    "player1": "exgenn",
+    "player2": "punihina"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 12,
+    "winner": "betodmx",
+    "player1": "punchisman",
+    "player2": "betodmx"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 13,
+    "winner": "joniaco",
+    "player1": "joniaco",
+    "player2": "maxxupgrade"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 14,
+    "winner": "zaphkiel03",
+    "player1": "zaphkiel03",
+    "player2": "diego_molina"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 15,
+    "winner": "mrcoopertv",
+    "player1": "loyer",
+    "player2": "mrcoopertv"
+  },
+  {
+    "round": 1,
+    "phase": 1,
+    "table": 16,
+    "winner": "mrsaiko26",
+    "player1": "mrsaiko26"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "robck27"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": null,
+    "winner": -1,
+    "player1": "thunderpini"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 1,
+    "winner": "zaphkiel03",
+    "player1": "zaphkiel03",
+    "player2": "thegracida"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 2,
+    "winner": "betodmx",
+    "player1": "meriwis",
+    "player2": "betodmx"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 3,
+    "winner": "pavelcito",
+    "player1": "vanartur",
+    "player2": "pavelcito"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 4,
+    "winner": "joniaco",
+    "player1": "luvier",
+    "player2": "joniaco"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 5,
+    "winner": "punihina",
+    "player1": "punihina",
+    "player2": "mrcoopertv"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 6,
+    "winner": "chuybreton",
+    "player1": "americojr",
+    "player2": "chuybreton"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 7,
+    "winner": "emmanuel",
+    "player1": "usagifoo",
+    "player2": "emmanuel"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 8,
+    "winner": "starlight143",
+    "player1": "mrsaiko26",
+    "player2": "starlight143"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 9,
+    "winner": "voltzy_54",
+    "player1": "voltzy_54",
+    "player2": "diego_molina"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 10,
+    "winner": "ederzu24",
+    "player1": "arcaem",
+    "player2": "ederzu24"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 11,
+    "winner": "ohanitarafax",
+    "player1": "drosek2",
+    "player2": "ohanitarafax"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 12,
+    "winner": "die_kampfstube",
+    "player1": "die_kampfstube",
+    "player2": "punchisman"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 13,
+    "winner": "serturbodv313",
+    "player1": "serturbodv313",
+    "player2": "maxxupgrade"
+  },
+  {
+    "round": 2,
+    "phase": 1,
+    "table": 14,
+    "winner": "loyer",
+    "player1": "viterbo",
+    "player2": "loyer"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 1,
+    "winner": "punihina",
+    "player1": "betodmx",
+    "player2": "punihina"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 2,
+    "winner": "starlight143",
+    "player1": "joniaco",
+    "player2": "starlight143"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 3,
+    "winner": "chuybreton",
+    "player1": "chuybreton",
+    "player2": "emmanuel"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 4,
+    "winner": "zaphkiel03",
+    "player1": "pavelcito",
+    "player2": "zaphkiel03"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 5,
+    "winner": "ohanitarafax",
+    "player1": "ohanitarafax",
+    "player2": "serturbodv313"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 6,
+    "winner": "mrsaiko26",
+    "player1": "voltzy_54",
+    "player2": "mrsaiko26"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 7,
+    "winner": "luvier",
+    "player1": "luvier",
+    "player2": "usagifoo"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 8,
+    "winner": "thegracida",
+    "player1": "thegracida",
+    "player2": "vanartur"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 9,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "americojr"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 10,
+    "winner": "die_kampfstube",
+    "player1": "meriwis",
+    "player2": "die_kampfstube"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 11,
+    "winner": "mrcoopertv",
+    "player1": "mrcoopertv",
+    "player2": "ederzu24"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 12,
+    "winner": "punchisman",
+    "player1": "robck27",
+    "player2": "punchisman"
+  },
+  {
+    "round": 3,
+    "phase": 1,
+    "table": 13,
+    "winner": "thunderpini",
+    "player1": "thunderpini",
+    "player2": "maxxupgrade"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 1,
+    "winner": "starlight143",
+    "player1": "starlight143",
+    "player2": "punihina"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 2,
+    "winner": "chuybreton",
+    "player1": "chuybreton",
+    "player2": "zaphkiel03"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 3,
+    "winner": "emmanuel",
+    "player1": "emmanuel",
+    "player2": "betodmx"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 4,
+    "winner": "ohanitarafax",
+    "player1": "ohanitarafax",
+    "player2": "thegracida"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 5,
+    "winner": "luvier",
+    "player1": "luvier",
+    "player2": "pavelcito"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 6,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "mrsaiko26"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 7,
+    "winner": "die_kampfstube",
+    "player1": "joniaco",
+    "player2": "die_kampfstube"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 8,
+    "winner": "serturbodv313",
+    "player1": "mrcoopertv",
+    "player2": "serturbodv313"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 9,
+    "winner": "thunderpini",
+    "player1": "thunderpini",
+    "player2": "vanartur"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 10,
+    "winner": "voltzy_54",
+    "player1": "punchisman",
+    "player2": "voltzy_54"
+  },
+  {
+    "round": 4,
+    "phase": 1,
+    "table": 11,
+    "winner": "americojr",
+    "player1": "robck27",
+    "player2": "americojr"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 1,
+    "winner": "starlight143",
+    "player1": "chuybreton",
+    "player2": "starlight143"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 2,
+    "winner": "loyer",
+    "player1": "loyer",
+    "player2": "emmanuel"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 3,
+    "winner": "zaphkiel03",
+    "player1": "luvier",
+    "player2": "zaphkiel03"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 4,
+    "winner": "die_kampfstube",
+    "player1": "die_kampfstube",
+    "player2": "ohanitarafax"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 5,
+    "winner": "mrsaiko26",
+    "player1": "punihina",
+    "player2": "mrsaiko26"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 6,
+    "winner": "betodmx",
+    "player1": "betodmx",
+    "player2": "thunderpini"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 7,
+    "winner": "mrcoopertv",
+    "player1": "mrcoopertv",
+    "player2": "americojr"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 8,
+    "winner": "joniaco",
+    "player1": "joniaco",
+    "player2": "voltzy_54"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 9,
+    "winner": "serturbodv313",
+    "player1": "serturbodv313",
+    "player2": "thegracida"
+  },
+  {
+    "round": 5,
+    "phase": 1,
+    "table": 10,
+    "winner": "punchisman",
+    "player1": "vanartur",
+    "player2": "punchisman"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "zaphkiel03",
+    "match": "T2-1",
+    "player1": "starlight143",
+    "player2": "zaphkiel03"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "zaphkiel03",
+    "match": "T4-2",
+    "player1": "punihina",
+    "player2": "zaphkiel03"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "punihina",
+    "match": "T8-3",
+    "player1": "chuybreton",
+    "player2": "punihina"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "loyer",
+    "match": "T8-2",
+    "player1": "loyer",
+    "player2": "die_kampfstube"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "starlight143",
+    "match": "T4-1",
+    "player1": "starlight143",
+    "player2": "loyer"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "starlight143",
+    "match": "T8-1",
+    "player1": "starlight143",
+    "player2": "joniaco"
+  },
+  {
+    "phase": 2,
+    "round": 6,
+    "winner": "zaphkiel03",
+    "match": "T8-4",
+    "player1": "zaphkiel03",
+    "player2": "mrsaiko26"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Miguepokemon",
+    "country": "MX",
+    "decklist": null,
+    "placing": 1,
+    "player": "miguepokemon",
+    "record": {
+      "wins": 10,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Ruddy G",
+    "country": "MX",
+    "decklist": null,
+    "placing": 2,
+    "player": "ruddy117",
+    "record": {
+      "wins": 8,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Capitanhin",
+    "country": "MX",
+    "decklist": null,
+    "placing": 3,
+    "player": "capitanhin",
+    "record": {
+      "wins": 7,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Rhoads",
+    "country": "MX",
+    "decklist": null,
+    "placing": 4,
+    "player": "rhoads",
+    "record": {
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Xhunquitooax",
+    "country": "MX",
+    "decklist": null,
+    "placing": 5,
+    "player": "xhunquitooax",
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Harvey26",
+    "country": "MX",
+    "decklist": null,
+    "placing": 6,
+    "player": "harvey26",
+    "record": {
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "XodekLL",
+    "country": "MX",
+    "decklist": null,
+    "placing": 7,
+    "player": "xodekll",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Izmaa",
+    "country": "MX",
+    "decklist": null,
+    "placing": 8,
+    "player": "izmaa",
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "9dudul",
+    "country": "MX",
+    "decklist": null,
+    "placing": 9,
+    "player": "9dudul",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "JorgeIbarra",
+    "country": "MX",
+    "decklist": null,
+    "placing": 10,
+    "player": "jorgeibarra",
+    "record": {
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "PGX | RMGZANE",
+    "country": "MX",
+    "decklist": null,
+    "placing": 11,
+    "player": "rmgzane",
+    "record": {
+      "wins": 3,
+      "losses": 2,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "KerryCopito",
+    "country": "MX",
+    "decklist": null,
+    "placing": 12,
+    "player": "kerrycopito",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Victorsillo12",
+    "country": "MX",
+    "decklist": null,
+    "placing": 13,
+    "player": "victorsillo12",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Erick L",
+    "country": "MX",
+    "decklist": null,
+    "placing": 14,
+    "player": "erick22",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Guzmanco",
+    "country": "MX",
+    "decklist": null,
+    "placing": 15,
+    "player": "guzmanco",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Semitse",
+    "country": "MX",
+    "decklist": null,
+    "placing": 16,
+    "player": "semitse",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "SpaceRacoonsMX",
+    "country": "MX",
+    "decklist": null,
+    "placing": 17,
+    "player": "spaceracoonsmx",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Ayase",
+    "country": "MX",
+    "decklist": null,
+    "placing": 18,
+    "player": "ayase",
+    "record": {
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "brexar",
+    "country": "MX",
+    "decklist": null,
+    "placing": 19,
+    "player": "brexar",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "JaDiMaJ",
+    "country": "MX",
+    "decklist": null,
+    "placing": 20,
+    "player": "jadimaj",
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Kaos_536",
+    "country": "MX",
+    "decklist": null,
+    "placing": 21,
+    "player": "kaos_536",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Vikalo",
+    "country": "MX",
+    "decklist": null,
+    "placing": 22,
+    "player": "vikalo",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Tux",
+    "country": "MX",
+    "decklist": null,
+    "placing": 23,
+    "player": "tux",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Alexelkpo",
+    "country": "MX",
+    "decklist": null,
+    "placing": 24,
+    "player": "alexelkpo",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Ozamora89",
+    "country": "MX",
+    "decklist": null,
+    "placing": 25,
+    "player": "ozamora89",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Drosek2",
+    "country": "MX",
+    "decklist": null,
+    "placing": 26,
+    "player": "drosek2",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Ranko",
+    "country": "MX",
+    "decklist": null,
+    "placing": 27,
+    "player": "ranko",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Giskard011",
+    "country": "MX",
+    "decklist": null,
+    "placing": 28,
+    "player": "giskard011",
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Alvarocg18",
+    "country": "MX",
+    "decklist": null,
+    "placing": 29,
+    "player": "alvarocg18",
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 2
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Diana_chan",
+    "country": "MX",
+    "decklist": null,
+    "placing": 30,
+    "player": "diana_chan",
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 1
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Meteoro",
+    "country": "MX",
+    "decklist": null,
+    "placing": 31,
+    "player": "meteoro",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "BlueKirby90",
+    "country": "MX",
+    "decklist": null,
+    "placing": 32,
+    "player": "bluekirby90",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Periko",
+    "country": "MX",
+    "decklist": null,
+    "placing": 33,
+    "player": "periko",
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": null
+  },
+  {
+    "name": "Akaza15",
+    "country": "MX",
+    "decklist": null,
+    "placing": 34,
+    "player": "akaza15",
+    "record": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0
+    },
+    "deck": {},
+    "drop": 2
+  }
+]
