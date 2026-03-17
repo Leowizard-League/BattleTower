@@ -1,0 +1,24 @@
+{
+  "id": "69a80bf7f39e6e70969fb947",
+  "game": "OP",
+  "format": null,
+  "name": "ChinoizeCup#32 Tuesday",
+  "date": "2026-03-17T19:00:00.000Z",
+  "players": 64,
+  "organizer": {
+    "id": 2339,
+    "name": "Tcglive"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -20599,5 +20599,41 @@
     "id": "69a2e3e2d92ee137f4d1c7cb",
     "players": 36,
     "organizerId": 452
+  },
+  {
+    "game": "OP",
+    "name": "ChinoizeCup#32 Tuesday",
+    "date": "2026-03-17T19:00:00.000Z",
+    "format": null,
+    "id": "69a80bf7f39e6e70969fb947",
+    "players": 64,
+    "organizerId": 2339
+  },
+  {
+    "game": "PTCG",
+    "name": "Turtwig Den Revival Series Challenge 26",
+    "date": "2026-03-17T16:05:00.000Z",
+    "format": "STANDARD",
+    "id": "69725169b1294bfab720362a",
+    "players": 101,
+    "organizerId": 196
+  },
+  {
+    "game": "POCKET",
+    "name": "BOAT Cup ⛴ Flagship Format #01",
+    "date": "2026-03-17T04:00:00.000Z",
+    "format": null,
+    "id": "69b7b0939f81767f3e803559",
+    "players": 40,
+    "organizerId": 2598
+  },
+  {
+    "game": "VGC",
+    "name": "Sketch Academy Sunday Regulation F Tournament",
+    "date": "2026-03-09T01:00:00.000Z",
+    "format": "SVF",
+    "id": "699c04813ef65252b0574feb",
+    "players": 33,
+    "organizerId": 1651
   }
 ]
