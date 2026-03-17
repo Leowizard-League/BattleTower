@@ -1,0 +1,24 @@
+{
+  "id": "699f45fdc9dc8186f760c118",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "PHOENIX POKEMON DEVOTO - POKEMON DAY",
+  "date": "2026-03-01T18:00:00.000Z",
+  "players": 36,
+  "organizer": {
+    "id": 281,
+    "name": "PHOENIX REBORN"
+  },
+  "platform": null,
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": false,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "69aeff24f39e6e70969fff1e",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "🏛💫 Card Temple Weekly Battles #48",
+  "date": "2026-03-10T02:05:00.000Z",
+  "players": 61,
+  "organizer": {
+    "id": 2152,
+    "name": "Card Temple"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    }
+  ]
+}

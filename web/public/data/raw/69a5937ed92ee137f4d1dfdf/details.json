@@ -1,0 +1,24 @@
+{
+  "id": "69a5937ed92ee137f4d1dfdf",
+  "game": "OP",
+  "format": null,
+  "name": "ChinoizeCup #28 Monday",
+  "date": "2026-03-09T19:00:00.000Z",
+  "players": 64,
+  "organizer": {
+    "id": 2339,
+    "name": "Tcglive"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

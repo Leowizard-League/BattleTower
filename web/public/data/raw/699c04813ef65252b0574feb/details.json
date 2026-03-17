@@ -1,0 +1,30 @@
+{
+  "id": "699c04813ef65252b0574feb",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Sketch Academy Sunday Regulation F Tournament",
+  "date": "2026-03-09T01:00:00.000Z",
+  "players": 33,
+  "organizer": {
+    "id": 1651,
+    "name": "Sketch Academy"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

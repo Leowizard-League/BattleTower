@@ -1,0 +1,36 @@
+{
+  "id": "69ab0f306a05f00a8c4a593e",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "BUSTARD #5 Prize Packs series 8 for Top8",
+  "date": "2026-03-11T20:15:00.000Z",
+  "players": 54,
+  "organizer": {
+    "id": 1783,
+    "name": "JPretix"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 2,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

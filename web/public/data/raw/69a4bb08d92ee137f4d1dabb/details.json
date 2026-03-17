@@ -1,0 +1,30 @@
+{
+  "id": "69a4bb08d92ee137f4d1dabb",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "SUNDAY FUNDAY 100 codes ASC LEGAL!",
+  "date": "2026-03-02T02:00:00.000Z",
+  "players": 33,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

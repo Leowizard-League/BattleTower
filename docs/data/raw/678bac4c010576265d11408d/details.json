@@ -1,0 +1,23 @@
+{
+  "id": "678bac4c010576265d11408d",
+  "game": "POCKET",
+  "format": null,
+  "name": "🏆P.P.i.T🏆GENNAIO🏆FINALE🏆",
+  "date": "2025-01-24T19:45:00.000Z",
+  "players": 32,
+  "organizer": {
+    "id": 1968,
+    "name": "Pokemon Pocket Italia"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 5,
+      "mode": "BO3"
+    }
+  ]
+}

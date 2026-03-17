@@ -1,0 +1,30 @@
+{
+  "id": "69aaf418f39e6e70969fd392",
+  "game": "VGC",
+  "format": "SVI",
+  "name": "VGCTS Trainer School; Regulation I open! #1",
+  "date": "2026-03-15T14:00:00.000Z",
+  "players": 76,
+  "organizer": {
+    "id": 672,
+    "name": "VGC Trainers School"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "67a05f773b814c326f97097a",
+  "game": "POCKET",
+  "format": null,
+  "name": "포켓몬 한국서버 제 2회 시공의난투컵",
+  "date": "2025-02-08T05:00:00.000Z",
+  "players": 56,
+  "organizer": {
+    "id": 1971,
+    "name": "Pokémon 한국서버"
+  },
+  "decklists": false,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

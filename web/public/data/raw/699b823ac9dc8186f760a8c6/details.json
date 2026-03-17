@@ -1,0 +1,24 @@
+{
+  "id": "699b823ac9dc8186f760a8c6",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Московская лига Pokémon TCG | IX сезон #3",
+  "date": "2026-03-01T09:00:00.000Z",
+  "players": 36,
+  "organizer": {
+    "id": 362,
+    "name": "Pokemon TCG Fun League"
+  },
+  "platform": null,
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": false,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "69a76f12f39e6e70969fb50d",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Redacted Heroes 2nd Chance #1 (50 Codes)",
+  "date": "2026-03-08T00:30:00.000Z",
+  "players": 50,
+  "organizer": {
+    "id": 222,
+    "name": "Redacted Gaming"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 1,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

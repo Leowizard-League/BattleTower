@@ -1,0 +1,24 @@
+{
+  "id": "69a8e37bf39e6e70969fc171",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Vault Weekly Runs #6 🏆| 100 CODES | ASC LEGAL",
+  "date": "2026-03-06T21:00:00.000Z",
+  "players": 36,
+  "organizer": {
+    "id": 2226,
+    "name": "Vault of Games"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    }
+  ]
+}

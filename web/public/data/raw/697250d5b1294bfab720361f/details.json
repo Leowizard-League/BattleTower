@@ -1,0 +1,30 @@
+{
+  "id": "697250d5b1294bfab720361f",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Turtwig Den Revival Series Cup 6",
+  "date": "2026-03-06T17:05:00.000Z",
+  "players": 87,
+  "organizer": {
+    "id": 196,
+    "name": "DabbingUkranian"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

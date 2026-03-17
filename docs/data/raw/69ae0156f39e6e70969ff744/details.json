@@ -1,0 +1,24 @@
+{
+  "id": "69ae0156f39e6e70969ff744",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Torneo Gratuito 10 Marzo",
+  "date": "2026-03-10T23:00:00.000Z",
+  "players": 49,
+  "organizer": {
+    "id": 2306,
+    "name": "Juanma_TCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

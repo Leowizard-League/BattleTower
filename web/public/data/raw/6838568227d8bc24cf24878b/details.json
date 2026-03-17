@@ -1,0 +1,29 @@
+{
+  "id": "6838568227d8bc24cf24878b",
+  "game": "POCKET",
+  "format": null,
+  "name": "🌑C0unter3d Official✴️Monday Weekly #8",
+  "date": "2025-06-02T17:00:00.000Z",
+  "players": 32,
+  "organizer": {
+    "id": 2045,
+    "name": "The Dark League"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

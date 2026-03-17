@@ -1,0 +1,24 @@
+{
+  "id": "69aaedcd6a05f00a8c4a581e",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "🏆 Torneo Especial Sábado 7 Marzo Sidedeck Online",
+  "date": "2026-03-07T23:00:00.000Z",
+  "players": 41,
+  "organizer": {
+    "id": 2306,
+    "name": "Juanma_TCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "68223ae3d7ac342ba905467d",
+  "game": "POCKET",
+  "format": null,
+  "name": "💎TBBL💎💥Swiss Blitz Monday💥",
+  "date": "2025-05-12T20:22:00.000Z",
+  "players": 44,
+  "organizer": {
+    "id": 2045,
+    "name": "The Dark League"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

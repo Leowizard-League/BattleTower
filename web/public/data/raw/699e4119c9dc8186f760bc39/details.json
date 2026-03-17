@@ -1,0 +1,30 @@
+{
+  "id": "699e4119c9dc8186f760bc39",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Rare Candy Club Showdown #9 ASC HEROES LEGAL",
+  "date": "2026-03-02T01:00:00.000Z",
+  "players": 55,
+  "organizer": {
+    "id": 2518,
+    "name": "Rare Candy Club"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

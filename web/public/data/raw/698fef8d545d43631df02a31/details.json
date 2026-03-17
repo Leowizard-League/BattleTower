@@ -1,0 +1,30 @@
+{
+  "id": "698fef8d545d43631df02a31",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Oceania Open! Season 1 - Week 11",
+  "date": "2026-03-13T08:30:00.000Z",
+  "players": 52,
+  "organizer": {
+    "id": 1659,
+    "name": "TripleBtcg"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "69b17c2e6a05f00a8c4a9d18",
+  "game": "GUNDAM",
+  "format": null,
+  "name": "MSA Steel Requien Closing Tournament",
+  "date": "2026-03-13T23:30:00.000Z",
+  "players": 51,
+  "organizer": {
+    "id": 2527,
+    "name": "Mobile Suit Arena"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO1"
+    }
+  ]
+}

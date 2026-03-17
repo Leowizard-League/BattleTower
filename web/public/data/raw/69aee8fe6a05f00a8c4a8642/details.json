@@ -1,0 +1,30 @@
+{
+  "id": "69aee8fe6a05f00a8c4a8642",
+  "game": "VGC",
+  "format": "CUSTOM",
+  "name": "VGCA Champions Prerelease (CUSTOM FORMAT)",
+  "date": "2026-03-15T16:00:00.000Z",
+  "players": 41,
+  "organizer": {
+    "id": 1527,
+    "name": "VGC Academy "
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

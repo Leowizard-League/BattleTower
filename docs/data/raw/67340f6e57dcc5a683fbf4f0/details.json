@@ -1,0 +1,29 @@
+{
+  "id": "67340f6e57dcc5a683fbf4f0",
+  "game": "POCKET",
+  "format": null,
+  "name": "Kuyo杯PTCG Pocket线上赛 #测试赛",
+  "date": "2024-11-28T07:00:00.000Z",
+  "players": 55,
+  "organizer": {
+    "id": 1259,
+    "name": "The shining lion club"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

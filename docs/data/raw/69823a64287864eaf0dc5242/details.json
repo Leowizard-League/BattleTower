@@ -1,0 +1,30 @@
+{
+  "id": "69823a64287864eaf0dc5242",
+  "game": "OP",
+  "format": null,
+  "name": "ChinoizeCup Season Qualifier #1",
+  "date": "2026-03-14T14:00:00.000Z",
+  "players": 171,
+  "organizer": {
+    "id": 2339,
+    "name": "Tcglive"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

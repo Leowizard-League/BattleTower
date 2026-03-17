@@ -1,0 +1,30 @@
+{
+  "id": "69a35507a0282967a730ee07",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Paradox Era - Regulation F Tournament #1",
+  "date": "2026-03-03T18:00:00.000Z",
+  "players": 36,
+  "organizer": {
+    "id": 950,
+    "name": "Rose des Vents"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 5,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

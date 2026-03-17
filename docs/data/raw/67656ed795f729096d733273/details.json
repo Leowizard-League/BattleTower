@@ -1,0 +1,23 @@
+{
+  "id": "67656ed795f729096d733273",
+  "game": "POCKET",
+  "format": null,
+  "name": "非常规赛 ‘’毛裤杯‘’ 正式开赛！浅测新环境！by B站 毛线的浪漫",
+  "date": "2024-12-28T06:00:00.000Z",
+  "players": 58,
+  "organizer": {
+    "id": 1883,
+    "name": "Mxisidore-PTCGpocket"
+  },
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    }
+  ]
+}
