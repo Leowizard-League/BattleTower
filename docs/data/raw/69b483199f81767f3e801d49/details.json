@@ -1,0 +1,30 @@
+{
+  "id": "69b483199f81767f3e801d49",
+  "game": "VGC",
+  "format": "SVF",
+  "name": "Devils Den Tournaments #69",
+  "date": "2026-03-16T21:30:00.000Z",
+  "players": 35,
+  "organizer": {
+    "id": 1393,
+    "name": "Devils Den Tournaments"
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

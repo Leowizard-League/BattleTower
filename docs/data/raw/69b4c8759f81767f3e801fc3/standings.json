@@ -142,14 +142,14 @@
       "id": "Hudies",
       "name": "CS Hudiemon"
     },
-    "placing": 1,
+    "placing": null,
     "player": "lucholichi",
     "record": {
       "wins": 5,
       "losses": 1,
       "ties": 0
     },
-    "drop": null
+    "drop": 6
   },
   {
     "name": "Mariano Jar [Motomel]",
@@ -288,7 +288,7 @@
       "id": "Millenniummon",
       "name": "Millenniummon"
     },
-    "placing": 2,
+    "placing": 1,
     "player": "marianojar",
     "record": {
       "wins": 5,
@@ -452,7 +452,7 @@
       "id": "vortexdramon",
       "name": "Vortexdramon"
     },
-    "placing": 3,
+    "placing": 2,
     "player": "zorkevil",
     "record": {
       "wins": 5,
@@ -604,7 +604,7 @@
       "id": "Mineral",
       "name": "Rocks"
     },
-    "placing": 4,
+    "placing": 3,
     "player": "thenaza311",
     "record": {
       "wins": 5,
@@ -750,7 +750,7 @@
       "id": "vortexdramon",
       "name": "Vortexdramon"
     },
-    "placing": 5,
+    "placing": 4,
     "player": "lopezoteroivan",
     "record": {
       "wins": 4,
@@ -884,7 +884,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 6,
+    "placing": 5,
     "player": "lautikpc95",
     "record": {
       "wins": 4,
@@ -1048,7 +1048,7 @@
       "id": "bees",
       "name": "Bees"
     },
-    "placing": 7,
+    "placing": 6,
     "player": "cc3636",
     "record": {
       "wins": 4,
@@ -1188,7 +1188,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 8,
+    "placing": 7,
     "player": "paco22",
     "record": {
       "wins": 4,
@@ -1316,7 +1316,7 @@
       "id": "Time Stranger",
       "name": "Time Strangers"
     },
-    "placing": 9,
+    "placing": 8,
     "player": "w32r",
     "record": {
       "wins": 4,
@@ -1450,7 +1450,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 10,
+    "placing": 9,
     "player": "gonomax",
     "record": {
       "wins": 4,
@@ -1590,7 +1590,7 @@
       "id": "Hudies",
       "name": "CS Hudiemon"
     },
-    "placing": 11,
+    "placing": 10,
     "player": "gleenso",
     "record": {
       "wins": 4,
@@ -1736,7 +1736,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 12,
+    "placing": 11,
     "player": "thechocokid",
     "record": {
       "wins": 4,
@@ -1882,7 +1882,7 @@
       "id": "Mineral",
       "name": "Rocks"
     },
-    "placing": 13,
+    "placing": 12,
     "player": "agustincopa",
     "record": {
       "wins": 3,
@@ -2028,7 +2028,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 14,
+    "placing": 13,
     "player": "kraixner",
     "record": {
       "wins": 3,
@@ -2174,7 +2174,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 15,
+    "placing": 14,
     "player": "ignaagos",
     "record": {
       "wins": 3,
@@ -2332,7 +2332,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 16,
+    "placing": 15,
     "player": "takatomon",
     "record": {
       "wins": 3,
@@ -2478,7 +2478,7 @@
       "id": "Time Stranger",
       "name": "TS Neptunemon / TS Abyss Sanctuary"
     },
-    "placing": 17,
+    "placing": 16,
     "player": "derggis",
     "record": {
       "wins": 3,
@@ -2624,7 +2624,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 18,
+    "placing": 17,
     "player": "mikearrondo",
     "record": {
       "wins": 3,
@@ -2734,7 +2734,7 @@
       "id": "Vemmon",
       "name": "Vemmon"
     },
-    "placing": 19,
+    "placing": 18,
     "player": "oreogon",
     "record": {
       "wins": 3,
@@ -2886,7 +2886,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 20,
+    "placing": 19,
     "player": "jimmy96",
     "record": {
       "wins": 3,
@@ -3014,7 +3014,7 @@
       "id": "Mineral",
       "name": "Rocks"
     },
-    "placing": 21,
+    "placing": 20,
     "player": "beelzemons",
     "record": {
       "wins": 3,
@@ -3172,7 +3172,7 @@
       "id": "Purple-Red Imperialdramon",
       "name": "Purple Red Imperialdramon"
     },
-    "placing": 22,
+    "placing": 21,
     "player": "tbreaker20",
     "record": {
       "wins": 3,
@@ -3300,7 +3300,7 @@
       "id": "CS maste",
       "name": "CS Mastemon"
     },
-    "placing": 23,
+    "placing": 22,
     "player": "sirponi",
     "record": {
       "wins": 2,
@@ -3452,7 +3452,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 24,
+    "placing": 23,
     "player": "itamarcfc",
     "record": {
       "wins": 2,
@@ -3609,7 +3609,7 @@
       "id": "HeavyMetaldramon ",
       "name": "HeavyMetaldramon "
     },
-    "placing": 25,
+    "placing": 24,
     "player": "combot3003",
     "record": {
       "wins": 2,
@@ -3737,7 +3737,7 @@
       "id": "other",
       "name": "Other"
     },
-    "placing": 26,
+    "placing": 25,
     "player": "cyranorock",
     "record": {
       "wins": 2,
@@ -3883,7 +3883,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 27,
+    "placing": 26,
     "player": "faxs",
     "record": {
       "wins": 2,
@@ -4041,7 +4041,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 28,
+    "placing": 27,
     "player": "darioggzz",
     "record": {
       "wins": 2,
@@ -4181,7 +4181,7 @@
       "id": "styraco",
       "name": "Medusa"
     },
-    "placing": 29,
+    "placing": 28,
     "player": "smv07",
     "record": {
       "wins": 2,
@@ -4321,7 +4321,7 @@
       "id": "Accel",
       "name": "Accel"
     },
-    "placing": 30,
+    "placing": 29,
     "player": "sebasjaimes",
     "record": {
       "wins": 2,
@@ -4497,7 +4497,7 @@
       "id": "HeavyMetaldramon ",
       "name": "HeavyMetaldramon "
     },
-    "placing": 31,
+    "placing": 30,
     "player": "chuck",
     "record": {
       "wins": 2,
@@ -4649,7 +4649,7 @@
       "id": "Hudies",
       "name": "CS Hudiemon"
     },
-    "placing": 32,
+    "placing": 31,
     "player": "demonish",
     "record": {
       "wins": 2,
@@ -4783,7 +4783,7 @@
       "id": "Millenniummon",
       "name": "Millenniummon"
     },
-    "placing": 33,
+    "placing": 32,
     "player": "fonzix",
     "record": {
       "wins": 2,
@@ -4923,7 +4923,7 @@
       "id": "other",
       "name": "Other"
     },
-    "placing": 34,
+    "placing": 33,
     "player": "00darkrose00",
     "record": {
       "wins": 1,
@@ -5057,7 +5057,7 @@
       "id": "creepyx",
       "name": "Creepymon X"
     },
-    "placing": 35,
+    "placing": 34,
     "player": "narthelus",
     "record": {
       "wins": 1,
@@ -5185,7 +5185,7 @@
       "id": "homeros tamer variants later",
       "name": "Olympos XII"
     },
-    "placing": 36,
+    "placing": 35,
     "player": "antinomy22",
     "record": {
       "wins": 0,

@@ -1,0 +1,29 @@
+{
+  "id": "6965e3f3ba66621ba08bb13c",
+  "game": "POCKET",
+  "format": null,
+  "name": "Meztli League #1 | Ranking Mexicano",
+  "date": "2026-01-15T06:00:00.000Z",
+  "players": 34,
+  "organizer": {
+    "id": 2421,
+    "name": "Space Racoons Esports"
+  },
+  "decklists": false,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "DOUBLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}
