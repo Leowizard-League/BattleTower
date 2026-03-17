@@ -527,11 +527,11 @@ const filters = reactive({
   format: "" as "" | "Standard" | "NoEX" | "Special",
 });
 
-function extractIdFromPath(p: string) {
-  // .../raw/<id>/details.json
-  const m = p.match(/\/raw\/([^/]+)\/details\.json$/);
-  return m?.[1] ?? "";
-}
+// function extractIdFromPath(p: string) {
+//   // .../raw/<id>/details.json
+//   const m = p.match(/\/raw\/([^/]+)\/details\.json$/);
+//   return m?.[1] ?? "";
+// }
 
 function toUtcDateMs(dateLike: any): number | undefined {
   if (!dateLike) return undefined;

@@ -64,9 +64,13 @@ def tier_label(score):
 # ===================== 核心逻辑：读取本地原始数据并统计 =====================
 def main():
     # 1. 读取本地的赛事列表
-    with open("web/public/data/tournaments.json", "r", encoding="utf-8") as f:
-        tournaments = json.load(f)
-    print(f"读取到本地 {len(tournaments)} 场赛事数据")
+    tournaments_path = "web/public/data/tournaments.json"
+    with open(tournaments_path, "r", encoding="utf-8") as f:
+        original_tournaments = json.load(f)
+    print(f"读取到本地 {len(original_tournaments)} 场赛事数据")
+    
+    # 初始化缺失赛事ID列表（核心新增）
+    missing_tournament_ids = []
     
     # 2. 初始化统计字典
     deck_total_counts = {}  # 所有赛事牌组出场次数
@@ -83,9 +87,9 @@ def main():
     matchup = {}  # 胜率矩阵
     
     # 3. 遍历赛事，读取本地原始数据并统计
-    for idx, t in enumerate(tournaments):
+    for idx, t in enumerate(original_tournaments):
         tid = t["id"]
-        print(f"正在统计第 {idx+1}/{len(tournaments)} 场赛事，ID: {tid}")
+        print(f"正在统计第 {idx+1}/{len(original_tournaments)} 场赛事，ID: {tid}")
         
         # 读取本地raw文件夹中的数据
         try:
@@ -97,6 +101,7 @@ def main():
                 pairings = json.load(f)
         except FileNotFoundError:
             print(f"警告：赛事 {tid} 的原始数据文件缺失，跳过")
+            missing_tournament_ids.append(tid)  # 记录缺失的赛事ID
             continue
         
         # 仅处理POCKET赛事
@@ -169,6 +174,29 @@ def main():
                 w += 1
             matchup[(d2, d1)] = (w, tot)
     
+    # ===================== 核心新增逻辑：处理缺失赛事ID =====================
+    # 1. 打印缺失的赛事ID
+    print("\n===== 缺失原始数据的赛事ID列表 =====")
+    if missing_tournament_ids:
+        for tid in missing_tournament_ids:
+            print(f"- {tid}")
+        print(f"总计缺失 {len(missing_tournament_ids)} 场赛事数据")
+    else:
+        print("无缺失赛事数据")
+    
+    # 2. 过滤tournaments列表，移除缺失ID的条目
+    filtered_tournaments = [
+        t for t in original_tournaments 
+        if t["id"] not in missing_tournament_ids
+    ]
+    
+    # 3. 保存过滤后的tournaments.json（覆盖原文件）
+    write_json(tournaments_path, filtered_tournaments)
+    print(f"\n===== 已更新tournaments.json =====")
+    print(f"原赛事数量：{len(original_tournaments)}")
+    print(f"过滤后赛事数量：{len(filtered_tournaments)}")
+    print(f"已移除 {len(original_tournaments) - len(filtered_tournaments)} 条缺失数据的赛事记录")
+    
     # 4. 筛选有效牌组（使用率≥1%）
     if total_entries_all == 0:
         eligible_decks = []
@@ -177,7 +205,7 @@ def main():
             d for d, c in deck_total_counts.items()
             if (c / total_entries_all) >= USAGE_THRESHOLD
         ]
-    print(f"筛选出 {len(eligible_decks)} 个有效牌组（使用率≥{USAGE_THRESHOLD*100}%）")
+    print(f"\n筛选出 {len(eligible_decks)} 个有效牌组（使用率≥{USAGE_THRESHOLD*100}%）")
     
     # 5. 计算Tier核心指标（原始→对数→标准化）
     # 原始数据
@@ -244,11 +272,12 @@ def main():
         "min_players": MIN_PLAYERS,
         "usage_threshold": USAGE_THRESHOLD,
         "top_cut_n": TOP_CUT_N,
-        "tournaments_count": len(tournaments),
+        "tournaments_count": len(filtered_tournaments),  # 改为过滤后的赛事数量
         "total_entries_all": total_entries_all,
         "top32_total_slots": top32_total_slots,
         "weights": {"data1": W1, "data2": W2, "data3": W3},
         "tier_thresholds": {"S": 0.9, "A": 0.7, "B": 0.5, "C": 0.3, "D": 0.1},
+        "missing_tournament_ids": missing_tournament_ids,  # 新增：记录缺失的赛事ID
     }
     
     # 10. 保存所有结果文件
@@ -257,11 +286,12 @@ def main():
     write_json("web/public/data/matchups.json", matchup_out)
     write_json("web/public/data/meta.json", meta)
     
-    print("统计分析完成！已生成：")
+    print("\n统计分析完成！已生成：")
     print("- tier.json（牌组Tier数据）")
     print("- players.json（玩家排名，含出场次数）")
     print("- matchups.json（胜率矩阵）")
-    print("- meta.json（统计元信息）")
+    print("- meta.json（统计元信息，含缺失赛事ID）")
+    print(f"- 已更新 {tournaments_path}（移除缺失数据的赛事）")
 
 if __name__ == "__main__":
     main()
