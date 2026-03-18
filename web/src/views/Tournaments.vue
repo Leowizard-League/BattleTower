@@ -15,9 +15,13 @@
         <label>{{ isZh ? "玩家數" : "Players " }}
           <span class="hint">{{ isZh ? "多於或等於（>=）" : "More than or equal to (>=)" }}</span>
         </label>
-        <input v-model.number="filters.minPlayers" type="number" inputmode="numeric" min="0"
-          :placeholder="isZh ? '例如 32' : 'e.g： 32'" />
-        
+        <input
+          v-model.number="filters.minPlayers"
+          type="number"
+          inputmode="numeric"
+          min="0"
+          :placeholder="isZh ? '例如 32' : 'e.g： 32'"
+        />
       </div>
 
       <div class="f">
@@ -34,7 +38,6 @@
             </option>
           </optgroup>
         </select>
-        <!-- <div class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</div> -->
       </div>
 
       <div class="f">
@@ -77,17 +80,24 @@
         <div class="pager__label">{{ isZh ? "每頁顯示" : "Per page" }}</div>
 
         <div class="pager__sizes" role="group" :aria-label="isZh ? '每頁筆數' : 'Rows per page'">
-          <button v-for="n in PAGE_SIZES" :key="n" type="button"
-            :class="['pagerBtn', pageSize === n ? 'is-active' : '']" :aria-pressed="pageSize === n"
-            @click="setPageSize(n)">
+          <button
+            v-for="n in PAGE_SIZES"
+            :key="n"
+            type="button"
+            :class="['pagerBtn', pageSize === n ? 'is-active' : '']"
+            :aria-pressed="pageSize === n"
+            @click="setPageSize(n)"
+          >
             {{ n }}
-
           </button>
         </div>
 
         <div class="pager__summary mono muted">
           <template v-if="total > 0">
-            {{ isZh ? `顯示第 ${rangeStart}–${rangeEnd} 筆 / 共 ${total} 筆` : `Showing ${rangeStart}–${rangeEnd} of ${total}`
+            {{
+              isZh
+                ? `顯示第 ${rangeStart}–${rangeEnd} 筆 / 共 ${total} 筆`
+                : `Showing ${rangeStart}–${rangeEnd} of ${total}`
             }}
           </template>
           <template v-else>
@@ -152,24 +162,36 @@
                 <div class="nameCell">
                   <div class="nameMain">{{ t.name }}</div>
                   <div class="nameMeta muted">
-                    <button v-if="t.set" type="button"
+                    <button
+                      v-if="t.set"
+                      type="button"
                       :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
-                      :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
-                      :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
+                      :aria-pressed="filters.set === t.set"
+                      @click="toggleSet(t.set)"
+                      :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'"
+                    >
                       {{ versionLabel(t.set) }}
                     </button>
 
-                    <button v-if="t.format" type="button"
+                    <button
+                      v-if="t.format"
+                      type="button"
                       :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
-                      :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
-                      :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
+                      :aria-pressed="filters.format === t.format"
+                      @click="toggleFormat(t.format)"
+                      :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'"
+                    >
                       {{ formatLabelForUi(t.format) }}
                     </button>
 
-                    <button v-if="t.swiss" type="button"
+                    <button
+                      v-if="t.swiss"
+                      type="button"
                       :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
-                      :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
-                      :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
+                      :aria-pressed="filters.swiss === t.swiss"
+                      @click="toggleSwiss(t.swiss)"
+                      :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'"
+                    >
                       {{ t.swiss }}
                     </button>
                   </div>
@@ -184,20 +206,34 @@
                     <div class="deckIconsWrap">
                       <div class="deckIconsRow">
                         <template v-for="slot in 2" :key="slot">
-                          <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
-                            :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
-                            draggable="false" />
+                          <img
+                            v-if="d.iconUrls[slot - 1]"
+                            :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
+                            :src="d.iconUrls[slot - 1]!"
+                            :alt="deckAlt(i + 1, slot)"
+                            loading="lazy"
+                            decoding="async"
+                            draggable="false"
+                          />
 
-                          <span v-else-if="d.iconKeys[slot - 1]"
-                            :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
-                            :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
+                          <span
+                            v-else-if="d.iconKeys[slot - 1]"
+                            :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']"
+                            aria-hidden="true"
+                            :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"
+                          ></span>
 
                           <template v-else></template>
                         </template>
                       </div>
 
-                      <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
-                        draggable="false" />
+                      <img
+                        class="deckDisk"
+                        :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))"
+                        alt=""
+                        aria-hidden="true"
+                        draggable="false"
+                      />
                     </div>
                   </div>
                 </div>
@@ -205,8 +241,14 @@
               </td>
 
               <td class="link">
-                <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
-                  :aria-label="ui.standingsTitle">
+                <a
+                  class="linkDot"
+                  :href="t.standingsUrl"
+                  target="_blank"
+                  rel="noreferrer"
+                  :title="ui.standingsTitle"
+                  :aria-label="ui.standingsTitle"
+                >
                   ↗
                 </a>
               </td>
@@ -215,14 +257,13 @@
             <tr v-if="filtered.length === 0">
               <td class="muted" colspan="5" style="padding: 16px;">
                 {{ ui.emptyText }}
-                <span class="mono">
-                  <!-- web/src/data/raw/* -->
-                </span>
+                <span class="mono"></span>
               </td>
             </tr>
           </tbody>
         </table>
       </div>
+
       <!-- 移动端卡片式布局 -->
       <div class="mobile-cards" v-if="paged.length > 0">
         <div v-for="t in paged" :key="t.id" class="mobile-card">
@@ -230,32 +271,49 @@
             <div class="date-info mono muted">{{ t.dateStr }}</div>
             <h3 class="tournament-name">{{ t.name }}</h3>
           </div>
+
           <div class="card-meta">
-            <button v-if="t.set" type="button"
+            <button
+              v-if="t.set"
+              type="button"
               :class="['pill', 'pill--btn', filters.set === t.set ? 'pill--active' : '']"
-              :aria-pressed="filters.set === t.set" @click="toggleSet(t.set)"
-              :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'">
+              :aria-pressed="filters.set === t.set"
+              @click="toggleSet(t.set)"
+              :title="isZh ? '點擊篩選：Set' : 'Click to filter: Set'"
+            >
               {{ versionLabel(t.set) }}
             </button>
-            <button v-if="t.format" type="button"
+
+            <button
+              v-if="t.format"
+              type="button"
               :class="['pill', 'pill--btn', filters.format === t.format ? 'pill--active' : '']"
-              :aria-pressed="filters.format === t.format" @click="toggleFormat(t.format)"
-              :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'">
+              :aria-pressed="filters.format === t.format"
+              @click="toggleFormat(t.format)"
+              :title="isZh ? '點擊篩選：Format' : 'Click to filter: Format'"
+            >
               {{ formatLabelForUi(t.format) }}
             </button>
-            <button v-if="t.swiss" type="button"
+
+            <button
+              v-if="t.swiss"
+              type="button"
               :class="['pill', 'pill--btn', filters.swiss === t.swiss ? 'pill--active' : '']"
-              :aria-pressed="filters.swiss === t.swiss" @click="toggleSwiss(t.swiss)"
-              :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'">
+              :aria-pressed="filters.swiss === t.swiss"
+              @click="toggleSwiss(t.swiss)"
+              :title="isZh ? '點擊篩選：Swiss' : 'Click to filter: Swiss'"
+            >
               {{ t.swiss }}
             </button>
           </div>
+
           <div class="card-stats">
             <div class="stat-item">
               <span class="stat-label">{{ isZh ? "人數" : "Players" }}</span>
               <span class="stat-value mono">{{ t.players ?? "—" }}</span>
             </div>
           </div>
+
           <div class="card-top-decks" v-if="t.topDecks.length">
             <div class="top-decks-title">{{ isZh ? "前四名牌組" : "Top 4 Decks" }}</div>
             <div class="topDecksGrid">
@@ -263,23 +321,44 @@
                 <div class="deckIconsWrap">
                   <div class="deckIconsRow">
                     <template v-for="slot in 2" :key="slot">
-                      <img v-if="d.iconUrls[slot - 1]" :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
-                        :src="d.iconUrls[slot - 1]!" :alt="deckAlt(i + 1, slot)" loading="lazy" decoding="async"
-                        draggable="false" />
-                      <span v-else-if="d.iconKeys[slot - 1]"
-                        :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']" aria-hidden="true"
-                        :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"></span>
+                      <img
+                        v-if="d.iconUrls[slot - 1]"
+                        :class="['deckIcon', slot === 2 ? 'deckIcon--second' : '']"
+                        :src="d.iconUrls[slot - 1]!"
+                        :alt="deckAlt(i + 1, slot)"
+                        loading="lazy"
+                        decoding="async"
+                        draggable="false"
+                      />
+                      <span
+                        v-else-if="d.iconKeys[slot - 1]"
+                        :class="['deckIconFallback', slot === 2 ? 'deckIconFallback--second' : '']"
+                        aria-hidden="true"
+                        :title="missingIconTitle(d.iconKeys[slot - 1], i + 1, slot)"
+                      ></span>
                     </template>
                   </div>
-                  <img class="deckDisk" :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))" alt="" aria-hidden="true"
-                    draggable="false" />
+                  <img
+                    class="deckDisk"
+                    :src="resolveDeckDiskUrl(getDeckDiskKind(i + 1))"
+                    alt=""
+                    aria-hidden="true"
+                    draggable="false"
+                  />
                 </div>
               </div>
             </div>
           </div>
+
           <div class="card-actions">
-            <a class="linkDot" :href="t.standingsUrl" target="_blank" rel="noreferrer" :title="ui.standingsTitle"
-              :aria-label="ui.standingsTitle">
+            <a
+              class="linkDot"
+              :href="t.standingsUrl"
+              target="_blank"
+              rel="noreferrer"
+              :title="ui.standingsTitle"
+              :aria-label="ui.standingsTitle"
+            >
               {{ isZh ? "查看排位" : "View Standings" }}
             </a>
           </div>
@@ -297,6 +376,8 @@
 import { useRoute } from "vue-router";
 import { computed, reactive, ref, watch, onMounted } from "vue";
 
+type SwissLabel = "BO1" | "BO3" | "Other";
+type FormatLabel = "Standard" | "NoEX" | "Special";
 
 function toggleSet(set?: string) {
   if (!set) return;
@@ -308,38 +389,34 @@ function toggleSwiss(s?: SwissLabel) {
   filters.swiss = filters.swiss === s ? "" : s;
 }
 
-function toggleFormat(f?: "Standard" | "NoEX" | "Special" | string) {
-  // 你的 filters.format 只接受這三種；其它值就忽略
+function toggleFormat(f?: FormatLabel | string) {
   if (f !== "Standard" && f !== "NoEX" && f !== "Special") return;
   filters.format = filters.format === f ? "" : f;
 }
 
-type FormatLabel = "Standard" | "NoEX" | "Special";
-
-/**
- * 規則：
- * - null / undefined / "STANDARD" => Standard
- * - "NOEX" => NoEX
- * - "CUSTOM" => Special
- * - 其他看不懂的 => undefined（不顯示、不參與 filter）
- */
-function formatFromDetails(details: any): FormatLabel | undefined {
-  const raw = details?.format;
-
+function normalizeFormatValue(raw: any): FormatLabel | undefined {
   if (raw == null) return "Standard";
 
   const s = String(raw).trim().toUpperCase();
 
-  if (s === "" || s === "STANDARD") return "Standard";
-  if (s === "NOEX") return "NoEX";
-  if (s === "CUSTOM") return "Special";
+  if (!s || s === "STANDARD") return "Standard";
+  if (s === "NOEX" || s === "NO-EX" || s === "NO_EX") return "NoEX";
+  if (s === "CUSTOM" || s === "SPECIAL") return "Special";
 
   return undefined;
 }
 
+function normalizeSwissValue(raw: any): SwissLabel | undefined {
+  if (raw == null) return undefined;
+  const s = String(raw).trim().toUpperCase();
+  if (s === "BO1") return "BO1";
+  if (s === "BO3") return "BO3";
+  return "Other";
+}
+
 function formatLabelForUi(f?: FormatLabel | string) {
   if (!f) return "—";
-  if (f === "NoEX") return "NoEX"; // 你說 NOEX 不分中英文
+  if (f === "NoEX") return "NoEX";
 
   if (isZh.value) {
     if (f === "Standard") return "標準";
@@ -353,53 +430,42 @@ function formatLabelForUi(f?: FormatLabel | string) {
 
 function swissLabelFromDetails(details: any): SwissLabel {
   const phases = Array.isArray(details?.phases) ? details.phases : [];
-
-  // Phase 1：優先找 phase===1；找不到就退回用第一個
   const p1 = phases.find((p: any) => p?.phase === 1) ?? phases[0];
 
   const p1Type = String(p1?.type ?? "").toUpperCase();
   const p1Mode = String(p1?.mode ?? "").toUpperCase();
 
-  // 你的規則：Other 只看 Phase 1
   if (p1Type !== "SWISS") return "Other";
   if (p1Mode === "BO1") return "BO1";
   if (p1Mode === "BO3") return "BO3";
   return "Other";
 }
 
-
 // 讀取 src/assets/deck-disks 內所有 png
-const diskFiles = import.meta.glob('../assets/deck-disks/*.png', {
+const diskFiles = import.meta.glob("../assets/deck-disks/*.png", {
   eager: true,
-  import: 'default',
+  import: "default",
 }) as Record<string, string>;
 
 const DISK_NAME: Record<string, string> = {
-  gold: 'disk-gold.png',
-  silver: 'disk-silver.png',
-  bronze: 'disk-bronze.png',
-  neutral: 'disk-neutral.png',
+  gold: "disk-gold.png",
+  silver: "disk-silver.png",
+  bronze: "disk-bronze.png",
+  neutral: "disk-neutral.png",
 };
 
-function resolveDeckDiskUrl(kind: 'gold' | 'silver' | 'bronze' | 'neutral' = 'neutral') {
+function resolveDeckDiskUrl(kind: "gold" | "silver" | "bronze" | "neutral" = "neutral") {
   const file = DISK_NAME[kind] ?? DISK_NAME.neutral;
   const hit = Object.entries(diskFiles).find(([path]) => path.endsWith(`/${file}`));
   return hit?.[1];
 }
 
-// 先用「位置」做預設：每列第一個金，其它銀（符合你截圖的感覺）
-// 之後你若有 place / rank 欄位，再改這裡就好
-function getDeckDiskKind(rank: number): 'gold' | 'silver' | 'neutral' {
-  if (rank === 1) return 'gold';
-  if (rank === 2) return 'silver';
-  return 'neutral';
+function getDeckDiskKind(rank: number): "gold" | "silver" | "neutral" {
+  if (rank === 1) return "gold";
+  if (rank === 2) return "silver";
+  return "neutral";
 }
 
-/**
- * ✅ 性能优化重点：
- * - 不再使用 import.meta.glob 去扫描/打包 raw 目录（会导致首屏慢、甚至 build OOM）
- * - 改为运行时 fetch 静态 json（需要把数据放到可被静态访问的位置，比如 public/data/**）
- */
 const BASE_URL = (import.meta as any).env?.BASE_URL ?? "/";
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -408,37 +474,29 @@ async function fetchJson<T>(url: string): Promise<T> {
   return (await res.json()) as T;
 }
 
-/**
- * 讀取本地 deck icon（你自己放的 png/webp/svg）
- * 你可以建立：web/src/assets/deck-icons/<key>.png
- */
 const deckIconModules = import.meta.glob("../assets/deck-icons/*.{png,webp,svg}", {
   eager: true,
   import: "default",
 }) as Record<string, string>;
 
-type SwissLabel = "BO1" | "BO3" | "Other";
-
 type TopDeck = {
-  // 兩個 icon key：主力/副手（或你希望的兩個代表）
   iconKeys: (string | undefined)[];
   iconUrls: (string | undefined)[];
 };
 
 type TournamentRow = {
   id: string;
-  dateISO?: string; // YYYY-MM-DD
-  dateMs?: number;  // for sorting/filtering
-  dateStr: string;  // display
+  dateISO?: string;
+  dateMs?: number;
+  dateStr: string;
   name: string;
   players?: number;
 
-  set?: string;     // e.g. A1, B2a ...
-  format?: "Standard" | "NoEX" | "Special" | string;
+  set?: string;
+  format?: FormatLabel | string;
   swiss?: SwissLabel;
 
-  topDecks: TopDeck[]; // top 4，每個 2 icons
-
+  topDecks: TopDeck[];
   standingsUrl: string;
 };
 
@@ -457,9 +515,8 @@ const ui = computed(() => {
       title: "賽事",
       subtitle: (n: number) => `共 ${n} 場`,
       standingsTitle: "查看 standings",
-      emptyText: "沒有符合條件的賽事。請調整 filters，或確認 raw 資料是否存在於 ",
-      footText:
-        " ",
+      emptyText: "沒有符合條件的賽事。",
+      footText: " ",
       top4AriaLabel: "前四名牌組（每副2圖）",
     };
   }
@@ -467,10 +524,9 @@ const ui = computed(() => {
     title: "Tournaments",
     subtitle: (n: number) => `Total ${n} tournaments`,
     standingsTitle: "Open standings",
-    emptyText:
-      "No tournaments match your filters. Adjust filters or make sure raw data exists in ",
+    emptyText: "No tournaments match your filters.",
     footText:
-      "tips: If icons don’t show up, make sure standings provides 2 keys per deck (deckIconKeys / deckIconKeyMain&Sub, or a deckIconKey that can be split) matching filenames in assets/deck-icons.",
+      "tips: If icons don’t show up, make sure standings provides 2 keys per deck (deck.icons / deckIconKeys / deckIconKeyMain&Sub) matching filenames in assets/deck-icons.",
     top4AriaLabel: "Top 4 decks (2 icons each)",
   };
 });
@@ -489,21 +545,37 @@ type GameVersion = {
   code: GameVersionCode;
   nameZh: string;
   nameEn: string;
-  releaseUtcIso: string; // ISO string in UTC
+  releaseUtcIso: string;
+  releaseMs: number;
 };
 
-// 从 public/data/game_version.json 读取游戏版本数据
-const gameVersions = ref<GameVersion[]>([]);
+const GAME_VERSIONS: GameVersion[] = [
+  { code: "A1", nameZh: "最強的基因", nameEn: "Genetic Apex", releaseUtcIso: "2024-10-30T01:00:00Z", releaseMs: Date.parse("2024-10-30T01:00:00Z") },
+  { code: "A1a", nameZh: "幻遊島", nameEn: "Mythical Island", releaseUtcIso: "2024-12-17T06:00:00Z", releaseMs: Date.parse("2024-12-17T06:00:00Z") },
+  { code: "A2", nameZh: "時空激鬥", nameEn: "Space-Time Smackdown", releaseUtcIso: "2025-01-30T06:00:00Z", releaseMs: Date.parse("2025-01-30T06:00:00Z") },
+  { code: "A2a", nameZh: "超克之光", nameEn: "Triumphant Light", releaseUtcIso: "2025-02-28T06:00:00Z", releaseMs: Date.parse("2025-02-28T06:00:00Z") },
+  { code: "A2b", nameZh: "嗨放異彩", nameEn: "Shining Revelry", releaseUtcIso: "2025-03-27T06:00:00Z", releaseMs: Date.parse("2025-03-27T06:00:00Z") },
+  { code: "A3", nameZh: "雙天之守護者", nameEn: "Celestial Guardians", releaseUtcIso: "2025-04-30T06:00:00Z", releaseMs: Date.parse("2025-04-30T06:00:00Z") },
+  { code: "A3a", nameZh: "異次元危機", nameEn: "Extradimensional Crisis", releaseUtcIso: "2025-05-29T06:00:00Z", releaseMs: Date.parse("2025-05-29T06:00:00Z") },
+  { code: "A3b", nameZh: "伊布花園", nameEn: "Eevee Grove", releaseUtcIso: "2025-06-26T06:00:00Z", releaseMs: Date.parse("2025-06-26T06:00:00Z") },
+  { code: "A4", nameZh: "天與海的指引", nameEn: "Wisdom of Sea and Sky", releaseUtcIso: "2025-07-30T06:00:00Z", releaseMs: Date.parse("2025-07-30T06:00:00Z") },
+  { code: "A4a", nameZh: "未知水域", nameEn: "Secluded Springs", releaseUtcIso: "2025-08-28T06:00:00Z", releaseMs: Date.parse("2025-08-28T06:00:00Z") },
+  { code: "A4b", nameZh: "高級擴充包ex", nameEn: "Deluxe Pack: ex", releaseUtcIso: "2025-09-30T06:00:00Z", releaseMs: Date.parse("2025-09-30T06:00:00Z") },
+  { code: "B1", nameZh: "超級崛起", nameEn: "Mega Rising", releaseUtcIso: "2025-10-30T06:00:00Z", releaseMs: Date.parse("2025-10-30T06:00:00Z") },
+  { code: "B1a", nameZh: "紅蓮烈焰", nameEn: "Crimson Blaze", releaseUtcIso: "2025-12-17T06:00:00Z", releaseMs: Date.parse("2025-12-17T06:00:00Z") },
+  { code: "B2", nameZh: "幻夢遊行", nameEn: "Fantastical Parade", releaseUtcIso: "2026-01-29T01:00:00Z", releaseMs: Date.parse("2026-01-29T01:00:00Z") },
+  { code: "B2a", nameZh: "帕底亞驚奇", nameEn: "Paldean Wonders", releaseUtcIso: "2026-02-26T01:00:00Z", releaseMs: Date.parse("2026-02-26T01:00:00Z") },
+].sort((a, b) => a.releaseMs - b.releaseMs);
 
-const VERSION_BY_CODE = computed<Record<string, GameVersion>>(() =>
-  Object.fromEntries(gameVersions.value.map((v) => [v.code, v]))
+const VERSION_BY_CODE: Record<string, GameVersion> = Object.fromEntries(
+  GAME_VERSIONS.map((v) => [v.code, v])
 );
 
 function inferVersionByStartMs(startMs?: number): GameVersion | undefined {
   if (!startMs) return undefined;
   let cur: GameVersion | undefined;
-  for (const v of gameVersions.value) {
-    if (startMs >= new Date(v.releaseUtcIso).getTime()) cur = v;
+  for (const v of GAME_VERSIONS) {
+    if (startMs >= v.releaseMs) cur = v;
     else break;
   }
   return cur;
@@ -511,34 +583,26 @@ function inferVersionByStartMs(startMs?: number): GameVersion | undefined {
 
 function versionLabel(code?: string) {
   if (!code) return "—";
-  const v = VERSION_BY_CODE.value[code];
+  const v = VERSION_BY_CODE[code];
   if (!v) return code;
   return isZh.value ? `${v.code} - ${v.nameZh}` : `${v.code} - ${v.nameEn}`;
 }
 
-// 給 filter 下拉用（新到舊）
-const setOptions = computed(() => gameVersions.value.map(v => v.code).reverse());
+const setOptions = computed(() => GAME_VERSIONS.map((v) => v.code).reverse());
 
 const filters = reactive({
   minPlayers: undefined as number | undefined,
-  time: "all" as string, // all | past7 | past4w | month:YYYY-MM
+  time: "all" as string,
   set: "" as string,
   swiss: "" as "" | SwissLabel,
-  format: "" as "" | "Standard" | "NoEX" | "Special",
+  format: "" as "" | FormatLabel,
 });
-
-// function extractIdFromPath(p: string) {
-//   // .../raw/<id>/details.json
-//   const m = p.match(/\/raw\/([^/]+)\/details\.json$/);
-//   return m?.[1] ?? "";
-// }
 
 function toUtcDateMs(dateLike: any): number | undefined {
   if (!dateLike) return undefined;
   if (typeof dateLike === "number") return dateLike;
   const s = String(dateLike);
 
-  // YYYY-MM-DD → UTC 00:00
   if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return Date.parse(s + "T00:00:00Z");
 
   const ms = Date.parse(s);
@@ -554,27 +618,7 @@ function formatUtcYmd(ms?: number) {
   return `${y}-${m}-${day}`;
 }
 
-// function normalizeSwiss(details: any): SwissLabel | undefined {
-//   const bestOf =
-//     details?.bestOf ??
-//     details?.swiss?.bestOf ??
-//     details?.swissBestOf ??
-//     details?.bo ??
-//     details?.matchBestOf;
-
-//   if (bestOf === 1 || String(bestOf).toLowerCase() === "bo1") return "BO1";
-//   if (bestOf === 3 || String(bestOf).toLowerCase() === "bo3") return "BO3";
-
-//   const text = String(details?.swiss ?? details?.rounds ?? details?.rules ?? "").toLowerCase();
-//   if (text.includes("bo1")) return "BO1";
-//   if (text.includes("bo3")) return "BO3";
-
-//   return bestOf != null ? "Other" : undefined;
-// }
-
-// -------- icon resolving (more robust) --------
 function normalizeKeyForMatch(k: string) {
-  // 小寫 + 去掉非英數（讓 garchomp-ex / Garchomp EX / garchomp_ex 都能對上）
   return k.toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
@@ -583,7 +627,6 @@ function getBasenameNoExt(p: string) {
   return file.replace(/\.(png|webp|svg)$/i, "");
 }
 
-// 建立一個「normalized basename」→ url 的索引
 const deckIconIndex: Record<string, string> = (() => {
   const idx: Record<string, string> = {};
   for (const [path, url] of Object.entries(deckIconModules)) {
@@ -594,18 +637,12 @@ const deckIconIndex: Record<string, string> = (() => {
   return idx;
 })();
 
-// 图标路径缓存，避免重复解析
 const deckIconCache = new Map<string, string | undefined>();
 
 function resolveDeckIconUrl(key?: string) {
   if (!key) return undefined;
-  
-  // 检查缓存
-  if (deckIconCache.has(key)) {
-    return deckIconCache.get(key);
-  }
+  if (deckIconCache.has(key)) return deckIconCache.get(key);
 
-  // 先試原本精準路徑（大小寫都試）
   const candidates = [
     `../assets/deck-icons/${key}.png`,
     `../assets/deck-icons/${key}.webp`,
@@ -614,7 +651,7 @@ function resolveDeckIconUrl(key?: string) {
     `../assets/deck-icons/${String(key).toLowerCase()}.webp`,
     `../assets/deck-icons/${String(key).toLowerCase()}.svg`,
   ];
-  
+
   for (const p of candidates) {
     if (deckIconModules[p]) {
       deckIconCache.set(key, deckIconModules[p]);
@@ -622,7 +659,6 @@ function resolveDeckIconUrl(key?: string) {
     }
   }
 
-  // 再用「normalized basename」對檔名
   const nk = normalizeKeyForMatch(String(key));
   const result = deckIconIndex[nk];
   deckIconCache.set(key, result);
@@ -632,10 +668,7 @@ function resolveDeckIconUrl(key?: string) {
 function parseTwoFromDeckId(deckId?: string): (string | undefined)[] {
   if (!deckId) return [undefined, undefined];
 
-  // e.g. "suicune-ex-a4a-greninja-ex-b1"
   const tokens = String(deckId).toLowerCase().split("-").filter(Boolean);
-
-  // set token examples: a1, a2a, a4b, b1, b2a ...
   const isSetToken = (t: string) => /^[ab]\d+[a-z]?$/.test(t);
 
   const mons: string[] = [];
@@ -651,17 +684,13 @@ function parseTwoFromDeckId(deckId?: string): (string | undefined)[] {
   }
   if (cur.length) mons.push(cur.join("-"));
 
-  // mons should look like ["suicune-ex", "greninja-ex"]
   return [mons[0], mons[1]];
 }
 
 function parseTwoFromDeckName(deckName?: string): (string | undefined)[] {
   if (!deckName) return [undefined, undefined];
 
-  // e.g. "Suicune ex Greninja ex"
   const s = String(deckName).trim();
-
-  // 找出每個 "ex" 的結束位置（最多取前兩個）
   const re = /\bex\b/gi;
   const hits: number[] = [];
   let m: RegExpExecArray | null;
@@ -672,21 +701,13 @@ function parseTwoFromDeckName(deckName?: string): (string | undefined)[] {
   const firstEnd = hits[0];
   const secondEnd = hits[1];
 
-  // 第一段：從頭到第一個 ex（含 ex）
   const part1 = s.slice(0, firstEnd).trim();
-
-  // 第二段：從第一個 ex 後面到第二個 ex（含 ex）
   const part2 = s.slice(firstEnd, secondEnd).trim();
 
   return [part1 || undefined, part2 || undefined];
 }
 
-/**
- * 取得每副牌組「兩個」icon keys（主力/副手）
- * 你可以讓 standings 每列直接提供 deckIconKeys: [main, sub] 最穩。
- */
 function getDeckIconKeys(r: any): (string | undefined)[] {
-  // ✅ 0) 你說的重點：deck.icons 已經是「兩隻」
   const icons = r?.deck?.icons;
   if (Array.isArray(icons) && icons.length) {
     const a = icons[0] != null ? String(icons[0]) : undefined;
@@ -694,14 +715,16 @@ function getDeckIconKeys(r: any): (string | undefined)[] {
     return [a, b];
   }
 
-  // 1) array fields
   const a1 = r?.deck?.iconKeys;
-  if (Array.isArray(a1) && a1.length) return [a1[0], a1[1]].map((x) => (x != null ? String(x) : undefined));
+  if (Array.isArray(a1) && a1.length) {
+    return [a1[0], a1[1]].map((x) => (x != null ? String(x) : undefined));
+  }
 
   const a2 = r?.deckIconKeys;
-  if (Array.isArray(a2) && a2.length) return [a2[0], a2[1]].map((x) => (x != null ? String(x) : undefined));
+  if (Array.isArray(a2) && a2.length) {
+    return [a2[0], a2[1]].map((x) => (x != null ? String(x) : undefined));
+  }
 
-  // 2) explicit pair fields
   const main =
     r?.deck?.primaryIconKey ??
     r?.deck?.mainIconKey ??
@@ -726,44 +749,20 @@ function getDeckIconKeys(r: any): (string | undefined)[] {
     return [main != null ? String(main) : undefined, sub != null ? String(sub) : undefined];
   }
 
-  // 3) parse from deck.id like "suicune-ex-a4a-greninja-ex-b1"
   const fromId = parseTwoFromDeckId(r?.deck?.id);
   if (fromId[0] || fromId[1]) return fromId;
 
-  // 4) parse from deck.name like "Suicune ex Greninja ex"
   const fromName = parseTwoFromDeckName(r?.deck?.name ?? r?.deck?.archetype ?? r?.archetype);
   if (fromName[0] || fromName[1]) return fromName;
 
-  // fallback
   return [undefined, undefined];
 }
 
 function pickTopN(standings: any[], n: number): any[] {
   if (!Array.isArray(standings) || standings.length === 0) return [];
-
   const getPlace = (r: any) => r?.placing ?? r?.place ?? r?.rank ?? 999999;
-
-  return [...standings]
-    .sort((a, b) => getPlace(a) - getPlace(b))
-    .slice(0, n);
+  return [...standings].sort((a, b) => getPlace(a) - getPlace(b)).slice(0, n);
 }
-
-// ---- medals ----
-// function medalClass(rank: number) {
-//   if (rank === 1) return "medal--gold";
-//   if (rank === 2) return "medal--silver";
-//   return "medal--platinum"; // 3rd & 4th
-// }
-// function medalTitle(rank: number) {
-//   if (isZh.value) {
-//     if (rank === 1) return "冠軍（金）";
-//     if (rank === 2) return "亞軍（銀）";
-//     return "季軍/殿軍（鉑）";
-//   }
-//   if (rank === 1) return "Champion (Gold)";
-//   if (rank === 2) return "Runner-up (Silver)";
-//   return "Top 4 (Platinum)";
-// }
 
 function missingIconTitle(key: string | undefined, rank: number, slot: number) {
   const k = key ? `key=${key}` : "key=undefined";
@@ -775,12 +774,9 @@ function missingIconTitle(key: string | undefined, rank: number, slot: number) {
 function deckPairTitle(d: TopDeck, rank: number) {
   const k1 = d.iconKeys[0] ?? "—";
   const k2 = d.iconKeys[1] ?? "—";
-  return isZh.value
-    ? `第${rank}名：${k1} / ${k2}`
-    : `Rank ${rank}: ${k1} / ${k2}`;
+  return isZh.value ? `第${rank}名：${k1} / ${k2}` : `Rank ${rank}: ${k1} / ${k2}`;
 }
 
-// 缓存 tournaments 数据，避免重复计算
 const tournaments = ref<TournamentRow[]>([]);
 
 type TournamentIndexRow = {
@@ -790,6 +786,12 @@ type TournamentIndexRow = {
   format?: string | null;
   id: string;
   players?: number;
+
+  set?: string | null;
+  setNameZh?: string | null;
+  setNameEn?: string | null;
+  swiss?: string | null;
+  topCut?: string | null;
 };
 
 function detailsUrl(id: string) {
@@ -819,6 +821,27 @@ const swissCache = new Map<string, SwissLabel>();
 const topDecksCache = new Map<string, TopDeck[]>();
 const swissLoading = ref(false);
 
+async function ensureSwissForIds(ids: string[]) {
+  const missing = ids.filter((id) => !swissCache.has(id));
+  if (missing.length === 0) return;
+
+  await runWithConcurrency(missing, 8, async (id) => {
+    try {
+      const details = await fetchJson<any>(detailsUrl(id));
+      swissCache.set(id, swissLabelFromDetails(details));
+    } catch {
+      // 缺档就跳过
+    }
+  });
+
+  const patchIds = new Set(ids);
+  tournaments.value = tournaments.value.map((t) => {
+    if (!patchIds.has(t.id)) return t;
+    const swiss = swissCache.get(t.id);
+    return swiss ? { ...t, swiss } : t;
+  });
+}
+
 async function ensureSwissForAllIfNeeded() {
   if (!filters.swiss) return;
   if (swissLoading.value) return;
@@ -831,7 +854,7 @@ async function ensureSwissForAllIfNeeded() {
         const details = await fetchJson<any>(detailsUrl(id));
         swissCache.set(id, swissLabelFromDetails(details));
       } catch {
-        // 缺档就跳过，不影响首屏
+        //
       }
     });
 
@@ -862,7 +885,7 @@ async function ensureTopDecksForIds(ids: string[]) {
       });
       topDecksCache.set(id, topDecks);
     } catch {
-      // 缺档就保持空
+      //
     }
   });
 
@@ -874,25 +897,14 @@ async function ensureTopDecksForIds(ids: string[]) {
   });
 }
 
-// 首屏：只用 tournaments.json 建立列表（快），其他字段按需补齐
 onMounted(async () => {
-  // 先加载版本数据（给 set / versionLabel 用）
-  try {
-    const versions = await fetchJson<GameVersion[]>(`${BASE_URL}data/game_version.json`);
-    gameVersions.value = versions.sort(
-      (a, b) => new Date(a.releaseUtcIso).getTime() - new Date(b.releaseUtcIso).getTime()
-    );
-  } catch {
-    gameVersions.value = [];
-  }
-
   const rows: TournamentRow[] = [];
-  // tournaments.json 建议放在 public/data/tournaments.json
-  // 这样它不会被打进首屏 JS，而是作为静态资源按需拉取
+
   const list = await fetchJson<TournamentIndexRow[]>(`${BASE_URL}data/tournaments.json`).catch(
     async () =>
-      // 兼容：如果你暂时没搬到 public，可以先走 Vite asset URL
-      await fetchJson<TournamentIndexRow[]>(new URL("../data/tournaments.json", import.meta.url).toString())
+      await fetchJson<TournamentIndexRow[]>(
+        new URL("../data/tournaments.json", import.meta.url).toString()
+      )
   );
 
   for (const r of list) {
@@ -900,23 +912,28 @@ onMounted(async () => {
     if (g && g !== "POCKET") continue;
     if (!r?.id) continue;
 
+    const id = String(r.id);
     const dateMs = toUtcDateMs(r?.date);
     const dateISO = dateMs ? formatUtcYmd(dateMs) : undefined;
-    const set = inferVersionByStartMs(dateMs)?.code;
-    const format = formatFromDetails({ format: r?.format });
+
+    const set = r?.set ? String(r.set) : inferVersionByStartMs(dateMs)?.code;
+    const format = normalizeFormatValue(r?.format);
+    const swiss = normalizeSwissValue(r?.swiss);
+
+    if (swiss) swissCache.set(id, swiss);
 
     rows.push({
-      id: String(r.id),
+      id,
       dateISO,
       dateMs,
       dateStr: dateISO ?? "—",
-      name: r?.name ?? String(r.id),
+      name: r?.name ?? id,
       players: typeof r?.players === "number" ? r.players : Number(r?.players) || undefined,
-      set: set ? String(set) : undefined,
-      format: format ? String(format) : undefined,
-      swiss: swissCache.get(String(r.id)),
-      topDecks: topDecksCache.get(String(r.id)) ?? [],
-      standingsUrl: `https://play.limitlesstcg.com/tournament/${r.id}/standings`,
+      set: set || undefined,
+      format,
+      swiss,
+      topDecks: topDecksCache.get(id) ?? [],
+      standingsUrl: `https://play.limitlesstcg.com/tournament/${id}/standings`,
     });
   }
 
@@ -924,15 +941,11 @@ onMounted(async () => {
   tournaments.value = rows;
 });
 
-// 缓存月份选项，避免重复计算
-const monthOptions = ref<{ value: string; label: string }[]>([]);
-
-// 当 tournaments 数据变化时更新月份选项
-watch(() => tournaments.value, (newTournaments) => {
+const monthOptions = computed(() => {
   const seen = new Set<string>();
   const opts: { value: string; label: string }[] = [];
 
-  for (const t of newTournaments) {
+  for (const t of tournaments.value) {
     if (!t.dateMs) continue;
     const d = new Date(t.dateMs);
     const y = d.getUTCFullYear();
@@ -943,13 +956,13 @@ watch(() => tournaments.value, (newTournaments) => {
 
     opts.push({
       value: `month:${key}`,
-      label: isZh.value ? `${m}月${y}` : `${key}`,
+      label: isZh.value ? `${y}年${m}月` : key,
     });
   }
 
   opts.sort((a, b) => (a.value < b.value ? 1 : -1));
-  monthOptions.value = opts;
-}, { immediate: true });
+  return opts;
+});
 
 function inTimeRange(t: TournamentRow) {
   if (!t.dateMs) return false;
@@ -984,15 +997,12 @@ const filtered = computed(() => {
     }
 
     if (!inTimeRange(t)) return false;
-
     if (filters.set && t.set !== filters.set) return false;
 
     if (filters.swiss) {
-      // swiss 是按需加载的：启用 swiss filter 时会异步补齐
       if (!t.swiss) return false;
       if (t.swiss !== filters.swiss) return false;
     }
-
 
     if (filters.format) {
       if (!t.format) return false;
@@ -1008,7 +1018,6 @@ const PAGE_SIZES = [10, 20, 50] as const;
 type PageSize = typeof PAGE_SIZES[number];
 
 const pageSize = ref<PageSize>(20);
-
 const page = ref(1);
 
 const total = computed(() => filtered.value.length);
@@ -1025,16 +1034,15 @@ const paged = computed(() => {
   return filtered.value.slice(start, start + pageSize.value);
 });
 
-// 当前页变化时，按需加载 standings 来补 top4（只补当前页，避免首屏爆炸）
 watch(
   () => paged.value.map((t) => t.id),
   (ids) => {
     ensureTopDecksForIds(ids);
+    ensureSwissForIds(ids); // 讓當前頁預設就補 swiss tag
   },
   { immediate: true }
 );
 
-// 启用 swiss filter 时，才按需批量加载 details 来补 swiss 字段
 watch(
   () => filters.swiss,
   () => {
@@ -1056,7 +1064,6 @@ function nextPage() {
   page.value = Math.min(pageCount.value, page.value + 1);
 }
 
-// filters 或 pageSize 改變時，回到第 1 頁
 watch(
   () => ({ ...filters, pageSize: pageSize.value }),
   () => {
@@ -1065,15 +1072,12 @@ watch(
   { deep: true }
 );
 
-// 如果套了 filter 後總頁數變少，確保 page 不超出
 watch([total, pageSize], () => {
   if (page.value > pageCount.value) page.value = pageCount.value;
 });
-
 </script>
 
 <style scoped>
-/* padding: 12px 14px;  */
 .page {
   width: 100%;
   max-width: 1100px;
@@ -1104,7 +1108,6 @@ watch([total, pageSize], () => {
 
 .deckIcon--second {
   margin-left: -3px;
-  /* 更貼：-4；稍開：-2 */
 }
 
 .filters {
@@ -1120,23 +1123,22 @@ watch([total, pageSize], () => {
   }
 }
 
-/* 超小屏幕：保持2列布局 */
 @media (max-width: 480px) {
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  
+
   .pager {
     flex-direction: row;
     align-items: center;
     flex-wrap: nowrap;
     overflow-x: auto;
   }
-  
+
   .pager__left {
     flex-wrap: nowrap;
   }
-  
+
   .pager__right {
     flex-wrap: nowrap;
   }
@@ -1197,7 +1199,6 @@ watch([total, pageSize], () => {
   min-width: 940px;
 }
 
-/* 移动端卡片式布局 */
 .mobile-cards {
   display: none;
   width: 100%;
@@ -1278,91 +1279,90 @@ watch([total, pageSize], () => {
   justify-content: center;
 }
 
-/* 响应式断点 */
 @media (max-width: 760px) {
   .page {
     width: 100%;
     padding: 0 10px;
     box-sizing: border-box;
   }
-  
+
   .responsive-table {
     display: none;
   }
-  
+
   .mobile-cards {
     display: block;
   }
-  
+
   .header {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .title {
     font-size: 16px;
   }
-  
+
   .sub {
     font-size: 11px;
   }
-  
+
   .filters {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 8px;
   }
-  
+
   .f {
     padding: 8px;
   }
-  
+
   .f label {
     font-size: 11px;
     margin-bottom: 4px;
   }
-  
+
   .f input,
   .f select {
     padding: 6px 8px;
     font-size: 12px;
   }
-  
+
   .hint {
     font-size: 10px;
     margin-top: 4px;
   }
-  
+
   .pager {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .pager__left {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
   }
-  
+
   .pager__right {
     width: 100%;
     justify-content: space-between;
   }
-  
+
   .topDecksGrid {
     grid-template-columns: repeat(2, 1fr);
     gap: 12px;
   }
-  
+
   .deckPair {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .linkDot {
     padding: 8px 16px;
     font-size: 13px;
   }
-  
+
   .linkDot::after {
     content: "";
   }
@@ -1465,13 +1465,11 @@ a:hover {
   color: rgba(255, 255, 255, 0.95);
 }
 
-/* button 預設會有 focus ring，你可以保留或自訂 */
 .pill--btn:focus-visible {
   outline: 2px solid rgba(147, 197, 253, 0.55);
   outline-offset: 2px;
 }
 
-/* Top 4 decks: 4 columns, each cell has 2 icons + medal */
 .topDecksGrid {
   display: grid;
   grid-template-columns: repeat(4, max-content);
@@ -1489,14 +1487,8 @@ a:hover {
 
 .deckIconsRow {
   display: inline-flex;
-  gap: 6px;
-  align-items: center;
-}
-
-.deckIconsRow {
-  display: inline-flex;
-  align-items: center;
   gap: 0;
+  align-items: center;
   line-height: 0;
 }
 
@@ -1504,13 +1496,11 @@ a:hover {
   width: 34px;
   height: 34px;
   object-fit: contain;
-
   background: transparent;
   border: 0;
   border-radius: 0;
   box-shadow: none;
   outline: none;
-
   display: block;
   filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.55));
   z-index: 2;
@@ -1520,7 +1510,6 @@ a:hover {
   width: 34px;
   height: 34px;
   display: block;
-
   border: 0;
   border-radius: 0;
   background: rgba(255, 255, 255, 0.06);
@@ -1536,7 +1525,6 @@ a:hover {
   z-index: 1;
 }
 
-/* medal discs */
 .medal {
   width: 14px;
   height: 14px;
@@ -1559,7 +1547,6 @@ a:hover {
   background: radial-gradient(circle at 30% 30%, #ffffff 0%, #e5e4e2 40%, #8b8b8b 100%);
 }
 
-/* standings link dot */
 .linkDot {
   padding: 10px 20px;
   border-radius: 12px;
@@ -1597,7 +1584,6 @@ a:hover {
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
   background: rgba(15, 23, 42, 0.35);
-
   display: flex;
   justify-content: space-between;
   align-items: center;
