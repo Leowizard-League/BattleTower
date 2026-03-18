@@ -27,7 +27,7 @@ jobs:
           UNLIMITED_DAYS: "true"
           DAYS_BACK: "30"
           MIN_PLAYERS: "64"
-          FULL_REBUILD: "true"
+          FULL_REBUILD: "false"
         run: |
           set -e
           python scripts/fetch_raw_data.py
