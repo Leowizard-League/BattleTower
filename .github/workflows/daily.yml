@@ -24,12 +24,14 @@ jobs:
       - name: Run fetch and build data
         env:
           POCKET_GAME_ID: ${{ secrets.POCKET_GAME_ID }}
-          DAYS_BACK: "14"
-          MIN_PLAYERS: "32"
+          UNLIMITED_DAYS: "true"
+          DAYS_BACK: "30"
+          MIN_PLAYERS: "64"
+          FULL_REBUILD: "true"
         run: |
-          set -e  # 脚本执行失败则立即终止
+          set -e
           python scripts/fetch_raw_data.py
-          python scripts/process_data.py
+          python scripts/process_data.py    
 
       - name: Setup Node
         uses: actions/setup-node@v4
