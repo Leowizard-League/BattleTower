@@ -1,0 +1,31 @@
+{
+  "id": "6979378a9c739a2ff7bf937a",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "TOURNAMENT OF DOOM! SEATTLE BOUND!",
+  "date": "2026-02-21T03:35:00.000Z",
+  "players": 229,
+  "organizer": {
+    "id": 349,
+    "name": "Doom's Events and Catering",
+    "logo": "https://limitlesstcg.s3.us-east-2.amazonaws.com/lotp/uploads/profile-pictures/rthil5ms9vwrlwnt"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

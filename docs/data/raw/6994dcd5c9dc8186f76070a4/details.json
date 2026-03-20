@@ -1,0 +1,36 @@
+{
+  "id": "6994dcd5c9dc8186f76070a4",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "ASRcristiano # 135 - Road to Seville ! ASC Legal",
+  "date": "2026-02-19T20:00:00.000Z",
+  "players": 100,
+  "organizer": {
+    "id": 1778,
+    "name": "ASRcristiano League"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 2,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

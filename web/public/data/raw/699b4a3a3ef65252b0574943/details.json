@@ -1,0 +1,24 @@
+{
+  "id": "699b4a3a3ef65252b0574943",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Pumpkaweekly strikes back",
+  "date": "2026-02-23T19:00:00.000Z",
+  "players": 128,
+  "organizer": {
+    "id": 36,
+    "name": "The Dice Town League"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

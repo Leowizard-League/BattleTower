@@ -1,0 +1,36 @@
+{
+  "id": "69baaa31ccdfe3b78e5763e3",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "ASRcristiano # 142 - Road to Seville !",
+  "date": "2026-03-18T20:00:00.000Z",
+  "players": 138,
+  "organizer": {
+    "id": 1778,
+    "name": "ASRcristiano League"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 2,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

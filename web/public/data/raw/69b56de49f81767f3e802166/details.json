@@ -1,0 +1,24 @@
+{
+  "id": "69b56de49f81767f3e802166",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Last Prize Season 2",
+  "date": "2026-03-17T23:05:00.000Z",
+  "players": 155,
+  "organizer": {
+    "id": 2227,
+    "name": "LastPrizeTCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}

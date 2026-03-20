@@ -1,0 +1,24 @@
+{
+  "id": "698de6476235e3ab106c15c4",
+  "game": "OP",
+  "format": null,
+  "name": "ChinoizeCup #22 Monday",
+  "date": "2026-02-23T19:00:00.000Z",
+  "players": 64,
+  "organizer": {
+    "id": 2339,
+    "name": "Tcglive"
+  },
+  "platform": "SIM",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

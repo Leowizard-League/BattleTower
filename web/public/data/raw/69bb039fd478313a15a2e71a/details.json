@@ -1,0 +1,24 @@
+{
+  "id": "69bb039fd478313a15a2e71a",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Misplay Mafia Pop Up #1-Houston Regionals Practice",
+  "date": "2026-03-19T01:00:00.000Z",
+  "players": 85,
+  "organizer": {
+    "id": 2137,
+    "name": "Pancake Pokémon"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "697ba06f9c739a2ff7bfa71e",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "LAST PRIZE SERIES S2 - 4 Ascended Heroes Legal",
+  "date": "2026-02-18T00:05:00.000Z",
+  "players": 160,
+  "organizer": {
+    "id": 2227,
+    "name": "LastPrizeTCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    }
+  ]
+}
