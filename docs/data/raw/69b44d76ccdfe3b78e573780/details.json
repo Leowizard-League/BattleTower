@@ -1,0 +1,36 @@
+{
+  "id": "69b44d76ccdfe3b78e573780",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "🏆Moujii's Dojo🏆 (Late Registration Available!)",
+  "date": "2026-03-19T16:10:00.000Z",
+  "players": 176,
+  "organizer": {
+    "id": 35,
+    "name": "Moujii's Dojo"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 8,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SWISS",
+      "rounds": 3,
+      "mode": "BO1"
+    },
+    {
+      "phase": 3,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

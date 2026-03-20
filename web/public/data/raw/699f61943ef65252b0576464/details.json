@@ -1,0 +1,30 @@
+{
+  "id": "699f61943ef65252b0576464",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "T2TCG Wednesday Mickey! ASC LEGAL.",
+  "date": "2026-02-26T01:00:00.000Z",
+  "players": 69,
+  "organizer": {
+    "id": 445,
+    "name": "Evan’s Events"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_ELIMINATION",
+      "rounds": 3,
+      "mode": "BO3"
+    }
+  ]
+}

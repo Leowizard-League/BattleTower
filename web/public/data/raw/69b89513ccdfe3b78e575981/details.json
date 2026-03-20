@@ -1,0 +1,24 @@
+{
+  "id": "69b89513ccdfe3b78e575981",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Torneo Gratuito 17 Marzo Sidedeck Online",
+  "date": "2026-03-17T23:00:00.000Z",
+  "players": 71,
+  "organizer": {
+    "id": 2306,
+    "name": "Juanma_TCG"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 7,
+      "mode": "BO1"
+    }
+  ]
+}
