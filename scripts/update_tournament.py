@@ -2,10 +2,20 @@ import json
 from pathlib import Path
 from datetime import datetime
 
-# 以這支 py 檔所在資料夾當基準
-BASE_DIR = Path(__file__).resolve().parent
-TOURNAMENTS_FILE = BASE_DIR / "tournaments.json"
-RAW_DIR = BASE_DIR / "raw"
+# ===================== 核心修改点1：调整基准路径 =====================
+# 脚本位于 scripts/ 目录下，基准路径改为「项目根目录」（scripts的上级目录）
+# 这样才能正确定位到 web/ 目录
+BASE_DIR = Path(__file__).resolve().parent  # 原：Path(__file__).resolve().parent
+# 赛事主文件路径（如果 tournaments.json 也需要调整，可同步修改，当前保留原逻辑）
+TOURNAMENTS_FILE = BASE_DIR / "web/public/data/tournaments.json"  
+
+# ===================== 核心修改点2：修改 RAW_DIR 路径 =====================
+# 从 web/public/data/raw 读取原始赛事详情
+RAW_DIR = BASE_DIR / "web/public/data/raw"  # 原：BASE_DIR / "raw"
+
+# ===================== 核心修改点3：定义游戏版本文件路径 =====================
+# 从 web/public/data/game_version.json 读取版本数据
+GAME_VERSION_FILE = BASE_DIR / "web/public/data/game_version.json"
 
 
 def load_json(path: Path, default=None):
@@ -26,29 +36,19 @@ def iso_to_ms(iso_str):
     return int(datetime.fromisoformat(s).timestamp() * 1000)
 
 
-GAME_VERSIONS = [
-    {"code": "A1",  "nameZh": "最強的基因",       "nameEn": "Genetic Apex",              "releaseUtcIso": "2024-10-30T01:00:00Z"},
-    {"code": "A1a", "nameZh": "幻遊島",           "nameEn": "Mythical Island",           "releaseUtcIso": "2024-12-17T06:00:00Z"},
-    {"code": "A2",  "nameZh": "時空激鬥",         "nameEn": "Space-Time Smackdown",      "releaseUtcIso": "2025-01-30T06:00:00Z"},
-    {"code": "A2a", "nameZh": "超克之光",         "nameEn": "Triumphant Light",          "releaseUtcIso": "2025-02-28T06:00:00Z"},
-    {"code": "A2b", "nameZh": "嗨放異彩",         "nameEn": "Shining Revelry",           "releaseUtcIso": "2025-03-27T06:00:00Z"},
-    {"code": "A3",  "nameZh": "雙天之守護者",     "nameEn": "Celestial Guardians",       "releaseUtcIso": "2025-04-30T06:00:00Z"},
-    {"code": "A3a", "nameZh": "異次元危機",       "nameEn": "Extradimensional Crisis",   "releaseUtcIso": "2025-05-29T06:00:00Z"},
-    {"code": "A3b", "nameZh": "伊布花園",         "nameEn": "Eevee Grove",               "releaseUtcIso": "2025-06-26T06:00:00Z"},
-    {"code": "A4",  "nameZh": "天與海的指引",     "nameEn": "Wisdom of Sea and Sky",     "releaseUtcIso": "2025-07-30T06:00:00Z"},
-    {"code": "A4a", "nameZh": "未知水域",         "nameEn": "Secluded Springs",          "releaseUtcIso": "2025-08-28T06:00:00Z"},
-    {"code": "A4b", "nameZh": "高級擴充包ex",     "nameEn": "Deluxe Pack: ex",           "releaseUtcIso": "2025-09-30T06:00:00Z"},
-    {"code": "B1",  "nameZh": "超級崛起",         "nameEn": "Mega Rising",               "releaseUtcIso": "2025-10-30T06:00:00Z"},
-    {"code": "B1a", "nameZh": "紅蓮烈焰",         "nameEn": "Crimson Blaze",             "releaseUtcIso": "2025-12-17T06:00:00Z"},
-    {"code": "B2",  "nameZh": "幻夢遊行",         "nameEn": "Fantastical Parade",        "releaseUtcIso": "2026-01-29T01:00:00Z"},
-    {"code": "B2a", "nameZh": "帕底亞驚奇",       "nameEn": "Paldean Wonders",           "releaseUtcIso": "2026-02-26T01:00:00Z"},
-]
+# ===================== 核心修改点4：加载游戏版本（从文件读取） =====================
+# 读取 game_version.json 并处理版本数据
+GAME_VERSIONS = load_json(GAME_VERSION_FILE, default=[])
+# 校验版本数据格式（可选，增强鲁棒性）
+if not isinstance(GAME_VERSIONS, list):
+    raise ValueError(f"{GAME_VERSION_FILE} 内容不是数组格式")
 
+# 为每个版本补充毫秒时间戳、排序、生成编码映射（保留原逻辑）
 for v in GAME_VERSIONS:
-    v["releaseMs"] = iso_to_ms(v["releaseUtcIso"])
+    v["releaseMs"] = iso_to_ms(v.get("releaseUtcIso"))
 
-GAME_VERSIONS.sort(key=lambda v: v["releaseMs"])
-VERSION_BY_CODE = {v["code"]: v for v in GAME_VERSIONS}
+GAME_VERSIONS.sort(key=lambda v: v["releaseMs"] or 0)  # 兼容空值
+VERSION_BY_CODE = {v["code"]: v for v in GAME_VERSIONS if "code" in v}  # 兼容缺失code的情况
 
 
 def infer_version_code(date_iso):
@@ -58,7 +58,7 @@ def infer_version_code(date_iso):
 
     matched = None
     for v in GAME_VERSIONS:
-        if ms >= v["releaseMs"]:
+        if ms >= (v["releaseMs"] or 0):
             matched = v
         else:
             break
@@ -99,6 +99,7 @@ def enrich_tournaments():
     print("BASE_DIR =", BASE_DIR)
     print("TOURNAMENTS_FILE =", TOURNAMENTS_FILE)
     print("RAW_DIR =", RAW_DIR)
+    print("GAME_VERSION_FILE =", GAME_VERSION_FILE)  # 新增：打印版本文件路径（调试用）
 
     tournaments = load_json(TOURNAMENTS_FILE, default=[])
     if not isinstance(tournaments, list):
@@ -135,8 +136,8 @@ def enrich_tournaments():
 
         # 如果你之後想前端直接顯示中文名，也可以保留這兩個
         if set_code and set_code in VERSION_BY_CODE:
-            new_row["setNameZh"] = VERSION_BY_CODE[set_code]["nameZh"]
-            new_row["setNameEn"] = VERSION_BY_CODE[set_code]["nameEn"]
+            new_row["setNameZh"] = VERSION_BY_CODE[set_code].get("nameZh")
+            new_row["setNameEn"] = VERSION_BY_CODE[set_code].get("nameEn")
         else:
             new_row["setNameZh"] = None
             new_row["setNameEn"] = None
