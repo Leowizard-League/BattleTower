@@ -480,13 +480,8 @@ function deckAlt(rank: number, slot: number) {
   return `Top ${rank} deck icon ${slot}`;
 }
 
-type GameVersionCode =
-  | "A1" | "A1a" | "A2" | "A2a" | "A2b"
-  | "A3" | "A3a" | "A3b" | "A4" | "A4a" | "A4b"
-  | "B1" | "B1a" | "B2" | "B2a";
-
 type GameVersion = {
-  code: GameVersionCode;
+  code: string;
   nameZh: string;
   nameEn: string;
   releaseUtcIso: string; // ISO string in UTC

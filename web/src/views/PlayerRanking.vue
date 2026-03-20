@@ -16,6 +16,7 @@
           <span class="hint">{{ isZh ? "以 UTC 日期計算" : "Based on UTC date" }}</span>
         </label>
         <select v-model="filters.time">
+          <option value="">{{ isZh ? "全部" : "All" }}</option>
           <option value="past7">{{ isZh ? "過去一週" : "Past 7 days" }}</option>
           <option value="past4w">{{ isZh ? "過去一月" : "Past 4 weeks" }}</option>
         </select>
@@ -214,54 +215,53 @@ const ui = computed(() => {
 
 const filters = reactive({
   player: "" as string,
-  time: "past7" as string, 
+  time: "" as string, 
   set: "" as string,
   topcut: "" as string
 });
 
 function versionLabel(code?: string) {
   if (!code) return "—";
-  const v = VERSION_BY_CODE[code];
+  const v = VERSION_BY_CODE.value[code];
   if (!v) return code;
   return isZh.value ? `${v.code} - ${v.nameZh}` : `${v.code} - ${v.nameEn}`;
 }
 
-const GAME_VERSIONS = [
-  { code: "A1", nameZh: "最強的基因", nameEn: "Genetic Apex", releaseUtcIso: "2024-10-30T01:00:00Z", releaseMs: Date.parse("2024-10-30T01:00:00Z") },
-  { code: "A1a", nameZh: "幻遊島", nameEn: "Mythical Island", releaseUtcIso: "2024-12-17T06:00:00Z", releaseMs: Date.parse("2024-12-17T06:00:00Z") },
-  { code: "A2", nameZh: "時空激鬥", nameEn: "Space-Time Smackdown", releaseUtcIso: "2025-01-30T06:00:00Z", releaseMs: Date.parse("2025-01-30T06:00:00Z") },
-  { code: "A2a", nameZh: "超克之光", nameEn: "Triumphant Light", releaseUtcIso: "2025-02-28T06:00:00Z", releaseMs: Date.parse("2025-02-28T06:00:00Z") },
-  { code: "A2b", nameZh: "嗨放異彩", nameEn: "Shining Revelry", releaseUtcIso: "2025-03-27T06:00:00Z", releaseMs: Date.parse("2025-03-27T06:00:00Z") },
-  { code: "A3", nameZh: "雙天之守護者", nameEn: "Celestial Guardians", releaseUtcIso: "2025-04-30T06:00:00Z", releaseMs: Date.parse("2025-04-30T06:00:00Z") },
-  { code: "A3a", nameZh: "異次元危機", nameEn: "Extradimensional Crisis", releaseUtcIso: "2025-05-29T06:00:00Z", releaseMs: Date.parse("2025-05-29T06:00:00Z") },
-  { code: "A3b", nameZh: "伊布花園", nameEn: "Eevee Grove", releaseUtcIso: "2025-06-26T06:00:00Z", releaseMs: Date.parse("2025-06-26T06:00:00Z") },
-  { code: "A4", nameZh: "天與海的指引", nameEn: "Wisdom of Sea and Sky", releaseUtcIso: "2025-07-30T06:00:00Z", releaseMs: Date.parse("2025-07-30T06:00:00Z") },
-  { code: "A4a", nameZh: "未知水域", nameEn: "Secluded Springs", releaseUtcIso: "2025-08-28T06:00:00Z", releaseMs: Date.parse("2025-08-28T06:00:00Z") },
-  { code: "A4b", nameZh: "高級擴充包ex", nameEn: "Deluxe Pack: ex", releaseUtcIso: "2025-09-30T06:00:00Z", releaseMs: Date.parse("2025-09-30T06:00:00Z") },
-  { code: "B1", nameZh: "超級崛起", nameEn: "Mega Rising", releaseUtcIso: "2025-10-30T06:00:00Z", releaseMs: Date.parse("2025-10-30T06:00:00Z") },
-  { code: "B1a", nameZh: "紅蓮烈焰", nameEn: "Crimson Blaze", releaseUtcIso: "2025-12-17T06:00:00Z", releaseMs: Date.parse("2025-12-17T06:00:00Z") },
-  { code: "B2", nameZh: "幻夢遊行", nameEn: "Fantastical Parade", releaseUtcIso: "2026-01-29T01:00:00Z", releaseMs: Date.parse("2026-01-29T01:00:00Z") },
-  { code: "B2a", nameZh: "帕底亞驚奇", nameEn: "Paldean Wonders", releaseUtcIso: "2026-02-26T01:00:00Z", releaseMs: Date.parse("2026-02-26T01:00:00Z") },
-].sort((a, b) => a.releaseMs - b.releaseMs) as GameVersion[];
+// 从 game_version.json 加载版本数据
+const gameVersions = ref<GameVersion[]>([]);
 
-const VERSION_BY_CODE: Record<string, GameVersion> = Object.fromEntries(
-  GAME_VERSIONS.map((v) => [v.code, v])
-);
+onMounted(async () => {
+  try {
+    players.value = await fetchJson<PlayerRow[]>(`${BASE_URL}data/players.json`);
+    // 加载游戏版本数据
+    const versions = await fetchJson<Omit<GameVersion, 'releaseMs'>[]>(`${BASE_URL}data/game_version.json`);
+    // 添加 releaseMs 字段
+    gameVersions.value = versions.map(v => ({
+      ...v,
+      releaseMs: Date.parse(v.releaseUtcIso)
+    })).sort((a, b) => a.releaseMs - b.releaseMs) as GameVersion[];
+  } catch {
+    players.value = [];
+    gameVersions.value = [];
+  }
+});
 
-type GameVersionCode =
-  | "A1" | "A1a" | "A2" | "A2a" | "A2b"
-  | "A3" | "A3a" | "A3b" | "A4" | "A4a" | "A4b"
-  | "B1" | "B1a" | "B2" | "B2a";
+// 计算 VERSION_BY_CODE
+const VERSION_BY_CODE = computed<Record<string, GameVersion>>(() => {
+  return Object.fromEntries(
+    gameVersions.value.map((v) => [v.code, v])
+  );
+});
 
 type GameVersion = {
-  code: GameVersionCode;
+  code: string;
   nameZh: string;
   nameEn: string;
   releaseUtcIso: string; // ISO string in UTC
   releaseMs: number;     // Date.parse(releaseUtcIso)
 };
 
-const setOptions = computed(() => GAME_VERSIONS.map(v => v.code).reverse());
+const setOptions = computed(() => gameVersions.value.map(v => v.code).reverse());
 
 // 分页配置
 const pageSize = ref(15); // 每页显示10条
