@@ -1,0 +1,24 @@
+{
+  "id": "6972519db1294bfab720362d",
+  "game": "PTCG",
+  "format": "STANDARD",
+  "name": "Turtwig Den Revival Series Challenge 27",
+  "date": "2026-03-20T16:05:00.000Z",
+  "players": 66,
+  "organizer": {
+    "id": 196,
+    "name": "DabbingUkranian"
+  },
+  "platform": "PTCGL",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO1"
+    }
+  ]
+}

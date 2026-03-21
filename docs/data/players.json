@@ -9,7 +9,7 @@
     "player": "zegger",
     "points": 568.0,
     "country": "ID",
-    "games": 360
+    "games": 361
   },
   {
     "player": "duo",
@@ -21,13 +21,13 @@
     "player": "normo360",
     "points": 552.0,
     "country": "US",
-    "games": 549
+    "games": 550
   },
   {
     "player": "frappesdrinker",
     "points": 477.0,
     "country": "CH",
-    "games": 266
+    "games": 267
   },
   {
     "player": "luci",
@@ -39,7 +39,7 @@
     "player": "chocolate",
     "points": 468.0,
     "country": "VE",
-    "games": 520
+    "games": 521
   },
   {
     "player": "fedex2729",
@@ -55,9 +55,9 @@
   },
   {
     "player": "painpeko",
-    "points": 436.0,
+    "points": 437.0,
     "country": "FR",
-    "games": 474
+    "games": 475
   },
   {
     "player": "kana41",
@@ -69,19 +69,19 @@
     "player": "super_peace",
     "points": 428.0,
     "country": "DE",
-    "games": 593
+    "games": 594
+  },
+  {
+    "player": "sparadrap",
+    "points": 426.0,
+    "country": "FR",
+    "games": 663
   },
   {
     "player": "elluquitas96",
     "points": 421.0,
     "country": "PE",
-    "games": 340
-  },
-  {
-    "player": "sparadrap",
-    "points": 418.0,
-    "country": "FR",
-    "games": 661
+    "games": 342
   },
   {
     "player": "preluxe",
@@ -93,7 +93,7 @@
     "player": "shubham",
     "points": 415.0,
     "country": "IN",
-    "games": 494
+    "games": 495
   },
   {
     "player": "elliedark",
@@ -111,7 +111,7 @@
     "player": "einstun",
     "points": 384.0,
     "country": "ID",
-    "games": 382
+    "games": 383
   },
   {
     "player": "nunogdm",
@@ -123,7 +123,7 @@
     "player": "alana",
     "points": 368.0,
     "country": "ID",
-    "games": 441
+    "games": 443
   },
   {
     "player": "corndog_xx",
@@ -157,9 +157,9 @@
   },
   {
     "player": "darkus96",
-    "points": 327.0,
+    "points": 329.0,
     "country": "ES",
-    "games": 232
+    "games": 234
   },
   {
     "player": "yoji14",
@@ -225,13 +225,13 @@
     "player": "n3wa",
     "points": 265.0,
     "country": "PT",
-    "games": 451
+    "games": 453
   },
   {
     "player": "jeyksu",
     "points": 265.0,
     "country": "PH",
-    "games": 457
+    "games": 458
   },
   {
     "player": "guillaume40",
@@ -261,7 +261,7 @@
     "player": "mspinguino",
     "points": 259.0,
     "country": "AR",
-    "games": 347
+    "games": 349
   },
   {
     "player": "watashiwakunji",
@@ -273,7 +273,7 @@
     "player": "bingka",
     "points": 258.0,
     "country": "ID",
-    "games": 393
+    "games": 394
   },
   {
     "player": "7earless",
@@ -321,13 +321,13 @@
     "player": "arcaninosshiny",
     "points": 240.0,
     "country": "FR",
-    "games": 286
+    "games": 287
   },
   {
     "player": "wxchan",
     "points": 239.0,
     "country": "MY",
-    "games": 270
+    "games": 271
   },
   {
     "player": "warpis",
@@ -354,22 +354,22 @@
     "games": 189
   },
   {
+    "player": "s4t0sh1",
+    "points": 231.0,
+    "country": "PR",
+    "games": 255
+  },
+  {
     "player": "turbone101",
-    "points": 230.0,
+    "points": 231.0,
     "country": "ZA",
-    "games": 272
+    "games": 273
   },
   {
     "player": "seedax",
     "points": 229.0,
     "country": "US",
     "games": 175
-  },
-  {
-    "player": "s4t0sh1",
-    "points": 227.0,
-    "country": "PR",
-    "games": 253
   },
   {
     "player": "hrsnfbrn",
@@ -393,7 +393,7 @@
     "player": "pikaicetea",
     "points": 224.0,
     "country": "FR",
-    "games": 252
+    "games": 253
   },
   {
     "player": "rockfeller",
@@ -402,16 +402,16 @@
     "games": 159
   },
   {
+    "player": "russ_ii",
+    "points": 223.0,
+    "country": "US",
+    "games": 395
+  },
+  {
     "player": "pippiking",
     "points": 223.0,
     "country": "JP",
     "games": 232
-  },
-  {
-    "player": "russ_ii",
-    "points": 221.0,
-    "country": "US",
-    "games": 394
   },
   {
     "player": "hosi",
@@ -447,7 +447,7 @@
     "player": "crackportero",
     "points": 215.0,
     "country": "ES",
-    "games": 275
+    "games": 277
   },
   {
     "player": "lbn924",
@@ -459,7 +459,7 @@
     "player": "nakopol91",
     "points": 211.0,
     "country": "GR",
-    "games": 182
+    "games": 184
   },
   {
     "player": "laaans",
@@ -477,7 +477,7 @@
     "player": "a2lbabar08",
     "points": 205.0,
     "country": "FR",
-    "games": 216
+    "games": 217
   },
   {
     "player": "gogisam",
@@ -495,13 +495,13 @@
     "player": "adi1906",
     "points": 200.0,
     "country": "IN",
-    "games": 282
+    "games": 283
   },
   {
     "player": "momonagi",
     "points": 197.0,
     "country": "FR",
-    "games": 121
+    "games": 122
   },
   {
     "player": "soshirokaiju",
@@ -519,7 +519,7 @@
     "player": "srafaelitocs",
     "points": 195.0,
     "country": "MX",
-    "games": 265
+    "games": 266
   },
   {
     "player": "wiloxomega",
@@ -582,6 +582,12 @@
     "games": 257
   },
   {
+    "player": "falmn",
+    "points": 186.0,
+    "country": "FR",
+    "games": 258
+  },
+  {
     "player": "theviice",
     "points": 186.0,
     "country": "DE",
@@ -597,7 +603,7 @@
     "player": "evand",
     "points": 182.0,
     "country": "MX",
-    "games": 219
+    "games": 220
   },
   {
     "player": "clapkingjake",
@@ -616,12 +622,6 @@
     "points": 178.0,
     "country": "JP",
     "games": 200
-  },
-  {
-    "player": "falmn",
-    "points": 176.0,
-    "country": "FR",
-    "games": 256
   },
   {
     "player": "ekkinx",
@@ -663,7 +663,7 @@
     "player": "lv80mewtwo",
     "points": 169.0,
     "country": "US",
-    "games": 443
+    "games": 444
   },
   {
     "player": "sneakattack",
@@ -672,22 +672,22 @@
     "games": 252
   },
   {
+    "player": "njjord7",
+    "points": 168.0,
+    "country": "FR",
+    "games": 164
+  },
+  {
     "player": "kekiamc",
     "points": 168.0,
     "country": "ES",
     "games": 248
   },
   {
-    "player": "njjord7",
-    "points": 167.0,
-    "country": "FR",
-    "games": 162
-  },
-  {
     "player": "gaizkita",
     "points": 166.0,
     "country": "ES",
-    "games": 226
+    "games": 228
   },
   {
     "player": "dougz92",
@@ -759,13 +759,13 @@
     "player": "narumi",
     "points": 156.0,
     "country": "FR",
-    "games": 134
+    "games": 136
   },
   {
     "player": "ken458962",
     "points": 155.0,
     "country": "JP",
-    "games": 267
+    "games": 268
   },
   {
     "player": "gustavo01gk",
@@ -804,6 +804,12 @@
     "games": 358
   },
   {
+    "player": "kabesu",
+    "points": 152.0,
+    "country": "JP",
+    "games": 140
+  },
+  {
     "player": "lulu",
     "points": 152.0,
     "country": "FR",
@@ -832,12 +838,6 @@
     "points": 147.0,
     "country": "FR",
     "games": 121
-  },
-  {
-    "player": "kabesu",
-    "points": 146.0,
-    "country": "JP",
-    "games": 139
   },
   {
     "player": "pkmntrainerjoey",
@@ -870,6 +870,12 @@
     "games": 214
   },
   {
+    "player": "wawan",
+    "points": 142.0,
+    "country": "FR",
+    "games": 238
+  },
+  {
     "player": "ghost_319",
     "points": 142.0,
     "country": null,
@@ -900,16 +906,10 @@
     "games": 135
   },
   {
-    "player": "wawan",
-    "points": 140.0,
-    "country": "FR",
-    "games": 237
-  },
-  {
     "player": "ne",
     "points": 140.0,
     "country": "CH",
-    "games": 295
+    "games": 297
   },
   {
     "player": "lightxz",
@@ -984,10 +984,16 @@
     "games": 146
   },
   {
+    "player": "atomiix",
+    "points": 130.0,
+    "country": "FR",
+    "games": 191
+  },
+  {
     "player": "cheerydog",
     "points": 129.0,
     "country": "AU",
-    "games": 141
+    "games": 142
   },
   {
     "player": "esdeath",
@@ -1005,7 +1011,7 @@
     "player": "danico",
     "points": 128.0,
     "country": "JP",
-    "games": 241
+    "games": 243
   },
   {
     "player": "yodada30",
@@ -1041,13 +1047,13 @@
     "player": "netcabo",
     "points": 126.0,
     "country": "PT",
-    "games": 181
+    "games": 182
   },
   {
-    "player": "atomiix",
+    "player": "supreme13",
     "points": 125.0,
-    "country": "FR",
-    "games": 189
+    "country": "US",
+    "games": 132
   },
   {
     "player": "magikarpfish",
@@ -1066,12 +1072,6 @@
     "points": 125.0,
     "country": "KR",
     "games": 75
-  },
-  {
-    "player": "supreme13",
-    "points": 124.0,
-    "country": "US",
-    "games": 130
   },
   {
     "player": "zverum",
@@ -1122,6 +1122,12 @@
     "games": 123
   },
   {
+    "player": "mashu_tcg",
+    "points": 120.0,
+    "country": "AT",
+    "games": 211
+  },
+  {
     "player": "kiddangel",
     "points": 120.0,
     "country": "IT",
@@ -1170,10 +1176,10 @@
     "games": 156
   },
   {
-    "player": "mashu_tcg",
+    "player": "griffsama",
     "points": 118.0,
-    "country": "AT",
-    "games": 210
+    "country": "GB",
+    "games": 102
   },
   {
     "player": "siro",
@@ -1230,6 +1236,12 @@
     "games": 178
   },
   {
+    "player": "nayarapoke",
+    "points": 116.0,
+    "country": "JP",
+    "games": 109
+  },
+  {
     "player": "drayke",
     "points": 116.0,
     "country": "BR",
@@ -1246,6 +1258,12 @@
     "points": 115.0,
     "country": "BR",
     "games": 206
+  },
+  {
+    "player": "pette9550",
+    "points": 115.0,
+    "country": "IT",
+    "games": 195
   },
   {
     "player": "leviathanko",
@@ -1278,22 +1296,16 @@
     "games": 94
   },
   {
+    "player": "estehlegitea",
+    "points": 114.0,
+    "country": "ID",
+    "games": 100
+  },
+  {
     "player": "axelniraj",
     "points": 114.0,
     "country": "IN",
     "games": 187
-  },
-  {
-    "player": "nayarapoke",
-    "points": 114.0,
-    "country": "JP",
-    "games": 108
-  },
-  {
-    "player": "pette9550",
-    "points": 114.0,
-    "country": "IT",
-    "games": 194
   },
   {
     "player": "nymphnoctis",
@@ -1314,12 +1326,6 @@
     "games": 100
   },
   {
-    "player": "estehlegitea",
-    "points": 112.0,
-    "country": "ID",
-    "games": 98
-  },
-  {
     "player": "dachoso",
     "points": 112.0,
     "country": null,
@@ -1338,16 +1344,16 @@
     "games": 108
   },
   {
-    "player": "griffsama",
-    "points": 110.0,
-    "country": "GB",
-    "games": 101
-  },
-  {
     "player": "rome90",
     "points": 110.0,
     "country": "IT",
     "games": 120
+  },
+  {
+    "player": "val22",
+    "points": 109.0,
+    "country": "ID",
+    "games": 136
   },
   {
     "player": "noobslybot_01",
@@ -1398,16 +1404,10 @@
     "games": 165
   },
   {
-    "player": "val22",
-    "points": 107.0,
-    "country": "ID",
-    "games": 134
-  },
-  {
     "player": "wongtw",
     "points": 107.0,
     "country": "MY",
-    "games": 95
+    "games": 96
   },
   {
     "player": "manumefisto56",
@@ -1611,7 +1611,7 @@
     "player": "marhadi",
     "points": 97.0,
     "country": "DE",
-    "games": 226
+    "games": 227
   },
   {
     "player": "markoh",
@@ -1746,10 +1746,16 @@
     "games": 46
   },
   {
+    "player": "ppitopin8",
+    "points": 92.0,
+    "country": "ES",
+    "games": 96
+  },
+  {
     "player": "7l",
     "points": 92.0,
     "country": null,
-    "games": 249
+    "games": 250
   },
   {
     "player": "liamkrew",
@@ -1869,7 +1875,7 @@
     "player": "strawberrycrepecookie",
     "points": 88.0,
     "country": "CA",
-    "games": 98
+    "games": 100
   },
   {
     "player": "timo",
@@ -1894,6 +1900,12 @@
     "points": 88.0,
     "country": "ES",
     "games": 193
+  },
+  {
+    "player": "zeekholz",
+    "points": 87.0,
+    "country": "US",
+    "games": 90
   },
   {
     "player": "shinra67",
@@ -1938,18 +1950,6 @@
     "games": 165
   },
   {
-    "player": "ppitopin8",
-    "points": 86.0,
-    "country": "ES",
-    "games": 94
-  },
-  {
-    "player": "zeekholz",
-    "points": 86.0,
-    "country": "US",
-    "games": 89
-  },
-  {
     "player": "menaofsteel",
     "points": 86.0,
     "country": "US",
@@ -1959,7 +1959,7 @@
     "player": "evan34",
     "points": 86.0,
     "country": "FR",
-    "games": 91
+    "games": 92
   },
   {
     "player": "babyeatingbaby",
@@ -1977,7 +1977,7 @@
     "player": "iduh",
     "points": 85.0,
     "country": "ID",
-    "games": 92
+    "games": 93
   },
   {
     "player": "zozo89",
@@ -2013,13 +2013,13 @@
     "player": "zeublai",
     "points": 83.0,
     "country": "FR",
-    "games": 133
+    "games": 134
   },
   {
     "player": "rzlby",
     "points": 83.0,
     "country": "ID",
-    "games": 298
+    "games": 299
   },
   {
     "player": "cjplayspokemon",
@@ -2244,10 +2244,16 @@
     "games": 151
   },
   {
+    "player": "rikelmematos",
+    "points": 77.0,
+    "country": "BR",
+    "games": 103
+  },
+  {
     "player": "flipinton",
     "points": 77.0,
     "country": "US",
-    "games": 197
+    "games": 199
   },
   {
     "player": "bau",
@@ -2278,12 +2284,6 @@
     "points": 77.0,
     "country": "AR",
     "games": 86
-  },
-  {
-    "player": "rikelmematos",
-    "points": 76.0,
-    "country": "BR",
-    "games": 102
   },
   {
     "player": "necroblaze",
@@ -2421,7 +2421,7 @@
     "player": "alecorna",
     "points": 72.0,
     "country": "IT",
-    "games": 197
+    "games": 198
   },
   {
     "player": "tekkenvera",
@@ -2464,6 +2464,12 @@
     "points": 71.0,
     "country": "PE",
     "games": 126
+  },
+  {
+    "player": "avuuado",
+    "points": 71.0,
+    "country": "BR",
+    "games": 123
   },
   {
     "player": "ester",
@@ -2580,6 +2586,12 @@
     "games": 53
   },
   {
+    "player": "fall88",
+    "points": 68.0,
+    "country": "TW",
+    "games": 107
+  },
+  {
     "player": "sana_37",
     "points": 68.0,
     "country": "JP",
@@ -2620,18 +2632,6 @@
     "points": 68.0,
     "country": "KR",
     "games": 32
-  },
-  {
-    "player": "avuuado",
-    "points": 67.0,
-    "country": "BR",
-    "games": 121
-  },
-  {
-    "player": "fall88",
-    "points": 67.0,
-    "country": "TW",
-    "games": 105
   },
   {
     "player": "tunanigiri",
@@ -2784,6 +2784,12 @@
     "games": 217
   },
   {
+    "player": "godi",
+    "points": 64.0,
+    "country": "ID",
+    "games": 281
+  },
+  {
     "player": "victorssito",
     "points": 64.0,
     "country": "ES",
@@ -2805,7 +2811,7 @@
     "player": "leaffff",
     "points": 64.0,
     "country": "JP",
-    "games": 66
+    "games": 67
   },
   {
     "player": "ralphgozon",
@@ -2892,16 +2898,10 @@
     "games": 117
   },
   {
-    "player": "godi",
-    "points": 62.0,
-    "country": "ID",
-    "games": 279
-  },
-  {
     "player": "dragonkni8",
     "points": 62.0,
     "country": "IN",
-    "games": 132
+    "games": 133
   },
   {
     "player": "s1gun",
@@ -3024,6 +3024,12 @@
     "games": 62
   },
   {
+    "player": "iplaypokemans",
+    "points": 60.0,
+    "country": "US",
+    "games": 81
+  },
+  {
     "player": "ozenith",
     "points": 60.0,
     "country": "US",
@@ -3106,12 +3112,6 @@
     "points": 60.0,
     "country": "JP",
     "games": 48
-  },
-  {
-    "player": "iplaypokemans",
-    "points": 59.0,
-    "country": "US",
-    "games": 80
   },
   {
     "player": "ddaviss",
@@ -3423,7 +3423,7 @@
     "player": "frost22",
     "points": 54.0,
     "country": "IN",
-    "games": 84
+    "games": 85
   },
   {
     "player": "tobiasm",
@@ -3471,7 +3471,7 @@
     "player": "eilix524",
     "points": 53.0,
     "country": "JP",
-    "games": 126
+    "games": 127
   },
   {
     "player": "troopscoop",
@@ -3532,6 +3532,12 @@
     "points": 52.0,
     "country": "PT",
     "games": 85
+  },
+  {
+    "player": "luxmea",
+    "points": 52.0,
+    "country": "ID",
+    "games": 63
   },
   {
     "player": "sagekcd",
@@ -3630,6 +3636,12 @@
     "games": 81
   },
   {
+    "player": "antony",
+    "points": 51.0,
+    "country": "FR",
+    "games": 176
+  },
+  {
     "player": "ynovator",
     "points": 51.0,
     "country": "PH",
@@ -3720,12 +3732,6 @@
     "games": 42
   },
   {
-    "player": "antony",
-    "points": 50.0,
-    "country": "FR",
-    "games": 175
-  },
-  {
     "player": "giaacomoo",
     "points": 50.0,
     "country": "IT",
@@ -3792,6 +3798,12 @@
     "games": 127
   },
   {
+    "player": "javiercazorla",
+    "points": 49.0,
+    "country": "AR",
+    "games": 137
+  },
+  {
     "player": "fedped",
     "points": 49.0,
     "country": "IT",
@@ -3807,7 +3819,7 @@
     "player": "mikun",
     "points": 49.0,
     "country": "JP",
-    "games": 139
+    "games": 140
   },
   {
     "player": "ferus",
@@ -3894,12 +3906,6 @@
     "games": 98
   },
   {
-    "player": "luxmea",
-    "points": 48.0,
-    "country": "ID",
-    "games": 62
-  },
-  {
     "player": "architect",
     "points": 48.0,
     "country": "IT",
@@ -3910,12 +3916,6 @@
     "points": 48.0,
     "country": "FR",
     "games": 55
-  },
-  {
-    "player": "javiercazorla",
-    "points": 48.0,
-    "country": "AR",
-    "games": 135
   },
   {
     "player": "ojittik",
@@ -4053,7 +4053,7 @@
     "player": "naoki",
     "points": 47.0,
     "country": "FR",
-    "games": 94
+    "games": 95
   },
   {
     "player": "whizzy",
@@ -4107,13 +4107,13 @@
     "player": "4th_d",
     "points": 46.0,
     "country": "ID",
-    "games": 58
+    "games": 60
   },
   {
     "player": "rubiq",
     "points": 46.0,
     "country": "US",
-    "games": 57
+    "games": 58
   },
   {
     "player": "light_dn",
@@ -4302,6 +4302,12 @@
     "games": 25
   },
   {
+    "player": "isanpum",
+    "points": 44.0,
+    "country": "PY",
+    "games": 127
+  },
+  {
     "player": "flipand11",
     "points": 44.0,
     "country": "CL",
@@ -4317,7 +4323,7 @@
     "player": "sakuragihanamichi",
     "points": 44.0,
     "country": "DO",
-    "games": 65
+    "games": 66
   },
   {
     "player": "snowpoints",
@@ -4480,12 +4486,6 @@
     "points": 43.0,
     "country": null,
     "games": 35
-  },
-  {
-    "player": "isanpum",
-    "points": 42.0,
-    "country": "PY",
-    "games": 125
   },
   {
     "player": "stormxtr",
@@ -4734,6 +4734,12 @@
     "games": 79
   },
   {
+    "player": "bobby02",
+    "points": 40.0,
+    "country": "IT",
+    "games": 103
+  },
+  {
     "player": "javiee333",
     "points": 40.0,
     "country": "US",
@@ -4785,7 +4791,7 @@
     "player": "tawsik",
     "points": 40.0,
     "country": "DE",
-    "games": 133
+    "games": 134
   },
   {
     "player": "fucuro",
@@ -5088,10 +5094,10 @@
     "games": 23
   },
   {
-    "player": "bobby02",
+    "player": "golfermt",
     "points": 38.0,
-    "country": "IT",
-    "games": 101
+    "country": "US",
+    "games": 35
   },
   {
     "player": "haruhi_1350",
@@ -5199,12 +5205,6 @@
     "player": "rfrey",
     "points": 37.0,
     "country": "JP",
-    "games": 34
-  },
-  {
-    "player": "golfermt",
-    "points": 37.0,
-    "country": "US",
     "games": 34
   },
   {
@@ -5337,7 +5337,7 @@
     "player": "grandeevasore",
     "points": 36.0,
     "country": "IT",
-    "games": 80
+    "games": 81
   },
   {
     "player": "toner",
@@ -5871,7 +5871,7 @@
     "player": "bigmanblastoise69",
     "points": 33.0,
     "country": null,
-    "games": 45
+    "games": 46
   },
   {
     "player": "james_w",
@@ -6063,7 +6063,7 @@
     "player": "tarutaru",
     "points": 32.0,
     "country": "JP",
-    "games": 29
+    "games": 30
   },
   {
     "player": "ezxart",
@@ -6075,7 +6075,7 @@
     "player": "caniuz",
     "points": 32.0,
     "country": "IT",
-    "games": 24
+    "games": 25
   },
   {
     "player": "makinu",
@@ -6117,7 +6117,7 @@
     "player": "silenceisdeafnin",
     "points": 32.0,
     "country": "US",
-    "games": 26
+    "games": 27
   },
   {
     "player": "barnabebryan",
@@ -6153,7 +6153,7 @@
     "player": "drbrandao",
     "points": 32.0,
     "country": "BR",
-    "games": 106
+    "games": 108
   },
   {
     "player": "jonacrepe",
@@ -6483,7 +6483,7 @@
     "player": "flash07",
     "points": 30.0,
     "country": "IT",
-    "games": 49
+    "games": 50
   },
   {
     "player": "jrab",
@@ -6693,7 +6693,7 @@
     "player": "spinvy",
     "points": 29.0,
     "country": "ID",
-    "games": 27
+    "games": 28
   },
   {
     "player": "trainerbt",
@@ -6867,7 +6867,7 @@
     "player": "hunterhunter",
     "points": 28.0,
     "country": "KW",
-    "games": 49
+    "games": 50
   },
   {
     "player": "ansito",
@@ -6903,13 +6903,13 @@
     "player": "kaoxt",
     "points": 28.0,
     "country": "US",
-    "games": 65
+    "games": 66
   },
   {
     "player": "vein",
     "points": 28.0,
     "country": "JP",
-    "games": 53
+    "games": 54
   },
   {
     "player": "smikkelbeer",
@@ -7164,6 +7164,12 @@
     "games": 36
   },
   {
+    "player": "raiderboy181",
+    "points": 27.0,
+    "country": "CA",
+    "games": 37
+  },
+  {
     "player": "moodie",
     "points": 27.0,
     "country": "IT",
@@ -7173,7 +7179,7 @@
     "player": "na0000000008",
     "points": 27.0,
     "country": "JP",
-    "games": 64
+    "games": 65
   },
   {
     "player": "itati",
@@ -7422,6 +7428,18 @@
     "games": 64
   },
   {
+    "player": "luckypoke",
+    "points": 26.0,
+    "country": "GB",
+    "games": 66
+  },
+  {
+    "player": "itachi1820",
+    "points": 26.0,
+    "country": "CL",
+    "games": 56
+  },
+  {
     "player": "pkmnchamp9",
     "points": 26.0,
     "country": "US",
@@ -7570,6 +7588,12 @@
     "points": 26.0,
     "country": "DE",
     "games": 17
+  },
+  {
+    "player": "jazzmine",
+    "points": 26.0,
+    "country": "MX",
+    "games": 52
   },
   {
     "player": "kentfloko",
@@ -7738,6 +7762,12 @@
     "points": 25.0,
     "country": "US",
     "games": 93
+  },
+  {
+    "player": "fabiowastaken",
+    "points": 25.0,
+    "country": "IT",
+    "games": 9
   },
   {
     "player": "justiceforhk",
@@ -8076,12 +8106,6 @@
     "games": 50
   },
   {
-    "player": "luckypoke",
-    "points": 24.0,
-    "country": "GB",
-    "games": 65
-  },
-  {
     "player": "berlusconismurf",
     "points": 24.0,
     "country": "IT",
@@ -8091,7 +8115,7 @@
     "player": "sinorci200",
     "points": 24.0,
     "country": "IT",
-    "games": 92
+    "games": 93
   },
   {
     "player": "itspaydro18",
@@ -8106,10 +8130,16 @@
     "games": 60
   },
   {
+    "player": "flipsicle",
+    "points": 24.0,
+    "country": "IN",
+    "games": 113
+  },
+  {
     "player": "meendes",
     "points": 24.0,
     "country": "BR",
-    "games": 42
+    "games": 43
   },
   {
     "player": "edwinborbon000",
@@ -8181,7 +8211,7 @@
     "player": "fikaxhu",
     "points": 24.0,
     "country": "ID",
-    "games": 63
+    "games": 64
   },
   {
     "player": "sky604",
@@ -8248,12 +8278,6 @@
     "points": 24.0,
     "country": "GB",
     "games": 34
-  },
-  {
-    "player": "jazzmine",
-    "points": 24.0,
-    "country": "MX",
-    "games": 51
   },
   {
     "player": "agonizdsw",
@@ -8520,12 +8544,6 @@
     "games": 32
   },
   {
-    "player": "raiderboy181",
-    "points": 23.0,
-    "country": "CA",
-    "games": 36
-  },
-  {
     "player": "tylyn",
     "points": 23.0,
     "country": "US",
@@ -8554,12 +8572,6 @@
     "points": 23.0,
     "country": "US",
     "games": 45
-  },
-  {
-    "player": "flipsicle",
-    "points": 23.0,
-    "country": "IN",
-    "games": 111
   },
   {
     "player": "su1_3o",
@@ -8904,10 +8916,10 @@
     "games": 28
   },
   {
-    "player": "itachi1820",
+    "player": "glare",
     "points": 22.0,
-    "country": "CL",
-    "games": 55
+    "country": "VE",
+    "games": 48
   },
   {
     "player": "stracchino22",
@@ -9342,12 +9354,6 @@
     "games": 50
   },
   {
-    "player": "glare",
-    "points": 21.0,
-    "country": "VE",
-    "games": 47
-  },
-  {
     "player": "topo_owo",
     "points": 21.0,
     "country": "CO",
@@ -9376,6 +9382,12 @@
     "points": 21.0,
     "country": null,
     "games": 34
+  },
+  {
+    "player": "nevaluze",
+    "points": 21.0,
+    "country": "AU",
+    "games": 15
   },
   {
     "player": "yosh",
@@ -9573,7 +9585,7 @@
     "player": "gmotta05",
     "points": 21.0,
     "country": "BR",
-    "games": 86
+    "games": 87
   },
   {
     "player": "b0wfah",
@@ -9801,13 +9813,19 @@
     "player": "matheusleal",
     "points": 20.0,
     "country": "BR",
-    "games": 66
+    "games": 67
   },
   {
     "player": "ezreal",
     "points": 20.0,
     "country": "IN",
-    "games": 74
+    "games": 75
+  },
+  {
+    "player": "gosulek",
+    "points": 20.0,
+    "country": "CL",
+    "games": 58
   },
   {
     "player": "likounite",
@@ -9832,12 +9850,6 @@
     "points": 20.0,
     "country": "JP",
     "games": 24
-  },
-  {
-    "player": "nevaluze",
-    "points": 20.0,
-    "country": "AU",
-    "games": 14
   },
   {
     "player": "opticsauna",
@@ -9867,7 +9879,7 @@
     "player": "ixerox",
     "points": 20.0,
     "country": "US",
-    "games": 61
+    "games": 63
   },
   {
     "player": "koishikomeijiex",
@@ -10461,7 +10473,13 @@
     "player": "umbreon099",
     "points": 19.0,
     "country": "US",
-    "games": 83
+    "games": 84
+  },
+  {
+    "player": "edux",
+    "points": 19.0,
+    "country": "AR",
+    "games": 43
   },
   {
     "player": "levnato",
@@ -10593,7 +10611,7 @@
     "player": "daa",
     "points": 19.0,
     "country": "JP",
-    "games": 48
+    "games": 49
   },
   {
     "player": "nxissimo",
@@ -10779,7 +10797,13 @@
     "player": "killbo",
     "points": 18.0,
     "country": "US",
-    "games": 51
+    "games": 52
+  },
+  {
+    "player": "hansuwe",
+    "points": 18.0,
+    "country": "DE",
+    "games": 20
   },
   {
     "player": "varma",
@@ -10788,16 +10812,10 @@
     "games": 61
   },
   {
-    "player": "gosulek",
-    "points": 18.0,
-    "country": "CL",
-    "games": 57
-  },
-  {
     "player": "pokeburstrush",
     "points": 18.0,
     "country": "CA",
-    "games": 51
+    "games": 52
   },
   {
     "player": "wheelchairkev13",
@@ -10974,12 +10992,6 @@
     "games": 49
   },
   {
-    "player": "edux",
-    "points": 18.0,
-    "country": "AR",
-    "games": 42
-  },
-  {
     "player": "gin1234",
     "points": 18.0,
     "country": "CA",
@@ -11068,6 +11080,12 @@
     "points": 18.0,
     "country": "MX",
     "games": 31
+  },
+  {
+    "player": "bob38",
+    "points": 18.0,
+    "country": "FR",
+    "games": 38
   },
   {
     "player": "sideshow_mark",
@@ -11559,7 +11577,7 @@
     "player": "juancavez",
     "points": 17.0,
     "country": "VE",
-    "games": 67
+    "games": 68
   },
   {
     "player": "root",
@@ -12126,9 +12144,9 @@
     "games": 16
   },
   {
-    "player": "hansuwe",
+    "player": "devastazioneh88",
     "points": 16.0,
-    "country": "DE",
+    "country": "IT",
     "games": 18
   },
   {
@@ -12213,7 +12231,7 @@
     "player": "lanfro17",
     "points": 16.0,
     "country": "IT",
-    "games": 34
+    "games": 35
   },
   {
     "player": "nik9979",
@@ -12867,13 +12885,7 @@
     "player": "cmgato",
     "points": 15.0,
     "country": "US",
-    "games": 55
-  },
-  {
-    "player": "devastazioneh88",
-    "points": 15.0,
-    "country": "IT",
-    "games": 17
+    "games": 56
   },
   {
     "player": "zerox_9",
@@ -12894,12 +12906,6 @@
     "games": 66
   },
   {
-    "player": "fabiowastaken",
-    "points": 15.0,
-    "country": null,
-    "games": 8
-  },
-  {
     "player": "hima_suika",
     "points": 15.0,
     "country": "JP",
@@ -12915,6 +12921,12 @@
     "player": "kazekage",
     "points": 15.0,
     "country": "IT",
+    "games": 43
+  },
+  {
+    "player": "r0zey",
+    "points": 15.0,
+    "country": "US",
     "games": 43
   },
   {
@@ -13047,7 +13059,7 @@
     "player": "origaming",
     "points": 15.0,
     "country": "PH",
-    "games": 68
+    "games": 70
   },
   {
     "player": "qchin_pp",
@@ -13737,7 +13749,7 @@
     "player": "schmosbydlx",
     "points": 14.0,
     "country": "DE",
-    "games": 18
+    "games": 19
   },
   {
     "player": "mamas",
@@ -13762,12 +13774,6 @@
     "points": 14.0,
     "country": "FR",
     "games": 24
-  },
-  {
-    "player": "r0zey",
-    "points": 14.0,
-    "country": "US",
-    "games": 42
   },
   {
     "player": "gabykem",
@@ -13821,7 +13827,7 @@
     "player": "aoisora",
     "points": 14.0,
     "country": "ID",
-    "games": 47
+    "games": 49
   },
   {
     "player": "nahuel07",
@@ -14883,7 +14889,7 @@
     "player": "carver",
     "points": 13.0,
     "country": "FR",
-    "games": 36
+    "games": 37
   },
   {
     "player": "sup3r27ttv",
@@ -14955,7 +14961,7 @@
     "player": "barba28",
     "points": 13.0,
     "country": "ES",
-    "games": 29
+    "games": 30
   },
   {
     "player": "frogger",
@@ -15208,12 +15214,6 @@
     "points": 13.0,
     "country": "ID",
     "games": 18
-  },
-  {
-    "player": "bob38",
-    "points": 13.0,
-    "country": "FR",
-    "games": 36
   },
   {
     "player": "talos_moltres",
@@ -15888,6 +15888,12 @@
     "games": 8
   },
   {
+    "player": "syabon",
+    "points": 12.0,
+    "country": "JP",
+    "games": 16
+  },
+  {
     "player": "ogprof151",
     "points": 12.0,
     "country": null,
@@ -16065,7 +16071,7 @@
     "player": "nyphyx",
     "points": 12.0,
     "country": "FR",
-    "games": 29
+    "games": 30
   },
   {
     "player": "athomas_12438",
@@ -17466,12 +17472,6 @@
     "games": 4
   },
   {
-    "player": "syabon",
-    "points": 11.0,
-    "country": "JP",
-    "games": 15
-  },
-  {
     "player": "shardfly",
     "points": 11.0,
     "country": "US",
@@ -17602,6 +17602,12 @@
     "points": 11.0,
     "country": "MY",
     "games": 21
+  },
+  {
+    "player": "tobyforce",
+    "points": 11.0,
+    "country": "US",
+    "games": 58
   },
   {
     "player": "kintozzz",
@@ -19023,7 +19029,7 @@
     "player": "acebakun",
     "points": 10.0,
     "country": "JP",
-    "games": 18
+    "games": 19
   },
   {
     "player": "fuleirzys09",
@@ -19041,7 +19047,7 @@
     "player": "feherlac",
     "points": 10.0,
     "country": "HU",
-    "games": 59
+    "games": 60
   },
   {
     "player": "aito",
@@ -19138,12 +19144,6 @@
     "points": 10.0,
     "country": "CZ",
     "games": 4
-  },
-  {
-    "player": "tobyforce",
-    "points": 10.0,
-    "country": "US",
-    "games": 57
   },
   {
     "player": "channa_wri",
@@ -19383,7 +19383,7 @@
     "player": "ulisse",
     "points": 10.0,
     "country": null,
-    "games": 28
+    "games": 29
   },
   {
     "player": "joniii",
@@ -21195,7 +21195,7 @@
     "player": "ansony",
     "points": 9.0,
     "country": "JP",
-    "games": 12
+    "games": 13
   },
   {
     "player": "roshy",
@@ -21249,7 +21249,7 @@
     "player": "pokeguy41",
     "points": 9.0,
     "country": null,
-    "games": 39
+    "games": 40
   },
   {
     "player": "j_zera",
@@ -21399,7 +21399,7 @@
     "player": "pkisthe",
     "points": 9.0,
     "country": "US",
-    "games": 42
+    "games": 43
   },
   {
     "player": "jervax",
@@ -22695,7 +22695,7 @@
     "player": "turtlegeek",
     "points": 8.0,
     "country": "CA",
-    "games": 7
+    "games": 9
   },
   {
     "player": "static",
@@ -22725,7 +22725,7 @@
     "player": "zadakyel",
     "points": 8.0,
     "country": "US",
-    "games": 11
+    "games": 12
   },
   {
     "player": "captcheeks24",
@@ -22779,7 +22779,7 @@
     "player": "sophiadeclare",
     "points": 8.0,
     "country": "VN",
-    "games": 21
+    "games": 23
   },
   {
     "player": "ouaispasmal",
@@ -23265,7 +23265,7 @@
     "player": "vijayprasad",
     "points": 8.0,
     "country": "IN",
-    "games": 20
+    "games": 22
   },
   {
     "player": "rcollinz",
@@ -25740,6 +25740,12 @@
     "games": 17
   },
   {
+    "player": "muswa",
+    "points": 7.0,
+    "country": null,
+    "games": 31
+  },
+  {
     "player": "opaidragonloli",
     "points": 7.0,
     "country": "PL",
@@ -25755,7 +25761,7 @@
     "player": "marckedcards",
     "points": 7.0,
     "country": "PH",
-    "games": 9
+    "games": 10
   },
   {
     "player": "kongkingreal",
@@ -25905,7 +25911,7 @@
     "player": "draxoz",
     "points": 7.0,
     "country": "TR",
-    "games": 32
+    "games": 33
   },
   {
     "player": "fairchild",
@@ -25960,6 +25966,12 @@
     "points": 7.0,
     "country": "US",
     "games": 7
+  },
+  {
+    "player": "nivek77",
+    "points": 7.0,
+    "country": "FR",
+    "games": 13
   },
   {
     "player": "kiozerato",
@@ -26428,6 +26440,12 @@
     "points": 7.0,
     "country": "BR",
     "games": 10
+  },
+  {
+    "player": "juntian",
+    "points": 7.0,
+    "country": "DE",
+    "games": 11
   },
   {
     "player": "itsonlyluki",
@@ -28056,22 +28074,22 @@
     "games": 5
   },
   {
+    "player": "exituus",
+    "points": 7.0,
+    "country": "DE",
+    "games": 8
+  },
+  {
     "player": "rett",
     "points": 6.0,
     "country": null,
-    "games": 11
+    "games": 12
   },
   {
     "player": "razimoka",
     "points": 6.0,
     "country": "FR",
     "games": 19
-  },
-  {
-    "player": "muswa",
-    "points": 6.0,
-    "country": "TR",
-    "games": 30
   },
   {
     "player": "toromike",
@@ -28086,10 +28104,16 @@
     "games": 21
   },
   {
+    "player": "sccc",
+    "points": 6.0,
+    "country": "HK",
+    "games": 9
+  },
+  {
     "player": "garywashere",
     "points": 6.0,
     "country": "HR",
-    "games": 2
+    "games": 3
   },
   {
     "player": "eccho",
@@ -28318,12 +28342,6 @@
     "points": 6.0,
     "country": "FR",
     "games": 3
-  },
-  {
-    "player": "nivek77",
-    "points": 6.0,
-    "country": "FR",
-    "games": 11
   },
   {
     "player": "nemu1",
@@ -32712,10 +32730,16 @@
     "games": 7
   },
   {
-    "player": "exituus",
+    "player": "anxsighety",
     "points": 6.0,
-    "country": "DE",
-    "games": 6
+    "country": "US",
+    "games": 1
+  },
+  {
+    "player": "blackouth",
+    "points": 6.0,
+    "country": "BR",
+    "games": 1
   },
   {
     "player": "acacia",
@@ -32871,7 +32895,7 @@
     "player": "mrbass",
     "points": 5.0,
     "country": "VE",
-    "games": 47
+    "games": 48
   },
   {
     "player": "solo_gian",
@@ -33414,12 +33438,6 @@
     "games": 23
   },
   {
-    "player": "juntian",
-    "points": 5.0,
-    "country": "DE",
-    "games": 9
-  },
-  {
     "player": "tpfrey",
     "points": 5.0,
     "country": "IT",
@@ -33832,6 +33850,12 @@
     "points": 5.0,
     "country": "BR",
     "games": 8
+  },
+  {
+    "player": "baumesbaum",
+    "points": 5.0,
+    "country": "DE",
+    "games": 29
   },
   {
     "player": "anjo1005",
@@ -35901,7 +35925,7 @@
     "player": "tuffswami",
     "points": 4.0,
     "country": "US",
-    "games": 14
+    "games": 15
   },
   {
     "player": "duskheart",
@@ -41187,7 +41211,7 @@
     "player": "ytheandre",
     "points": 4.0,
     "country": "BR",
-    "games": 38
+    "games": 39
   },
   {
     "player": "stormo777",
@@ -43827,13 +43851,13 @@
     "player": "etn",
     "points": 3.0,
     "country": "FR",
-    "games": 18
+    "games": 19
   },
   {
     "player": "off2_9",
     "points": 3.0,
     "country": null,
-    "games": 7
+    "games": 8
   },
   {
     "player": "karel",
@@ -43852,6 +43876,12 @@
     "points": 3.0,
     "country": "IT",
     "games": 13
+  },
+  {
+    "player": "ironmyke33",
+    "points": 3.0,
+    "country": "FR",
+    "games": 11
   },
   {
     "player": "juniorz1996",
@@ -43881,7 +43911,7 @@
     "player": "hiii1",
     "points": 3.0,
     "country": "JP",
-    "games": 12
+    "games": 13
   },
   {
     "player": "exodia_1",
@@ -44949,7 +44979,7 @@
     "player": "bielly",
     "points": 3.0,
     "country": "ID",
-    "games": 38
+    "games": 40
   },
   {
     "player": "jard2334",
@@ -45766,12 +45796,6 @@
     "points": 3.0,
     "country": "BG",
     "games": 20
-  },
-  {
-    "player": "baumesbaum",
-    "points": 3.0,
-    "country": "DE",
-    "games": 27
   },
   {
     "player": "nafuu",
@@ -46815,7 +46839,7 @@
     "player": "mablertg",
     "points": 3.0,
     "country": "AR",
-    "games": 25
+    "games": 26
   },
   {
     "player": "top_g",
@@ -49293,7 +49317,7 @@
     "player": "gerardmentor",
     "points": 2.0,
     "country": "FR",
-    "games": 7
+    "games": 8
   },
   {
     "player": "tadeo003",
@@ -49320,12 +49344,6 @@
     "games": 28
   },
   {
-    "player": "ironmyke33",
-    "points": 2.0,
-    "country": "FR",
-    "games": 9
-  },
-  {
     "player": "wawawa1",
     "points": 2.0,
     "country": "JP",
@@ -49336,12 +49354,6 @@
     "points": 2.0,
     "country": "CA",
     "games": 5
-  },
-  {
-    "player": "sccc",
-    "points": 2.0,
-    "country": "HK",
-    "games": 7
   },
   {
     "player": "tigela",
@@ -50061,7 +50073,7 @@
     "player": "ash24",
     "points": 2.0,
     "country": "IN",
-    "games": 14
+    "games": 15
   },
   {
     "player": "demdud123",
@@ -64941,7 +64953,7 @@
     "player": "richyrich1999",
     "points": 2.0,
     "country": "CA",
-    "games": 17
+    "games": 19
   },
   {
     "player": "symbiotic_praxis_tcg",
@@ -65154,6 +65166,24 @@
     "games": 1
   },
   {
+    "player": "umma",
+    "points": 2.0,
+    "country": null,
+    "games": 5
+  },
+  {
+    "player": "bozomcgee",
+    "points": 2.0,
+    "country": "US",
+    "games": 2
+  },
+  {
+    "player": "meetpatel",
+    "points": 2.0,
+    "country": "IN",
+    "games": 2
+  },
+  {
     "player": "wie_shu",
     "points": 1.0,
     "country": null,
@@ -65193,7 +65223,7 @@
     "player": "chyno11",
     "points": 1.0,
     "country": "AR",
-    "games": 5
+    "games": 6
   },
   {
     "player": "nylz",
@@ -65823,7 +65853,7 @@
     "player": "zakaryan08",
     "points": 1.0,
     "country": "NO",
-    "games": 13
+    "games": 14
   },
   {
     "player": "dinosocks",
@@ -91317,7 +91347,7 @@
     "player": "mcbridge45",
     "points": 1.0,
     "country": "FR",
-    "games": 7
+    "games": 9
   },
   {
     "player": "cuttinn",
@@ -91347,7 +91377,7 @@
     "player": "crispgino",
     "points": 1.0,
     "country": "CA",
-    "games": 8
+    "games": 9
   },
   {
     "player": "yfm",
@@ -91851,19 +91881,19 @@
     "player": "dread_black",
     "points": 1.0,
     "country": null,
-    "games": 1
+    "games": 2
   },
   {
     "player": "iandonk123",
     "points": 1.0,
     "country": "ID",
-    "games": 1
+    "games": 2
   },
   {
     "player": "tyrendemer825",
     "points": 1.0,
     "country": "PH",
-    "games": 22
+    "games": 23
   },
   {
     "player": "fullmetalgiro",
