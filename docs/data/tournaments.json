@@ -32884,5 +32884,33 @@
     "set": "B2a",
     "setNameZh": "帕底亞驚奇",
     "setNameEn": "Paldean Wonders"
+  },
+  {
+    "game": "PTCG",
+    "name": "TOURNAMENT OF DOOM! DOOM'S DAY!",
+    "date": "2026-03-21T02:35:00.000Z",
+    "format": "STANDARD",
+    "id": "69a5e53e818e5fde7d817926",
+    "players": 253,
+    "organizerId": 349,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
+  },
+  {
+    "game": "GUNDAM",
+    "name": "The Eagle's Nest S4W8.5 MSA Online Locals",
+    "date": "2026-03-21T00:00:00.000Z",
+    "format": "STANDARD",
+    "id": "69a906b36a05f00a8c4a480c",
+    "players": 68,
+    "organizerId": 452,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   }
 ]

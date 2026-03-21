@@ -32108,16 +32108,26 @@
     "format": "STANDARD",
     "id": "69baaa5eccdfe3b78e5763e4",
     "players": 120,
-    "organizerId": 1778
+    "organizerId": 1778,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "🏅SPRING OPEN🏅$100 USD | Terremoto x Trainers TCG",
     "date": "2026-03-19T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69b46d78ccdfe3b78e573924",
     "players": 163,
-    "organizerId": 1990
+    "organizerId": 1990,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32126,7 +32136,12 @@
     "format": "STANDARD",
     "id": "69b44d76ccdfe3b78e573780",
     "players": 176,
-    "organizerId": 35
+    "organizerId": 35,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32135,7 +32150,12 @@
     "format": "STANDARD",
     "id": "69bb039fd478313a15a2e71a",
     "players": 85,
-    "organizerId": 2137
+    "organizerId": 2137,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32144,25 +32164,40 @@
     "format": "STANDARD",
     "id": "69baaa31ccdfe3b78e5763e3",
     "players": 138,
-    "organizerId": 1778
+    "organizerId": 1778,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "🐸FrogEX JaggerGrimm's Cup #3 • 50 USD Prize🐸",
     "date": "2026-03-18T18:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69aa9afff39e6e70969fd12c",
     "players": 206,
-    "organizerId": 1938
+    "organizerId": 1938,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "Lagoon Serenity Format (OAK & Cyrus FA Prize)",
     "date": "2026-03-18T02:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69b4530dccdfe3b78e5737e2",
     "players": 69,
-    "organizerId": 2429
+    "organizerId": 2429,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32171,7 +32206,12 @@
     "format": "STANDARD",
     "id": "69b56de49f81767f3e802166",
     "players": 155,
-    "organizerId": 2227
+    "organizerId": 2227,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32180,16 +32220,26 @@
     "format": "STANDARD",
     "id": "69b89513ccdfe3b78e575981",
     "players": 71,
-    "organizerId": 2306
+    "organizerId": 2306,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "The Breakfast Club Weekly #3-$15",
     "date": "2026-03-17T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69b8aaf8ccdfe3b78e575a2c",
     "players": 133,
-    "organizerId": 2461
+    "organizerId": 2461,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32198,7 +32248,12 @@
     "format": "STANDARD",
     "id": "699c8b3f3ef65252b057522d",
     "players": 163,
-    "organizerId": 145
+    "organizerId": 145,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32207,16 +32262,26 @@
     "format": "STANDARD",
     "id": "69a49fd2d92ee137f4d1d9b8",
     "players": 94,
-    "organizerId": 36
+    "organizerId": 36,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "OP",
     "name": "ChinoizeCup #25 Monday",
     "date": "2026-03-02T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "699a20af3ef65252b0573e5e",
     "players": 64,
-    "organizerId": 2339
+    "organizerId": 2339,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32225,7 +32290,12 @@
     "format": "STANDARD",
     "id": "699ddd67c9dc8186f760b8f0",
     "players": 169,
-    "organizerId": 35
+    "organizerId": 35,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32234,7 +32304,12 @@
     "format": "STANDARD",
     "id": "699e13bcc9dc8186f760ba9a",
     "players": 64,
-    "organizerId": 2562
+    "organizerId": 2562,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32243,7 +32318,12 @@
     "format": "STANDARD",
     "id": "69797a519c739a2ff7bf9737",
     "players": 103,
-    "organizerId": 1371
+    "organizerId": 1371,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32252,16 +32332,26 @@
     "format": "STANDARD",
     "id": "699ca7553ef65252b05753a5",
     "players": 98,
-    "organizerId": 2563
+    "organizerId": 2563,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "VGC",
     "name": "Pokemon day week - FINALE EVENT! $250 PRIZE POOL",
     "date": "2026-03-01T16:00:00.000Z",
-    "format": "SVF",
+    "format": "STANDARD",
     "id": "696f7b929c739a2ff7bf4026",
     "players": 84,
-    "organizerId": 672
+    "organizerId": 672,
+    "swiss": "BO3",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32270,7 +32360,12 @@
     "format": "STANDARD",
     "id": "69778edfb1294bfab72065cf",
     "players": 129,
-    "organizerId": 222
+    "organizerId": 222,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32279,16 +32374,26 @@
     "format": "STANDARD",
     "id": "699d5358c9dc8186f760b7ac",
     "players": 110,
-    "organizerId": 2045
+    "organizerId": 2045,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "VGC",
     "name": "30th Anniversary Celebration Tour ($300 Pool)",
     "date": "2026-02-28T02:00:00.000Z",
-    "format": "SVF",
+    "format": "STANDARD",
     "id": "698637016235e3ab106bbb30",
     "players": 96,
-    "organizerId": 829
+    "organizerId": 829,
+    "swiss": "BO3",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32297,7 +32402,12 @@
     "format": "STANDARD",
     "id": "699cc7e6c9dc8186f760b27e",
     "players": 85,
-    "organizerId": 2226
+    "organizerId": 2226,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32306,7 +32416,12 @@
     "format": "STANDARD",
     "id": "699d116dc9dc8186f760b687",
     "players": 107,
-    "organizerId": 1727
+    "organizerId": 1727,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32315,7 +32430,12 @@
     "format": "STANDARD",
     "id": "6998b1183ef65252b0572fee",
     "players": 165,
-    "organizerId": 35
+    "organizerId": 35,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32324,25 +32444,40 @@
     "format": "STANDARD",
     "id": "699f61943ef65252b0576464",
     "players": 69,
-    "organizerId": 445
+    "organizerId": 445,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "OP",
     "name": "ChinoizeCup #24 Wednesday",
     "date": "2026-02-25T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "698de852988cfc979bd0e273",
     "players": 64,
-    "organizerId": 2339
+    "organizerId": 2339,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "VGC",
     "name": "Pokémon Day x Alpensee Tour (Reg F) #46",
     "date": "2026-02-25T18:15:00.000Z",
-    "format": "SVF",
+    "format": "STANDARD",
     "id": "6956c5b1ba66621ba08b013b",
     "players": 114,
-    "organizerId": 2323
+    "organizerId": 2323,
+    "swiss": "BO3",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32351,7 +32486,12 @@
     "format": "STANDARD",
     "id": "6999e718c9dc8186f7609712",
     "players": 154,
-    "organizerId": 2227
+    "organizerId": 2227,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32360,7 +32500,12 @@
     "format": "STANDARD",
     "id": "699d3b523ef65252b05758b0",
     "players": 77,
-    "organizerId": 2306
+    "organizerId": 2306,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32369,7 +32514,12 @@
     "format": "STANDARD",
     "id": "6995493ec9dc8186f760750a",
     "players": 104,
-    "organizerId": 349
+    "organizerId": 349,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32378,16 +32528,26 @@
     "format": "STANDARD",
     "id": "6993869f545d43631df04b88",
     "players": 176,
-    "organizerId": 145
+    "organizerId": 145,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "OP",
     "name": "ChinoizeCup #22 Monday",
     "date": "2026-02-23T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "698de6476235e3ab106c15c4",
     "players": 64,
-    "organizerId": 2339
+    "organizerId": 2339,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32396,7 +32556,12 @@
     "format": "STANDARD",
     "id": "699b4a3a3ef65252b0574943",
     "players": 128,
-    "organizerId": 36
+    "organizerId": 36,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32405,7 +32570,12 @@
     "format": "STANDARD",
     "id": "6998b0b2c9dc8186f7608c86",
     "players": 144,
-    "organizerId": 35
+    "organizerId": 35,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32414,7 +32584,12 @@
     "format": "STANDARD",
     "id": "69384f09e12a3ec4762842f0",
     "players": 89,
-    "organizerId": 1253
+    "organizerId": 1253,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32423,7 +32598,12 @@
     "format": "STANDARD",
     "id": "6993b4a1545d43631df04d5d",
     "players": 74,
-    "organizerId": 2518
+    "organizerId": 2518,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32432,7 +32612,12 @@
     "format": "STANDARD",
     "id": "69797a15b1294bfab7207797",
     "players": 168,
-    "organizerId": 1371
+    "organizerId": 1371,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32441,7 +32626,12 @@
     "format": "STANDARD",
     "id": "69998896c9dc8186f760930f",
     "players": 162,
-    "organizerId": 2501
+    "organizerId": 2501,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32450,7 +32640,12 @@
     "format": "STANDARD",
     "id": "6977a6e3b1294bfab72066a2",
     "players": 71,
-    "organizerId": 222
+    "organizerId": 222,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32459,16 +32654,26 @@
     "format": "STANDARD",
     "id": "69778e0a9c739a2ff7bf82b9",
     "players": 150,
-    "organizerId": 222
+    "organizerId": 222,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "VGC",
     "name": "Pokémon Day Week x SpearPillar 2026 Tour #2",
     "date": "2026-02-21T16:00:00.000Z",
-    "format": "SVF",
+    "format": "STANDARD",
     "id": "696fe23ab1294bfab72022ce",
     "players": 70,
-    "organizerId": 822
+    "organizerId": 822,
+    "swiss": "BO3",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32477,7 +32682,12 @@
     "format": "STANDARD",
     "id": "6979378a9c739a2ff7bf937a",
     "players": 229,
-    "organizerId": 349
+    "organizerId": 349,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32486,7 +32696,12 @@
     "format": "STANDARD",
     "id": "6994dd0dc9dc8186f76070a6",
     "players": 125,
-    "organizerId": 1778
+    "organizerId": 1778,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32495,7 +32710,12 @@
     "format": "STANDARD",
     "id": "6997ddbcc9dc8186f760875e",
     "players": 97,
-    "organizerId": 2045
+    "organizerId": 2045,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32504,7 +32724,12 @@
     "format": "STANDARD",
     "id": "6996a316c9dc8186f7607d35",
     "players": 89,
-    "organizerId": 2315
+    "organizerId": 2315,
+    "swiss": "BO1",
+    "topCut": "BO3",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32513,7 +32738,12 @@
     "format": "STANDARD",
     "id": "6994dcd5c9dc8186f76070a4",
     "players": 100,
-    "organizerId": 1778
+    "organizerId": 1778,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32522,7 +32752,12 @@
     "format": "STANDARD",
     "id": "698be6066235e3ab106c0b65",
     "players": 172,
-    "organizerId": 35
+    "organizerId": 35,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32531,25 +32766,40 @@
     "format": "STANDARD",
     "id": "6994dca33ef65252b057165f",
     "players": 118,
-    "organizerId": 1778
+    "organizerId": 1778,
+    "swiss": "BO1",
+    "topCut": "BO1",
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "OP",
     "name": "ChinoizeCup #21 Wednesday",
     "date": "2026-02-18T19:00:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "697e17f9b1294bfab720a635",
     "players": 64,
-    "organizerId": 2339
+    "organizerId": 2339,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "VGC",
     "name": "Pokémon Day x Alpensee Tour (Reg F) #45",
     "date": "2026-02-18T18:00:00.000Z",
-    "format": "SVF",
+    "format": "STANDARD",
     "id": "6956c597ba66621ba08b0137",
     "players": 113,
-    "organizerId": 2323
+    "organizerId": 2323,
+    "swiss": "BO3",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32558,7 +32808,12 @@
     "format": "STANDARD",
     "id": "698e2f416235e3ab106c1974",
     "players": 76,
-    "organizerId": 2564
+    "organizerId": 2564,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32567,7 +32822,12 @@
     "format": "STANDARD",
     "id": "697ba06f9c739a2ff7bfa71e",
     "players": 160,
-    "organizerId": 2227
+    "organizerId": 2227,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2",
+    "setNameZh": "幻夢遊行",
+    "setNameEn": "Fantastical Parade"
   },
   {
     "game": "PTCG",
@@ -32576,16 +32836,26 @@
     "format": "STANDARD",
     "id": "69bc4c8836f5b5c303db9c1e",
     "players": 108,
-    "organizerId": 2226
+    "organizerId": 2226,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "Umbreon99's Friday Clash #2 ($10 USD)",
     "date": "2026-03-20T17:05:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69a98720f39e6e70969fc400",
     "players": 121,
-    "organizerId": 2461
+    "organizerId": 2461,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "PTCG",
@@ -32594,15 +32864,43 @@
     "format": "STANDARD",
     "id": "6972519db1294bfab720362d",
     "players": 66,
-    "organizerId": 196
+    "organizerId": 196,
+    "swiss": "BO1",
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
   },
   {
     "game": "POCKET",
     "name": "🥊 25$ BEC'S KING OF THE HILL - FA PRIZES",
     "date": "2026-03-20T14:05:00.000Z",
-    "format": null,
+    "format": "STANDARD",
     "id": "69bad30f36f5b5c303db9270",
     "players": 120,
-    "organizerId": 2011
+    "organizerId": 2011,
+    "swiss": null,
+    "topCut": null,
+    "set": "B2a",
+    "setNameZh": "帕底亞驚奇",
+    "setNameEn": "Paldean Wonders"
+  },
+  {
+    "game": "PTCG",
+    "name": "TOURNAMENT OF DOOM! DOOM'S DAY!",
+    "date": "2026-03-21T02:35:00.000Z",
+    "format": "STANDARD",
+    "id": "69a5e53e818e5fde7d817926",
+    "players": 253,
+    "organizerId": 349
+  },
+  {
+    "game": "GUNDAM",
+    "name": "The Eagle's Nest S4W8.5 MSA Online Locals",
+    "date": "2026-03-21T00:00:00.000Z",
+    "format": null,
+    "id": "69a906b36a05f00a8c4a480c",
+    "players": 68,
+    "organizerId": 452
   }
 ]
