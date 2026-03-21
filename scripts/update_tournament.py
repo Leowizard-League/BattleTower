@@ -1,20 +1,18 @@
 import json
+import os  # 新增：用于创建目录（可选增强）
 from pathlib import Path
 from datetime import datetime
 
-# ===================== 核心修改点1：调整基准路径 =====================
-# 脚本位于 scripts/ 目录下，基准路径改为「项目根目录」（scripts的上级目录）
-# 这样才能正确定位到 web/ 目录
-BASE_DIR = Path(__file__).resolve().parent  # 原：Path(__file__).resolve().parent
-# 赛事主文件路径（如果 tournaments.json 也需要调整，可同步修改，当前保留原逻辑）
+# ===================== 核心修正：基准路径指向项目根目录 =====================
+# 脚本路径：BattleTower/scripts/xxx.py
+# Path(__file__).resolve() → 脚本文件的绝对路径
+# .parent → scripts 目录
+# .parent.parent → BattleTower 根目录（正确基准路径）
+BASE_DIR = Path(__file__).resolve().parent.parent  
+
+# 以下路径基于根目录拼接，完全匹配你的目录结构
 TOURNAMENTS_FILE = BASE_DIR / "web/public/data/tournaments.json"  
-
-# ===================== 核心修改点2：修改 RAW_DIR 路径 =====================
-# 从 web/public/data/raw 读取原始赛事详情
-RAW_DIR = BASE_DIR / "web/public/data/raw"  # 原：BASE_DIR / "raw"
-
-# ===================== 核心修改点3：定义游戏版本文件路径 =====================
-# 从 web/public/data/game_version.json 读取版本数据
+RAW_DIR = BASE_DIR / "web/public/data/raw"  
 GAME_VERSION_FILE = BASE_DIR / "web/public/data/game_version.json"
 
 
@@ -36,19 +34,16 @@ def iso_to_ms(iso_str):
     return int(datetime.fromisoformat(s).timestamp() * 1000)
 
 
-# ===================== 核心修改点4：加载游戏版本（从文件读取） =====================
-# 读取 game_version.json 并处理版本数据
+# 加载游戏版本数据
 GAME_VERSIONS = load_json(GAME_VERSION_FILE, default=[])
-# 校验版本数据格式（可选，增强鲁棒性）
 if not isinstance(GAME_VERSIONS, list):
     raise ValueError(f"{GAME_VERSION_FILE} 内容不是数组格式")
 
-# 为每个版本补充毫秒时间戳、排序、生成编码映射（保留原逻辑）
 for v in GAME_VERSIONS:
     v["releaseMs"] = iso_to_ms(v.get("releaseUtcIso"))
 
-GAME_VERSIONS.sort(key=lambda v: v["releaseMs"] or 0)  # 兼容空值
-VERSION_BY_CODE = {v["code"]: v for v in GAME_VERSIONS if "code" in v}  # 兼容缺失code的情况
+GAME_VERSIONS.sort(key=lambda v: v["releaseMs"] or 0)
+VERSION_BY_CODE = {v["code"]: v for v in GAME_VERSIONS if "code" in v}
 
 
 def infer_version_code(date_iso):
@@ -77,7 +72,6 @@ def normalize_format(row_format, details_format, name=""):
     if s == "STANDARD":
         return "STANDARD"
 
-    # 若原始 format 為 null，預設當 STANDARD
     n = (name or "").upper()
     if any(x in n for x in ["NOEX", "NO EX", "NO-EX", "NO_EX"]):
         return "NOEX"
@@ -96,17 +90,21 @@ def find_phase_mode(details: dict, phase_type: str):
 
 
 def enrich_tournaments():
-    print("BASE_DIR =", BASE_DIR)
-    print("TOURNAMENTS_FILE =", TOURNAMENTS_FILE)
-    print("RAW_DIR =", RAW_DIR)
-    print("GAME_VERSION_FILE =", GAME_VERSION_FILE)  # 新增：打印版本文件路径（调试用）
+    # 调试打印：确认路径是否正确（运行时可看输出）
+    print("✅ 项目根目录:", BASE_DIR)
+    print("✅ 赛事文件路径:", TOURNAMENTS_FILE)
+    print("✅ 原始数据目录:", RAW_DIR)
 
+    # 可选增强：自动创建不存在的目录（避免GitHub Action中因目录缺失报错）
+    os.makedirs(TOURNAMENTS_FILE.parent, exist_ok=True)
+    os.makedirs(RAW_DIR, exist_ok=True)
+
+    # 读取赛事主文件
     tournaments = load_json(TOURNAMENTS_FILE, default=[])
     if not isinstance(tournaments, list):
-        raise ValueError("tournaments.json 不是陣列")
+        raise ValueError("tournaments.json 不是数组格式")
 
     out = []
-
     for row in tournaments:
         tid = str(row.get("id", "")).strip()
         if not tid:
@@ -134,7 +132,6 @@ def enrich_tournaments():
         new_row["topCut"] = top_cut
         new_row["set"] = set_code
 
-        # 如果你之後想前端直接顯示中文名，也可以保留這兩個
         if set_code and set_code in VERSION_BY_CODE:
             new_row["setNameZh"] = VERSION_BY_CODE[set_code].get("nameZh")
             new_row["setNameEn"] = VERSION_BY_CODE[set_code].get("nameEn")
@@ -144,19 +141,20 @@ def enrich_tournaments():
 
         out.append(new_row)
 
-    # 備份原本 tournaments.json
+    # 备份原文件
     backup_file = BASE_DIR / "tournaments.backup.json"
     if TOURNAMENTS_FILE.exists():
         backup_file.write_text(
             TOURNAMENTS_FILE.read_text(encoding="utf-8"),
             encoding="utf-8"
         )
-        print(f"backup created: {backup_file}")
+        print(f"📝 已备份原文件: {backup_file}")
 
+    # 写入更新后的数据
     with TOURNAMENTS_FILE.open("w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"done: updated {len(out)} tournaments -> {TOURNAMENTS_FILE}")
+    print(f"✅ 完成更新：共处理 {len(out)} 条赛事数据 → {TOURNAMENTS_FILE}")
 
 
 if __name__ == "__main__":
